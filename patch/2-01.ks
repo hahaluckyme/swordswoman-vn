@@ -1,5 +1,5 @@
 
-*scene2-01|Chapter 2: Human-snatching Oni
+*scene2-01|Chapter 2: Human-Snatching Oni
 [eval exp="f.chaptertitle='Nightmare'"]
 
 [BgSet storage="chapter02"]
@@ -101,7 +101,7 @@
 「[v]Ah... Aah, that... was a dream...? W-What an awful nightmare...[/v]」[KeyWait]
 [FaceOff]
 
-[text]Yume had assaulted by an oni, but I was totally unable to move and could do nothing but watch.[KeyWait]
+[text]Yume had been assaulted by an oni, but I was totally unable to move and could do nothing but watch.[KeyWait]
 [text]Last night, I'd gotten totally engrossed in masturbating in my female body and kept climaxing until I passed out.[KeyWait]
 [text]Even though I was both mentally and physically exhausted, I ended up waking up due to the weird dream I had.[KeyWait]
 
@@ -144,7 +144,7 @@
 [Face storage="f_a901"]
 [Voice storage="a0200" buf=2]
 【Ryou】[CR]
-（[v]Just like the person from the main family said, I stopped being the Oni-cutting Princess after Yume was no longer in danger![/v]）[KeyWait]
+（[v]Just like the main family told me, I stopped being the Oni-Cutting Princess after Yume was no longer in danger![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a901"]
@@ -332,7 +332,7 @@
 [FaceOff]
 
 [text]I had a complex about my face lacking manliness.[KeyWait]
-[text]That's why I didn't want the girl I liked to find out when my body changed, and why I asked my aunt and uncle to not tell Yume about the whole "Oni-cutting Princess" thing.[KeyWait]
+[text]That's why I didn't want the girl I liked to find out when my body changed, and why I asked my aunt and uncle to not tell Yume about the whole "Oni-Cutting Princess" thing.[KeyWait]
 
 [Face storage="f_a901"]
 [Voice storage="a0217" buf=2]

@@ -1,394 +1,23 @@
+;■
+;■　回想
+;■
 
-*scene2-04|
-[eval exp="f.chaptertitle='In the Infirmary'"]
+[eval exp="f.chaptertitle='Attacked in the Infirmary'"]
 
-;背景：保健室　昼
-[BgSet storage="bg070"]
-[UpDate]
+;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
-;ＢＧＭ：日常
-[playbgm storage="bgm002"]
+[HSceneStart]
 
-;場所：保健室
-;時間：朝
-;服装：男子体操着
-
-[text]I felt the faint odor of disinfectant enter my nostrils.[KeyWait]
-[text]After resting and catching my breath on a bed in the nurse's office, my sensitive skin had mostly returned to normal.[KeyWait]
-
-[Face storage="f_a912"]
-[Voice storage="a0257" buf=2]
-【Ryou】[CR]
-（[v]It felt kind of like when I had a girl's body last night... My body hasn't actually changed, though...[/v]）[KeyWait]
-[FaceOff]
-
-[text]I thought that maybe I'd turned back into a girl, but I checked and found that I still had my dick.[KeyWait]
-
-[Face storage="f_a903"]
-[Voice storage="a0258" buf=2]
-【Ryou】[CR]
-「[v]I wasn't lying when I said I didn't get much sleep last night, though...[/v]」[KeyWait]
-[FaceOff]
-
-[text]After staying up masturbating all night in my female body, I was unbearably tired.[KeyWait]
-
-[Face storage="f_a909"]
-[Voice storage="a0259" buf=2]
-【Ryou】[CR]
-（[v]It sure felt... really good... Guys' bodies just can't compare... Everything was totally different...[/v]）[KeyWait]
-[FaceOff]
-
-[text]I could still remember the sensation clearly. It didn't take long for me to get an erection as I thought back on how it felt.[KeyWait]
-
-[Face storage="f_a912"]
-[Voice storage="a0260" buf=2]
-【Ryou】[CR]
-（[v]But anyway, maybe having turned into a girl is having an effect on me when I'm a guy, too? The feeling I got earlier was kind of similar, after all...[/v]）[KeyWait]
-[FaceOff]
-
-[Face storage="f_a921"]
-[Voice storage="a0261" buf=2]
-【Ryou】[CR]
-（[v]This sucks... If things are going to be like this, I... I won't be able to roughhouse or anything anymore...[/v]）[KeyWait]
-[FaceOff]
-
-;黒画面
-[BgSet storage="_black"]
-[UpDate]
-
-[text]As I worried to myself, I shut my eyes atop the bed, and sleepiness rushed over me.[KeyWait]
-[text]I spaced out while listening to the distant voices of the students outside.[KeyWait]
-
-[Sound storage="se518" buf=0]
-;背景：保健室　昼
-[BgSet storage="bg070"]
-[UpDate]
-
-[text]As my mind gradually drifted deeper and deeper into a nap, I was suddenly awoken by the door to the nurse's office slamming open.[KeyWait]
-
-[Face storage="f_c004"]
-[Voice storage="c0008" buf=2]
-【Kimino】[CR]
-「[v]You okay? You gotta watch where you're going.[/v]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_b004"]
-[Voice storage="b0027" buf=2]
-【Yume】[CR]
-「[v]Yeah, thanks, Kimino-chan...[/v]」[KeyWait]
-[FaceOff]
-
-[text]Kimino entered the room with Yume in tow.[KeyWait]
-
-[Face storage="f_a914"]
-[Voice storage="a0262" buf=2]
-【Ryou】[CR]
-「[v]Yume! What happened, did you fall!?[/v]」[KeyWait]
-[FaceOff]
-
-[Sound storage="se651" buf=1]
-[ChrSet1 storage="b_c023"]
-[ChrSet2 storage="b_b024"]
-[UpDate]
-
-[text]Surprised, I opened the curtain around my bed to see Kimino helping Yume get into the adjacent one.[KeyWait]
-
-[Face storage="f_b004"]
-[Voice storage="b0028" buf=2]
-【Yume】[CR]
-「[v]Huh? Ryou-chan? What's the matter? Are you feeling sick? You should be lying down...[/v]」[KeyWait]
-[FaceOff]
-
-[text]Something about her voice didn't sound very lively. Yet, she was still worried about me, and trying to get up even though she'd just gotten into bed.[KeyWait]
-
-[Face storage="f_c004"]
-[Voice storage="c0009" buf=2]
-【Kimino】[CR]
-「[v]You're the one that needs to be lying down! Come on![/v]」[KeyWait]
-[FaceOff]
-
-[text]But she was immediately pushed back down by Kimino.[KeyWait]
-
-[Face storage="f_c004"]
-[Voice storage="c0010" buf=2]
-【Kimino】[CR]
-「[v]Yume over here collapsed as soon as she started running.[/v]」[KeyWait]
-[FaceOff]
-
-[ChrSet2 storage="b_b026"]
-[UpDate]
-
-[Face storage="f_b025"]
-[Voice storage="b0029" buf=2]
-【Yume】[CR]
-「[v]I just kind of lost my strength all of a sudden... Ah, but I'm not in pain or anything, so I'm totally okay...[/v]」[KeyWait]
-[FaceOff]
-
-[ChrReset2]
-[UpDate]
-
-[Face storage="f_c004"]
-[Voice storage="c0011" buf=2]
-【Kimino】[CR]
-「[v]Are you sleeping properly? Wait, this is [ita]you[endita] we're talking about. I called you at nine last night and you didn't answer because you were asleep, so... Wait, whoa, you're sleeping already...[/v]」[KeyWait]
-[FaceOff]
-
-[text]Even though she'd been talking just a moment prior, Yume had fallen right asleep while Kimino was speaking to her.[KeyWait]
-
-;[if exp="kag.skipMode!=4 && sf.effectAnime==1"]
-;	[move layer=1 path=(0,0,255) time=2000]
-;[else]
-;	[ChrSet1 storage="b_c023" pos=c]
-;	[UpDate]
-;[endif]
-
-[Face storage="f_a913"]
-[Voice storage="a0263" buf=2]
-【Ryou】[CR]
-「[v]Once she falls asleep, she won't get up for much of anything, huh.[/v]」[KeyWait]
-[FaceOff]
-
-[text]I figured it probably had something to do with what happened last night, but I couldn't tell Kimino that.[KeyWait]
-
-[ChrSet1 storage="b_c021"]
-[UpDate]
-
-[Face storage="f_c005"]
-[Voice storage="c0012" buf=2]
-【Kimino】[CR]
-「[v]But, she's never dozed off in class or anything before. She's a weird one...[/v]」[KeyWait]
-[FaceOff]
-
-[text]Kimino's face made it look like she was head over heels for how cute Yume was.[KeyWait]
-
-[Face storage="f_c005"]
-[Voice storage="c0013" buf=2]
-【Kimino】[CR]
-「[v]Welp, I've had enough of being run around this early in the morning. Since I'm here, I think I'm just gonna skip class, too.[/v]」[KeyWait]
-[FaceOff]
-
-[Sound storage="se567" buf=0]
-
-[ChrReset1]
-;[UpDate]
-[ChrSet0 storage="b_c021l" pos=c]
-[UpDate]
-
-[text]Kimino sat on the bed I was resting in.[KeyWait]
-
-[Face storage="f_a922"]
-[Voice storage="a0264" buf=2]
-【Ryou】[CR]
-「[v]Hey... I'd kind of like to sleep, you know...[/v]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_c001"]
-[Voice storage="c0014" buf=2]
-【Kimino】[CR]
-「[v]Go ahead, by all means. You can just ignore me and sleep, can't you?[/v]」[KeyWait]
-[FaceOff]
-
-[text]She relaxed on the bed, sitting far enough on it to practically push me off.[KeyWait]
-
-[Face storage="f_a923"]
-[Voice storage="a0265" buf=2]
-【Ryou】[CR]
-（[v]Ugh, Kimino... She really doesn't see me as a guy...[/v]）[KeyWait]
-[FaceOff]
-
-[text]With her firm legs and her gym-uniformed butt in front of me, I was having trouble deciding where to keep my eyes.[KeyWait]
-
-[Face storage="f_a917"]
-[Voice storage="a0266" buf=2]
-【Ryou】[CR]
-（[v]When we were younger, she made fun of my girlish face and called me Ryou-chan... After I got mad at her for real, she stopped, but...[/v]）[KeyWait]
-[FaceOff]
-
-[text]Kimino turned toward me with a playful expression that reminded me of our childhood.[KeyWait]
-[text]I always had to be careful when she made this face.[KeyWait]
-
-[Face storage="f_c003"]
-[Voice storage="c0015" buf=2]
-【Kimino】[CR]
-「[v]How about I let you use my lap as a pillow? Or maybe Yume's boobs would help you sleep better? ♪[/v]」[KeyWait]
-[FaceOff]
-
-[text]She got on the bed completely, then presented her lap to me.[KeyWait]
-
-[Face storage="f_a922"]
-[Voice storage="a0267" buf=2]
-【Ryou】[CR]
-「[v]Wha!?[/v]」[KeyWait]
-[FaceOff]
-
-[text]I was sure she was trying to get a rise out of me.[KeyWait]
-
-[Face storage="f_a922"]
-[Voice storage="a0268" buf=2]
-【Ryou】[CR]
-「[v]Well... Actually, yeah... But...[/v]」[KeyWait]
-[FaceOff]
-
-[text]Having her always toy with me was pissing me off.[KeyWait]
-
-[Face storage="f_a925"]
-[Voice storage="a0269" buf=2]
-【Ryou】[CR]
-「[v]Yeah, you're right. Okay, I guess I'll let you spoil me today. Wake me up when break time comes, okay?[/v]」[KeyWait]
-[FaceOff]
-
-[text]My heart pounding on the inside, I went for it and put my head atop her legs.[KeyWait]
-
-;ＢＧＭ：Ｈ２
-;[playbgm storage="bgm012"]
-[BgmExChange storage="bgm012" loop=true time="2000" overlap="2000"]
-
-[ChrSet0 storage="b_c023l" pos=c]
-[UpDate]
-
-[Face storage="f_c006"]
-[Voice storage="c0016" buf=2]
-【Kimino】[CR]
-「[v]Hya! R-Ryou![/v]」[KeyWait]
-[FaceOff]
-
-[text]I figured since her legs were so well-toned through swimming, they'd feel stiff and muscled, but they were plenty soft and comfortable.[KeyWait]
-[text]Just as expected, my unexpected action had gotten Kimino flustered.[KeyWait]
-[text]However...[KeyWait]
-
-[Face storage="f_a915"]
-[Voice storage="a0270" buf=2]
-【Ryou】[CR]
-（[v]C-Crap... I turned my head the wrong way... T-This isn't good...[/v]）[KeyWait]
-[FaceOff]
-
-[text]I should have positioned the back of my head toward her, but I'd done the opposite.[KeyWait]
-[text]Before my eyes, I could see a bit of my childhood friend's belly peeking out from underneath her gym clothes.[KeyWait]
-[text]Furthermore, the faint smell of sweat from gym class was mixing with the trademark smell any girl has, and was drifting out to my nose. She felt so warm, too.[KeyWait]
-
-[Face storage="f_a915"]
-[Voice storage="a0271" buf=2]
-【Ryou】[CR]
-（[v]Ah, her... her crotch... It's right there... C-Crap... T-This is bad...[/v]）[KeyWait]
-[FaceOff]
-
-[Face storage="f_a915"]
-[Voice storage="a0272" buf=2]
-【Ryou】[CR]
-（[v]Hasn't she realized? My face is so close to her crotch...[/v]）[KeyWait]
-[FaceOff]
-
-[text]In other words, if I flipped my head over in a panic now, she'd notice.[KeyWait]
-[text]I'd planned on making her panic, but it ended up backfiring and getting me worked up. I shouldn't have pushed myself to do something outside of my comfort zone. instead.[KeyWait]
-[text]I froze up, wondering what to do, and then...[KeyWait]
-
-[Face storage="f_c004"]
-[Voice storage="c0017" buf=2]
-【Kimino】[CR]
-「[v]O-Okay... I'll... wake you up when the bell rings...[/v]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_a910"]
-[Voice storage="a0273" buf=2]
-【Ryou】[CR]
-「[v]Huh? K-Kimino...?[/v]」[KeyWait]
-[FaceOff]
-
-[text]I was taken aback at her response.[KeyWait]
-
-[Face storage="f_c004"]
-[Voice storage="c0018" buf=2]
-【Kimino】[CR]
-「[v]H-Hey, Ryou... Does it feel good...? Resting on my lap... Which of us is more comfortable, me... or Yume...?[/v]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_a916"]
-[Voice storage="a0274" buf=2]
-【Ryou】[CR]
-（[v]What the heck, she sounds so cute... She's acting totally different from normal...[/v]）[KeyWait]
-[FaceOff]
-
-[Face storage="f_a910"]
-[Voice storage="a0275" buf=2]
-【Ryou】[CR]
-（[v]But she's trying to trick me, right...? If I answer straight, she'll go back to normal and make fun of me, right...?[/v]）[KeyWait]
-[FaceOff]
-
-[text]If I said I preferred Yume, she'd probably respond with "You don't like my lap pillow!?", and if I told her I preferred her, she'd definitely say "Oh? I'm gonna tell Yume!".[KeyWait]
-
-[Face storage="f_a915"]
-[Voice storage="a0276" buf=2]
-【Ryou】[CR]
-（[v]...Wait a second, in the first place, I've never even [ita]used[endita] Yume's lap as a pillow before![/v]）[KeyWait]
-[FaceOff]
-
-[Face storage="f_a910"]
-[Voice storage="a0277" buf=2]
-【Ryou】[CR]
-（[v]How should I respond... Hmm... This isn't looking good...[/v]）[KeyWait]
-[FaceOff]
-
-[Face storage="f_c004"]
-[Voice storage="c0019" buf=2]
-【Kimino】[CR]
-「[v]Hey... Come on, answer me... I-I'm giving you a lap pillow, I deserve that much...[/v]」[KeyWait]
-[FaceOff]
-
-[text]Kimino stammered as she urged me on.[KeyWait]
-
-[Face storage="f_a910"]
-[Voice storage="a0278" buf=2]
-【Ryou】[CR]
-「[v]Y-Yeah... Your lap feels nice, Kimino...![/v]」[KeyWait]
-[FaceOff]
-
-[text]I didn't know how Yume's lap felt, so I answered the only way I could.[KeyWait]
-
-[Face storage="f_a911"]
-[Voice storage="a0279" buf=2]
-【Ryou】[CR]
-（[v]Come on, Kimino! Bring up Yume and make fun of me, then![/v]）[KeyWait]
-[FaceOff]
-
-[text]Then I could pretend to get mad and get off of her lap and away from her point-blank crotch, freeing myself from this awkward situation.[KeyWait]
-[text]However...[KeyWait]
-
-[BgmFadeOut time=1000]
-
-;黒画面
-[BgSet storage="_black"]
-[UpDate]
-
-[Face storage="f_c011"]
-[Voice storage="c0020" buf=2]
-【Kimino】[CR]
-「[v]I see... In that case, I'll twist your neck off...[/v]」[KeyWait]
-[FaceOff]
 
 ;ＢＧＭ：ピンチ
 [playbgm storage="bgm007"]
-
-;希美乃が鬼に変化します。音声を加工して使用。
-[Voice storage="c0021" buf=2]
-【Oni】[CR]
-「[v]So it can stay on my lap forever![/v]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_a904"]
-[Voice storage="a0280" buf=2]
-【Ryou】[CR]
-「[v]Huh!? Kimino!? Gwaaah! L-Let go... That hurts![/v]」[KeyWait]
-[FaceOff]
-
-[text]I felt a splitting pain as my head was grabbed forcefully.[KeyWait]
-[text]I managed to move my eyes and look up at Kimino.[KeyWait]
 
 ;背景：保健室　昼
 [BgSet storage="bg070"]
 [ChrSet0 storage="b_r201l"]
 [UpDate]
 
-[eval exp="f.chaptertitle='K-Kimino Turned Into an Oni!?'"]
+[WindowOn]
 
 [Face storage="f_a904"]
 [Voice storage="a0281" buf=2]
@@ -1371,6 +1000,34 @@
 [text]I mustered all of my body's strength and called out for the Oni-Cutting Blade.[KeyWait]
 
 
-[jump storage="2-05.ks" cond="f.２章バッド==0"]
-[jump storage="2-06.ks"]
+[if exp="sf.kaisouOpenFlag['03']==1"]
+	[jump storage="h-03.ks" target="*continue"]
+[endif]
+
+
+;回想終了　――――――――――――――――――――――――――――――――――――――――――――
+
+[BgmFadeOut time="2000"]
+[SoundAllOut time=2000]
+
+[BgSet storage="_black"]
+[Update]
+
+[text].........[KeyWait]
+[text]......[KeyWait]
+[text]...[KeyWait]
+
+[scenarioend]
+[cancelskip]
+
+[HSceneEnd]
+
+[WindowOff time=1000]
+
+[wait time=1000 cond="kag.skipMode!=4"]
+[SoundAllStop]
+[eval exp="kag.skipMode=0"]
+
+
+[return]
 

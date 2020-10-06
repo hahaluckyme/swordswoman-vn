@@ -181,11 +181,9 @@
 *omake
 [er]
 
-[if exp="sf.extraModeOpenFlag==0 || debugMode==1"]
-	[locate x=875 y=548][button special=true clickse=sys_decide graphic=title_cgMode  rightclick=*modoru target=*cgMode]
-	[locate x=875 y=588][button special=true clickse=sys_decide graphic=title_kaisou  rightclick=*modoru target=*kaisou]
-	[locate x=875 y=628][button special=true clickse=sys_decide graphic=title_bgmMode rightclick=*modoru target=*bgmMode]
-[endif]
+[locate x=875 y=548][button special=true clickse=sys_decide graphic=title_cgMode  rightclick=*modoru target=*cgMode]
+[locate x=875 y=588][button special=true clickse=sys_decide graphic=title_kaisou  rightclick=*modoru target=*kaisou]
+[locate x=875 y=628][button special=true clickse=sys_decide graphic=title_bgmMode rightclick=*modoru target=*bgmMode]
 [locate x=875 y=668][button special=true clickse=sys_decide graphic=title_modoru target=*modoru rightclick=*modoru]
 
 [DisableClick]

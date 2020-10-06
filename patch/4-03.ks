@@ -1,6 +1,6 @@
 
 *scene4-03|
-[eval exp="f.chaptertitle='Pool-opening Event'"]
+[eval exp="f.chaptertitle='Pool-Opening Event'"]
 
 ;場所：プールサイド
 ;時間：放課後

@@ -12,13 +12,13 @@
 
 [Face storage="f_b009"]
 [Voice storage="b0030" buf=2]
-【結女】[CR]
-「[v]あ……れ……？　夢で、私を助けてくれた……、カッコイイ人だぁ……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Huh...? You're... the cool girl who saved me... in my dream...[/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクの叫びに呼び起こされるように、結女が目を覚ました。[KeyWait]
-[text]のろのろと身を起こし、寝ぼけ眼でこちらを見る。[KeyWait]
-[text]女になったボクの姿に、柔らかな笑みを浮かべた。その途端―――。[KeyWait]
+[text]Yume woke up, almost as if my shout had stirred her.[KeyWait]
+[text]She lazily sat up and looked at me with sleepy eyes.[KeyWait]
+[text]She gave a gentle smile when she saw my female body. And just then-[KeyWait]
 
 ;ＢＧＭ：逆転
 ;[playbgm storage="bgm008"]
@@ -26,411 +26,411 @@
 
 [Face storage="f_a007"]
 [Voice storage="a0370" buf=2]
-【遼】[CR]
-（[v]うわっ、急にっ、全身に力がっ！[/v]）[KeyWait]
+【Ryou】[CR]
+（[v]Whoa, I suddenly feel power in my whole body![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a0371" buf=2]
-【遼】[CR]
-「[v]お、あ、あぁあああっ！！　す、すご……いっ！　はっ！！　ああぁああぁっ！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Oh, a-aaaaah! W-Wow...! Hah! Aaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se011" buf=0]
 
-[text]女の快楽に翻弄され、絶頂に萎え果てた身体へと錬気の奔流が、結女の覚醒と共に注ぎ込まれる。[KeyWait]
-[text]手の中に、刀身を赤く染めた太刀のズッシリとした重みが生じた。[KeyWait]
+[text]Right as Yume woke up, a torrent of Renki rushed into my female body, which was exhausted from being tormented with so much pleasure.[KeyWait]
+[text]I felt the weight of the red-bladed sword appear in my hand.[KeyWait]
 
 [Sound storage="se219" buf=1]
 
 [ChrSet0 storage="b_a231"]
 [UpDate]
 
-[text]その柄をしっかりと握り、上段に構える。[KeyWait]
+[text]I gripped Zanshou's hilt tightly and held it above my head.[KeyWait]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]なにっ！？　しかし、いまさらそんな刀一本手にした程度で、俺様をどうにか出来ると思っているのか！！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]W-What!? Do you really think you can take me just because you've got that sword now!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]結女に襲いかかる寸前だった鬼が振り返り、飛びかかってきた。[KeyWait]
-[text]体格で圧倒的に勝る上に動きも並外れて速い。[KeyWait]
-[text]けれどその動きが、斬鐘を手にしたボクには緩慢に見えた。[KeyWait]
+[text]The oni stopped right before attacking Yume, then turned around and charged me.[KeyWait]
+[text]He had the advantage when it came to muscle, and he was abnormally quick, too.[KeyWait]
+[text]But with Zanshou in my hands, his movements looked sluggish.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a0372" buf=2]
-【遼】[CR]
-「[v]はぁッ！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Haah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se312" buf=0]
 [ChrReset0]
 [UpDate]
 
-[text]全力で叩き付けられる鋭い爪をかわし、軽々と鬼を飛び越える。[KeyWait]
+[text]I dodged the sharp-clawed fist that tried to punch me and leapt over the oni with ease.[KeyWait]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]ぐおっ！？[/i]」[KeyWait]
+【Oni】[CR]
+「[i]Gwoh!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]鬼との間に割って入るように結女のベッドの傍らに着地し、背後に彼女を庇う。[KeyWait]
+[text]I landed next to to Yume's bed, now standing between her and the oni so I could keep her safe behind me.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0373" buf=2]
-【遼】[CR]
-「[v]結女っ！　危ないから、保健室の外にっ！！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Yume! It's dangerous in here, get outside![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b004"]
 [Voice storage="b0031" buf=2]
-【結女】[CR]
-「[v]う、うんっ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]O-Okay![/v]」[KeyWait]
 [FaceOff]
 
-[text]慌てて結女が退出しようと、ベッドから降りる。だが、[KeyWait]
+[text]Yume hurriedly got off the bed so she could leave, but-[KeyWait]
 
 [ChrSet0 storage="b_r201l"]
 [UpDate]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]逃すかぁああっ！　俺様の、獲物ぉおおぉっ！！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]As if I'll let you! You're my preeeeey![/i]」[KeyWait]
 [FaceOff]
 
-[text]彼女に話しかけたほんの一瞬の隙を突いて、鬼が再び襲いかかってきた。[KeyWait]
-[text]大振りの攻撃はやめて、素早く的確に爪を突き込んできた。[KeyWait]
+[text]The oni took the brief moment where I spoke to Yume as an opportunity and charged me once again.[KeyWait]
+[text]This time, it held off from doing a big, slow attack and thrust its sharp claws at me quickly and precisely.[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a0374" buf=2]
-【遼】[CR]
-「[v]くうッ！！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Kuuh![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se259" buf=0]
 
-[text]ガギィイイインンッ！[KeyWait]
+[text]Clang![KeyWait]
 
-[text]今度は避けきれず、刃でその攻撃を受け止めた。[KeyWait]
+[text]This time, I was unable to dodge the attack and instead blocked it with my sword.[KeyWait]
 
 [Face storage="f_a030"]
 [Voice storage="a0375" buf=2]
-【遼】[CR]
-「[v]うわぁああああぁッ！！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Uwaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]重い衝撃に、体勢を整えきれてない身体が弾かれた。[KeyWait]
+[text]I wasn't fully prepared for such a powerful blow, and I ended up getting sent flying.[KeyWait]
 
 [Sound storage="se624" buf=1]
 [QuakeScreen time=1000 vmax=10 hmax=10]
 
-[text]グワッャ――――ンッ！[KeyWait]
+[text]Crash![KeyWait]
 
-[text]背後のベッドごと、出入り口付近の壁に叩き付けられる。[KeyWait]
-[text]それでも錬気で身体が強化されているのだろう、ダメージはないに等しい。けれど、[KeyWait]
+[text]Both the bed and I collided with the wall near the room's exit.[KeyWait]
+[text]But perhaps due to my body being strengthened with Renki, I barely took any damage. However-[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a0376" buf=2]
-【遼】[CR]
-「[v]ゆ、結女ッ！？[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Y-Yume!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]丁度外に出ようとしていた結女を巻き込んでしまったのではと焦る。[KeyWait]
+[text]I panicked for a moment, wondering if Yume had gotten caught up in the attack as she was trying to leave the room.[KeyWait]
 
 [Face storage="f_b004"]
 [Voice storage="b0032" buf=2]
-【結女】[CR]
-「[v]だ……大丈夫……。ああ、びっくりした……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]I... I'm okay... Aah, that scared me...[/v]」[KeyWait]
 [FaceOff]
 
-[text]弾け飛んだベッドがぶつかる寸前に、結女は何もないところで勝手につまずいて転んでしまい、直撃をかわしていた。[KeyWait]
+[text]By chance, Yume had tripped and avoided a direct hit from the flying bed.[KeyWait]
 
 [Face storage="f_a034"]
 [Voice storage="a0377" buf=2]
-【遼】[CR]
-（[v]まったく……運がいいんだか悪いんだか……[/v]）[KeyWait]
+【Ryou】[CR]
+（[v]Geez... I don't know if she's got good luck or bad luck...[/v]）[KeyWait]
 [FaceOff]
 
-[text]ホッと胸を撫で下ろしたけれど状況は悪い。[KeyWait]
-[text]結女に当たりはしなかったがベッドのパイプはぐにゃぐにゃにへし曲がり、入り口を塞ぐ形でドアノブに引っかかっていた。[KeyWait]
+[text]I was relieved, but still in a sticky situation.[KeyWait]
+[text]The bed hadn't hit Yume, but its frame was bent and tangled around the doorknob, sealing us in the room.[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a0378" buf=2]
-【遼】[CR]
-（[v]鬼……倒さなくちゃ！　で、でも……、こいつ、希美乃の身体をっ！[/v]）[KeyWait]
+【Ryou】[CR]
+（[v]I... have to defeat the oni! B-But... He's taken over Kimino's body![/v]）[KeyWait]
 [FaceOff]
 
-[text]昨晩結女を襲った鬼は、斬鐘に斬られると跡形もなく消え失せた。[KeyWait]
+[text]The oni from last night had disappeared without a trace after I cut him with Zanshou.[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a0379" buf=2]
-【遼】[CR]
-（[v]この鬼を斬ったら、希美乃の身体もああなっちゃうのか？　そ、そんなの……だめだっ！！[/v]）[KeyWait]
+【Ryou】[CR]
+（[v]Will Kimino's body disappear like before if I cut this oni? T-That... No, I can't![/v]）[KeyWait]
 [FaceOff]
 
-[text]結女を助けたいのは当然だが、希美乃を犠牲にするなんて絶対にいやだ。[KeyWait]
+[text]I obviously wanted to save Yume, but I also absolutely didn't want to sacrifice Kimino to do so.[KeyWait]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]やはりその程度か、鬼斬姫っ！！　ごぁああああああぁッ！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]So that really [ita]is[endita] all you've got, Oni-Cutting Princess! Gwoaaaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]力負けしたボクを容易いと見て、鬼が調子づく。[KeyWait]
-[text]鋭い爪を振り上げ、牙を剥き出して躍りかかってきた。[KeyWait]
+[text]Seeing that it had beaten me in a display of strength, the oni got riled up.[KeyWait]
+[text]It raised its sharp claws and danced toward me, baring its fangs.[KeyWait]
 
-[text]斬鐘をしっかりと握り締め、鬼を迎え撃つ。[KeyWait]
+[text]I gripped Zanshou tight and struck back.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0380" buf=2]
-【遼】[CR]
-「[v]はぁああああっ！　せいっ！！　やあああっ！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Haaaaaah! Take this! Yaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]ごぁああああっ！！　ふんっ！　くたばれぇええッ！！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]Gwoaaaaah! Hmph! Drop deaaaaad![/i]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se261" buf=0]
 
-[text]ギィンッ！！　ガギッ！　ガシュッ！！　ゴギンッ！[KeyWait]
+[text]Clang! Clunk! Cling! Clash![KeyWait]
 
-[text]保健室内を目まぐるしく飛び回りながら、ボクの刃と鬼の爪が火花散らして幾度もぶつかり合う。[KeyWait]
+[text]We jumped around the nurse's office with blinding speed as we clashed together repeatedly, making sparks fly everywhere whenever we'd meet.[KeyWait]
 
-[text]無闇に斬りかかれば希美乃ごと倒してしまうため、どうしても受けに回ってしまう。[KeyWait]
-[text]しかし防御に専念しているため、いまのところ鬼の攻撃にはかすり傷一つ付けられていない。[KeyWait]
+[text]If I attacked without discretion, I'd hurt Kimino, so I focused on intercepting the oni's attacks.[KeyWait]
+[text]But thanks to focusing on defending, I had still yet to take a single scratch from the oni.[KeyWait]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]ふん、粘りやがるな、鬼斬姫！　しかしいつまでもつかな！？[/i]」[KeyWait]
+【Oni】[CR]
+「[i]Hmph, you're stubborn, Oni-Cutting Princess! But how long can you keep this up for!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]ますます鬼の攻撃が重さを増して、ボクの体力を奪いに来る。[KeyWait]
+[text]The oni was gradually making his attacks stronger to wear down my stamina.[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a0381" buf=2]
-【遼】[CR]
-（[v]くそっ。一気に片を付けられれば……。ああ、でも……[/v]）[KeyWait]
+【Ryou】[CR]
+（[v]Shit, if I could just finish this all at once... Aah, but...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]くくくっ！　もうへたばったか？　鬼斬姫ッ。降参して俺様の下僕になれ！　そうすれば、鬼慰姫と共に、俺様の錬気タンク兼肉便器として飼ってやってもいいぜ！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]Kukuku! Tired already? Surrender and become my underling! If you do, I'll gladly keep both you and the Oni-Pleasing Princess as my Renki tank and personal fuckhole![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a029"]
 [Voice storage="a0382" buf=2]
-【遼】[CR]
-（[v]どうする？　どうやれば？　どうしたら、希美乃を元に戻せるんだ！？[/v]）[KeyWait]
+【Ryou】[CR]
+（[v]What do I do? How can I return Kimino to normal!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]薄笑いを浮かべる鬼に切っ先を向けながら戸惑う。[KeyWait]
-[text]縋るように念じながら斬鐘の柄を握り締めた。[KeyWait]
+[text]I hesitated as I my blade toward the grinning oni.[KeyWait]
+[text]I gripped Zanshou's hilt tight, almost like I was asking it for the answer.[KeyWait]
 
 [Face storage="f_b008"]
 [Voice storage="b0033" buf=2]
-【結女】[CR]
-「[v]大丈……夫……。出来る、から……。戦っ……て…………[/v]」[KeyWait]
+【Yume】[CR]
+「[v]It's... okay... You can... do it... Fight...[/v]」[KeyWait]
 [FaceOff]
 
-[text]背後で物陰に避難していた結女がガクンとうなだれた。[KeyWait]
-[text]彼女であって彼女でないような、途切れ途切れの声を朦朧とした表情で呟く。[KeyWait]
+[text]I looked toward Yume, who was hiding behind me. She had her head hanging down.[KeyWait]
+[text]She wore a blank expression on her face as she mumbled, kind of like she wasn't herself.[KeyWait]
 
 [Face storage="f_b008"]
 [Voice storage="b0034" buf=2]
-【結女】[CR]
-「[v]……………………[/v]」[KeyWait]
+【Yume】[CR]
+「[v].........[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a026"]
 [Voice storage="a0383" buf=2]
-【遼】[CR]
-「[v]えっ！！　う、あ……、あぁあああああぁッ！！！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Huh!? Uuh, ah... Aaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se011" buf=1]
 
-[text]その途端、淡い桜色に輝く錬気の奔流が、へたり込んだ結女の身体から溢れ出し、鬼斬りの太刀を通じてボクの中へ流れ込んできた。[KeyWait]
+[text]Suddenly, a faint, pink trail of Renki flowed out of Yume's collapsed body, then traveled through the Oni-Cutting Blade and into me.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a0384" buf=2]
-【遼】[CR]
-（[v]身体中に、ますます力がっ！　あうっ、すごい……。破裂、しちゃいそうだよ！！[/v]）[KeyWait]
+【Ryou】[CR]
+（[v]I feel my body's power growing! Auh, wow... It's like I'm gonna burst![/v]）[KeyWait]
 [FaceOff]
 
-[text]しかし苦痛なわけではない。むしろいてもたってもいられないような高揚感に心が躍った。[KeyWait]
-[text]それと共に―――。[KeyWait]
+[text]But it wasn't as if it hurt. In fact, my heart aflutter with an excitement that I felt like I had to do something with.[KeyWait]
+[text]And along with it-[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a0385" buf=2]
-【遼】[CR]
-（[v]これ……、昨日と、同じっ！　いや、もっと……多くの、知識が……ッ。鬼との戦い方が、ボクの中にっ！！[/v]）[KeyWait]
+【Ryou】[CR]
+（[v]Hey... This knowledge! It's just like yesterday! No, there's even more... I know how to fight oni![/v]）[KeyWait]
 [FaceOff]
 
-[text]突然手の中に現れた鬼斬りの太刀を初めて握った時には、斬鐘という名と、目の前の鬼を倒すため最小限必要な技術だけが流れ込んできた。[KeyWait]
-[text]しかしいま、ボクの頭、いや鬼斬姫となったこの身体すべてへと、膨大な知識がなだれ込んできている。[KeyWait]
-[text]『鬼慰姫』を求めて襲来する数多くの鬼を斬り[eruby str="斃" text="たお"]してきた、代々の守護者たちの戦法がボクに受け継がれる。[KeyWait]
-[text]そして、いまボクが最も必要とする技法も……。[KeyWait]
+[text]The first time I'd suddenly gripped the Oni-Cutting Blade in my hand, the name Zanshou had flowed into my head, along with the bare minimum amount of technique I'd need to defeat an oni.[KeyWait]
+[text]But now, a wealth of knowledge was inside my head - or rather, inside the entirety of the Oni-Cutting Princess's body.[KeyWait]
+[text]Battle tactics from generations of guardians who slaughtered the oni that went after the Oni-Pleasing Princess had been passed onto me.[KeyWait]
+[text]Along with the technique that I needed the most right now...[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0386" buf=2]
-【遼】[CR]
-「[v]鬼慰姫を喰らわんとする不浄なる[eruby str="鬼族" text="きぞく"]め。我が斬鍾にて滅してくれよう！！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Filthy oni that dares to attempt to eat the Oni-Pleasing Princess... I'll annihilate you with the blade of Zanshou![/v]」[KeyWait]
 [FaceOff]
 
-[text]全身に闘気が溢れて、その代々の鬼斬姫が宿ったかのような凛とした声が弾け出た。[KeyWait]
+[text]Fighting spirit filled my body, and I challenged the oni in a dignified voice that almost sounded like generations of Oni-Cutting Princesses were inside me.[KeyWait]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]ふん、敵わないと見て破れかぶれになったか！！　死にたいならお望み通りにしてやるぜ！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]Hmph, gettin' desperate because you know you can't win!? If you wanna die that badly, then I'll gladly grant your wish![/i]」[KeyWait]
 [FaceOff]
 
-[text]鬼が突撃してくる。[KeyWait]
-[text]速さも威力も、これまでとは桁違いだ―――！[KeyWait]
-[text]なのに、それが止まって見えた。[KeyWait]
+[text]The oni charged at me.[KeyWait]
+[text]His speed and power were totally unlike before...![KeyWait]
+[text]Yet, to me, he looked like he was standing still.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0387" buf=2]
-【遼】[CR]
-「[v]お前が乗り移った希美乃の身体っ、返して貰うっ！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]I'm going to have you give back Kimino's body![/v]」[KeyWait]
 [FaceOff]
 
-[text]太刀を顔の横に引きつけ、腰を落として切っ先を鬼に向ける。[KeyWait]
+[text]I pulled my sword up next to my face, then lowered my hips and pointed its blade toward the oni.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a0388" buf=2]
-【遼】[CR]
-「[v]覚悟ッ！　ツェエエエエエイイイイイィ――――――――――ッ！！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Prepare yourself! Haaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]力強い踏み込みに保健室が揺れた。[KeyWait]
-[text]気合いを十分に込め、渾身の突き込みを鬼の胸元へと繰り出す。[KeyWait]
-[text]刃で斬るのではなく、刃に乗せた錬気のみで、鬼の肉体に巣くう禍々しい澱みだけを貫く。[KeyWait]
+[text]The nurse's office shook as I stepped down hard.[KeyWait]
+[text]I focused and drew my body toward the oni's chest.[KeyWait]
+[text]Rather than cutting with the blade itself, I used the Renki stored within it and nothing more and pierced only the wicked impurities that nested within the oni's body.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a0389" buf=2]
-【遼】[CR]
-「[v]ふんっッッ！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Hmph![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se247" buf=0]
 [Flash]
 
-[text]残像が鬼の胸を背まで貫いた時には、すでに真の刃は引き戻していた。[KeyWait]
+[text]By the time my afterimage finished thrusting Zanshou through the oni's chest and out his back, I'd already pulled the real blade back out.[KeyWait]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]がはっ！？　あ、ああああぁ、あぐ……うぁ……っ！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]Gahah!? A-Aaaaah, aguh... Uwah...![/i]」[KeyWait]
 [FaceOff]
 
-[text]鬼の巨体がガクンとよろける。[KeyWait]
+[text]The oni's large body was staggered.[KeyWait]
 
 [ChrSet0 storage="b_r203l"]
 [UpDate]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]ば、ばか、なあぁあああっ！！　からだがぁ、俺様のぉ……に、肉体、がぁああ～～～～～っ！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]N-N-No waaaaaay! My body, m-my... body, gaaaaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]激しく震えるその身体からどす黒い瘴気が溢れかえって、みるみるうちに幼なじみの姿へと戻ってゆく。[KeyWait]
-[text]穿ったはずの胸にはかすり傷一つない。[KeyWait]
+[text]Black miasma poured forth from the oni's body as his body quickly turned back into that of my childhood friend.[KeyWait]
+[text]Though I'd stabbed through his chest, there wasn't even a scratch left behind.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0390" buf=2]
-【遼】[CR]
-「[v]お前の身体などではないっ！　それは、希美乃の身体だっ！！[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]That's not your body! It's Kimino's![/v]」[KeyWait]
 [FaceOff]
 
-[text]渦巻きながら巨鬼の形状を取り戻そうと足掻く瘴気の塊へと、今度は最後まで振り抜く鋭い横薙ぎの一撃を叩き込む。[KeyWait]
+[text]As the swirling cloud of miasma struggled to regain its form as an oni, I delivered a vertical slice with my sharp blade to finish it off.[KeyWait]
 
 ;ＣＧ　はるか太刀構え（立ち絵）
 [Sound storage="se208" buf=0]
 
 [Face storage="f_r002"]
-【鬼】[CR]
-「[i]ぎゃぁああああぁあああぁ――――――ッ！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]Gyaaaaaaaaaaaaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
 [BgmFadeOut time=2000]
 [ChrReset0]
 [UpDate]
 
-[text]その途端、断末魔の悲鳴を迸らせて、鬼の本体であるどす黒い瘴気はのたうちながら消え失せていった。[KeyWait]
+[text]As my blade passed through it, the cloud that had been the oni let out a dying scream and writhed around as it disappeared.[KeyWait]
 
 ;ＢＧＭ：日常
 [playbgm storage="bgm002"]
 
 [Face storage="f_a008"]
 [Voice storage="a0391" buf=2]
-【遼】[CR]
-「[v]ふう…………[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Phew...[/v]」[KeyWait]
 [FaceOff]
 
-[text]それを見届けると、極度の緊張が解けてボクはその場にへたり込みそうになった。[KeyWait]
+[text]After I watched it fade away, I finally let myself come down from my tense state, and practically collapsed there on the spot.[KeyWait]
 
 [Face storage="f_a035"]
 [Voice storage="a0392" buf=2]
-【遼】[CR]
-「[v]っと、希美乃……ッ[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]Oh, right, Kimino...[/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se313" buf=0]
 
-[text]それをどうにか堪えて、倒れてくる希美乃の身体を抱き留めた。[KeyWait]
+[text]I just barely caught Kimino with my tired arms as she fell forward.[KeyWait]
 
 [ChrSet0 storage="b_c025l"]
 [UpDate]
 
 [Face storage="f_c012"]
 [Voice storage="c0007" buf=2]
-【希美乃】[CR]
-「[v]………………[/v]」[KeyWait]
+【Kimino】[CR]
+「[v].........[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a034"]
 [Voice storage="a0393" buf=2]
-【遼】[CR]
-「[v]よ、よかった……無事みたいだ。―――希美乃を傷つけずに、鬼だけを、倒せた……[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]T-Thank goodness... It looks like she's okay. I managed to defeat the oni without hurting her...[/v]」[KeyWait]
 [FaceOff]
 
-[text]気を失っているが、呼吸は穏やかに安定している。その身体を、無事なベッドへそっと寝かせる。[KeyWait]
+[text]She was unconscious, but her breathing was stable and calm. I laid her down on a bed.[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a0394" buf=2]
-【遼】[CR]
-「[v]ゆ、結女は……[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]A-And Yume...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b008"]
 [Voice storage="b0034" buf=2]
-【結女】[CR]
-「[v]……………………[/v]」[KeyWait]
+【Yume】[CR]
+「[v].........[/v]」[KeyWait]
 [FaceOff]
 
-[text]振り返ると彼女もまた、大量の錬気をボクに注ぎ込んだためか、床にうずくまって寝息を立てていた。[KeyWait]
+[text]I turned around and saw that she was sitting on the floor, sleeping, probably because she gave me so much Renki earlier.[KeyWait]
 
 [Face storage="f_a034"]
 [Voice storage="a0395" buf=2]
-【遼】[CR]
-「[v]おかげで、助かったよ。ボクも、希美乃も……[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]You really saved me, Yume. And Kimino, too...[/v]」[KeyWait]
 [FaceOff]
 
 [ChrReset0]
 [UpDate]
 
-[text]抱き上げると彼女の身体も、希美乃が寝ている隣へと横たわらせる。[KeyWait]
+[text]I picked her up and laid her down next to Kimino.[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a0396" buf=2]
-【遼】[CR]
-「[v]保健室……散らかしちゃった……。片付けなくちゃ……。で、でも、もう、限界……かも…………[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]I made a real mess of the nurse's office... I've got to clean up... B-But, I... I might be at my limit here...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a037"]
 [Voice storage="a0397" buf=2]
-【遼】[CR]
-「[v]寝不足だし……、意識集中して、なんだか、すごく……疲れた……。ちょ、ちょっとだけ……眠……らせ……て……[/v]」[KeyWait]
+【Ryou】[CR]
+「[v]I didn't get much sleep, after all... And focusing like that... really tired me out... L-Let me sleep... just a little...[/v]」[KeyWait]
 [FaceOff]
 
 [if exp="kag.skipMode!=4 && sf.effectAnime==1"]
@@ -440,9 +440,9 @@
 	[move page=back layer=5 time=2000 path=(0,0,255) accel=0]
 [endif]
 
-[text]こうしている間にも、疲れと眠気が押し寄せてきて目が開けていられなくなった。[KeyWait]
-[text]結女からたっぷりと錬気を注がれたけれど、高度な戦いは慣れない身体からそれ以上の力を消耗させていたみたいだ。[KeyWait]
-[text]結女と希美乃が横たわるベッドに、ボクも崩れ落ちるように突っ伏して、穏やかな寝息を奏で始めた。[KeyWait]
+[text]I was hit with a strong sleepiness and fatigue, making me unable to keep my eyes open any longer.[KeyWait]
+[text]Yume may have supplied me with plenty of Renki, but my body wasn't used to such difficult combat, so it seemed that I'd used more strength than necessary.[KeyWait]
+[text]I fell forward onto the bed adjacent to the one Yume and Kimino were on and began sleeping peacefully.[KeyWait]
 
 [SoundAllOut time=2000]
 [BgmFadeOut time=2000]
@@ -451,9 +451,9 @@
 [BgSet storage="_black"]
 [UpDate]
 
-[text]………………………………………………[KeyWait]
-[text]………………………………[KeyWait]
-[text]………………[KeyWait]
+[text].........[KeyWait]
+[text]......[KeyWait]
+[text]...[KeyWait]
 
 ;暗転
 

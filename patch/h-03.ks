@@ -1,6 +1,23 @@
+;■
+;■　回想
+;■
 
-*scene2-06|
-[eval exp="f.chaptertitle='E-Even Though I\'m a Guy... It\'s Going In!'"]
+[eval exp="f.chaptertitle='Raped by an Oni'"]
+
+;回想開始　――――――――――――――――――――――――――――――――――――――――――――
+
+;ＢＧＭ：ピンチ
+[playbgm storage="bgm007"]
+
+;背景：保健室　昼
+[BgSet storage="bg070"]
+[ChrSet0 storage="b_r201l"]
+[UpDate]
+
+[WindowOn]
+
+
+*continue
 
 
 ;場所：保健室
@@ -790,23 +807,32 @@
 
 [text]The joy my new female body felt from such amazing pleasure mixed with the regret of not only having been unable to protect my beloved cousin, but having submitted to the oni so easily. As the two feelings blended together, my fatigued mind sank into darkness.[KeyWait]
 
-[HSceneEnd]
 
-[eval exp="sf.kaisouOpenFlag['03']=1"]
 
-[BgmFadeOut time=2000]
+;回想終了　――――――――――――――――――――――――――――――――――――――――――――
+
+[BgmFadeOut time="2000"]
 [SoundAllOut time=2000]
 
-;黒画面
 [BgSet storage="_black"]
-[UpDate]
-
-[ExVoice1Stop]
+[Update]
 
 [text].........[KeyWait]
 [text]......[KeyWait]
 [text]...[KeyWait]
 
+[scenarioend]
+[cancelskip]
+[ExVoice1Stop]
 
-[jump storage="2-07.ks"]
+[HSceneEnd]
+
+[WindowOff time=1000]
+
+[wait time=1000 cond="kag.skipMode!=4"]
+[SoundAllStop]
+[eval exp="kag.skipMode=0"]
+
+
+[return]
 

@@ -1584,7 +1584,7 @@ function getTop(num, pos){
 	[wt]
 
 	[cm][hr]
-	[eval exp="kag.historyLayer.store('――' + f.selectbuf[mp.num] + 'を選択――――')"]
+	[eval exp="kag.historyLayer.store('――' + f.selectbuf[mp.num] + '――――')"]
 	[hr][hr][hr]
 	[current page=fore layer=message1]
 	[eval exp="sf.選択肢[f.選択肢識別子 + ':' + mp.num] = 1"]

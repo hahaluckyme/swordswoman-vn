@@ -16,7 +16,7 @@
 「[v]Sigh... Having to do gym for first period's crazy no matter how you look at it...[/v]」[KeyWait]
 [FaceOff]
 
-[text]I complained to myself after finishing my warmup exercises.[KeyWait]
+[text]I complained to myself after finishing my warm-up exercises.[KeyWait]
 [text]Looking across the school grounds, I saw a bunch of female students booing loudly.[KeyWait]
 
 [Face storage="f_a903"]
@@ -43,7 +43,7 @@
 [Face storage="f_a917"]
 [Voice storage="a0239" buf=2]
 【Ryou】[CR]
-（[v]Hmm, knowing her, I think she'll be able to handle it fine.[KeyWait]
+（[v]Hmm, knowing her, I think she'll be able to handle it fine.[/v]）[KeyWait]
 [FaceOff]
 
 [text]I flashed a "that's what you get" look at the athletic swim club rookie.[KeyWait]
@@ -58,44 +58,44 @@
 [ChrReset0]
 [UpDate]
 
-[text]その隣でブルマの体操着をけしからん具合にムッチリとさせる、おっとりとした癒やし系巨乳従妹とは大違いだ。[KeyWait]
+[text]Next to her was my large-breasted, soothing-to-look-at cousin, who looked all-too erotic in her tight gym clothes.[KeyWait]
 
 [ChrSet0 storage="b_b021"]
 [UpDate]
 
-[text]さっきから男子どものチラ見視線を集めながら、そのことにはさっぱり気付いていない無防備さで、ボクに向けて小さくパタパタと手を振ってくる。[KeyWait]
+[text]Defenseless as always, Yume didn't notice the other boys constantly glancing at her as she looked my way gave me a wave.[KeyWait]
 
 [Face storage="f_a901"]
 [Voice storage="a0241" buf=2]
 【Ryou】[CR]
-（[v]無・理・す・る・な・よ[/v]）[KeyWait]
+（[v]Don't push yourself too hard![/v]）[KeyWait]
 [FaceOff]
 
 [ChrSet0 storage="b_b022"]
 [UpDate]
 
-[text]スポーツ全般大の苦手、普通に歩いていても何もないところでコケる結女に、口の動きだけで伝えると、朗らか笑顔で「うんうん」と頷き返してくる。[KeyWait]
+[text]Knowing that Yume was so bad at physical activities that she could trip on nothing as she walked, I mouthed words of caution to her, and she nodded back with a smile.[KeyWait]
 
 [Face storage="f_a909"]
 [Voice storage="a0242" buf=2]
 【Ryou】[CR]
-（[v]また、たまらなく可愛い笑顔を……[/v]）[KeyWait]
+（[v]Man, her smile's cute like always...[/v]）[KeyWait]
 [FaceOff]
 
 [ChrReset0]
 [UpDate]
 
-[text]問答無用に頬が[eruby str="弛" text="ゆる"]む。その途端、[KeyWait]
+[text]But, just as my lips helplessly formed into a smile...[KeyWait]
 
 [Sound storage="se223" buf=0]
 [QuakeScreen time=500 vmax=10 hmax=0]
 
 [Face storage="f_g001"]
 【Watanabe】[CR]
-「[i]朝っぱらから巨乳な従妹とほんわかアイコンタクトとは、羨ましいことだな～、一条！[/i]」[KeyWait]
+「[i]Making flirty eyes back and forth with your busty cousin first thing in the morning, Ichijou? Man, I'm jealous![/i]」[KeyWait]
 [FaceOff]
 
-[text]いきなり後ろから腰をガッチリ抱え込まれた。[KeyWait]
+[text]Suddenly, someone grabbed my waist from behind.[KeyWait]
 
 [ChrSet0 storage="b_g031"]
 [UpDate]
@@ -103,163 +103,163 @@
 [Face storage="f_a914"]
 [Voice storage="a0243" buf=2]
 【Ryou】[CR]
-「[v]なにっ！？　わ、渡辺かっ！[/v]」[KeyWait]
+「[v]What!? O-Oh, Watanabe![/v]」[KeyWait]
 [FaceOff]
 
-[text][eruby str="渡辺" text="わたなべ"][eruby str="綱吉" text="つなよし"]。中等部時代から何となく気が合って、よくつるんでいるクラスメイト。[KeyWait]
-[text]まあ、親友っていうよりは悪友みたいな存在かもしれない。[KeyWait]
-[text]お調子者っぽい見た目からは想像もつかないけれど、格闘技系の部をいくつも掛け持ちしている武道少年だ。[KeyWait]
+[text]It was Watanabe Tsunayoshi, a classmate I'd been on pretty good terms with since middle school.[KeyWait]
+[text]Well, he'd probably be more of a "bad friend" than a "good friend," though.[KeyWait]
+[text]Though it's hard to imagine it from his his sloppy appearance and attitude, he was actually into martial arts, and belonged to multiple clubs.[KeyWait]
 
 [Face storage="f_g001"]
 【Watanabe】[CR]
-「[i]ふふふ、背後がガラ空きだぜ！　リア充野郎に天誅だっ！！[/i]」[KeyWait]
+「[i]Fufufu, you left your rear unguarded! Face divine punishment, you normie![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a914"]
 [Voice storage="a0244" buf=2]
 【Ryou】[CR]
-「[v]やめろっ、ばかっ！！　放せってばっ！[/v]」[KeyWait]
+「[v]Cut it out, dumbass! Let go of me![/v]」[KeyWait]
 [FaceOff]
 
-[text]振り解けない。[KeyWait]
-[text]このままじゃ走り高跳び用の分厚いマットにぶん投げられる。[KeyWait]
-[text]痛くはないだろうけど、結女にかっこ悪いところを見られるのはいやだ。[KeyWait]
+[text]I couldn't shake him off.[KeyWait]
+[text]At this rate, I was going to be thrown into the thick high jump mat.[KeyWait]
+[text]It probably wouldn't hurt, but I didn't want Yume to see me looking uncool.[KeyWait]
 
 [Face storage="f_a902"]
 [Voice storage="a0245" buf=2]
 【Ryou】[CR]
-「[v]くっそおおっ！！[/v]」[KeyWait]
+「[v]Damniiit![/v]」[KeyWait]
 [FaceOff]
 
-[text]もがきながら腰を落として踏ん張る。[KeyWait]
-[text]その途端に体操着がめくれ、渡辺の腕がずれて乳首に直に触れた。[KeyWait]
+[text]I lowered my hips and planted my feet firmly as I tried to get Watanabe off.[KeyWait]
+[text]But just then, by chance, my gym shirt got pulled up, and Watanabe's arm rubbed directly against one of my nipples.[KeyWait]
 
 [Face storage="f_a904"]
 [Voice storage="a0246" buf=2]
 【Ryou】[CR]
-「[v]―――ッ！？[/v]」[KeyWait]
+「[v]...!?[/v]」[KeyWait]
 [FaceOff]
 
 [BgmFadeOut time=1000]
 
-[text]その瞬間―――。[KeyWait]
+[text]Just then...[KeyWait]
 
 [QuakeScreen time=500 vmax=10 hmax=0]
 
 [Face storage="f_a918"]
 [Voice storage="a0247" buf=2]
 【Ryou】[CR]
-「[v]ヒャァアアアッ！[/v]」[KeyWait]
+「[v]Hyaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]感電したような衝撃が走った。[KeyWait]
+[text]I felt something like an electric shock travel through my body.[KeyWait]
 
 [Face storage="f_a904"]
 [Voice storage="a0248" buf=2]
 【Ryou】[CR]
-（[v]い、いまの……なに……！？[/v]）[KeyWait]
+（[v]W-What... What was that just now...!?[/v]）[KeyWait]
 [FaceOff]
 
 [Sound storage="se210" buf=0]
 
-[text]身体から力が抜けて、へたり込んでしまう。[KeyWait]
-[text]女の子みたいな悲鳴を上げてしまった。[KeyWait]
-[text]何事かとみんなが見ている。恥ずかしい……。[KeyWait]
+[text]Strength left my body and I collapsed to the ground.[KeyWait]
+[text]I had shrieked like a girl.[KeyWait]
+[text]Everyone was looking at me and wondering what had happened. I felt humiliated...[KeyWait]
 
 ;ＢＧＭ：Ｈ１
 [playbgm storage="bgm011"]
 
 [Face storage="f_g005"]
 【Watanabe】[CR]
-「[i]お……おい、大丈夫か？[/i]」[KeyWait]
+「[i]H-Hey... You okay?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a903"]
 [Voice storage="a0249" buf=2]
 【Ryou】[CR]
-「[v]あ、う……うん……[/v]」[KeyWait]
+「[v]Ah, y-yeah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]渡辺がビックリして覗き込んでくる。[KeyWait]
+[text]Watanabe stared at me, surprised.[KeyWait]
 
 [Face storage="f_a912"]
 [Voice storage="a0250" buf=2]
 【Ryou】[CR]
-（[v]なんだ、いまの……？　こ……この、感覚って……[/v]）[KeyWait]
+（[v]What was that just now...? T-That feeling, it...[/v]）[KeyWait]
 [FaceOff]
 
-[text]女の身体になっている時に乳房を触られたのと、同じ刺激だった。[KeyWait]
-[text]わけが分からず呆然としながら、渡辺が差し出してくる手を取って立ち上がろうとする。[KeyWait]
-[text]だが、その手に触れた途端、[KeyWait]
+[text]It felt the same as when I'd touched my breasts as a girl.[KeyWait]
+[text]I sat there, stunned for a moment, then reached out and took Watanabe's hand to stand back up.[KeyWait]
+[text]But, the moment I touched it...[KeyWait]
 
 [Face storage="f_a904"]
 [Voice storage="a0251" buf=2]
 【Ryou】[CR]
-「[v]ひゃわっ！！[/v]」[KeyWait]
+「[v]Hyawah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a904"]
 [Voice storage="a0252" buf=2]
 【Ryou】[CR]
-（[v]手……、手の、感触……ッ。こ、こんな……！！[/v]）[KeyWait]
+（[v]H-His hand... I can feel it so clearly...![/v]）[KeyWait]
 [FaceOff]
 
-[text]しっかりと握り締めて来る指と分厚い掌の感触が、やたらと鋭敏に伝わってきた。[KeyWait]
-[text]なんというか、触感の情報量が過剰になっている。[KeyWait]
+[text]I felt the sensation of his fingers grabbing mine and the texture of his thick much more keenly than expected.[KeyWait]
+[text]It was almost as if my sense of touch was getting overloaded with information.[KeyWait]
 
 [Sound storage="se829" buf=1]
 
-[text]それだけなら良いのだけど、渡辺の男らしくガッシリした手に、どういうわけだが激しく胸が高鳴った。[KeyWait]
+[text]Just that alone wouldn't have been a problem, but strangely enough, the feel of Watanabe's manly hand got my heart pounding hard.[KeyWait]
 
 [Face storage="f_a915"]
 [Voice storage="a0253" buf=2]
 【Ryou】[CR]
-（[v]ひう……っ、い、いや……ッ！[/v]）[KeyWait]
+（[v]Hyuh... N-No...![/v]）[KeyWait]
 [FaceOff]
 
 [Sound storage="se210" buf=0]
 
-[text]妙な動揺を覚えてその手を振り払い、再び尻餅をつく。[KeyWait]
+[text]Feeling oddly flustered, I let go of his hand and fell onto my butt again.[KeyWait]
 
 [Face storage="f_g005"]
 【Watanabe】[CR]
-「[i]い、一条……？[/i]」[KeyWait]
+「[i]I-Ichijou...?[/i]」[KeyWait]
 [FaceOff]
 
-[text][eruby str="訝" text="いぶか"]しむヤツの視線から隠すように胸を庇ってしまう。[KeyWait]
-[text]わけの分からない恥ずかしさで、顔が熱く上気してくる。[KeyWait]
+[text]I covered my chest, almost as if to hide it from his suspicious gaze.[KeyWait]
+[text]I felt my face heat up from an embarrassment I didn't understand.[KeyWait]
 
 [Face storage="f_g005"]
 【Watanabe】[CR]
-「[i]すまん。そんな力入れたつもりはなかったんだけど……。どこか怪我してたとか？[/i]」[KeyWait]
+「[i]Sorry, I didn't mean to squeeze that hard... Are you hurt?[/i]」[KeyWait]
 [FaceOff]
 
-[text]両腕でガッチリと腰をホールドされたけれど、単なる冗談のじゃれ合いだから大したことなかった。[KeyWait]
-[text]手だって、助け起こそうとしっかり握って来てはいたけど、痛いって程じゃない。[KeyWait]
-[text]ただ、変な感じがした……。[KeyWait]
+[text]He'd had both arms pretty tight around my waist, but it was horseplay between guys, so it shouldn't have been a big deal.[KeyWait]
+[text]He'd also gripped my hand pretty hard when he tried to help me up, but it hadn't been hard enough to hurt.[KeyWait]
+[text]It just felt... weird.[KeyWait]
 
 [Face storage="f_a915"]
 [Voice storage="a0254" buf=2]
 【Ryou】[CR]
-「[v]な……なんでもない！　その……、ちょっと寝不足で、目眩がして……[/v]」[KeyWait]
+「[v]I-It's nothing! I, uh... I just didn't get much sleep last night, so I got a little dizzy...[/v]」[KeyWait]
 [FaceOff]
 
-[text]こうしている間にも、顔の火照りが全身に広がったかのように熱っぽくなった。[KeyWait]
-[text]恥ずかしさもあるけれど、それだけじゃない。[KeyWait]
-[text]空気の[eruby str="微" text="かす"]かな乱れまでもがはっきりと分かるくらいに、感覚が異常な程に鋭敏さを増していた。[KeyWait]
+[text]As I sat there, my body heated up, almost as if the blush from my face had spread downwards.[KeyWait]
+[text]It was partially due to embarrassment, but there was more to it than that.[KeyWait]
+[text]My senses were abnormally sharp, so sharp that I could feel even the slightest vibrations in the air.[KeyWait]
 
 [Face storage="f_a915"]
 [Voice storage="a0255" buf=2]
 【Ryou】[CR]
-（[v]まずいよ、これ……ッ。こんなんで、また、触られたらっ[/v]）[KeyWait]
+（[v]Crap, this isn't good... If he touches me again...[/v]）[KeyWait]
 [FaceOff]
 
-[text]どんな変な反応をしてしまうか分かったものじゃない。[KeyWait]
+[text]I had no idea what kind of strange reaction I'd respond with.[KeyWait]
 
 [Face storage="f_a915"]
 [Voice storage="a0256" buf=2]
 【Ryou】[CR]
-「[v]だから、ほ、保健室で、ちょっと休んでくるからっ[/v]」[KeyWait]
+「[v]S-So, I'm gonna go rest in the nurse's office for a bit.[/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se311" buf=0]
@@ -268,14 +268,14 @@
 
 [Face storage="f_g005"]
 【Watanabe】[CR]
-「[i]お、おい！　一条っ！？[/i]」[KeyWait]
+「[i]H-Hey! Ichijou!?[/i]」[KeyWait]
 [FaceOff]
 
 ;黒画面
 [BgSet storage="_black"]
 [UpDate]
 
-[text]心配顔の渡辺を振り払うようにして、ボクは大急ぎに校庭を後にして保健室へと向かった。[KeyWait]
+[text]Watanabe looked worried as he called out to me, but I quickly headed to the school building so that I could get away from him in the nurse's office.[KeyWait]
 
 [BgmFadeOut time=1000]
 [wait time=500]

@@ -53,13 +53,13 @@
 [Face storage="f_a913"]
 [Voice storage="a0221" buf=2]
 【Ryou】[CR]
-「[v]That's good to hear, then. But geez, you're a really heavy sleep as always, huh?[/v]」[KeyWait]
+「[v]That's good to hear, then. But geez, you're a really heavy sleeper as always, huh?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b025"]
 [Voice storage="b0020" buf=2]
 【Yume】[CR]
-「[v]Ehehe. ♪ But... In my dream, someone else saved me, it wasn't my dad.  And they... kind of...[/v]」[KeyWait]
+「[v]Ehehe. ♪ But... In my dream, someone else saved me, it wasn't my dad. And they... kind of...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b003"]
@@ -68,7 +68,7 @@
 「[v]Hmm, was it [ita]really[endita] a dream? There was a girl there, and she looked kinda like you, Ryou-chan... She beat the monster with a sword...[/v]」[KeyWait]
 [FaceOff]
 
-[text]My heart beat fast for a moment. They weren't clear, but it seemed that she still had memories of being saved by the Oni-cutting Princess.[KeyWait]
+[text]My heart beat fast for a moment. They weren't clear, but it seemed that she still had memories of being saved by the Oni-Cutting Princess.[KeyWait]
 [text]As Yume tried to remember her strange "dream," her soft expression gradually became more serious.[KeyWait]
 
 [Face storage="f_a913"]
@@ -77,7 +77,7 @@
 「[v]A-Anyway, more importantly, Yume...[/v]」[KeyWait]
 [FaceOff]
 
-[text]It'd be embarrassing if she found it it was me. I started speaking to change the topic and distract her, but just then...[KeyWait]
+[text]It'd be embarrassing if she found it it was me. I started speaking to change the topic and distract her, but just then-[KeyWait]
 
 [Sound storage="se204" buf=0]
 [QuakeScreen time=1000 vmax=20 hmax=0]
@@ -188,7 +188,7 @@
 [Face storage="f_a910"]
 [Voice storage="a0228" buf=2]
 【Ryou】[CR]
-（[v]If mine were that soft at their size... Then with how big Yume's are... Wait...)[/v]）[KeyWait]
+（[v]If mine were that soft at their size... Then with how big Yume's are... Wait...[/v]）[KeyWait]
 [FaceOff]
 
 [text]It wasn't the time to be imagining it.[KeyWait]
@@ -289,7 +289,7 @@
 *選択肢１ｂ
 [OptionTarget num=2]
 [eval exp="f.２章バッド=1"]
-[text]Kimino's smallish-chest was really charming.[KeyWait]
+[text]Kimino's somewhat small small chest was really charming.[KeyWait]
 [text]It might not have been as big as Yume's, but I'd always end up staring at their perky, sporty shape.[KeyWait]
 
 *選択肢１終

@@ -228,7 +228,7 @@
 
 [Face storage="f_r001"]
 ÅyOniÅz[CR]
-[i]"Don't think you'll get away with interrupting my meal!"[/i][KeyWait]
+[i]"Don't think you'll get away with interruptin' my meal!"[/i][KeyWait]
 [FaceOff]
 
 [Sound storage="se631" buf=0]
@@ -308,7 +308,7 @@
 
 [Face storage="f_r001"]
 ÅyOniÅz[CR]
-[i]"Kuhahaha! Feeling good from having your tits groped, girl? I think I'll have you as an appetizer before my sacrifice!"[/i][KeyWait]
+[i]"Kuhahaha! Feeling good from havin' your tits groped, girl? I think I'll have you as an appetizer before my sacrifice!"[/i][KeyWait]
 [FaceOff]
 
 [text]I felt a slight damp sensation on my tight shorts.[KeyWait]
@@ -504,7 +504,7 @@
 [text]As I pointed the blade toward the oni's face, I felt it communicate with me.[KeyWait]
 [text][ita]I am not a blade that cuts humans.[endita][KeyWait]
 [text][ita]I am a blade that uses the power of humans to cut monsters that devour and dirty them.[endita][KeyWait]
-[text][ita]I am Zanshou, the Oni-cutting Blade.[endita][KeyWait]
+[text][ita]I am Zanshou, the Oni-Cutting Blade.[endita][KeyWait]
 [text]Its name was etched into my mind as if the metal itself had spoken to me.[KeyWait]
 
 [Face storage="f_a007"]
@@ -549,7 +549,7 @@
 
 [text]I swung my katana back up and lopped off his other arm.[KeyWait]
 [text]Sure, I'd used bamboo training swords during gym class before, but right now, I was displaying the skills of a master swordsman... Swordswoman? Either way.[KeyWait]
-[text]The Oni-cutting Blade I held in my hand told me how to defeat wicked monsters.[KeyWait]
+[text]The Oni-Cutting Blade I held in my hand told me how to defeat wicked monsters.[KeyWait]
 
 [Face storage="f_r001"]
 ÅyOniÅz[CR]

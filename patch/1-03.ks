@@ -221,18 +221,18 @@
 
 [Face storage="f_l002"]
 ÅyMomÅz[CR]
-Åu[i]You became the "Oni-cutting Princess," Ryou. An exorcist swordswoman of the Ichijou family with a sword to protect Yume-chan from oni.[/i]Åv[KeyWait]
+Åu[i]You became the "Oni-Cutting Princess," Ryou. An exorcist swordswoman of the Ichijou family with a sword to protect Yume-chan from oni.[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a0112" buf=2]
 ÅyRyouÅz[CR]
-Åu[v]The Oni-cutting Princess...? By oni, do you mean like the thing that attacked her earlier?[/v]Åv[KeyWait]
+Åu[v]The Oni-Cutting Princess...? By oni, do you mean like the thing that attacked her earlier?[/v]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_m002"]
 ÅyUncleÅz[CR]
-Åu[i]That's right. She was chosen as a sacrifice for them known as the "Oni-pleasing Princess"... a sacrifice for[/i]Åv[KeyWait]
+Åu[i]That's right. She was chosen as a sacrifice for them known as the "Oni-Pleasing Princess"... a sacrifice for[/i]Åv[KeyWait]
 [FaceOff]
 
 [text]My uncle looked bitter and pained as he spoke.[KeyWait]
@@ -240,7 +240,7 @@
 [Face storage="f_a003"]
 [Voice storage="a0113" buf=2]
 ÅyRyouÅz[CR]
-Åu[v]The... The "Oni-pleasing Princess"...?[/v]Åv[KeyWait]
+Åu[v]The... The "Oni-Pleasing Princess"...?[/v]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
@@ -277,7 +277,7 @@
 
 [Face storage="f_m002"]
 ÅyUncleÅz[CR]
-Åu[i]Their latest sacrifice... The new Oni-pleasing Princess... They chose Yume.[/i]Åv[KeyWait]
+Åu[i]Their latest sacrifice... The new Oni-Pleasing Princess... They chose Yume.[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_n002"]
@@ -306,7 +306,7 @@
 
 [Face storage="f_k002"]
 ÅyDadÅz[CR]
-Åu[i]So, instead of trying to make the oni submit and serve the family, it was decided to appoint an "Oni-cutting Princess" to protect the Oni-pleasing Princess by exorcising the oni and wiping them out instead instead.[/i]Åv[KeyWait]
+Åu[i]So, instead of trying to make the oni submit and serve the family, it was decided to appoint an "Oni-Cutting Princess" to protect the Oni-Pleasing Princess by exorcising the oni and wiping them out instead instead.[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_m002"]
@@ -323,7 +323,7 @@
 
 [Face storage="f_l002"]
 ÅyMomÅz[CR]
-Åu[i]Maybe you two have thicker Ichijou blood because us sets of twins married. To think that Yume-chan would be targeted as the Oni-pleasing Princess and that you'd become the Oni-cutting Princess, Ryou...[/i]Åv[KeyWait]
+Åu[i]Maybe you two have thicker Ichijou blood because us sets of twins married. To think that Yume-chan would be targeted as the Oni-Pleasing Princess and that you'd become the Oni-Cutting Princess, Ryou...[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_n002"]
@@ -335,7 +335,7 @@
 
 [Face storage="f_l002"]
 ÅyMomÅz[CR]
-Åu[i]The Oni-pleasing Princess bestows the Oni-cutting Blade, Zanshou, to the Oni-cutting Princess, which is whoever they trust the most.[/i]Åv[KeyWait]
+Åu[i]The Oni-Pleasing Princess bestows the Oni-Cutting Blade, Zanshou, to the Oni-Cutting Princess, which is whoever they trust the most.[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_l002"]

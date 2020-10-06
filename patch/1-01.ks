@@ -1,5 +1,5 @@
 
-*scene1-01|Chapter 1: Oni-cutting Princess
+*scene1-01|Chapter 1: Oni-Cutting Princess
 [eval exp="f.chaptertitle='I\'ve Become a Girl!?'"]
 
 [wait time=500]

@@ -1,6 +1,13 @@
+;■
+;■　回想
+;■
 
-*scene2-07|
 [eval exp="f.chaptertitle='Imprisoned by an Oni'"]
+
+;回想開始　――――――――――――――――――――――――――――――――――――――――――――
+
+[HSceneStart]
+
 
 ;ＢＧＭ：陵辱１
 [playbgm storage="bgm009"]
@@ -11,11 +18,11 @@
 
 [SoundIn storage="se601" buf=7 loop=true time=4000]
 
-[HSceneStart]
-
 ;イベント絵表示
 [CgSet storage="EV202g"]
 [UpDate]
+
+[WindowOn]
 
 [ExVoice1 storage="aex06"]
 [Face storage="f_a017"]
@@ -47,7 +54,7 @@
 
 [text]I felt an oppressive, impatient sensation from the buzzing vibrator stuck inside my asshole.[KeyWait]
 [text]But with both of my hands in cuffs, I was unable to remove it by myself.[KeyWait]
-[text]My body shook from the foreign object inside me as I lay powerless on the floor.[KeyWait]
+[text]My butt shook from the foreign object inside me as I lay powerless on the floor.[KeyWait]
 
 [ExVoice1 storage="aex06"]
 [Face storage="f_a018"]
@@ -622,23 +629,23 @@
 
 [text]As the oni filled my starving hole, making a mixture of his spunk and my love juices gush out, I moaned and continued to lewdly thrust my hips toward him.[KeyWait]
 
+
+;回想終了　――――――――――――――――――――――――――――――――――――――――――――
+
+[BgmFadeOut time="2000"]
 [SoundAllOut time=2000]
-[BgmFadeOut time=2000]
+
 [BgSet storage="_black"]
-[UpDate]
+[Update]
 
 [text].........[KeyWait]
 [text]......[KeyWait]
 [text]...[KeyWait]
 
 [scenarioend]
-;ＢＡＤＥＮＤ
-
 [cancelskip]
 
 [HSceneEnd]
-
-[eval exp="sf.kaisouOpenFlag['04']=1"]
 
 [WindowOff time=1000]
 
@@ -646,8 +653,6 @@
 [SoundAllStop]
 [eval exp="kag.skipMode=0"]
 
-[eval exp="sf.extraModeOpenFlag=1"]
-[jump storage="0-01.ks"]
 
-
+[return]
 

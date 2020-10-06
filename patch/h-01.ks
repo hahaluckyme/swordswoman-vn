@@ -1,81 +1,19 @@
+;■
+;■　回想
+;■
 
-*scene1-04|
-[eval exp="f.chaptertitle='Wow... This is a Girl\'s Body...'"]
+[eval exp="f.chaptertitle='Time Masturbating After Becoming a Girl'"]
 
-;場所：遼の部屋
-;時間：夜
-;服装：遼の部屋着
+;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
 ;背景：遼の部屋　夜
 [BgSet storage="bg012"]
 [UpDate]
 
-;[WindowOn]
-
-;ＢＧＭ：日常
-[playbgm storage="bgm002"]
-
-[Face storage="f_a003"]
-[Voice storage="a0118" buf=2]
-【Ryou】[CR]
-「[v]But really, this is all such a shock...[/v]」[KeyWait]
-[FaceOff]
-
-[Sound storage="se567" buf=0]
-
-[text]I returned to my room and threw my tired body on my bed, finally relaxing my stress.[KeyWait]
-[text]Looking through my window, I could see Yume's room. The wall still had cracks in it and the glass was still broken.[KeyWait]
-[text]Apparently, she was sleeping in a different room they'd moved her into.[KeyWait]
-
-[Face storage="f_a034"]
-[Voice storage="a0119" buf=2]
-【Ryou】[CR]
-「[v]But I'm glad that this didn't end with Yume having the worst day of her life... I can't believe she'd be attacked by something like that...[/v]」[KeyWait]
-[FaceOff]
-
-[text]Just remembering the oni's disgusting body was enough to make me shudder.[KeyWait]
-
-[Face storage="f_a035"]
-[Voice storage="a0120" buf=2]
-【Ryou】[CR]
-（[v]Zanshou... The moment I gripped that katana, the way to fight flowed into my head, and my body started moving on its own...[/v]）[KeyWait]
-[FaceOff]
-
-[Face storage="f_a035"]
-[Voice storage="a0121" buf=2]
-【Ryou】[CR]
-「[v]So, I'm the swordswoman that protects Yume, the Oni-Cutting Princess, huh...[/v]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_a035"]
-[Voice storage="a0122" buf=2]
-【Ryou】[CR]
-（[v]It sounded like there was another guy who became the Oni-Cutting Princess despite his gender a long time ago, too...[/v]）[KeyWait]
-[FaceOff]
-
-[text]After my parents explained things to me, they had me call up someone from the Ichijou main family.[KeyWait]
-[text]According to them, this irregular situation had happened a few times in the past, too.[KeyWait]
-
-[Face storage="f_a035"]
-[Voice storage="a0123" buf=2]
-【Ryou】[CR]
-（[v]I get the feeling I've talked with that person on the phone before...[/v]）[KeyWait]
-[FaceOff]
-
-[text]Their voice and the way they spoke felt familiar, but it'd been years since I'd visited the main family, so I just couldn't remember.[KeyWait]
-
-[Face storage="f_a034"]
-[Voice storage="a0124" buf=2]
-【Ryou】[CR]
-（[v]Apparently since I beat the oni and Yume's safe, my body will go back to being a guy soon... That's a relief. Staying as a girl would be hard...[/v]）[KeyWait]
-[FaceOff]
-
-[text]The person from the main family had cleared up my biggest concern.[KeyWait]
-[text]But thanks to that, my curiosity as a guy had also been piqued even further.[KeyWait]
+[WindowOn]
 
 ;ＢＧＭ：Ｈ１
-;[playbgm storage="bgm011"]
-[BgmExChange storage="bgm011" loop=true time="2000" overlap="2000"]
+[playbgm storage="bgm011"]
 
 [Face storage="f_a036"]
 [Voice storage="a0125" buf=2]
@@ -503,7 +441,7 @@
 [text]Splaaaaaaaash! Squirt, squirt, squuuuuuuirt![KeyWait]
 
 
-[text]My entire body shook　and convulsed as I thrust my hips forward, and I sprayed a torrent of my burning-hot pussy juices everywhere as I climaxed.[KeyWait]
+[text]My entire body shookand convulsed as I thrust my hips forward, and I sprayed a torrent of my burning-hot pussy juices everywhere as I climaxed.[KeyWait]
 
 [ExVoice1 storage="aex12"]
 [Face storage="f_a018"]
@@ -633,25 +571,30 @@
 
 [eval exp="f.exVoice1 = ''"]
 
-[HSceneEnd]
 
-[eval exp="sf.kaisouOpenFlag['01']=1"]
+;回想終了　――――――――――――――――――――――――――――――――――――――――――――
 
+[BgmFadeOut time="2000"]
 [SoundAllOut time=2000]
-[BgmFadeOut time=2000]
-;黒画面
+
 [BgSet storage="_black"]
-[UpDate]
+[Update]
 
 [text].........[KeyWait]
 [text]......[KeyWait]
 [text]...[KeyWait]
 
-[WindowOff]
+[scenarioend]
+[cancelskip]
 
-[wait time=1000]
+[HSceneEnd]
+
+[WindowOff time=1000]
+
+[wait time=1000 cond="kag.skipMode!=4"]
+[SoundAllStop]
+[eval exp="kag.skipMode=0"]
 
 
-
-[jump storage="2-01.ks"]
+[return]
 
