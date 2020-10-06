@@ -1,0 +1,440 @@
+
+*scene1-01|Chapter 1: Oni-cutting Princess
+[eval exp="f.chaptertitle='I\'ve Become a Girl!?'"]
+
+[wait time=500]
+
+[BgSet storage="chapter01"]
+[UpDate]
+[wait time=3000]
+[BgSet storage="_black"]
+[UpDate]
+[wait time=1000]
+
+;ÇaÇfÇlÅFì˙èÌ
+[playbgm storage="bgm002"]
+
+;îwåiÅFó…ÇÃïîâÆÅ@ñÈ
+[BgSet storage="bg012"]
+[UpDate time=2000]
+
+[WindowOn]
+
+;èÍèäÅFó…ÇÃïîâÆ
+;éûä‘ÅFñÈ
+;ïûëïÅFó…ÇÃïîâÆíÖ
+
+;[Face storage="f_a008"]
+[Voice storage="a0001" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Aw, crap. I fell asleep even though I've got so much homework to do tonight...[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]Feeling uneasy, I woke up, noticing that something about my body felt strange.[KeyWait]
+[text]As I sat up, I felt something heavy jiggle on my chest.[KeyWait]
+
+[BgmFadeOut time=1000]
+
+;[Face storage="f_a008"]
+[Voice storage="a0002" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Hm...? What...?[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]Lowering my gaze, I saw two big mounds pushing against the front of my tight T-shirt.[KeyWait]
+
+;ÅúÅyÇbÇfÇP(ev101)ÅFèóê´épÇ…ã¡Ç≠ó…ÅiÇÕÇÈÇ©ÅjÅz[CR]
+
+;ÇaÇfÇlÅFÇgÇP
+[playbgm storage="bgm011"]
+
+[HSceneStart]
+
+;ÉCÉxÉìÉgäGï\é¶
+[CgSet storage="EV101a"]
+[UpDate]
+
+[Face storage="f_a004"]
+[Voice storage="a0003" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Huh!? W-What...? B-Boobs!?[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]The supple, round lumps, the shape of which I could only describe as perfect, were overflowing with sexy, feminine charm.[KeyWait]
+[text]Pulling on the neck of my shirt, I saw two faintly-flushed breasts pushing against each other and making a deep, eye-catching valley of cleavage between them.[KeyWait]
+[text]This wasn't a picture or a video; I was actually seeing a girl's breasts with my own eyes. And unbelievably enough, they were on my own body.[KeyWait]
+
+[Face storage="f_a005"]
+[Voice storage="a0004" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Gulp...[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]I swallowed.[KeyWait]
+
+[Face storage="f_a005"]
+[Voice storage="a0005" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]You're... kidding, right?[/v]Åv[KeyWait]
+[FaceOff]
+
+[Face storage="f_a005"]
+[Voice storage="a0006" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]It's not just my chest... My butt feels bigger... My shorts are really tight...[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]Despite my shorts being so tight they should have been squeezing my balls, I didn't feel any pain at all.[KeyWait]
+
+[Face storage="f_a009"]
+[Voice storage="a0007" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]It's like I've got a wedgie down there... Aah, it feels kind of... tingly...[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]My hips began squirming on their own in response to the stimulation.[KeyWait]
+
+[Face storage="f_a015"]
+[Voice storage="a0008" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Hah... Nnh...[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]Drip...[KeyWait]
+[text]I focused on the sensation and let out a quiet moan, then felt something with my lower body, almost as if something warm and wet had seeped out of me.[KeyWait]
+
+[Face storage="f_a009"]
+[Voice storage="a0009" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Huh!? What... was that...?[/v]Åv[KeyWait]
+[FaceOff]
+
+;îwåiÅFó…ÇÃïîâÆÅ@ñÈ
+[BgSet storage="bg012"]
+[UpDate]
+
+[text]I stood up in a panic and looked in the mirror.[KeyWait]
+
+;óßÇøÉLÉÉÉâÅ@ÇÕÇÈÇ©
+[ChrSet0 storage="b_a057"]
+[UpDate]
+
+[Face storage="f_a012"]
+[Voice storage="a0010" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Hm...? H-Huuuuh!? Aah! No way, I-I'm... W-Why!?[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]I was the one standing in the mirror, yet at the same time, I wasn't.[KeyWait]
+[text]From the moment I was born, I, Ichijou Ryou, had always been a 100% authentic guy. Yet...[KeyWait]
+
+[Face storage="f_a023"]
+[Voice storage="a0011" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]A... girl... I'm... a girl...[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]The female me in the mirror made a panicked, helpless-looking face.[KeyWait]
+
+[Face storage="f_a009"]
+[Voice storage="a0012" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]My heart's pounding for some reason... M-My face is like [ita]this[endita] now...[/v]Åj[KeyWait]
+[FaceOff]
+
+;a0013
+;[ExVoice1 storage="aex01"]
+;ÅuÇÕÇüÅcÅcÇÕÇüÅcÅcÇÕÇüÅcÅcÇÕÇüÅcÅcÇÕÇüÅcÅcÇÕÇüÅcÅcÇÕÇüÅcÅcÇÕÇüÅcÅcÅv
+
+[Face storage="f_a009"]
+[Voice storage="a0014" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]Aah... And my chest, it's so big...[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]I timidly brought my hands to my chest.[KeyWait]
+
+;ÉCÉxÉìÉgäGï\é¶
+[CgSet storage="EV101b"]
+[UpDate]
+
+[ExVoice1 storage="aex04"]
+[Face storage="f_a015"]
+[Voice storage="a0015" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]These are boobs... They're... [ita]my[endita] boobs![/v]Åv[KeyWait]
+[FaceOff]
+
+[text]My puffy nipples stuck out through the fabric of my shirt. I pressed my pointer fingers against them and used the rest of my fingers to grip my breasts.[KeyWait]
+
+[Face storage="f_a015"]
+[Voice storage="a0016" buf=3]
+ÅyRyouÅz[CR]
+Åi[v]Wow... It felt like electricity went through them... I feel all tingly![/v]Åj[KeyWait]
+[FaceOff]
+
+[ExVoice1 storage="aex03"]
+[Face storage="f_a017"]
+[Voice storage="a0017" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]T-This... This is what boobs feel like! Kuuh, fuuuuuuuuuh! [/v]Åv[KeyWait]
+[FaceOff]
+
+;a0018
+[ExVoice1 storage="aex02"]
+[Face storage="f_a016"]
+[Voice storage="a0018" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Hauhn... Nfh, nkh... Nnnh, nhah, haahn... Haah, nhaah... Hah, hauhn, nnnh... Haah, aah, haaahn...[/v]Åv[KeyWait]
+[FaceOff]
+
+[Face storage="f_a015"]
+[Voice storage="a0019" buf=3]
+ÅyRyouÅz[CR]
+Åi[v]I can't believe I've got something like this on my body...[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]Was I dreaming or something, maybe?[KeyWait]
+
+[ExVoice1 storage="aex03"]
+[Face storage="f_a015"]
+[Voice storage="a0020" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]But, they... Aah, they feel good... My boobs feel good! A-Aaah... Nnh, haaaaaah![/v]Åv[KeyWait]
+[FaceOff]
+
+;a0021
+;ÅuÇÒÇ”Ç£ÅAÇÒÇ¡ÅcÅcÇÒÇ§Ç£ÅcÅcÇÕÇüÅAÇ†ÅAÇüÇÒÅcÅcÇÒÇ†Ç¡ÅAÇÕÇüÅAÇÕÇüÇ†ÅcÅcÇ†ÇüÅAÇÕÇ¡ÅAÇÕÇüÅAÇÒÇ£Ç£ÅcÅcÇÒÇ¡ÅAÇÕÇüÇ†Ç¡ÅAÇÒÇ”Ç£ÅcÅcÇÕÇ¡ÅAÇÕÇ†ÅAÇ†ÇüÇ†ÅAÇüÇ†ÇÒÅcÅcÅv
+
+[Face storage="f_a009"]
+[Voice storage="a0022" buf=3]
+ÅyRyouÅz[CR]
+Åi[v]C-Crap... Dad and mom are... already asleep, right...?[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]Surprised by my own moans, I listened carefully for any noise in quiet hallway outside my room.[KeyWait]
+
+[Face storage="f_a009"]
+[Voice storage="a0023" buf=3]
+ÅyRyouÅz[CR]
+Åi[v]If they heard me... m-moaning like this... it'd be bad... Maybe I should go out there... Nnh...And see if anyone's up... Fwah... Ah...[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]But I was no longer able to stop.[KeyWait]
+
+[Face storage="f_a015"]
+[Voice storage="a0024" buf=3]
+ÅyRyouÅz[CR]
+Åi[v]If they see me... w-with this feminine body... playing with my boobs... even though I'm a guy, then... Aaaaaaaah![/v]Åj[KeyWait]
+[FaceOff]
+
+[text]Imagining it tormented my mind with panic and embarrassment, yet...[KeyWait]
+
+[ExVoice1 storage="aex04"]
+[Face storage="f_a017"]
+[Voice storage="a0025" buf=2]
+ÅyRyouÅz[CR]
+[v]Ah... Uuh... W-Why? Why are my nipples erect...!?[/v][KeyWait]
+[FaceOff]
+
+[Face storage="f_a017"]
+[Voice storage="a0026" buf=3]
+ÅyRyouÅz[CR]
+Åi[v]I-I've heard that girls get hard here when they feel good, but... Aah...[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]I was shocked at the fact that I'd changed gender, even though it wasn't really the time.[KeyWait]
+[text]I put a little more force into my fingers, pressing down against my stiff nipples.[KeyWait]
+
+;ÉCÉxÉìÉgäGï\é¶
+[CgSet storage="EV101c"]
+[UpDate]
+
+[ExVoice1 storage="aex32"]
+[Face storage="f_a018"]
+[Voice storage="a0027" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Hyuuuuuh! Haaaaaaaaah![/v]Åv[KeyWait]
+[FaceOff]
+
+[text]In that moment, a hot jolt jumped from my nipples to my head.[KeyWait]
+[text]Surprised, I took my hands away, and my soft mounds jiggled all over.[KeyWait]
+
+[Face storage="f_a017"]
+[Voice storage="a0028" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]W-Whoa! They're jiggling, my boobs are bouncing so much![/v]Åj[KeyWait]
+[FaceOff]
+
+[ExVoice1 storage="aex32"]
+[Face storage="f_a017"]
+[Voice storage="a0029" buf=2]
+ÅyRyouÅz[CR]
+[v]Aah... So [ita]this[endita] is how soft boobs are...[/v][KeyWait]
+[FaceOff]
+
+[Face storage="f_a017"]
+[Voice storage="a0030" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]Geez, they jiggle [ita]too[endita] much... It's kind of embarrassing...[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]A faint blush formed below my cheeks, and my troubled face teared up a little.[KeyWait]
+
+[ExVoice1Stop]
+
+;ÉCÉxÉìÉgäGï\é¶
+[CgSet storage="EV101b"]
+[UpDate]
+
+[Face storage="f_a015"]
+[Voice storage="a0031" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Auh... Now that I look at my new face, it... might be kind of c-cute...[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]If there were a girl like this at school, I'd have been interested in her for sure.[KeyWait]
+[text]But that girl was me.[KeyWait]
+
+[Face storage="f_a009"]
+[Voice storage="a0032" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]Hey, what am I thinking? This is me. [ita]Me.[endita] [ita]Me![endita] I'm actually a guy...[/v]Åj[KeyWait]
+[FaceOff]
+
+[Face storage="f_a009"]
+[Voice storage="a0033" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]But... Right now, I'm... a beautiful girl...[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]I was confused at the complicated feelings in my heart, but still found myself unable to hold back my curiosity.[KeyWait]
+
+[HSceneEnd]
+
+;îwåiÅFó…ÇÃïîâÆÅ@ñÈ
+[BgSet storage="bg012"]
+;óßÇøÉLÉÉÉâÅ@ÇÕÇÈÇ©
+[ChrSet0 storage="b_a058"]
+[UpDate]
+
+[Face storage="f_a036"]
+[Voice storage="a0034" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]O-Oh, right... If I've got these boobs, then... w-what are things like down there...?[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]I'd never had sex with a girl before. So of course, I'd never seen the places where they're different from guys.[KeyWait]
+
+[Face storage="f_a036"]
+[Voice storage="a0035" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]But, if this isn't a dream, then... I've got one... I can see one for the first time... A girl's...[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]Dream or not... My curiosity was about to burst, there was no way I could hold it back![KeyWait]
+
+[Face storage="f_a009"]
+[Voice storage="a0036" buf=2]
+ÅyRyouÅz[CR]
+[v]Earlier, it felt like... something hot and wet came out... I'm fine to touch myself down there, right...?[/v][KeyWait]
+[FaceOff]
+
+[text]My tight shorts dug into my crotch.[KeyWait]
+[text]I couldn't feel what I should have felt down there if I'd been a guy.[KeyWait]
+[text]Instead, I felt a hot tingling and throbbing that only kept getting stronger.[KeyWait]
+
+[Face storage="f_a009"]
+[Voice storage="a0037" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]I don't feel them... No dick, no balls... It's really all gone and I've got a slit now...[/v]Åj[KeyWait]
+[FaceOff]
+
+[Face storage="f_a009"]
+[Voice storage="a0038" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]This slit's tingling and throbbing like crazy... It's so hot, too... Haah... Ah... Nnh...[/v]Åv[KeyWait]
+[FaceOff]
+
+[text]My high-pitched moans and my hot breaths made me sound just like a girl, which got me more and more excited.[KeyWait]
+[text]My pulse got so fast that it became hard to breath, and before I realized it, I was covered in sweat.[KeyWait]
+
+[Face storage="f_a025"]
+[Voice storage="a0039" buf=2]
+ÅyRyouÅz[CR]
+[v]Gulp...[/v][KeyWait]
+[FaceOff]
+
+[text]The sound of me swallowing my saliva felt really loud.[KeyWait]
+
+[Face storage="f_a025"]
+[Voice storage="a0040" buf=2]
+ÅyRyouÅz[CR]
+[v]I-I'm going to touch myself... Down there... Where I've become a girl...![/v][KeyWait]
+[FaceOff]
+
+[text]I timidly slipped a hand inside my shorts.[KeyWait]
+
+[BgmFadeOut time=500]
+
+[text]But just then![KeyWait]
+
+;ÇaÇfÇlÅFÉsÉìÉ`
+[playbgm storage="bgm007"]
+
+[ChrReset0]
+[UpDate]
+
+[Voice storage="b0001" buf=2]
+???[CR]
+Åu[v]Kyaaaaaaaaaaaaaa![/v]Åv[KeyWait]
+
+[text]I heard a shrill scream echo through the night.[KeyWait]
+
+[Face storage="f_a026"]
+[Voice storage="a0041" buf=2]
+ÅyRyouÅz[CR]
+[v]That voice! Yume![/v][KeyWait]
+[FaceOff]
+
+[text]I was instantly dragged back to reality. Stopping my hand just short of touching my crotch, I went out to the veranda in a panic.[KeyWait]
+
+;çïâÊñ 
+[BgSet storage="_black"]
+[UpDate]
+
+[text]I looked through the glass into the room of the home next-door and saw a large, bizarre shadow wriggling around, illuminated only by a faint nightlight.[KeyWait]
+
+[Face storage="f_a026"]
+[Voice storage="a0042" buf=2]
+ÅyRyouÅz[CR]
+Åu[v]Wha... What's that!? Y-Yume![/v]Åv[KeyWait]
+[FaceOff]
+
+[text]The large shadow was on top of a small girl.[KeyWait]
+[text]That girl was my cousin, who had been like a little sister to me ever since she'd been born.[KeyWait]
+[text]I don't know when it happened, but at one point, she stopped being just my cousin, and I developed feelings for her.[KeyWait]
+[text]Ichijou Yume.[KeyWait]
+[text]The girl most precious to me...![KeyWait]
+
+[Face storage="f_a026"]
+[Voice storage="a0043" buf=2]
+ÅyRyouÅz[CR]
+[v]Yumeeeee![/v][KeyWait]
+[FaceOff]
+
+[Sound storage="se312" buf=0]
+
+[text]In a trance, I leapt from my house's veranda over to hers.[KeyWait]
+
+[Face storage="f_a027"]
+[Voice storage="a0044" buf=2]
+ÅyRyouÅz[CR]
+Åi[v]Whoa! What was that jump just now!? What the heck's up with my body!?[/v]Åj[KeyWait]
+[FaceOff]
+
+[text]I was shocked at my unnatural jumping ability. After landing on the neighboring veranda, I took a step into my cousin's room.[KeyWait]
+
+
+[jump storage="1-02.ks"]
+

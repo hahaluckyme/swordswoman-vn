@@ -1,0 +1,237 @@
+// Menus.tjs - メニュー作成関数の定義
+// Copyright (C)2001-2006, W.Dee and contributors  改変・配布は自由です
+
+function KAGWindow_createMenus()
+{
+	// この関数は MainWindow クラスのオブジェクトのコンテキスト上で実行されます
+
+	menu.add(this.systemMenu = new KAGMenuItem(this, "System(&S)", 0, "", false));
+
+	systemMenu.add(this.rightClickMenuItem = new KAGMenuItem(this, "Hide Messages(&S)", 0,
+		onRightClickMenuItemClick, false));
+
+	systemMenu.add(this.showHistoryMenuItem = new KAGMenuItem(this, "Toggle Message History(&H)", 0,
+		onShowHistoryMenuItemClick, false));
+
+	systemMenu.add(this.skipToNextStopMenuItem = new KAGMenuItem(this,
+		autoRecordPageShowing?"Proceed to Next Choice/Next Unread Text(&F)":"Proceed to Next Choice(&F)", 0,
+		onSkipToNextStopMenuItemClick, false));
+
+	systemMenu.add(this.autoModeMenuItem = new KAGMenuItem(this, "Auto-Read(&A)", 0,
+		onAutoModeMenuItemClick, false));
+
+	systemMenu.add(this.autoModeWaitMenu = new KAGMenuItem(this, "Auto-Read Wait Time(&D)", 0,
+		void, false));
+
+		autoModeWaitMenu.add(this.autoModeFastMenuItem = new KAGMenuItem(this, "Short(&1)", 1,
+			onAutoModeWaitMenuClick, false));
+		autoModeFastMenuItem.wait = autoModePageWaits.fast;
+		autoModeFastMenuItem.lwait = autoModeLineWaits.fast;
+		autoModeWaitMenu.add(this.autoModeFasterMenuItem = new KAGMenuItem(this, "Somewhat Short(&2)", 1,
+			onAutoModeWaitMenuClick, false));
+		autoModeFasterMenuItem.wait = autoModePageWaits.faster;
+		autoModeFasterMenuItem.lwait = autoModeLineWaits.faster;
+		autoModeWaitMenu.add(this.autoModeMediumMenuItem = new KAGMenuItem(this, "Normal(&3)", 1,
+			onAutoModeWaitMenuClick, false));
+		autoModeMediumMenuItem.wait = autoModePageWaits.medium;
+		autoModeMediumMenuItem.lwait = autoModeLineWaits.medium;
+		autoModeWaitMenu.add(this.autoModeSlowerMenuItem = new KAGMenuItem(this, "Somewhat Long(&4)", 1,
+			onAutoModeWaitMenuClick, false));
+		autoModeSlowerMenuItem.wait = autoModePageWaits.slower;
+		autoModeSlowerMenuItem.lwait = autoModeLineWaits.slower;
+		autoModeWaitMenu.add(this.autoModeSlowMenuItem = new KAGMenuItem(this, "Long(&5)", 1,
+			onAutoModeWaitMenuClick, false));
+		autoModeSlowMenuItem.wait = autoModePageWaits.slow;
+		autoModeSlowMenuItem.lwait = autoModeLineWaits.slow;
+
+	systemMenu.add(new MenuItem(this, "-"));
+
+	systemMenu.add(this.goBackMenuItem = new KAGMenuItem(this, "Go Back One Choice(&B)", 0,
+		onBackStartMenuItemClick, false));
+
+	systemMenu.add(this.goToStartMenuItem = new KAGMenuItem(this, "Return to Title(&R)", 0,
+		onGoToStartMenuItemClick, false));
+
+	systemMenu.add(new MenuItem(this, "-"));
+
+	systemMenu.add(this.exitMenuItem = new KAGMenuItem(this, "Quit(&X)", 0, onExitMenuItemClick, false));
+
+	menu.add(this.characterMenu = new KAGMenuItem(this, "Text Display(&C)", 0, void, false));
+
+		characterMenu.add(this.chSpeedMenu = new KAGMenuItem(this, "Display Speed(&C)", 0, void, false));
+
+			chSpeedMenu.add(this.chNoWaitMenuItem = new KAGMenuItem(this, "No Wait(&W)", 1,
+				onChSpeedMenuItemClick, false));
+			chNoWaitMenuItem.speed = 0;
+			chSpeedMenu.add(this.chFastMenuItem = new KAGMenuItem(this, "Fast(&F)", 1,
+				onChSpeedMenuItemClick, false));
+			chFastMenuItem.speed = chSpeeds.fast;
+			chSpeedMenu.add(this.chNormalMenuItem = new KAGMenuItem(this, "Normal(&N)", 1,
+				onChSpeedMenuItemClick, false));
+			chNormalMenuItem.speed = chSpeeds.normal;
+			chSpeedMenu.add(this.chSlowMenuItem = new KAGMenuItem(this, "Slow(&S)", 1,
+				onChSpeedMenuItemClick, false));
+			chSlowMenuItem.speed = chSpeeds.slow;
+
+			chSpeedMenu.add(new MenuItem(this, "-"));
+
+			chSpeedMenu.add(this.chNonStopToPageBreakItem = new KAGMenuItem(this, "ページ末まで一気に(&P)", 0,
+				onChNonStopToPageBreakItemClick, false));
+
+		characterMenu.add(this.ch2ndSpeedMenu = new KAGMenuItem(this, "Already Read Text Speed(&I)", 0, void, false));
+
+			ch2ndSpeedMenu.add(this.ch2ndNoWaitMenuItem = new KAGMenuItem(this, "No Wait(&W)", 1,
+				onCh2ndSpeedMenuItemClick, false));
+			ch2ndNoWaitMenuItem.speed = 0;
+			ch2ndSpeedMenu.add(this.ch2ndFastMenuItem = new KAGMenuItem(this, "Fast(&F)", 1,
+				onCh2ndSpeedMenuItemClick, false));
+			ch2ndFastMenuItem.speed = chSpeeds.fast;
+			ch2ndSpeedMenu.add(this.ch2ndNormalMenuItem = new KAGMenuItem(this, "Normal(&N)", 1,
+				onCh2ndSpeedMenuItemClick, false));
+			ch2ndNormalMenuItem.speed = chSpeeds.normal;
+			ch2ndSpeedMenu.add(this.ch2ndNoChangeMenuItem = new KAGMenuItem(this, "Don't Change(&M)", 1,
+				onCh2ndSpeedMenuItemClick, false));
+			ch2ndNoChangeMenuItem.speed = -1; // 変えない
+
+			ch2ndSpeedMenu.add(new MenuItem(this, "-"));
+
+			ch2ndSpeedMenu.add(this.ch2ndNonStopToPageBreakItem = new KAGMenuItem(this, "Entire Page(&P)", 0,
+				onCh2ndNonStopToPageBreakItemClick, false));
+
+		characterMenu.add(new MenuItem(this, "-"));
+
+		characterMenu.add(this.chAntialiasMenuItem = new KAGMenuItem(this, "Anti-aliasing(&A)", 0,
+			onChAntialiasMenuItemClick, false));
+
+		characterMenu.add(this.chChangeFontMenuItem = new KAGMenuItem(this, "Font(&D) ...", 0,
+			onChChangeFontMenuItem, false));
+
+	if(freeSaveDataMode)
+	{
+		// フリーセーブモードの場合
+		menu.add(this.bookMarkMenu = new KAGMenuItem(this, "Bookmark(&J)", 0, void, false));
+		bookMarkMenu.add(this.restoreMenu = new KAGMenuItem(this, "Load(&L) ...", 0, onRestoreMenuClick, false));
+		bookMarkMenu.add(this.storeMenu = new KAGMenuItem(this, "Save(&S) ...", 0, onStoreMenuClick, false));
+	}
+	else
+	{
+		menu.add(this.restoreMenu = new KAGMenuItem(this, "Load(&L)", 0, onRestoreMenuClick, false));
+		menu.add(this.storeMenu = new KAGMenuItem(this, "Save(&S)", 0, onStoreMenuClick, false));
+	}
+
+	menu.add(this.displayMenu = new KAGMenuItem(this, "Display(&V)", 0, void, false));
+
+		displayMenu.add(this.windowedMenuItem = new KAGMenuItem(this, "Windowed Mode(&W)", 1, onWindowedMenuItemClick, false));
+		displayMenu.add(this.fullScreenMenuItem = new KAGMenuItem(this, "Fullscreen Mode(&F)", 1, onFullScreenMenuItemClick, false));
+
+
+		displayMenu.add(new MenuItem(this, "-"));
+
+		displayMenu.add(this.sideCutMenu = new KAGMenuItem(this, "Trim Sides(&C)", 1, onSideCutMenuClick, false));
+		sideCutMenu.radio = false;
+		sideCutMenu.group = 2;
+
+		displayMenu.add(this.smallModeMenu = new KAGMenuItem(this, "Shrink Display(&S)", 1, onSmallModeMenuClick, false));
+		smallModeMenu.radio = false;
+		smallModeMenu.group = 3;
+
+		displayMenu.add(new MenuItem(this, "-"));
+
+		displayMenu.add(this.fullScreenModeMenu = new KAGMenuItem(this, "Fullscreen Type(&R)", 0, void, false));
+			fullScreenModeMenu.add(this.fullScreenModeFixedItem = new KAGMenuItem(this, "Expand with Monitor(&F)", 1, onFullScreenModeFixedItemClick, false));
+			fullScreenModeMenu.add(this.fullScreenModeVariableItem = new KAGMenuItem(this, "Expand with Game&V)", 1, onFullScreenModeVariableItemClick, false));
+
+
+
+
+	menu.add(this.helpMenu = new KAGMenuItem(this, "Help(&H)", 0, void, false));
+
+		helpMenu.add(this.helpIndexMenuItem = new KAGMenuItem(this, "Contents(&I) ...", 0,
+			onHelpIndexMenuItemClick, false));
+		helpMenu.add(this.helpAboutMenuItem = new KAGMenuItem(this, "About this game(&A) ...", 0,
+			onHelpAboutMenuItemClick, false));
+
+		helpMenu.add(new MenuItem(this, "-"));
+
+		helpMenu.add(this.helpGoSite1MenuItem = new KAGMenuItem(this, "Mille Feuille(&M) ...", 0,
+			onHelpGoSite1MenuItemClick, false));
+		helpMenu.add(this.helpGoSite2MenuItem = new KAGMenuItem(this, "KILL TIME COMMUNICATION(&N) ...", 0,
+			onHelpGoSite2MenuItemClick, false));
+
+	menu.add(this.debugMenu = new KAGMenuItem(this, "Debug(&D)", 0, void, false));
+
+		debugMenu.add(this.reloadScenarioMenuItem = new KAGMenuItem(this, "Reload Scenario Files(&R)", 1,
+			onReloadScenarioMenuItemClick, false));
+		debugMenu.add(this.showConsoleMenuItem = new KAGMenuItem(this, "Console(&C)\tShift+F4", 1,
+			onShowConsoleMenuItemClick, false));
+		debugMenu.add(this.showControllerMenuItem = new KAGMenuItem(this, "Controller(&S)\tShift+F1", 1,
+			onShowContollerMenuItemClick, false));
+
+}
+
+
+// 以下、KAG 用 メニューアイテムクラス
+class KAGMenuItem extends MenuItem
+{
+	// 基本的に MenuItem だが、指定されたイベント、あるいは
+	// 文字列を実行する機能を持つ
+	var owner;
+	var command;
+	var _accessible = true;
+	var _enabled = true;
+	var autoEnable = false;
+
+	function KAGMenuItem(window, caption, group, command, autoenable)
+	{
+		super.MenuItem(window, caption);
+		this.owner = window;
+		this.command = command;
+		this.autoEnable = autoenable;
+		if(group!=0)
+		{
+			this.group = group;
+			this.radio = true;
+		}
+	}
+
+	function finalize()
+	{
+		delete owner;
+		delete command;
+		super.finalize(...);
+	}
+
+	property enabled  // オーバーライド
+	{
+		getter { return _enabled; }
+		setter(x) { _enabled = x; super.enabled = _accessible && _enabled; }
+	}
+
+	property accessible
+	{
+		getter { return _accessible; }
+		setter(x) { _accessible = x; super.enabled = _accessible && _enabled; }
+	}
+
+	function click()
+	{
+		// click 動作
+		if(command !== void)
+		{
+			if(typeof command == "String")
+			{
+				Scripts.eval(command);
+			}
+			else
+			{
+				command(this);
+			}
+		}
+	}
+
+	function onClick()
+	{
+		super.onClick(...);
+		click();
+	}
+}
