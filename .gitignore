@@ -2,9 +2,14 @@
 /*
 
 # allow some files
-.gitignore
-.git/
-patch/
+!.gitignore
+!.git/
+!patch/
+!MSVCR71.dll
+!README.md
+!library.zip
+!patch.bat
+!xp3-repack.exe
 
 # # mezameruto original
 # data.xp3
