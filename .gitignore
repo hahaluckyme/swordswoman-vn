@@ -1,24 +1,32 @@
-# mezameruto original
-data.xp3
-extrans.dll
-fftgraph.dll
-krflash.dll
-krmovie.dll
-meruto.cf
-meruto.exe
-README.md
-wuvorbis.dll
-アンケート.txt
-マニュアル.txt
+# ignore everything in root
+/*
 
-# mezameruto runtime
-savedata/
+# allow some files
+.gitignore
+.git/
+patch/
 
-# krkr
-KrkrExtract.exe
-KrkrExtract.dll
-KrkrExtract_Output/
-KrkrExtract.db
+# # mezameruto original
+# data.xp3
+# extrans.dll
+# fftgraph.dll
+# krflash.dll
+# krmovie.dll
+# meruto.cf
+# meruto.exe
+# README.md
+# wuvorbis.dll
+# アンケート.txt
+# マニュアル.txt
 
-# compilation
-patch.xp3
+# # mezameruto runtime
+# savedata/
+
+# # krkr
+# KrkrExtract.exe
+# KrkrExtract.dll
+# KrkrExtract_Output/
+# KrkrExtract.db
+
+# # compilation
+# patch.xp3
