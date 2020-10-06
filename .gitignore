@@ -1,0 +1,24 @@
+# mezameruto original
+data.xp3
+extrans.dll
+fftgraph.dll
+krflash.dll
+krmovie.dll
+meruto.cf
+meruto.exe
+README.md
+wuvorbis.dll
+アンケート.txt
+マニュアル.txt
+
+# mezameruto runtime
+savedata/
+
+# krkr
+KrkrExtract.exe
+KrkrExtract.dll
+KrkrExtract_Output/
+KrkrExtract.db
+
+# compilation
+patch.xp3
