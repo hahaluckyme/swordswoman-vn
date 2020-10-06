@@ -9,4 +9,8 @@ https://github.com/xmoeproject/KrkrExtract/releases/tag/4.0.1.5
 ## compile
 1. click and drag meruto.exe onto KrkrExtract.exe
 
+2. drag data.xp3 onto the top header
 
+3. move all patch files from `KrkrExtract_Output/` to `patch/` (and unflatten)
+
+4. run `patch.bat` and then run the game.
