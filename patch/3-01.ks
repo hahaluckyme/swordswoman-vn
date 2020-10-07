@@ -165,7 +165,7 @@
 
 ;■自宅居間
 
-[eval exp="f.chaptertitle='A Parent Knows Not Their Child's Heart'"]
+[eval exp="f.chaptertitle='A Parent Knows Not Their Child\'s Heart'"]
 
 ;背景：リビング
 [BgSet storage="bg030"]
@@ -203,7 +203,7 @@
 [Face storage="f_a034"]
 [Voice storage="a0533" buf=2]
 【Ryou】[CR]
-「[v]H-Huh!? Y-Yeah, I [ita]do[endita] want to try it, but now isn't the best time...[/v]」[KeyWait]
+「[v]H-Huh!? Y-Yeah, I [ita]do[endita] want to try it, but now isnt the best time...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_k001"]
@@ -348,7 +348,7 @@
 
 [Face storage="f_l001"]
 【Mom】[CR]
-「[i]Oh my, that's no good. You're a cute girl now, Ryou-chan. We've got to dress you up in some cute girls' clothes to match! Aah, and we have to get you a new uniform for school, too! ♪[/i]」[KeyWait]
+「[i]Oh my, that's no good. You're a cute girl now, Ryou-chan. We've got to dress you up in some cute girls' clothes to match! Ahh, and we have to get you a new uniform for school, too! ♪[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a004"]
@@ -357,7 +357,10 @@
 「[v]G-Girls' clothes!? No way! I don't want to wear girls' clothes, absolutely not! I'm a guy! Really, the clothes I have are fine![/v]」[KeyWait]
 [FaceOff]
 
-[text]I knew I couldn't avoid wearing a female uniform, but I obviously didn't want to wear girls' clothes outside of school. Thankfully, changing genders didn't mean that my height changed or anything. My chest and butt got bigger, and my shoulders and waist got slimmer, but my old clothes were still fine.[KeyWait]
+[text]I knew I couldn't avoid wearing a female uniform, but I obviously didn't want to wear girls' clothes outside of school. Thankfully, changing genders didn't mean that my height changed or anything.[KeyWait]
+
+; too big, needed to split
+[text]My chest and butt got bigger, and my shoulders and waist got slimmer, but my old clothes were still fine.[KeyWait]
 [text]I was currently wearing a T-shirt and cargo pants I'd already owned, in fact. But...[KeyWait]
 
 [Face storage="f_l001"]
