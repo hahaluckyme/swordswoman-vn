@@ -203,7 +203,7 @@
 [Face storage="f_a034"]
 [Voice storage="a0533" buf=2]
 【Ryou】[CR]
-「[v]H-Huh!? Y-Yeah, I [ita]do[endita] want to try it, but now isnt the best time...[/v]」[KeyWait]
+「[v]H-Huh!? Y-Yeah, I [ita]do[endita] want to try it, but now isn't the best time...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_k001"]
@@ -864,7 +864,7 @@
 ;「んくうううぅぅ……んんっ、はっ、ああぁ……ふあっ、はっ、はぁん……はひゃあ……んぁ、く、んふぅぅっ……んくっ、ぁはあ、ああぁ、んん……んっ、あはぁ、ぅうん……んくっ、ぅあ、はあぁあ……」
 
 [text]I felt the boob I was groping heat up in the palm of my hand.[KeyWait]
-[text]I thought back to hot it felt to wear a bra. My heavy breasts usually rubbed against my shirt when they bounced, but with a bra, they were kept firmly in place. Having them be held by the soft fabric just felt so comfortable.[KeyWait]
+[text]I thought back to how it felt to wear a bra. My heavy breasts usually rubbed against my shirt when they bounced, but with a bra, they were kept firmly in place. Having them be held by the soft fabric just felt so comfortable.[KeyWait]
 [text]Naturally, I'd taken off my bra before going to bed, but I still felt the sensation vividly.[KeyWait]
 
 [ExVoice1 storage="aex03"]
@@ -1056,7 +1056,7 @@
 [FaceOff]
 
 [text]The orgasmic waves crashed down on me in a loop, pushing my mind toward its limit.[KeyWait]
-[text]I knew I couldn't afford to get carried away like this, but it didn't look like I was had any real chance of resisting.[KeyWait]
+[text]I knew I couldn't afford to get carried away like this, but it didn't look like I had any real chance of resisting.[KeyWait]
 [text]As I ran my fingers across the ball of bliss that was my body, the exhaustion I felt from the day before gradually helped my mind sink deeper and deeper into a comfortable sleep.[KeyWait]
 
 [BgmFadeOut time=2000]

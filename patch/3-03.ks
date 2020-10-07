@@ -68,7 +68,7 @@
 「[i]You look like you'd be great at sports! What club are you gonna join!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]But apparently, their curiousity had just gotten them really excited.[KeyWait]
+[text]But apparently, their curiosity had just gotten them really excited.[KeyWait]
 
 [Face storage="f_a034"]
 [Voice storage="a0644" buf=2]
@@ -111,7 +111,7 @@
 [Face storage="f_a034"]
 [Voice storage="a0646" buf=2]
 【Haruka】[CR]
-（[v]Ah, d-don't tell me... Is she... worrieda bout me because she thinks I'm sick?[/v]）[KeyWait]
+（[v]Ah, d-don't tell me... Is she... worried bout me because she thinks I'm sick?[/v]）[KeyWait]
 [FaceOff]
 
 [ChrReset0]

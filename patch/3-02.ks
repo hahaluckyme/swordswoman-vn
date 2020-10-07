@@ -69,10 +69,10 @@
 [Face storage="f_a035"]
 [Voice storage="a0616" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v]Ichijou Ryou got hit with a hereditary illness and is staying with the main family to get treated. In his place,  his twin sister who was adopted by the main family, Ichijou Haruka, will be living at this house and enrolling at Modoribashi Academy...[/v]Åv[KeyWait]
+Åu[v]Ichijou Ryou got hit with a hereditary illness and is staying with the main family to get treated. In his place, his twin sister who was adopted by the main family, Ichijou Haruka, will be living at this house and enrolling at Modoribashi Academy...[/v]Åv[KeyWait]
 [FaceOff]
 
-[text]After coming hoe from shopping last night, someone fro mthe main family came to check up on me, and consulted with my parents to make up a story. I repeated that story out loud to confirm it to myself.[KeyWait]
+[text]After coming home from shopping last night, someone from the main family came to check up on me, and consulted with my parents to make up a story. I repeated that story out loud to confirm it to myself.[KeyWait]
 [text]It was decided that hiding my identity would be the safest course of action, not only in order to conceal the truth from Yume, but also to avoid any panic at school.[KeyWait]
 
 [Face storage="f_a003"]

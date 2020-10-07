@@ -204,7 +204,7 @@
 [Face storage="f_p033"]
 [Voice storage="g0003" buf=2]
 ÅyFemale Student 3Åz[CR]
-Åu[v]You're tall and you've got big boobs, too!  I'm gonna touch'em! Take this![/v]Åv[KeyWait]
+Åu[v]You're tall and you've got big boobs, too!  I'm gonna touch 'em! Take this![/v]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_p053"]

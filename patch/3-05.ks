@@ -141,7 +141,7 @@
 
 [text]I hesitated in front of my friends, who seemed different from usual. They were almost like different people entirely.[KeyWait]
 [text]I couldn't let my guard down in front of the two starving animals. I naturally assumed a defensive mindset.[KeyWait]
-[text]Ther was no helping them looking at me as a girl, though, considering they don't know I'm Ichijou Ryou...[KeyWait]
+[text]There was no helping them looking at me as a girl, though, considering they don't know I'm Ichijou Ryou...[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a0732" buf=2]
@@ -280,7 +280,7 @@
 [FaceOff]
 
 [text]I had no clue what they might possibly do to me.[KeyWait]
-[text]Even now, they were sneaking peverted glances at Yume and Kimino's chests and bloomers.[KeyWait]
+[text]Even now, they were sneaking perverted glances at Yume and Kimino's chests and bloomers.[KeyWait]
 
 [Face storage="f_a011"]
 [Voice storage="a0739" buf=2]

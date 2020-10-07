@@ -320,7 +320,7 @@
 [Face storage="f_a910"]
 [Voice storage="a0215" buf=2]
 ÅyRyouÅz[CR]
-Åu[v]Phew... Man, Yume's way too defenseless... Anyway, she thinks that what happened alst night is a dream, huh... Well, I guess that's just like her.[/v]Åv[KeyWait]
+Åu[v]Phew... Man, Yume's way too defenseless... Anyway, she thinks that what happened last night is a dream, huh... Well, I guess that's just like her.[/v]Åv[KeyWait]
 [FaceOff]
 
 [text]I sighed and wiped the sweat off my brow. My pulse was racing and wouldn't slow.[KeyWait]
