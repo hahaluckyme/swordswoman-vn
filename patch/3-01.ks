@@ -650,7 +650,7 @@
 
 [Face storage="f_l002"]
 ÅyMomÅz[CR]
-Åu[i]Girls can't hold their pee like boys can at all. The urge to go will different than before too, so if you try to hold it like you used to, you probably won't make it.[/i]Åv[KeyWait]
+Åu[i]Girls can't hold their pee like boys can at all. The urge to go will be different than before too, so if you try to hold it like you used to, you probably won't make it.[/i]Åv[KeyWait]
 [FaceOff]
 
 ;çïâÊñ 
@@ -741,7 +741,7 @@
 [seopt buf=4 volume=0]
 [fadese buf=4 time=2000 volume=100]
 
-[text]With everything that happened during the day, I should ahve been feeling down.[KeyWait]
+[text]With everything that happened during the day, I should have been feeling down.[KeyWait]
 [text]Rather, perhaps that's [ita]why[endita] I felt aroused when it was time to go to bed. I began thinking of dirty things as I groped my body.[KeyWait]
 
 [Face storage="f_a039"]
