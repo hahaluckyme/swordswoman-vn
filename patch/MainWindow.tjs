@@ -2769,7 +2769,7 @@ class KAGWindow extends Window
 
 //ryo--;
 		if(fullScreen || smallMode){
-			result = askYesNo("Would you like to return to the title screen?Would you like to return to the title screen?");
+			result = askYesNo("Would you like to return to the title screen?");
 		}else{
 			result = askYesNo2("Would you like to return to the title screen?");
 		}
