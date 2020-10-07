@@ -1,0 +1,23 @@
+{
+  "name": "swordswoman-vn",
+  "version": "0.3.0",
+  "description": "https://github.com/xmoeproject/KrkrExtract/releases/tag/4.0.1.5\r 1. download krkrextract. check and make sure neither the exe or the dll are 0 kb if browser blocks them.",
+  "main": "",
+  "scripts": {
+    "patch": "patch.bat",
+    "watch": "nodemon --exec npm run patch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahaluckyme/swordswoman-vn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hahaluckyme/swordswoman-vn/issues"
+  },
+  "homepage": "https://github.com/hahaluckyme/swordswoman-vn#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

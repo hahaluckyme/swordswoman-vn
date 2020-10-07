@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoGuessEncoding": true,
+		"files.encoding": "shiftjis"
+	}
+}

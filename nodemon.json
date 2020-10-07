@@ -1,0 +1,4 @@
+{
+  "watch": ["patch/"],
+  "ext": "ks, tjs"
+}

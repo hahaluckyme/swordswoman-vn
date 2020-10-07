@@ -10,6 +10,10 @@
 !library.zip
 !patch.bat
 !xp3-repack.exe
+!nodemon.json
+!package.json
+!package-lock.json
+!workspace.code-workspace
 
 # # mezameruto original
 # data.xp3
