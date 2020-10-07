@@ -377,7 +377,7 @@
 [Face storage="f_a042"]
 [Voice storage="a0551" buf=2]
 ÅyRyouÅz[CR]
-Åi[v]U-Urabe's always saying dirt stuff, so I'm sure he'd love wearing girls' underwear, b-but I'm not a pervert like he is![/v]Åj[KeyWait]
+Åi[v]U-Urabe's always saying dirty stuff, so I'm sure he'd love wearing girls' underwear, b-but I'm not a pervert like he is![/v]Åj[KeyWait]
 [FaceOff]
 
 [text]It was true that my boxers felt strangely coarse, and that it hurt a little when they rubbed against sensitive spots. Not to mention my boobs shook around a lot, and the pain from my nipples rubbing against my shirt was a constant distraction.[KeyWait]
@@ -443,7 +443,7 @@
 
 [text]Inside my own head, I laughed dejectedly, then cursed my parents.[KeyWait]
 [text]In just a single moment, my name had been turned into a cute girlish one alongside my body.[KeyWait]
-[text]I was already flustered enough at my body changing. But now my name had been changed, and with my mom was trying to force me to wear girls' clothes and even underwear.[KeyWait]
+[text]I was already flustered enough at my body changing. But now my name had been changed, and my mom was trying to force me to wear girls' clothes and even underwear.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0554" buf=2]
@@ -523,7 +523,7 @@
 [FaceOff]
 
 [text]I panicked, not prepared to handle this at all.[KeyWait]
-[text]My urge to pee was getting stronger by the second, I could practically feel it ready to burst down my shirt urethra.[KeyWait]
+[text]My urge to pee was getting stronger by the second, I could practically feel it ready to burst down my short urethra.[KeyWait]
 
 [Face storage="f_a042"]
 [Voice storage="a0561" buf=2]
