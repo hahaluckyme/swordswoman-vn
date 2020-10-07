@@ -80,7 +80,7 @@
 
 [Face storage="f_p041"]
 ÅyFemale Student DÅz[CR]
-Åu[i]You've got that quiet, beautiful girl look. Maybe I'll call you Onee-sama? [/i]Åv[KeyWait]
+Åu[i]You've got that quiet, beautiful girl look. Maybe I'll call you Onee-sama?[/i]Åv[KeyWait]
 [FaceOff]
 
 [text]I'd also thought that my face was refined and well-shaped, making me rather pretty, but I'd never expected to have girls my age hoping that they could look like me.[KeyWait]
@@ -111,7 +111,7 @@
 [Face storage="f_a034"]
 [Voice storage="a0646" buf=2]
 ÅyHarukaÅz[CR]
-Åi[v]Ah, d-don't tell me... Is she... worried bout me because she thinks I'm sick?[/v]Åj[KeyWait]
+Åi[v]Ah, d-don't tell me... Is she... worried about me because she thinks I'm sick?[/v]Åj[KeyWait]
 [FaceOff]
 
 [ChrReset0]

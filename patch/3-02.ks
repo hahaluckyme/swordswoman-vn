@@ -126,7 +126,7 @@
 『[v]I'm Ichijou Ryou! ♪ When I woke up, I'd turned into a girl! ♪[/v]』[KeyWait]
 [FaceOff]
 
-[text]It was [ita]far[endita] better than the alternative.KeyWait]
+[text]It was [ita]far[endita] better than the alternative.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0623" buf=2]
@@ -146,7 +146,7 @@
 [Face storage="f_a046"]
 [Voice storage="a0625" buf=2]
 【Haruka】[CR]
-「[v]O-Oh, right... I need one of these, too...そ、そっか、これも……か……[/v]」[KeyWait]
+「[v]O-Oh, right... I need one of these, too...[/v]」[KeyWait]
 [FaceOff]
 
 [text]After realizing I needed one, I grabbed the article of clothing that, outside of having a specific fetish, no guy would ever wear in his life - a bra.[KeyWait]

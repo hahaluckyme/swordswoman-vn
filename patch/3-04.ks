@@ -112,7 +112,7 @@
 [FaceOff]
 
 [text]It wasn't Yume and Kimino. Instead, the other girls, who had already finished changing, came over and playfully hugged me in their gym uniforms.[KeyWait]
-[text]I pushed away their hands as they started groping my  chest through my clothes and took a step back, but they all took steps forward, almost as if they were trying to trap me.[KeyWait]
+[text]I pushed away their hands as they started groping my chest through my clothes and took a step back, but they all took steps forward, almost as if they were trying to trap me.[KeyWait]
 
 [Face storage="f_p022"]
 [Voice storage="f0001" buf=2]
@@ -350,7 +350,7 @@
 [Face storage="f_p013"]
 [Voice storage="e0006" buf=2]
 【Female Student 1】[CR]
-「[v]Wow, your boobs really are [ita]are[endita] huge... They feel so nice to the touch, too! They're soft but perky, they feel great, I could get hooked on them![/v]」[KeyWait]
+「[v]Wow, your boobs really [ita]are[endita] huge... They feel so nice to the touch, too! They're soft but perky, they feel great, I could get hooked on them![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex36"]
@@ -366,7 +366,7 @@
 [Face storage="f_a030"]
 [Voice storage="a0681" buf=3]
 【Haruka】[CR]
-（[v]K-Kuh... This... girl...!く……ぅ……、この……子ぉ……ッ！[/v]）[KeyWait]
+（[v]K-Kuh... This... girl...![KeyWait]
 [FaceOff]
 
 [text]I knew I had to make her stop, but her skillful touch felt strangely good.[KeyWait]
@@ -406,7 +406,7 @@
 「[v]Hyuuh! Aah, haaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]It had the opposite effect. The slipped her whole hands underneath my bra and began playing with my swollen nipples.[KeyWait]
+[text]It had the opposite effect. She slipped her whole hands underneath my bra and began playing with my swollen nipples.[KeyWait]
 [text]Blazing-hot sparks of pleasurable pain shot forth from the hard nubs as she rolled them between her fingertips.[KeyWait]
 
 [ExVoice1 storage="aex07"]
@@ -435,7 +435,7 @@
 [CgSet storage="EV304c"]
 [UpDate]
 
-[text]My struggling made my bra flip up, revealing my brae breasts in their entirety.[KeyWait]
+[text]My struggling made my bra flip up, revealing my bare breasts in their entirety.[KeyWait]
 
 [Face storage="f_p023"]
 [Voice storage="f0006" buf=5]
@@ -800,7 +800,7 @@
 [Face storage="f_p013"]
 [Voice storage="e0015" buf=5]
 【Female Student 1】[CR]
-「[v]Fwah, I-I can't hold back either. I'm gonna help mysel fto your boobs![/v]」[KeyWait]
+「[v]Fwah, I-I can't hold back either. I'm gonna help myself to your boobs![/v]」[KeyWait]
 [FaceOff]
 
 [text]Everyone started sucking all at once.[KeyWait]
@@ -875,7 +875,7 @@
 [Face storage="f_p013"]
 [Voice storage="e0016" buf=2]
 【Female Student 1】[CR]
-「[v]Haaaah, your boobs felt so  nice and soft, Haruka-chan...[/v]」[KeyWait]
+「[v]Haaaah, your boobs felt so nice and soft, Haruka-chan...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p023"]

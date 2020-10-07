@@ -74,7 +74,7 @@
 Åu[v]Yume, Kimi... No, Sakatani-san...[/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I just about called Kimino by her given name even though Haruka hadn't met her yet.ÅB[KeyWait]
+[text]I just about called Kimino by her given name even though Haruka hadn't met her yet.[KeyWait]
 [text]I quickly corrected myself and called out to them, but just then-[KeyWait]
 
 [Face storage="f_i001"]
@@ -101,7 +101,7 @@
 [text]And that's all you need to know![KeyWait]
 [text]Moving on, to Haruka, they were both strangers.[KeyWait]
 [text]I was about to respond to them, but kept my mouth shut and instead stood there an[KeyWait]
-[text]The two of them rudely looked all over my body as if they were licking it with my eyes as they began introducing themselves.[KeyWait]
+[text]The two of them rudely looked all over my body as if they were licking it with their eyes as they began introducing themselves.[KeyWait]
 
 [Face storage="f_i001"]
 ÅyUrabeÅz[CR]
