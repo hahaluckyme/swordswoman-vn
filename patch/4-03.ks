@@ -156,7 +156,7 @@
 [Face storage="f_d002"]
 [Voice storage="d0003" buf=2]
 【Hideko】[CR]
-「[v]Ladies and gentlemen! Coming straight to you from Modoribashi Academy's high school student council today, to commemorate of the completion of our new inground pool, we'll be hosting our first-ever mixed gender water cavalry competition (with some potential wardrobe malfunctions ♪)![/v]」[KeyWait]
+「[v]Ladies and gentlemen! Coming straight to you from Modoribashi Academy's high school student council today, to commemorate of the completion of our new inground pool, we'll be hosting our first-ever mixed gender pool cavalry competition (with some potential wardrobe malfunctions ♪)![/v]」[KeyWait]
 [FaceOff]
 
 【Students】[CR]
@@ -177,7 +177,7 @@
 [Face storage="f_d001"]
 [Voice storage="d0005" buf=2]
 【Hideko】[CR]
-「[v]The last team standing will receive 10,000 worth of meal tickets for the cafeteria, as well as a two-person ticket for a two-day, one-night stay at an inn with a luxurious outdoor onsen![/v]」[KeyWait]
+「[v]The last team standing will receive 10,000 yen worth of meal tickets for the cafeteria, and each member of the team of the team will also receive a pair ticket for a two-day, one-night stay at an inn with a luxurious outdoor onsen![/v]」[KeyWait]
 [FaceOff]
 
 【Students】[CR]
@@ -213,146 +213,146 @@
 「[i]No, I'd wanna aim for the top! I mean, it's a trip to an onsen inn![/i]」[KeyWait]
 [FaceOff]
 
-[text]いままで観戦を決め込んでいた生徒たちが急造でチームを編成し、次々とエントリーしてくる。[KeyWait]
+[text]A bunch of students who were initially just going to spectate hastily formed teams and entered the competition one after another.[KeyWait]
 
 [Face storage="f_d002"]
 [Voice storage="d0007" buf=2]
 【Hideko】[CR]
-「[v]あっはっはっは～、チャンスは己の手で勝ち取れ～！　見てるだけじゃ、何も得ることは出来ないぞー！！[/v]」[KeyWait]
+「[v]Ahahaha, grasp this chance with your own hands! You won't gain anything from just watching![/v]」[KeyWait]
 [FaceOff]
 
-[text]その様を満足げに見渡し、高笑いしながらさらに煽る。[KeyWait]
-[text]どうしようかと迷っていた連中が、見事に乗せられて参加してきた。[KeyWait]
+[text]The president looked over the students, appearing satisfied, and gave a triumphant laugh to get them more fired up. [KeyWait]
+[text]She'd totally managed to get the hesitant students on board with competing.[KeyWait]
 
 [Face storage="f_d002"]
 [Voice storage="d0008" buf=2]
 【Hideko】[CR]
-「[v]さーてと！　この戦場に集った勇者たちよ、いよいよ決戦の時が迫ったぜ――っ！！　出場手続きの済んだチームは四人ひとまとまりになって、係員の指示に従い準備をして下さいッッ！[/v]」[KeyWait]
+「[v]Now then! O, heroes who have gathered at this battlefield, it's finally time for your showdown! All teams who have finished applying, get together in groups of four and prepare as the attendants instruct you![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se716" buf=0]
 
 【Students】[CR]
-「[i]うぉおおおおおおおぉ――――――――――ッ！！[/i]」[KeyWait]
+「[i]Uwoooooooooooooooooooh![/i]」[KeyWait]
 [FaceOff]
 
 [SoundOut buf=7 time=1000]
 [ChrReset0]
 [UpDate]
 
-[text]最後は事務的な連絡事項なのに、声のテンションが高いからみんな一斉に雄叫びを上げた。[KeyWait]
+[text]Even though she'd only given them clerical instructions, her excited voice still got the students roaring.[KeyWait]
 
 [Face storage="f_b002"]
 [Voice storage="b0071" buf=2]
 【Yume】[CR]
-「[v]それじゃあ、二人とも頑張ってねー！[/v]」[KeyWait]
+「[v]Okay, good luck, you two![/v]」[KeyWait]
 [FaceOff]
 
-[text]結女がボクと希美乃に声援を送り、観客席の方へと下がってゆく。[KeyWait]
+[text]Yume wished us luck then headed off to the stands.[KeyWait]
 
 [ChrSet0 storage="b_g021"]
 [UpDate]
 
 [Face storage="f_g001"]
-【渡辺】[CR]
-「[i]ああ、いたいた！　はるかさんっ！！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Ahh, found you! Haruka-san![/i]」[KeyWait]
 [FaceOff]
 
-[text]それと同時に、渡辺、浦辺、薄井の三人が、にやついた笑みを浮かべながら一目散にこちらへ向かってきた。[KeyWait]
+[text]At the same time, Watanabe, Urabe, and Usui ran up to me with grins on their faces.[KeyWait]
 
 [Face storage="f_a035"]
 [Voice storage="a0799" buf=2]
 【Haruka】[CR]
-（[v]まったく……だらしない顔しやがって。本当はボクは一条遼だっていうのに……[/v]）[KeyWait]
+（[v]Geez... I hate those perverted faces. Seriously, come on, I'm actually Ichijou Ryou...[/v]）[KeyWait]
 [FaceOff]
 
-[text]水中騎馬戦は、男子生徒が作った馬の上に女子が騎乗することになっている。[KeyWait]
+[text]During the pool cavalry competition, us girls would be sitting on boys that would act as our "horses."[KeyWait]
 
 [Face storage="f_a056"]
 [Voice storage="a0800" buf=2]
 【Haruka】[CR]
-（[v]急に出場することになったし、他の誰かを選んでいる暇なかったからな……[/v]）[KeyWait]
+（[v]Because I ended up joining so suddenly, I didn't have time to find anyone else...[/v]）[KeyWait]
 [FaceOff]
 
-[text]それで仕方なく、男の姿で親しいこの三人に馬の役を頼んだのだ。[KeyWait]
+[text]With no way around it, I'd chosen the friends I had as a guy as my horses.[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a0801" buf=2]
 【Haruka】[CR]
-（[v]まあ、一応一番親しい友達なんだし、チームワークも問題ない……って、思う……んだけど……[/v]）[KeyWait]
+（[v]Well, they were my closest friends, so we should have good teamwork... I-I think...[/v]）[KeyWait]
 [FaceOff]
 
-[text]ボクの身体を舐め回すように見詰めながら、ますますだらしなく弛んでゆくヤツらの表情に不安が込み上げる。[KeyWait]
+[text]As I saw their faces get even more perverted as they licked me all over with their eyes, I began to get a little worried.[KeyWait]
 
 [Face storage="f_h003"]
-【薄井】[CR]
-「[i]俺たちはるかちゃんのためだったら、死ぬ覚悟で戦います！[/i]」[KeyWait]
+【Usui】[CR]
+「[i]I'm prepared to die fighting for your sake, Haruka-chan![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a0802" buf=2]
 【Haruka】[CR]
-「[v]よし、じゃあお前は陰腹切って戦いに望め！　試合終了と共に天に召されればさぞかし感動ものだなっ！！[/v]」[KeyWait]
+「[v]Okay, then slit your stomach before we start! Once we're finished, you can have a touching scene where you go to heaven![/v]」[KeyWait]
 [FaceOff]
 
-[text]しかし彼らが声を張り上げて決意を露わにすると、思わずいつものようにツッコミを入れてしまう。[KeyWait]
+[text]But the more they got enthusiastic, the more I wanted to poke fun at what they were saying.[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
-「[i]ぬおお、優勝したらはるか様とお泊まりで温泉旅行っ！！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Heck yeah, if we win, I get to go to an onsen with Haruka-sama![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a0803" buf=2]
 【Haruka】[CR]
-「[v]そこら辺の水溜まりで行水でもしてろ！！　そして捕まれ、警察にッ。スペシャルなスイートルームにお泊まり出来るから！[/v]」[KeyWait]
+「[v]Go find a puddle and take a bath in that, then get arrested! You'll get a night in the special suite![/v]」[KeyWait]
 [FaceOff]
 
-[text]こんなやりとりが妙に楽しく、そして懐かしい気がした。[KeyWait]
-[text]ボクが男の身体だったのはほんの数日前のことだというのに、なんだか遠い昔だったような錯覚に陥る。[KeyWait]
+[text]This back-and-forth was strangely fun, and kind of nostalgic, too.[KeyWait]
+[text]I'd been a guy just a few days ago, but it felt like that was a long time ago now.[KeyWait]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
-「[i]ドゥフフ、[eruby str="漲" text="みなぎ"]りますなあ。美少女に鞭を食らい駄馬としてこき使われるこの喜びッ[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]Dufufu, this is exhilarating. Being used as a workhorse by a beauty like you will be such a joy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a026"]
 [Voice storage="a0804" buf=2]
 【Haruka】[CR]
-「[v]気色悪いわっ！[/v]」[KeyWait]
+「[v]Gross![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se223" buf=0]
 
-[text]スパコーン！！[KeyWait]
+[text]Slap![KeyWait]
 
-[text]浦辺のセリフに、反射的に頭を引っぱたく。途端――。[KeyWait]
+[text]I reflexively slapped Urabe upside the head. And right after I did-[KeyWait]
 
 [Face storage="f_g001"]
-【渡辺】[CR]
-「[i]おお、さすがは遼の双子の姉！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Whoa, as expected of Ryou's twin sister![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h001"]
-【薄井】[CR]
-「[i]あいつと寸分違わぬツッコミの妙だな、ナイスＤ・Ｎ・Ａ！！[/i]」[KeyWait]
+【Usui】[CR]
+「[i]You respond just the way he does to our jokes! You've got the same DNA, nice![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i001"]
-【浦辺】[CR]
-「[i]しかも奴にはない、熟れ熟れのおっぱいが……オゥフ、眼福眼福[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]And plus, unlike him, you've got those supple, supple breasts... Oufuh, what a feast for my eyes...[/i]」[KeyWait]
 [FaceOff]
 
-[text]彼らが一斉にはしゃぎ立てた。[KeyWait]
+[text]All three of them got excited at once.[KeyWait]
 
 [Face storage="f_a055"]
 [Voice storage="a0805" buf=2]
 【Haruka】[CR]
-（[v]ボクの反応が遼……って、こいつら、気付いてくれた！！[/v]）[KeyWait]
+（[v]I respond like Ryou...? Wait, they actually noticed![/v]）[KeyWait]
 [FaceOff]
 
-[text]本当なら疑いを避けるためにも、似ないように心がけなくちゃいけない。[KeyWait]
-[text]それでも友人たちがボクの面影を感じてくれることが嬉しい。なのに――。[KeyWait]
+[text]In reality, I knew that I had to avoid acting like my old self to avoid suspicion.[KeyWait]
+[text]But at the same time, I felt kind of happy that they recognized me. However-[KeyWait]
 
 [ChrReset0]
 [UpDate]
@@ -363,64 +363,64 @@
 [Face storage="f_a046"]
 [Voice storage="a0806" buf=2]
 【Haruka】[CR]
-（[v]あうっ！！　こ、こいつら、ボクの水着……見てる！　お、おっぱい、とか……エッチな目でッ！！[/v]）[KeyWait]
+（[v]Auh! T-They're looking at my swimsuit! M-My boobs, too... They're looking at me pervertedly![/v]）[KeyWait]
 [FaceOff]
 
-[text]いまのボクの身体は、どうしても彼らに性的な対象として見られてしまう。[KeyWait]
+[text]As I was now, they would always look at me in a sexual light.[KeyWait]
 
 [Face storage="f_a009"]
 [Voice storage="a0807" buf=2]
 【Haruka】[CR]
-（[v]み、見ないで欲しい……けど……[/v]）[KeyWait]
+（[v]I-I don't want them to look... But...[/v]）[KeyWait]
 [FaceOff]
 
-[text]それが無理なことが、元々男なだけにいやというほどよく分かる。[KeyWait]
+[text]Since I was a guy, I knew all-too well just how unavoidable this was.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a0808" buf=2]
 【Haruka】[CR]
-（[v]ボ、ボクも……結女とか希美乃を、エッチな目で、盗み見してた……から……[/v]）[KeyWait]
+（[v]After all, I-I... stole perverted glances at Yume and Kimino too...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a0809" buf=2]
 【Haruka】[CR]
-（[v]ああ、チラチラ見てる……。ボクの、おっぱいとか……股間……。スク水姿のボクを……エッチな目で……[/v]）[KeyWait]
+（[v]Ahh, they keep glancing at me... My boobs... and my crotch... They're looking at me pervertedly... in my school swimsuit...[/v]）[KeyWait]
 [FaceOff]
 
-[text]恥ずかしいし、いやなのに、それと同時に見られることへの変な気持ち良さが心の奥に芽生えた。[KeyWait]
+[text]Though it was embarrassing and unpleasant being looked at it, I also felt a strange pleasure budding in my heart.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a0810" buf=2]
 【Haruka】[CR]
-（[v]って、浦辺お前は、もう少し遠慮しろってば！　あからさまにジロジロ見やがって！！　普通に気色悪いよ！[/v]）[KeyWait]
+（[v]Come on, guys, give me a rest already! You're staring at me way too blatantly! It's just disgusting![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a0811" buf=2]
 【Haruka】[CR]
-（[v]それにしても……、上半身から下半身まで水着にぴっちり包まれてるって、なんか変な感じ……。男の時は海パン一枚で気楽だったのに……[/v]）[KeyWait]
+（[v]But, beside that... Having both my upper and lower body be covered by this tight swimsuit feels kinda weird... Wearing shorts as a guy was so much easier...[/v]）[KeyWait]
 [FaceOff]
 
-[text]しかも長身な上に、胸とかお尻とかの発育がかなりいいので、タイトに締め付けられる感じが息苦しくて仕方ない。[KeyWait]
+[text]Plus, due to my height, as well as my rather large breasts and butt, the swimsuit felt even tighter and more uncomfortable.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a0812" buf=2]
 【Haruka】[CR]
-（[v]特に、おっぱい収まりきってなくてはみ出しかけてるし……。うう……胸の谷間、見えてるし……。わ、渡辺とか……背の高いヤツに覗かれちゃうよ……[/v]）[KeyWait]
+（[v]My boobs, especially... They're sticking out a little because they won't fit... Uhh... My cleavage is showing... W-Watanabe and the other tall boys are gonna see....[/v]）[KeyWait]
 [FaceOff]
 
-[text]大きいおっぱいは好きだけど、自分の胸に付いているとこれほど厄介なものだなんて思わなかった。[KeyWait]
+[text]I liked big boobs, but I would have never imagined having them on my own chest would be such a nuisance.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0813" buf=2]
 【Haruka】[CR]
-「[v]な、なにイヤラシイ目で見てんだよっ！　あっち向け、ばかぁっ！！[/v]」[KeyWait]
+「[v]S-Stop staring at me like that, you perverts! Look somewhere else![/v]」[KeyWait]
 [FaceOff]
 
-[text]一度意識してしまうと、もう耐えられない。[KeyWait]
-[text]食い入るような男たちの視線に顔を火照られ、胸元を両腕で庇いながら涙目で睨みつける。[KeyWait]
-[text]全くの逆効果だった。[KeyWait]
+[text]Once I noticed it, it became totally unbearable.[KeyWait]
+[text]I blushed from the gazes eating into my body and glared at them with teary eyes as I covered my chest with my arms.[KeyWait]
+[text]But it had the opposite effect.[KeyWait]
 
 [ChrReset0]
 [UpDate]
@@ -429,34 +429,34 @@
 [UpDate]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
-「[i]は……はるかさんっ！　受精とはいいませんっ！！　まずは挿入だけでもいいですから、俺とベッドインしてくださいっ！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]H-Haruka-san! I won't ask to impregnate you! Just sticking it in would be enough for me, so please, let me get in bed with you![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h003"]
-【薄井】[CR]
-「[i]なに図々しいこといってんだ、この馬鹿ッ！　はるかちゃんっ、こんなヤツ放っといて、俺とマジで付き合わない？　俺の熱く[eruby str="滾" text="たぎ"]る思いで、キミに全力のダンクシュートをキメたいんだ！[/i]」[KeyWait]
+【Usui】[CR]
+「[i]Where do you get off saying that, you dumbass!? Haruka-chan, how about you forget this guy and go out with me? I wanna slam dunk you with my burning-hot feelings![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
-「[i]下郎どもが、何と図々しい！　はるか様の高貴なお身体を穢そうとは、無礼千万。それよりも、はるか様～、この卑しい拙者を憐れな下僕としてお飼いくだりませっ！[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]You impudent fools! I can't believe you'd be so insolent as to try to dirty Haruka-sama's precious body! Haruka-sama, please take me as your lowly slave![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
-「[i]うぉふっ、そ、その、氷のように冷ややかな眼差しで蔑み見て、口汚いお言葉で罵りくだされ……ッ、あうっ、あふぅ、おぅふっ、んはぁ、はあ、ハァハァハァ！[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]Oufuh, p-please, glare at me with that icy gaze of yours and abuse me with filthy words... Auh, afuh, oufuh, nhaah, haah, haah, haah, haah![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a047"]
 [Voice storage="a0814" buf=2]
 【Haruka】[CR]
-「[v]……………………………………[/v]」[KeyWait]
+「[v].........[/v]」[KeyWait]
 [FaceOff]
 
-[text]お互いを押しのけながら迫ってこようとする三人に、言葉を失い後ずさった。[KeyWait]
-[text]背筋に寒気が走り、鳥肌が立つ。[KeyWait]
-[text]男同士でつるんでいる時は気が合う面白いヤツらだったのに、女となって迫られると鬱陶しくて気持ち悪くて仕方がない。[KeyWait]
+[text]I backed away, at a total loss for words as the three boys pushed against one another and drew closer to me.[KeyWait]
+[text]I felt a chill run up my spine, and I got goosebumps.[KeyWait]
+[text]Back when I hung with them as a guy, I got along with them just fine, but now that I was a girl and they were hitting on me, interacting with them just made me irritated and disgusted.[KeyWait]
 
 [ChrReset0]
 [UpDate]
@@ -464,10 +464,10 @@
 [Face storage="f_a046"]
 [Voice storage="a0815" buf=2]
 【Haruka】[CR]
-（[v]あいつらと騎馬戦なんて冗談じゃない……。やっぱり出場は辞退しよう……[/v]）[KeyWait]
+（[v]I can't do the cavalry battle with these guys... I'll just drop out after all...[/v]）[KeyWait]
 [FaceOff]
 
-[text]溜め息を吐いて立ち去ろうとするが、[KeyWait]
+[text]I sighed and went to leave, but just then-[KeyWait]
 
 [ChrSet0 storage="b_c031"]
 [UpDate]
@@ -475,62 +475,62 @@
 [Face storage="f_c017"]
 [Voice storage="c0037" buf=2]
 【Kimino】[CR]
-「[v]は～る～かっ♪[/v]」[KeyWait]
+「[v]Haaruukaa!　♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]希美乃が行く手を遮った。[KeyWait]
+[text]Kimino appeared to block my path.[KeyWait]
 
 [Face storage="f_a036"]
 [Voice storage="a0816" buf=2]
 【Haruka】[CR]
-（[v]希美乃……。改めてこうして見ると、やっぱり水着、似合ってるよな。水泳で鍛えられて身体引き締まってるし、競泳用の水着だからますます格好良く見える[/v]）[KeyWait]
+（[v]Kimino... Looking at her again, she looks really good in a swimsuit, huh. She's fit from all the swimming she does, and wearing a competition swimsuit compliments that further.[/v]）[KeyWait]
 [FaceOff]
 
-[text]控えめな胸の大きさも、むしろ彼女の躍動的な魅力を際立たせるのに一役買っていた。[KeyWait]
-[text]しかも後ろに、逞しい男子水泳部員三人を従えて、女王様的雰囲気さえ漂わせている。[KeyWait]
-[text]思わず見とれてしまうと、人懐っこい顔が不敵な笑みを浮かべた。[KeyWait]
+[text]Her modest chest actually helped boost her sporty charm.[KeyWait]
+[text]Plus, with the three boys from the swimming club behind her, she looked just like a queen.[KeyWait]
+[text]After a few moments of accidentally staring at her, an invincible smile formed on her cheerful face.[KeyWait]
 
 [Face storage="f_c001"]
 [Voice storage="c0038" buf=2]
 【Kimino】[CR]
-「[v]そっちのチームの調子はどう？　なんか揉めてるみたいだけど～[/v]」[KeyWait]
+「[v]How's your team doing? You kinda seem like you're fighting...[/v]」[KeyWait]
 [FaceOff]
 
-[text]調子も何も、最悪だ。あんなセクハラ野郎どもが組んだ馬になんか乗ったら、何されるか分かったもんじゃない。[KeyWait]
+[text]We were doing terribly. I had no idea how I'd be sexually harassed if I got onto these assholes' shoulders.[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a0817" buf=2]
 【Haruka】[CR]
-「[v]ボ、ボクは……[/v]」[KeyWait]
+「[v]W-Well, I...[/v]」[KeyWait]
 [FaceOff]
 
-[text]こんな茶番になんか付き合ってられない。そう告げようとしたが、希美乃は挑発するように言葉を続ける。[KeyWait]
+[text]Just as I was about to tell Kimino that I couldn't put up with this nonsense any longer, Kimino went on, almost as if to stir me up.[KeyWait]
 
 [Face storage="f_c001"]
 [Voice storage="c0039" buf=2]
 【Kimino】[CR]
-「[v]出場するからには当然優勝狙ってるんでしょ？　もちろんあたしもよ。なんたって一泊二日の温泉旅行、しかもペアチケットだものね。あたしは結女を誘って行こうかな～[/v]」[KeyWait]
+「[v]If you're participating, you're gonna aim for the top, right? So am I, of course. I mean, I want those two-day, one-night pair tickets. Maybe I'll invite Yume to go with me...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a0818" buf=2]
 【Haruka】[CR]
-（[v]――！！　結女と、温泉……は魅力的……だけど……[/v]）[KeyWait]
+（[v]...! Going to the onsen with Yume... sounds pretty appealing... But...[/v]）[KeyWait]
 [FaceOff]
 
-[text]いまならボクは女なんだから、一緒の湯船に入れるし一緒の部屋に泊まれる。[KeyWait]
-[text]心が揺らぎかけたところに、希美乃が決め手の一言をかけた。[KeyWait]
+[text]I was a girl right now, so I could go into the bath with her, as well as sleep in the same room.[KeyWait]
+[text]Just as my heart began to waver, Kimino continued on, saying something that made up my mind.[KeyWait]
 
 [Face storage="f_c001"]
 [Voice storage="c0040" buf=2]
 【Kimino】[CR]
-「[v]きっと結女、あたしとはるかの活躍を期待してると思うし格好いいとこ見せなくちゃね！[/v]」[KeyWait]
+「[v]I'm sure Yume's expecting great things from both of us, so we gotta do our best to look cool![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a0819" buf=2]
 【Haruka】[CR]
-「[v]うっ[/v]」[KeyWait]
+「[v]Uh...うっ[/v]」[KeyWait]
 [FaceOff]
 
 ;[text][KeyWait]
@@ -538,44 +538,44 @@
 [Face storage="f_c017"]
 [Voice storage="c0041" buf=2]
 【Kimino】[CR]
-「[v]あ、ほら、結女、あそこで見てる。やっほー！！[/v]」[KeyWait]
+「[v]Ah, look, she's over there watching us! Heeey![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a0820" buf=2]
 【Haruka】[CR]
-「[v]ゆ、結女……[/v]」[KeyWait]
+「[v]Y-Yume...[/v]」[KeyWait]
 [FaceOff]
 
-[text]つられて振り返ると、スタンド席で期待に胸を膨らませた従妹が満面の笑みを浮かべている。目が合うと、嬉しそうにブンブンと手を振ってきた。[KeyWait]
+[text]Pressured to turn around, I saw my large-chested cousin sitting in the stands with a big smile on her face. As our eyes met, she gave me a cheerful wave.[KeyWait]
 
 [Face storage="f_a056"]
 [Voice storage="a0821" buf=2]
 【Haruka】[CR]
-（[v]確かに結女が楽しそうだったから、出るっていっちゃったんだけど……でも……[/v]）[KeyWait]
+（[v]I guess I [ita]did[endita] agree to participate because Yume said it looked fun... But...[/v]）[KeyWait]
 [FaceOff]
 
-[text]強張った顔で手を振り返しながら迷う。[KeyWait]
+[text]I reconsidered the situation as I waved back with a stiff face.[KeyWait]
 
 [Face storage="f_c001"]
 [Voice storage="c0042" buf=2]
 【Kimino】[CR]
-「[v]ねえねえ、どうせだからさ、どっちが優勝するか勝負しない？　負けた方は一つだけ勝った方の命令に従うの。あ、もちろん死ねとか変な無茶振りはなしでだけどね[/v]」[KeyWait]
+「[v]Hey, hey, if we're gonna participate anyway, why don't we compete to see which one of us gets first? Whoever loses has to obey an order from the winner. Ah, they can't tell them to die or do anything dangerous, obviously.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c001"]
 [Voice storage="c0043" buf=2]
 【Kimino】[CR]
-「[v]どう？　この勝負乗らない？　あたしらが名勝負すれば結女だって喜ぶと思うしさっ！[/v]」[KeyWait]
+「[v]So? Wanna do it? I'm sure Yume will be happy if we put up a good fight![/v]」[KeyWait]
 [FaceOff]
 
-[text]確かに面白そうではある。元の身体ならやる前から結果は分かっているけれど、いまの鬼斬姫の身体能力ならば、プールの中という相手に有利な条件でも希美乃に勝てる可能性が高い。[KeyWait]
-[text]いままで彼女にやられっぱなしなボクに取っては、それはものすごく魅力的だ。[KeyWait]
+[text]It [ita]was[endita] an interesting proposition. If I were in my original body, I wouldn't have stood a chance, but with the power of the Oni-Cutting Princess, even against Kimino, who had an advantage in the pool, my odds of winning were pretty high.[KeyWait]
+[text]Considering how much I'd lost to her throughout my life up until now, finally defeating her sounding really attractive.[KeyWait]
 
 [Face storage="f_a055"]
 [Voice storage="a0822" buf=2]
 【Haruka】[CR]
-「[v]ボクらのどっちかが優勝するの前提なんだ？[/v]」[KeyWait]
+「[v]But aren't you assuming that one of us will win?[/v]」[KeyWait]
 [FaceOff]
 
 [ChrSet0 storage="b_c032"]
@@ -584,27 +584,27 @@
 [Face storage="f_c001"]
 [Voice storage="c0044" buf=2]
 【Kimino】[CR]
-「[v]当然っ！　ざっと見たところ他に手強そうなチームなんかいないし。まあそっちのチームもはるかはともかく、馬がアレじゃ負ける気は全然しないけれどね[/v]」[KeyWait]
+「[v]Of course! But I didn't see any other strong-looking teams at a glance. Well, that aside, I don't think I'm gonna lose to those horses of yours.[/v]」[KeyWait]
 [FaceOff]
 
-[text]まだ醜い足の引っ張り合いを続けている三馬鹿を指さし、希美乃が「プッ」と笑う。[KeyWait]
+[text]Kimino giggled as she pointed to my three horses, who were still squabbling amongst each other.[KeyWait]
 
 [Face storage="f_g006"]
-【渡辺】[CR]
-「[i]なんだと！？[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]What'd you say!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h002"]
-【薄井】[CR]
-「[i]聞き捨てならねえな！[/i]」[KeyWait]
+【Usui】[CR]
+「[i]Hey, I'm not gonna let that go![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
-「[i]拙者を愚弄してよいのは、はるか様だけでござる！！　わきまえろ、この貧乳……ひぃ、ごめんなさぃ！[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]Haruka-sama is the only one who can belittle me! Know your place, you flat-chested... Hyii, I'm sorry![/i]」[KeyWait]
 [FaceOff]
 
-[text]さすがに三人が憤る。醜い仲間割れをひとまずやめて、ボクの背後に並び、水泳部の男子と睨み合う。ただ浦辺は調子に乗って禁句をいってしまい、殺意の籠もった希美乃の視線から必死に目を逸らし、ガクガク震えている。[KeyWait]
+[text]Naturally, the three of them got mad. They lined up behind me and stared down the three boys from the swimming club behind Kimino. However, Urabe got a big head and said something taboo. Kimino flashed him a murderous look and he quickly averted his eyes and began shaking.[KeyWait]
 
 [ChrSet0 storage="b_c031"]
 [UpDate]
@@ -612,42 +612,42 @@
 [Face storage="f_c020"]
 [Voice storage="c0045" buf=2]
 【Kimino】[CR]
-「[v]まあ、もし両方とも優勝出来なかったら、二人とも結女の命令に一つずつ従うってことにしましょ。でも、この大会、あたしらが勝つから。優勝はあたしたちだから！[/v]」[KeyWait]
+「[v]Well, let's say if neither of us win, then we both have to obey an order from Yume. But I'm gonna win, no doubt about it![/v]」[KeyWait]
 [FaceOff]
 
-[text]すでに勝ち誇ったような顔でせせら笑う様が、いつも結女の前で変なちょっかいを出してくる時と同じだ。[KeyWait]
+[text]The face she had as she she laughed like victory was already hers was the same one she always had on when she poked fun at me with Yume around.[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a0823" buf=2]
 【Haruka】[CR]
-（[v]くっそーっ、希美乃めっ！！　この姿でも、結女の前で恥かかされるなんて冗談じゃないぞ！[/v]）[KeyWait]
+（[v]Damnit, Kimino! I [ita]really[endita] don't want to be humiliated in front of Yume in this body![/v]）[KeyWait]
 [FaceOff]
 
-[text]結女が楽しみにしているのを見てしまった時点で、出場辞退という選択肢はなくなっていた。[KeyWait]
-[text]それならば……、遼の時に果たせなかったリベンジを、この身体で遂げる。[KeyWait]
-[text]鬼から従妹を護る力を勝負に使うのはズルいかもしれないけれど、[KeyWait]
+[text]The moment I saw Yume looking forward to me participating was the moment I lost my chance to drop out.[KeyWait]
+[text]If it was going to come to this... Then I was going to get the revenge I couldn't carry out when I'd been Ryou.[KeyWait]
+[text]Using the power that was meant to protect my cousin from oni maybe have been unfair, but-[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a0824" buf=2]
 【Haruka】[CR]
-（[v]一度くらい、結女にカッコイイところ見せたいっ！！[/v]）[KeyWait]
+（[v]I want to look cool in front of Yume, just this once![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a0825" buf=2]
 【Haruka】[CR]
-「[v]分かった。その勝負、受けるよ。優勝は必ずボクらがいただくから！[/v]」[KeyWait]
+「[v]Got it. I'll accept your challenge. We're gonna take first place for sure![/v]」[KeyWait]
 [FaceOff]
 
-[text]希美乃を睨みつけ、宣言する。[KeyWait]
+[text]I stared down Kimino and announced that I'd compete against her.[KeyWait]
 
 [Face storage="f_c020"]
 [Voice storage="c0046" buf=2]
 【Kimino】[CR]
-「[v]ふふん……、思ったより楽しくなりそうね♪[/v]」[KeyWait]
+「[v]Hmph... Looks like this'll be more fun that I thought. ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクの言葉に、希美乃は満足げな笑みを浮かべた。[KeyWait]
+[text]A satisfied smile formed on Kimino's face in response to my declaration.[KeyWait]
 
 ;黒画面
 [BgSet storage="_black"]
@@ -693,17 +693,17 @@
 [text]意識しすぎだって自分でも分かってるけど、困った感覚が騒ぎ立てて動揺を誘ってきている。[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]ああ……、はるかさんの手が、俺の肩に掴まって……。幸せだ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]太腿、俺の腕に当たって……。しっとり滑らかだ……。そ、それに、なんかすげえいい匂いしてるし……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i001"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]ハア、ハア、ハ、ア……、お、お尻が……、はるか様の、ムチムチの、お尻が、間近……に……[/i]」[KeyWait]
 [FaceOff]
 
@@ -742,17 +742,17 @@
 [text]詫びるなり文句いうなりすれば良いのに、無言になってしまったのを訝しんでいると、[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]お……俺、この騎馬戦、必ず優勝して、はるかさんに、もっといっぱい叱ってもらうんだ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]お、俺だってっ！　はるかちゃんに、また『メッ』ってされるぜ――ッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]は、激しい罵りもたまりませんが、いまのも、悪くはないっ。むしろいいっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -875,7 +875,7 @@
 [text]広いプールの対角で活躍する幼なじみのチームに負けじと、ボクたちも次々に敵を打ち破る。[KeyWait]
 
 [Face storage="f_g001"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]おりゃーっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -896,12 +896,12 @@
 [text]それでも踏ん張り反撃してくる敵には、[KeyWait]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]くっくっく、見える……、見えるぞー。その水着の下、おっぱいの膨らみからムッチリとしたお尻まで！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]我が魔眼にかかれば、そのようなスク水などないも同然。生まれたままの全裸が、余すところなくすべて見える！！　ぐへへ、今晩のおかずに脳内保存ッ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -937,7 +937,7 @@
 [text]突進力に自信があるのだろう、かなりの勢いで突っ込んでくる。[KeyWait]
 
 [Face storage="f_h002"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]や、やばいな……[/i]」[KeyWait]
 [FaceOff]
 
@@ -953,7 +953,7 @@
 [text]おっぱいが当たるのも構わずギュッと背中にしがみつく。[KeyWait]
 
 [Face storage="f_g008"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]ぬぅううぅおおおうっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1117,7 +1117,7 @@
 [text]決着を付けるために、小細工なしの正面からの激突を試みた。[KeyWait]
 
 [Face storage="f_g009"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]ぐぁああっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1583,17 +1583,17 @@
 [text]人が触ってきたのとはあからさまに違う、もっとぬらっとしたおぞましい感触。[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]うおー、はるかさんと温泉ッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h001"]
-【薄井】[CR]
+【Usui】[CR]
 「[i][eruby str="強" text="つ"]ぇええっ、俺たち強ぇえっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]ドゥッフッフッフッフ、露天風呂は混浴ですかな～？[/i]」[KeyWait]
 [FaceOff]
 
@@ -2579,17 +2579,17 @@
 [text]肩にしがみつき、水に揉まれる乳房を押しつけてハァハァと息を乱すと、希美乃がちょっと驚いたような顔になる。[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]エ、エロすぎるよ、はるかさん……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]なんか、この前観たＡＶと同じ表情してる……はるかちゃん[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]こっちまで、変な気分、なってくるでござる[/i]」[KeyWait]
 [FaceOff]
 

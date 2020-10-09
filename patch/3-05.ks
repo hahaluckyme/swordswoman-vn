@@ -100,7 +100,7 @@
 [text]The tall, lanky one was Usui Atsushi, a perverted basketball-lover.[KeyWait]
 [text]And that's all you need to know![KeyWait]
 [text]Moving on, to Haruka, they were both strangers.[KeyWait]
-[text]I was about to respond to them, but kept my mouth shut and instead stood there an[KeyWait]
+[text]I was about to respond to them, but kept my mouth shut, instead standing still and giving them a suspicious stare.[KeyWait]
 [text]The two of them rudely looked all over my body as if they were licking it with their eyes as they began introducing themselves.[KeyWait]
 
 [Face storage="f_i001"]

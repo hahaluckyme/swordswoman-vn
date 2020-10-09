@@ -76,7 +76,7 @@
 Åi[v]They're... welcoming me, I guess... B-But, wow...[/v]Åj[KeyWait]
 [FaceOff]
 
-[text]ê®Ç¢Ç…à≥ì|Ç≥ÇÍÇƒÇµÇ‹Ç§ÅB[KeyWait]
+[text]I was overwhelmed by their enthusiasm.[KeyWait]
 
 [Face storage="f_p041"]
 ÅyFemale Student DÅz[CR]
