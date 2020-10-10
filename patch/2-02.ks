@@ -112,7 +112,7 @@
 
 [text]The energetic, short-haired girl who'd just attacked me was Sakatani Kimino.[KeyWait]
 [text]Yume and I had been close friends with her since we were young, and was attending Modoribashi Academy with us.[KeyWait]
-[text]She was great at sports, and when she was young, she attended a karate dojo and gave the boys a run for their money. She's currently part of the swimming club, where they're expecting great things from her.[KeyWait]
+[text]She was great at sports, and when she was young, she attended a karate dojo and gave the boys a run for their money. She's currently part of the swim club, where they're expecting great things from her.[KeyWait]
 
 [ChrReset0]
 [UpDate]

@@ -125,7 +125,7 @@
 [Face storage="f_c001"]
 [Voice storage="c0036" buf=2]
 【Kimino】[CR]
-「[v]The president's into from the get-go again today, huh. Ahh, it's getting me kinda fired up, too![/v]」[KeyWait]
+「[v]The president's into from the get-go again today, huh. Aah, it's getting me kinda fired up, too![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b001"]
@@ -227,7 +227,7 @@
 [Face storage="f_d002"]
 [Voice storage="d0008" buf=2]
 【Hideko】[CR]
-「[v]Now then! O, heroes who have gathered at this battlefield, it's finally time for your showdown! All teams who have finished applying, get together in groups of four and prepare as the attendants instruct you![/v]」[KeyWait]
+「[v]Now then! O, heroes who have gathered at this battlefield, it's finally time for your showdown! All four-person teams who have finished applying, get together and prepare as the attendants instruct you![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se716" buf=0]
@@ -255,7 +255,7 @@
 
 [Face storage="f_g001"]
 【Watanabe】[CR]
-「[i]Ahh, found you! Haruka-san![/i]」[KeyWait]
+「[i]Aah, found you! Haruka-san![/i]」[KeyWait]
 [FaceOff]
 
 [text]At the same time, Watanabe, Urabe, and Usui ran up to me with grins on their faces.[KeyWait]
@@ -385,7 +385,7 @@
 [Face storage="f_a046"]
 [Voice storage="a0809" buf=2]
 【Haruka】[CR]
-（[v]Ahh, they keep glancing at me... My boobs... and my crotch... They're looking at me pervertedly... in my school swimsuit...[/v]）[KeyWait]
+（[v]Aah, they keep glancing at me... My boobs... and my crotch... They're looking at me pervertedly... in my school swimsuit...[/v]）[KeyWait]
 [FaceOff]
 
 [text]Though it was embarrassing and unpleasant being looked at it, I also felt a strange pleasure budding in my heart.[KeyWait]
@@ -487,7 +487,7 @@
 [FaceOff]
 
 [text]Her modest chest actually helped boost her sporty charm.[KeyWait]
-[text]Plus, with the three boys from the swimming club behind her, she looked just like a queen.[KeyWait]
+[text]Plus, with the three boys from the swim club behind her, she looked just like a queen.[KeyWait]
 [text]After a few moments of accidentally staring at her, an invincible smile formed on her cheerful face.[KeyWait]
 
 [Face storage="f_c001"]
@@ -604,7 +604,7 @@
 「[i]Haruka-sama is the only one who can belittle me! Know your place, you flat-chested... Hyii, I'm sorry![/i]」[KeyWait]
 [FaceOff]
 
-[text]Naturally, the three of them got mad. They lined up behind me and stared down the three boys from the swimming club behind Kimino. However, Urabe got a big head and said something taboo. Kimino flashed him a murderous look and he quickly averted his eyes and began shaking.[KeyWait]
+[text]Naturally, the three of them got mad. They lined up behind me and stared down the three boys from the swim club behind Kimino. However, Urabe got a big head and said something taboo. Kimino flashed him a murderous look and he quickly averted his eyes and began shaking.[KeyWait]
 
 [ChrSet0 storage="b_c031"]
 [UpDate]
@@ -664,127 +664,127 @@
 [Face storage="f_a046"]
 [Voice storage="a0826" buf=2]
 【Haruka】[CR]
-（[v]って、結局出ることになっちゃったけど、やっぱり早まったかもっ！[/v]）[KeyWait]
+（[v]I chose to participate in the end, but maybe I was too hasty after all![/v]）[KeyWait]
 [FaceOff]
 
-[text]いま思い返すと、上手く希美乃に乗せられた気がしてくる。[KeyWait]
+[text]Thinking back, I felt like Kimino did a good job of roping me into this.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a0827" buf=2]
 【Haruka】[CR]
-（[v]うう……、密着……してる。こいつらの、肌と……、ボクの、身体……[/v]）[KeyWait]
+（[v]Uhh... We're so... close... I can feel their skin... on my body...[/v]）[KeyWait]
 [FaceOff]
 
-[text]渡辺を先頭に右翼に薄井、左翼に浦辺を配して組み上げられた馬。[KeyWait]
-[text]その上に騎乗しているのだが、太腿とかお尻とかが彼らの腕やら肩やらに触れてしまうのが気になって仕方ない。[KeyWait]
+[text]Watanabe was up front, Usui was on the left, and Urabe was on the right.[KeyWait]
+[text]I was riding on top as they held me up, but I couldn't help but be bothered by my thighs and butt constantly touching their arms and shoulders.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a0828" buf=2]
 【Haruka】[CR]
-（[v]やっぱ女の身体って、男よりも感度高いよな。肌がきめ細かくて柔らかい分だけ、感触をもっと細密に感じ取るっていうか……[/v]）[KeyWait]
+（[v]Girls' bodies are just more sensitive than guys' bodies, huh. It's like my skin is more soft and delicate, making me feel stuff more...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a0829" buf=2]
 【Haruka】[CR]
-（[v]ああ、もうっ、体勢低くするとお尻が触れちゃうし、前のめりにすると、渡辺の頭におっぱい当たっちゃうし、騎馬戦始まったら、大変なことになりそうな……[/v]）[KeyWait]
+（[v]Aah, geez, if I lower myself, my butt will touch them, and if I lean forward, my boobs are gonna end up on Watanabe's head! I've just started and this already seems like it's gonna suck...[/v]）[KeyWait]
 [FaceOff]
 
-[text]意識しすぎだって自分でも分かってるけど、困った感覚が騒ぎ立てて動揺を誘ってきている。[KeyWait]
+[text]I knew I was thinking about it too much, but that didn't stop the unpleasant sensations from making me flustered.[KeyWait]
 
 [Face storage="f_g003"]
 【Watanabe】[CR]
-「[i]ああ……、はるかさんの手が、俺の肩に掴まって……。幸せだ……[/i]」[KeyWait]
+「[i]Aah... Haruka-san's hands are on my shoulders... This is bliss...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h003"]
 【Usui】[CR]
-「[i]太腿、俺の腕に当たって……。しっとり滑らかだ……。そ、それに、なんかすげえいい匂いしてるし……[/i]」[KeyWait]
+「[i]Her thighs are touching my arms... They're so soft and smooth... A-And they smell really nice, too...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i001"]
 【Urabe】[CR]
-「[i]ハア、ハア、ハ、ア……、お、お尻が……、はるか様の、ムチムチの、お尻が、間近……に……[/i]」[KeyWait]
+「[i]Hah, haah, hah, ah... B-Butt... Haruka-sama's plump butt is so close...[/i]」[KeyWait]
 [FaceOff]
 
-[text]彼らの方も、自分でいうのも何だけど、美少女転校生と密着出来た喜びに浮かれ昂っていた。[KeyWait]
+[text]As for them, despite it actually being me, they were all totally enthralled to be touching a high school girl so intimately.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a0830" buf=2]
 【Haruka】[CR]
-（[v]その対象がボクっていうのがイヤだけど……、でもボクも本当は男だから、気持ちはよく分かるし……[/v]）[KeyWait]
+（[v]I don't like that it's [ita]me[endita] that they're touching, but... Since I'm a guy, I get why this feels nice for them...[/v]）[KeyWait]
 [FaceOff]
 
-[text]それにこいつらが希美乃チームに勝ちたい一心で必死に自制心を働かせ、勝負に集中しているのが分かった。[KeyWait]
-[text]とはいっても、無意識なのか故意なのか、三人とも次第に身体を押しつけて密着を高めようとしてくる。[KeyWait]
+[text]But I could tell that they were fighting desperately to control themselves so they could focus on defeating Kimino.[KeyWait]
+[text]Though, saying that, whether they were doing it consciously or not, I could feel them gradually pressing against me and touching me more.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0831" buf=2]
 【Haruka】[CR]
-「[v]こ、こら！　真面目にやれってば！！　ほ、ほら、始まるぞ！[/v]」[KeyWait]
+「[v]H-Hey! Do your jobs! C-Come on, it's starting![/v]」[KeyWait]
 [FaceOff]
 
-[text]思い切り怒るのも可哀想な気がして、しどろもどろな困り声で、三人の頭を軽く拳骨でコツンとする。[KeyWait]
+[text]I felt bad about getting angry at them, so I settled for sounding flustered and annoyed as I lightly bonked their heads with my fists.[KeyWait]
 
 [Face storage="f_g901"]
-【渡辺・薄井・浦辺】[CR]
-「[i]……………………………………[/i]」[KeyWait]
+【Watanabe, Usui, Urabe】[CR]
+「[i].........[/i]」[KeyWait]
 [FaceOff]
 
-[text]ビクッと驚いたように彼らの身体が震えて、密着が弛んだ。[KeyWait]
+[text]They all shuddered for a second like they were surprised, then loosened their grip on me.[KeyWait]
 
 [Face storage="f_a009"]
 [Voice storage="a0832" buf=2]
 【Haruka】[CR]
-（[v]あ、あれ？　痛かった？　すごく軽く小突いただけなのに……[/v]）[KeyWait]
+（[v]H-Huh? Did I hurt them? I meant for that to be really light...[/v]）[KeyWait]
 [FaceOff]
 
-[text]詫びるなり文句いうなりすれば良いのに、無言になってしまったのを訝しんでいると、[KeyWait]
+[text]Rather than apologizing or complaining, I watched them just stay silent, but then-[KeyWait]
 
 [Face storage="f_g003"]
 【Watanabe】[CR]
-「[i]お……俺、この騎馬戦、必ず優勝して、はるかさんに、もっといっぱい叱ってもらうんだ！[/i]」[KeyWait]
+「[i]I... I'm gonna win this for sure and get scolded by you again, Haruka-san![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h003"]
 【Usui】[CR]
-「[i]お、俺だってっ！　はるかちゃんに、また『メッ』ってされるぜ――ッ！！[/i]」[KeyWait]
+「[i]M-Me too! I want you to scold me again, Haruka-chan![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
 【Urabe】[CR]
-「[i]は、激しい罵りもたまりませんが、いまのも、悪くはないっ。むしろいいっ！[/i]」[KeyWait]
+「[i]I-I couldn't handle rough abuse, but that wasn't too bad. It was nice, in fact![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a012"]
 [Voice storage="a0833" buf=2]
 【Haruka】[CR]
-「[v]え、えぇ～～～～～～～～～～～～～～ッ！？[/v]」[KeyWait]
+「[v]H-Huuuuuuuuuuuuuuuuh!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]何か彼らの妙な性癖を目覚めさせてしまったみたいだ。[KeyWait]
+[text]I'd apparently awakened some sort of weird fetish inside them.[KeyWait]
 
 [Face storage="f_a012"]
 [Voice storage="a0834" buf=2]
 【Haruka】[CR]
-（[v]ボ、ボク……なにを……！？　――ああッ！！　し、しまったっ。アレかぁ～～～～ッ！[/v]）[KeyWait]
+（[v]W-What... have I done...!? Aah! C-Crap, I get it![/v]）[KeyWait]
 [FaceOff]
 
-[text]前に結女のお尻に偶然手が当たっちゃった時に、困ったような照れたような顔で優しく叱られたことがあった。ものすごい破壊力の可愛らしさだった。[KeyWait]
-[text]どうやらボクはそれを、こいつらにやってしまったらしい。[KeyWait]
+[text]Once, when I accidentally touched Yume's butt, she lightly scolded me with a trouble and embarrassed look. Her cuteness had been absolutely destructive.[KeyWait]
+[text]Apparently, I'd just done something similar to them.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0835" buf=2]
 【Haruka】[CR]
-（[v]え……？　ええ……？　えぇええええええええぇえぇ……？？？[/v]）[KeyWait]
+（[v]Huh...? Huuuh...? Huuuuuuuuuuuuuh...?[/v]）[KeyWait]
 [FaceOff]
 
-[text]動転し、頭が真っ白になる最中、[KeyWait]
+[text]My head started going blank with panic, but just then-[KeyWait]
 
 [Face storage="f_d002"]
 [Voice storage="d0009" buf=2]
 【Hideko】[CR]
-「[v]お前たち！　ついに戦いの時が来たぞ！！　みな悔いのないように全力を尽くせ！　栄光の勝利を掴み取れ！！　開戦１０秒前！！　９、８、７、６、５、４、３、２、１、ファイトッ！！[/v]」[KeyWait]
+「[v]Listen up, everyone! it's finally time to battle! Give it your all so you have no regrets! Snatch this glorious victory with your own hands! We're 10 seconds before the start! 9, 8, 7, 6, 5, 4, 3, 2, 1, FIGHT![/v]」[KeyWait]
 [FaceOff]
 
 ;ＢＧＭ：水泳大会
@@ -792,18 +792,18 @@
 [SoundIn storage="se747" buf=7 loop=true time=500]
 [SoundIn storage="se754" buf=8 loop=true time=500]
 
-[text]生徒会長のカウントダウンによって、温泉旅行と学食の食券を賭けた水中騎馬戦の火ぶたが切られた。[KeyWait]
+[text]With the student council president's countdown finished, the curtain was lifted on the pool cavalry battle for cafeteria tickets and onsen trips.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV401a"]
 [UpDate]
 
 【Students】[CR]
-「[i]うぉおおおおおおおぉ――――――――――ッ！[/i]」[KeyWait]
+「[i]Uwooooooooooooooooooooh![/i]」[KeyWait]
 [FaceOff]
 
-[text]雄叫びと共に水飛沫を上げ、騎馬たちが勝利を争ってぶつかり合う。[KeyWait]
-[text]豪華景品につられ直前での参加者が急増したため、バカでかいメインプールは混雑を極めていた。しかもその急遽参加組のほとんどが、その場で適当に結成された即席チームだったために息が合わず、自滅する者たちが続出している。[KeyWait]
+[text]Shouts rang out and water splashed everywhere as the cavalry teams clashed with one another.[KeyWait]
+[text]The stupidly-huge pool was packed with teams that had been baited to join at the last second by the prizes. Most of the teammates that had scrambled together without any thought were unable to work together well, leading to them eliminating themselves one after another.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV401b"]
@@ -812,403 +812,403 @@
 [Face storage="f_c020"]
 [Voice storage="c0047" buf=2]
 【Kimino】[CR]
-「[v]前方の野球部チーム、戦いに勝って油断してるっ。突撃――ッ！[/v]」[KeyWait]
+「[v]The baseball team up ahead just beat someone and they've let their guards down! Chaaarge![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o032"]
-【水泳部男子】[CR]
-「[i]おおぉ――ッ！！[/i]」[KeyWait]
+【Swim Club Boys】[CR]
+「[i]Uwooooh![/i]」[KeyWait]
 [FaceOff]
 
-[text]その中で、希美乃チームは弱い即席チームは無視して、手強い運動部チームを隙を突いた強襲作戦で次々と撃破してゆく。[KeyWait]
-[text]馬となっている男たちが全員水泳部。動きを制限される水の中にあっても地上と遜色のない身のこなしで突っ込んでくる相手をいなし、または逃げ惑う獲物を楽々追い詰める。[KeyWait]
+[text]Kimino's team was ignoring the weak, scrambled-together teams and going for the strong ones made up for sports club members, taking them out one by one by catching them off-guard.[KeyWait]
+[text]The boys serving as her horses were all frim the swim club. They moved around as if the water was no impediment to them at all. With nobody attacking them, they were free to chase down their retreating prey.[KeyWait]
 
 [Face storage="f_p022"]
-【敵女子Ａ】[CR]
-「[i]ひぃっ！　す、水泳部ッ！！　このおっ！　――ああっ！！[/i]」[KeyWait]
+【Female Opponent A】[CR]
+「[i]Hyii! T-The swim club! I'll get you first! Aaah! [/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c020"]
 [Voice storage="c0048" buf=2]
 【Kimino】[CR]
-「[v]いただきっ！[/v]」[KeyWait]
+「[v]Gotcha![/v]」[KeyWait]
 [FaceOff]
 
-[text]馬上で希美乃は引き締まったしなやかな身体をバランス良く躍らせ、相手に自分を触れさせもせず鉢巻きを奪ってゆく。[KeyWait]
+[text]Kimino, with her slender and toned body, practically danced around on the top of her horses as she stole her opponent's bandanna without letting them even touch her.[KeyWait]
 
 [Face storage="f_c020"]
 [Voice storage="c0049" buf=2]
 【Kimino】[CR]
-「[v]にひひ、水の中であたしたちに敵う奴らなんていないね。思った以上に楽勝って感じ[/v]」[KeyWait]
+「[v]Nihyihyi, nobody can beat us in the water. This is even easier than I thought![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p032"]
-【敵女子Ｂ】[CR]
-「[i]坂谷さん、覚悟ぉ――ッ！！[/i]」[KeyWait]
+【Female Opponent B】[CR]
+「[i]Prepare yourself, Sakatani-saaaan![/i]」[KeyWait]
 [FaceOff]
 
-[text]余裕綽々なところを不意打ちされるが、[KeyWait]
+[text]A team tried to attack Kimino while she was gloating about her progress, but-[KeyWait]
 
 [Face storage="f_c020"]
 [Voice storage="c0050" buf=2]
 【Kimino】[CR]
-「[v]ふふん♪　甘～い[/v]」[KeyWait]
+「[v]Hmph! ♪ How naive![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p032"]
-【敵女子Ｂ】[CR]
-「[i]ひぇっ！？　うわわわわわ、はうっ！[/i]」[KeyWait]
+【Female Opponent B】[CR]
+「[i]Hyeh!? Uwawawawawa, hauh![/i]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se568" buf=0]
 
-[text]バッシャ――――ンッ！！[KeyWait]
+[text]Splaaaaaash![KeyWait]
 
-[text]寸前で突進をかわし、バランスを崩したところをツンとツッついて水の中に落とす。[KeyWait]
+[text]Kimino dodged their attack at the last moment, and they lost their balance, sending the girl toppling off her horses and into the pool.[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a0836" buf=2]
 【Haruka】[CR]
-（[v]希美乃たち、さすがに強いな。でも、ボクたちだって！[/v]）[KeyWait]
+（[v]I knew Kimino's team would be strong. But we're not weak, either![/v]）[KeyWait]
 [FaceOff]
 
-[text]広いプールの対角で活躍する幼なじみのチームに負けじと、ボクたちも次々に敵を打ち破る。[KeyWait]
+[text]Not wanting to lose to Kimino, we were taking out team after team in the opposite corner of the big pool.[KeyWait]
 
 [Face storage="f_g001"]
 【Watanabe】[CR]
-「[i]おりゃーっ！[/i]」[KeyWait]
+「[i]Take thiiis![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o012"]
-【敵男子Ａ】[CR]
-「[i]うわぁ――ッ！！[/i]」[KeyWait]
+【Male Opponent A】[CR]
+「[i]Uwaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]作戦は希美乃たちと同じ。手強そうな敵から先に潰す。[KeyWait]
-[text]しかもボクらはそのチームが交戦中に、横からぶちかましをかます。[KeyWait]
-[text]格闘技系の部を掛け持ちして活躍する渡辺と、バスケ部レギュラーの座を狙う薄井の二人のパワーが合わさった突進に、ほとんどのチームが吹っ飛ばされて水の中に落ちる。[KeyWait]
+[text]Our strategy was the same as Kimino's - start by crushing the tough-looking teams.[KeyWait]
+[text]And in our case, we looked for teams that were already fighting so we could ram them from the side.[KeyWait]
+[text]With Watanabe, who belonged to multiple martial arts clubs, and Usui, who was aiming to be a regular on the basketball club's team, we could charge pretty much any team and send them into the water.[KeyWait]
 
 [Face storage="f_o022"]
-【敵男子Ｂ】[CR]
-「[i]く、くっそぉ――っ！[/i]」[KeyWait]
+【Male Opponent B】[CR]
+「[i]D-Damniiiit![/i]」[KeyWait]
 [FaceOff]
 
-[text]それでも踏ん張り反撃してくる敵には、[KeyWait]
+[text]A team decided to stand their ground and attack us back, but-[KeyWait]
 
 [Face storage="f_i002"]
 【Urabe】[CR]
-「[i]くっくっく、見える……、見えるぞー。その水着の下、おっぱいの膨らみからムッチリとしたお尻まで！[/i]」[KeyWait]
+「[i]Kukuku, I can see them... I can see your boobs, as well as your plump butt underneath that swimsuit![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i002"]
 【Urabe】[CR]
-「[i]我が魔眼にかかれば、そのようなスク水などないも同然。生まれたままの全裸が、余すところなくすべて見える！！　ぐへへ、今晩のおかずに脳内保存ッ！[/i]」[KeyWait]
+「[i]All school swimsuits are the same before my Demon Eyes! I can see right through them like you're wearing the clothes you were born with! Guhehe, I'm gonna record this in my head as fap material for later tonight![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p052"]
-【敵女子Ｃ】[CR]
-「[i]ひぃっ！　な、なに、こいつ……ッ。　ちょっと、見ないでよ！！　見るなってばっ！[/i]」[KeyWait]
+【Female Opponent C】[CR]
+「[i]Hyii! W-What's with you...? Hey, don't look at me! Stop looking![/i]」[KeyWait]
 [FaceOff]
 
-[text]はったりだと分かっていても気色悪い。脂ぎった小太り男に禍々しい視線を注がれ、騎乗の女の子が鳥肌を立たせて身を竦ませる。[KeyWait]
+[text]Even knowing that he was bluffing, it was still gross. As the greasy, chubby boy's sinister gaze washed over her, the girl atop got goosebumps and froze up atop her horses.[KeyWait]
 
 [Face storage="f_a057"]
 [Voice storage="a0837" buf=2]
 【Haruka】[CR]
-「[v]もらった！！[/v]」[KeyWait]
+「[v]Got you![/v]」[KeyWait]
 [FaceOff]
 
-[text]その隙に、ボクが難なく鉢巻きを奪った。[KeyWait]
+[text]I took that opportunity to easily steal her bandanna.[KeyWait]
 
 [Face storage="f_p022"]
-【敵女子Ｄ】[CR]
-「[i]一年生のくせに姑息な戦い方して！　あんたらに温泉は渡さないからッ！！[/i]」[KeyWait]
+【Female Opponent D】[CR]
+「[i]You're fighting dirty, first-years! I'm not letting you have those onsen tickets![/i]」[KeyWait]
 [FaceOff]
 
-[text]次の標的を選んでいると、気の強そうな女生徒が騎手を務める上級生のチームが、正面から勝負を挑んで来た。[KeyWait]
+[text]While we were picking our next target, a higher-year team led by a confident-looking girl stood before us and issued a challenge.[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a0838" buf=2]
 【Haruka】[CR]
-（[v]あれって、確か女子バレー部のキャプテンか。じゃあ馬は全員、男子バレー部[/v]）[KeyWait]
+（[v]Oh, that's the captain of the girls' volleyball club. So her horse are all from the guys' volleyball club, then.[/v]）[KeyWait]
 [FaceOff]
 
-[text]運動部チームはさすがに動きが違う。奇襲をかけても、一筋縄では倒せないことが多い。[KeyWait]
-[text]突進力に自信があるのだろう、かなりの勢いで突っ込んでくる。[KeyWait]
+[text]The sports club teams definitely moved differently. Even with a surprise attack, they were still tough to take down.[KeyWait]
+[text]I was pretty confident in our charging power, but they were coming at rather hard.[KeyWait]
 
 [Face storage="f_h002"]
 【Usui】[CR]
-「[i]や、やばいな……[/i]」[KeyWait]
+「[i]T-This is bad...[/i]」[KeyWait]
 [FaceOff]
 
-[text]まともにぶつかり合えば力負けしそうだ。薄井が不安げな声を漏らす。けれど、[KeyWait]
+[text]They'd probably win if they hit us straight-on. Usui sounded worried. But-[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0839" buf=2]
 【Haruka】[CR]
-「[v]このまままっすぐっ、行けええ！[/v]」[KeyWait]
+「[v]Full speed straight aheaaaad![/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクは真っ向勝負を渡辺に命じた。[KeyWait]
-[text]おっぱいが当たるのも構わずギュッと背中にしがみつく。[KeyWait]
+[text]I gave Watanabe orders for direct combat.[KeyWait]
+[text]I clung tightly to his back, paying no attention to my boobs touching him.[KeyWait]
 
 [Face storage="f_g008"]
 【Watanabe】[CR]
-「[i]ぬぅううぅおおおうっ！！[/i]」[KeyWait]
+「[i]Nuuuuuooouh![/i]」[KeyWait]
 [FaceOff]
 
-[text]彼の顔が破裂しそうな勢いで真っ赤に染まった。[KeyWait]
-[text]凄まじい形相になり、水の中とは思えない速度で上級生に突っ込む。[KeyWait]
+[text]His face turned beet red so quickly you'd think it was going to burst.[KeyWait]
+[text]With a terrifying look on his face, Watanabe carried us forward with his charge, moving unbelievably quick considering we were in water.[KeyWait]
 
 [Face storage="f_p022"]
-【敵女子Ｄ】[CR]
-「[i]な、なんなのっ！？[/i]」[KeyWait]
+【Female Opponent D】[CR]
+「[i]W-What!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]剣幕に[eruby str="気圧" text="けお"]され相手が一瞬怯む。[KeyWait]
-[text]その最中、ボクは水中に半ば没しながら身体を撓めると、一気にロケットのように弾け出た。[KeyWait]
+[text]Our opponents faltered for a moment upon seeing his menacing expression.[KeyWait]
+[text]As they hesitated, I bent my body forward, partially submerging myself, then flew forward like a rocket.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0840" buf=2]
 【Haruka】[CR]
-「[v]はぁああああっ！[/v]」[KeyWait]
+「[v]Haaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p022"]
-【敵女子Ｄ】[CR]
-「[i]きゃああっ！！[/i]」[KeyWait]
+【Female Opponent D】[CR]
+「[i]Kyaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]相手の間合いの外から手を伸ばして鉢巻きを奪う。[KeyWait]
-[text]このままでは勢い余って水の中に落ちる。[KeyWait]
+[text]I reached out and grabbed the bandanna before my opponents could react to me.[KeyWait]
+[text]But at this rate, I was going to fall into the water.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a0841" buf=2]
 【Haruka】[CR]
-「[v]くぅ……ッ、はぁああっ！[/v]」[KeyWait]
+「[v]Kuuh... Haaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]けれどボクは、空中で急激に身を捻って、無理矢理な方向転換を果たした。[KeyWait]
-[text]渡辺の頭に片手をついて脚を高々と振り上げる。[KeyWait]
-[text]おっぱいが弾んでスク水から飛び出しそうになる側転で、再び三人が作る馬の上へと納まった。[KeyWait]
+[text]However, I suddenly twisted my body in midair and forcefully changed my direction.[KeyWait]
+[text]I put a hand on Watanabe's head, then raised my legs high.[KeyWait]
+[text]My boobs bounced and practically felt like they were going to fly ou t as I did a cartwheel and landed back atop my horses.[KeyWait]
 
 [Face storage="f_o041"]
-【観客Ａ】[CR]
-「[i]うぉおおおおおおおぉっ！　なんだあれっ！！　すっげーっ！[/i]」[KeyWait]
+【Spectator A】[CR]
+「[i]Uwoooooooooh! What the heck was that!? That was amazing![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
-【観客Ｂ】[CR]
-「[i]かっこいいいっ！　いま空中に飛び上がってたッ！！[/i]」[KeyWait]
+【Spectator B】[CR]
+「[i]That was so cool! She flew through the air just now![/i]」[KeyWait]
 [FaceOff]
 
-[text]観客席から割れんばかりの歓声が湧き上がった。[KeyWait]
+[text]Excited screams erupted from the stands.[KeyWait]
 
 [Face storage="f_p022"]
-【敵女子Ｄ】[CR]
-「[i]な、なによ……、あんなの……、防げるわけないじゃないっ！[/i]」[KeyWait]
+【Female Opponent D】[CR]
+「[i]W-What...? There... W-We... couldn't have possibly defended against that![/i]」[KeyWait]
 [FaceOff]
 
-[text]鉢巻きを取られた上級生も、他のチームの連中も呆気に取られる。[KeyWait]
+[text]The higher-class students I'd taken the bandanna from were totally stunned, as were the other teams.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0842" buf=2]
 【Haruka】[CR]
-「[v]ここら辺の一気に蹴散らす！　突撃だ！！[/v]」[KeyWait]
+「[v]We're gonna take down everyone nearby in one go! Charge![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_g902"]
-【渡辺・薄井・浦辺】[CR]
-「[i]応ッ！[/i]」[KeyWait]
+【【Watanabe, Usui, Urabe】】[CR]
+「[i]Got it![/i]」[KeyWait]
 [FaceOff]
 
-[text]ボクの号令に、いきり立った仲間たちがこれまで以上の勢いで乱戦の場へと躍り込む。[KeyWait]
+[text]At my command, my raging horses danced into battle even faster than before.[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a0843" buf=2]
 【Haruka】[CR]
-（[v]す、すごい。こいつら、こんな速さで！　で、でも……[/v]）[KeyWait]
+（[v]W-Wow. They're going so fast! B-But...[/v]）[KeyWait]
 [FaceOff]
 
-[text]イヤらしい気持ちからじゃなくて、ボクを振り落とすまいと身体を押しつけるようにして支えてくれる。[KeyWait]
-[text]けれども、それが、なんだか気になっちゃう。[KeyWait]
-[text]骨盤に彼らの頭が触れると、ゾクっとなる。[KeyWait]
-[text]尻房にむにゅっと肩口が食い込み、太腿と彼らの二の腕がみっちり密着した。[KeyWait]
+[text]It wasn't because of anything perverted; they were supporting me by pressing their bodies close so I didn't fall into the water.[KeyWait]
+[text]But for some reason, that was getting to me.[KeyWait]
+[text]Every time one of their heads touched my lower half, I shuddered.[KeyWait]
+[text]My butt dug into their shoulders, and my thighs stuck tightly to their upper arms.[KeyWait]
 
 [Face storage="f_a013"]
 [Voice storage="a0844" buf=2]
 【Haruka】[CR]
-（[v]く……うぅ……ッ。い、意識しちゃ、だめだ……。戦いに、集中しなくちゃ……！[/v]）[KeyWait]
+（[v]Kuh... Uuh... I-I have to ignore it... I need to focus on the battle...![/v]）[KeyWait]
 [FaceOff]
 
-[text]プールの水の潤滑でヌルヌル擦れ合う感触に胸がざわめく。[KeyWait]
-[text]女になった身体を男に触られる抵抗感は治まらない。[KeyWait]
+[text]The sensation of our slippery skin making contact in the water got my heart pounding.[KeyWait]
+[text]My female body just couldn't get used to be touching by guys.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a0845" buf=2]
 【Haruka】[CR]
-「[v]うぉおおおおおっ！[/v]」[KeyWait]
+「[v]Uwooooooh![/v]」[KeyWait]
 [FaceOff]
 
-[text]気を引き締め、鋭い瞳を険しく見開いて雄叫びを上げる。[KeyWait]
+[text]I focused hard, then opened my eyes wide and shouted a battle cry.[KeyWait]
 
 [Face storage="f_o012"]
-【敵男子】[CR]
-「[i]ひいっ！　て、撤退ッ！！[/i]」[KeyWait]
+【Male Opponent】[CR]
+「[i]Hyii! R-Retreat![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p032"]
-【敵女子】[CR]
-「[i]こ、殺されるううっ！[/i]」[KeyWait]
+【Female Opponent】[CR]
+「[i]S-she's gonna kill uuuus![/i]」[KeyWait]
 [FaceOff]
 
-[text]ボクの身のこなしに恐れをなした連中が、パニックに陥って逃げ惑った。[KeyWait]
+[text]My opponents panicked and quickly retreated upon seeing the way I moved.[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a0846" buf=2]
 【Haruka】[CR]
-（[v]殺される……って、どんな風に見えてんだよ、ボク……。でもチャンスだ！！[/v]）[KeyWait]
+（[v]Kill...? Geez, just how do they see me... But, this is a chance![/v]）[KeyWait]
 [FaceOff]
 
-[text]渡辺に指示を飛ばしながら、手近なところから一騎ずつ潰して、鉢巻きを奪ってゆく。[KeyWait]
+[text]I gave Watanabe orders, and we took down the horses within our reach one by one and took more and more bandannas.[KeyWait]
 
 [Face storage="f_p031"]
-【女子生徒Ａ】[CR]
-「[i]きゃ～ッ！　はるかさまー！！[/i]」[KeyWait]
+【Female Student A】[CR]
+「[i]Kyaah! Haruka-sama![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p041"]
-【女子生徒Ｂ】[CR]
-「[i]素敵～っ！！　ああ、また一騎倒したわぁ！[/i]」[KeyWait]
+【Female Student B】[CR]
+「[i]She's fantastic! Aah, she just took down another horse![/i]」[KeyWait]
 [FaceOff]
 
-[text]男どもを蹴散らす様に、観客席から黄色い声援が上がった。[KeyWait]
+[text]High-pitched cheers came from the stand as I took out more boys.[KeyWait]
 
 [Face storage="f_a057"]
 [Voice storage="a0847" buf=2]
 【Haruka】[CR]
-（[v]お、女の子に応援されてる！？　よーしっ！[/v]）[KeyWait]
+（[v]T-The girls are cheering me on!? [ita]Yes![endita][/v]）[KeyWait]
 [FaceOff]
 
-[text]本来は男なボクとしては、男に声援送られるよりも、当然女の子からキャーキャーいわれる方が嬉しい。[KeyWait]
+[text]Since I was a guy, rather than having other guys cheer me on, I preferred to have girls squealing to support me instead.[KeyWait]
 
 [Face storage="f_a057"]
 [Voice storage="a0848" buf=2]
 【Haruka】[CR]
-（[v]優勝、するんだ！　結女と、温泉いくんだっ！！[/v]）[KeyWait]
+（[v]We're gonna win! I'm gonna go to the onsen with Yume![/v]）[KeyWait]
 [FaceOff]
 
-[text]次々と敵を撃破し突き進む。[KeyWait]
-[text]その先に、やはり破竹の勢いで勝利を築き上げる希美乃たちの姿があった。[KeyWait]
+[text]We continued on, defeating team after team.[KeyWait]
+[text]And eventually, as expected, we came upon Kimino's team, who had torn through a bunch of students like butter.[KeyWait]
 
 [Face storage="f_c020"]
 [Voice storage="c0051" buf=2]
 【Kimino】[CR]
-「[v]やっぱりあんたたちが残ったわね。編入してきた時からただ者じゃないって思ってたけどさ……、勝負よ、はるか！！[/v]」[KeyWait]
+「[v]I knew you guys would still be in. I knew you were something special from the moment you transferred here... Let's go, Haruka![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a057"]
 [Voice storage="a0849" buf=2]
 【Haruka】[CR]
-「[v]こっちだって、負けないからっ！！　いくぞ、希美乃っ！[/v]」[KeyWait]
+「[v]We're not gonna lose, either! Here we come, Kimino![/v]」[KeyWait]
 [FaceOff]
 
-[text]プールの中心で、互いに向かい合う。[KeyWait]
-[text]決着を付けるために、小細工なしの正面からの激突を試みた。[KeyWait]
+[text]We faced each other down in the middle of the pool.[KeyWait]
+[text]We prepared to charge each other straight-on and settle things with no tricks involved.[KeyWait]
 
 [Face storage="f_g009"]
 【Watanabe】[CR]
-「[i]ぐぁああっ！[/i]」[KeyWait]
+「[i]Gwaaah![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o032"]
-【水泳部男子】[CR]
-「[i]ぬぉおっ！！[/i]」[KeyWait]
+【Swim Club Boys】[CR]
+「[i]Nuooh![/i]」[KeyWait]
 [FaceOff]
 
-[text]馬同士が激突した。[KeyWait]
-[text]さすがに水の中では水泳部の方が安定している。[KeyWait]
-[text]渡辺たちがよろけた。[KeyWait]
+[text]Both sets of horses charged furiously toward each other.[KeyWait]
+[text]Naturally, the swim club had better balance in the pool.[KeyWait]
+[text]Watanabe and the others stumbled a little.[KeyWait]
 
 [Face storage="f_c010"]
 [Voice storage="c0052" buf=2]
 【Kimino】[CR]
-「[v]もらったっ！！[/v]」[KeyWait]
+「[v]I've got you![/v]」[KeyWait]
 [FaceOff]
 
-[text]そのチャンスを逃さず元気娘の引き締まった身体が伸び上がる。[KeyWait]
+[text]Not overlooking her chance, the sporty girl stretched her toned body forward.[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a0850" buf=2]
 【Haruka】[CR]
-「[v]くうっ！[/v]」[KeyWait]
+「[v]Kuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]鉢巻きに迫る腕を避けながら、ボクは崩れた馬のバランスを保とうと極端に身を傾けた。[KeyWait]
-[text]その動作で希美乃の指が狙いを外し、あろうことかボクの胸を鷲掴みにする。[KeyWait]
+[text]I avoided her arm as they came close to my bandanna and bent backward really far in order to keep my balance atop my unstable horses.[KeyWait]
+[text]Thanks to that, Kimino's fingers missed their mark, and unluckily enough, gripped my chest instead.[KeyWait]
 
 [Face storage="f_a042"]
 [Voice storage="a0851" buf=2]
 【Haruka】[CR]
-「[v]――ふぇっ！？　ひっ、ひゃわあっ！！[/v]」[KeyWait]
+「[v]Fweh!? H-Hyawaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]思いがけない刺激に、脳天へと電流が走り抜けた。[KeyWait]
-[text]勝利をこの手にと必死な指がめり込み、容赦なく美麗な球体を歪ませた。[KeyWait]
-[text]窮屈なスク水の中から収まりきらない柔肉を溢れさせる。[KeyWait]
+[text]I felt a jolt of electricity travel to my brain from the unexpected stimulation.[KeyWait]
+[text]The fingers of the hands she'd so desperately tried to grasp victory with she into my breasts, mercilessly distorting their shape.[KeyWait]
+[text]A bit of skin spilled out thanks to my tight school swimsuit not being able to hold everything in.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0852" buf=2]
 【Haruka】[CR]
-（[v]うわ、わわぁっ！　き、希美乃の手が、ボクの、お、おっぱいをっ！！[/v]）[KeyWait]
+（[v]Uwa, wawaa! K-Kimino's touching my boobs![/v]）[KeyWait]
 [FaceOff]
 
-[text]動転する。けれど、体勢を傾かせながら反撃しようと突き出したボクの手も、競泳水着の脇から悪い冗談のようにスルリと潜り込み、希美乃の胸を直に掴んでしまった。[KeyWait]
+[text]I was taken aback. I leaned to the side and stuck my h ands out to counterattack, but they ended up sliding into Kimino's competition swimsuit from her armpits and gripping her chest directly like some sort of bad joke.[KeyWait]
 
 [Face storage="f_c021"]
 [Voice storage="c0053" buf=2]
 【Kimino】[CR]
-「[v]――はわあっ！やっ、イヤぁッ！！[/v]」[KeyWait]
+「[v]Hawaa! N-Nooo![/v]」[KeyWait]
 [FaceOff]
 
-[text]幼なじみの背中がビクンと震え、美感にしかめた顔が瞬時に赤らむ。[KeyWait]
+[text]My childhood friend twitched backward as her pretty face suddenly blushed and frowned.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0853" buf=2]
 【Haruka】[CR]
-（[v]う、うわっ！　き、希美乃の胸ッ！！　触っちゃったっ、直にッ！　小さい、のに、こんな……柔らかいんだ……[/v]）[KeyWait]
+（[v]U-Uwa! K-Kimino's chest! I touched it, I touched it directly! It's small, but... it's so soft...[/v]）[KeyWait]
 [FaceOff]
 
-[text]膨らみは控えめでも手荒に扱えば崩れてしまいそうな感触は変わらない。[KeyWait]
-[text]むしろ小さい分だけ弾き返すような弾力は大人しく、指先に乳肉がしっとり絡みつく触り心地をもたらしてくる。[KeyWait]
+[text]Her mounds were on the reserved side when it came to size, but they still felt so soft that they could collapse if handled roughly.[KeyWait]
+[text]If anything, they felt more firm and perky thanks to being smaller. They felt nice to the touch, like they going to wrap around my fingers.[KeyWait]
 
 [Face storage="f_c023"]
 [Voice storage="c0054" buf=2]
 【Kimino】[CR]
-「[v]あ、ああぁ、ご、ごめん！[/v]」[KeyWait]
+「[v]A-Aaah, s-sorry![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a0854" buf=2]
 【Haruka】[CR]
-「[v]こ、こっちこそっ！！[/v]」[KeyWait]
+「[v]M-Me too![/v]」[KeyWait]
 [FaceOff]
 
-[text]お互いに揉み揉まれる甘美に顔を上気させると、一瞬で我に返り慌てて手を引き戻す。[KeyWait]
+[text]We quickly snapped back to our senses and quickly pulled our hands back, our faces flushed from the pleasure.[KeyWait]
 
 [Face storage="f_c023"]
 [Voice storage="c0055" buf=2]
 【Kimino】[CR]
-「[v]ひゃうっ！[/v]」[KeyWait]
+「[v]Hyauh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a0855" buf=2]
 【Haruka】[CR]
-「[v]ああっ！！[/v]」[KeyWait]
+「[v]Aah![/v]」[KeyWait]
 [FaceOff]
 
-[text]その拍子に、二人共に水着の肩紐が外れてしまい濡れた布地が捲れ返った。[KeyWait]
+[text]Just then, both of our shoulder came loose, and the wet fabric of our swimsuits folded down over itself.[KeyWait]
 
 ;ＣＧ１０(ev401)：【差分】おっぱいぽろり
 ;イベント絵表示
@@ -1226,17 +1226,17 @@
 [Sound storage="se716" buf=0]
 
 [Face storage="f_o041"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]うぉおおっ！　すげええっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]やっぱ大きすぎなんだよっ、スク水じゃ抑えきれないッ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]だが、それがいいっ！　実にイイッ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1249,12 +1249,12 @@
 [text]湧き上がる野次にキッと睨みつけたけど、男子たちの食い入るような無数の視線に迎撃されて慌てて顔を伏せてしまった。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]うわ、いまの表情、ズキュンときたっ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]か……可愛い……俺、惚れたかも……ッ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1263,22 +1263,22 @@
 [text]一方希美乃の方も――。[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]控えめな大きさの健康美～ッ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｅ】[CR]
+【Male Student E】[CR]
 「[i]これはこれで、そそられるなあ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｆ】[CR]
+【Male Student F】[CR]
 「[i]彼女にこそ、競泳用ではなくスク水を着けて欲しいッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o032"]
-【男子生徒Ｇ】[CR]
+【Male Student G】[CR]
 「[i]馬鹿野郎！！　競泳用水着だからこそ、あの鍛え抜かれた肢体が映えるんだろうがっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1434,7 +1434,7 @@
 [text]その隙を逃さず号令を飛ばす。[KeyWait]
 
 [Face storage="f_g902"]
-【渡辺・薄井・浦辺】[CR]
+【【Watanabe, Usui, Urabe】】[CR]
 「[i]うぉおおおぉお――――っ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1512,17 +1512,17 @@
 [text]ちょっと悔しそうな笑顔を向けてきた。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]うぉおお、すげぇええっ！　名勝負だったぁ――ッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p021"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]一条さんも坂谷さんも素敵ィ～～～～～～ッ！！　格好良かったわよ――っ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]どっちも最高だ！　ありがとうっ、ありがとうっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2052,12 +2052,12 @@
 [text]自分だって絶妙なプロポーションなくせに、興味深そうに尋ねてきた。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]おおっ！　会長っ、ナイス質問ッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]ブラジャーなにカップなのかも、聞いてくれーッ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2162,17 +2162,17 @@
 [text]抗議するように生徒会長を睨むが、悩ましく瞳を潤ませた、誘うような上目遣いになってしまう。[KeyWait]
 
 [Face storage="f_p012"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]なんか……はるかさん、様子おかしくない？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o022"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]そういえば……。騎馬戦の後で疲れたのかなって思ったけど、違うような[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]なんか妙に色っぽいっていうか……。エッチ、っぽくないか？　あの顔……[/i]」[KeyWait]
 [FaceOff]
 
@@ -2283,12 +2283,12 @@
 [text]沈黙を誤解したみたいだ。なんだかすごく嬉しそうな様子になって、生徒会長が尋ねてくる。[KeyWait]
 
 [Face storage="f_p011"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]あ、ああいう妹も……悪くない……わね……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p021"]
-【女子生徒Ｂ】[CR]
+【Female Student B】[CR]
 「[i]ああ……、わたくしははるかお姉様って、お呼びしたいわ。わたくしの方が、年上ですけど……[/i]」[KeyWait]
 [FaceOff]
 
@@ -2352,12 +2352,12 @@
 [text]下半身にまとわりつく感触を振り払おうと腰をくねらせたけれど、その程度で撃退出来るわけがない。[KeyWait]
 
 [Face storage="f_o022"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]なんだろ？　さっきからはるかちゃん、身体、くねくねさせてるけど……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]うん、なんか、色っぽいよな……[/i]」[KeyWait]
 [FaceOff]
 
