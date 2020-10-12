@@ -990,7 +990,7 @@
 
 [text]However, I suddenly twisted my body in midair and forcefully changed my direction.[KeyWait]
 [text]I put a hand on Watanabe's head, then raised my legs high.[KeyWait]
-[text]My boobs bounced and practically felt like they were going to fly ou t as I did a cartwheel and landed back atop my horses.[KeyWait]
+[text]My boobs bounced and practically felt like they were going to fly out as I did a cartwheel and landed back atop my horses.[KeyWait]
 
 [Face storage="f_o041"]
 【Spectator A】[CR]
@@ -1163,7 +1163,7 @@
 （[v]Uwa, wawaa! K-Kimino's touching my boobs![/v]）[KeyWait]
 [FaceOff]
 
-[text]I was taken aback. I leaned to the side and stuck my h ands out to counterattack, but they ended up sliding into Kimino's competition swimsuit from her armpits and gripping her chest directly like some sort of bad joke.[KeyWait]
+[text]I was taken aback. I leaned to the side and stuck my hands out to counterattack, but they ended up sliding into Kimino's competition swimsuit from her armpits and gripping her chest directly like some sort of bad joke.[KeyWait]
 
 [Face storage="f_c021"]
 [Voice storage="c0053" buf=2]
@@ -1171,7 +1171,7 @@
 「[v]Hawaa! N-Nooo![/v]」[KeyWait]
 [FaceOff]
 
-[text]My childhood friend twitched backward as her pretty face suddenly blushed and frowned.[KeyWait]
+[text]My childhood friend jerked up straight as her pretty face suddenly blushed and frowned.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0853" buf=2]
@@ -1732,37 +1732,37 @@
 「[v]Yume![/v]」[KeyWait]
 [FaceOff]
 
-[text]たどり着く様子のない彼女へと、ボクの方から近づいていった。[KeyWait]
-[text]蠢く水を払い退けるように手足を大きく動かして泳いだのだけど、だめだった。[KeyWait]
-[text]相変わらず水はうねうねと敏感なところに絡みついて、蠱惑の快感をもたらしてくる。[KeyWait]
+[text]I went over to Yume, who was showing no signs of ever reaching me.[KeyWait]
+[text]I moved my arms and legs wide as I swam in an attempt to shake off the wriggling water, but it was no good.[KeyWait]
+[text]The water continuing writhing around, wrapping itself around my sensitive spots and distracting me with pleasure.[KeyWait]
 
 [Face storage="f_b029"]
 [Voice storage="b0072" buf=2]
 【Yume】[CR]
-「[v]はるかちゃん、優勝おめでとう！！　すっごくかっこよかったっ！　希美乃ちゃんも、とても勇ましかったよっ！！[/v]」[KeyWait]
+「[v]Congrats on winning, Haruka-chan! You were really cool! Kimino-chan fought really bravely, too!![/v]」[KeyWait]
 [FaceOff]
 
-[text]目の前までたどり着くと、彼女はボクと希美乃の健闘を讃えてくれた。[KeyWait]
+[text]After I reached her, she complimented both Kimino and I on our battle.[KeyWait]
 
 [Face storage="f_a036"]
 [Voice storage="a0885" buf=2]
 【Haruka】[CR]
-「[v]う、うん……ありが、と……[/v]」[KeyWait]
+「[v]Y-Yeah... T-Thanks...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c001"]
 [Voice storage="c0065" buf=2]
 【Kimino】[CR]
-「[v]まったく、あの遼と双子とは思えないほど強いんだもん。これはますますうちの水泳部に入ってもらわないとね～[/v]」[KeyWait]
+「[v]Geez, Haruka's so strong you'd never think she's Ryou's twin sister. Now I [end]really[endita] want her to join the swim club.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a0886" buf=2]
 【Haruka】[CR]
-（[v]どうやら……大丈夫、みたい……[/v]）[KeyWait]
+（[v]I guess... she's okay...[/v]）[KeyWait]
 [FaceOff]
 
-[text]安全を確かめずに近づいて[eruby str="迂闊" text="うかつ"]だったかと思ったけれど、蠢く水が結女に襲いかかる様子はない。[KeyWait]
+[text]I'd worried that getting close without confirming it first was reckless, but it seemed that the wriggling water wasn't going to attack Yume.[KeyWait]
 
 [jump target=*選択肢１終]
 
@@ -1772,8 +1772,8 @@
 [OptionTarget num=2]
 [eval exp="f.４章バッド=0"]
 
-[text]こっちから向こうに行こうかと思ったけれど、次から次へとみんなが押し寄せてきて身動き取れない。[KeyWait]
-[text]とにかく、ボクに絡みついてきている水が、結女を襲っていないことは確認出来た。[KeyWait]
+[text]I considered heading over toward her my self, but with all of the students huddled around me, I couldn't really escape.[KeyWait]
+[text]For the time being, I was at least able to confirm that the water wrapping around me wasn't attacking Yume.[KeyWait]
 
 
 ;―共通――――――――――――――――――――――――――――――――――――――――
@@ -1783,10 +1783,10 @@
 [Face storage="f_a046"]
 [Voice storage="a0887" buf=2]
 【Haruka】[CR]
-（[v]鬼……なら、まず、鬼斬姫の、ボク……を、先に片付けよう……って、ことか……？　はうっ！！[/v]）[KeyWait]
+（[v]An oni... In that case... As the Oni-Cutting Princess, I should take it out before it can strike... right...? Hauh![/v]）[KeyWait]
 [FaceOff]
 
-[text]水着の内側で乳首を直接転がされて、むず痒い痺れが[eruby str="奔" text="はし"]った。[KeyWait]
+[text]The water rolled my nipples around in its grip, making an itchy electric jolt course through them.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV402b"]
@@ -1795,22 +1795,22 @@
 [Face storage="f_a031"]
 [Voice storage="a0888" buf=2]
 【Haruka】[CR]
-「[v]ン――――ッ、フゥッッ！[/v]」[KeyWait]
+「[v]Nnnnnnh, fuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]歯を食いしばって嬌声を堪えたけれど、水の蠢きは大胆さを増して胸を揉んできた。[KeyWait]
+[text]I gritted my teeth to prevent myself from moaning, but the water boldly began groping my breasts.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0889" buf=2]
 【Haruka】[CR]
-（[v]んくぅ……ッ！　あ、あぁ……、なん……だよっ、これ……っ！！　ふぅ、あ、あぁ……ッ！[/v]）[KeyWait]
+（[v]Nkuuh... A-Aah... What... the heck...!? Fuuh, a-aah...![/v]）[KeyWait]
 [FaceOff]
 
-[text]膨らみの裾から絞るように圧迫されたかと思うと、乳肌を窪ませて小気味よいリズムで軽やかにほぐしてくる。[KeyWait]
+[text]As soon as I registered that the water was squeezing the outer rim of my breasts, they had starting pushing inwards against my supple flesh and lightly and rhythmically massaging them to loosen them up.[KeyWait]
 
 [Face storage="f_o011"]
-【女子生徒】[CR]
-「[i]おめでとう、一条さん！　かっこよかったです！！[/i]」[KeyWait]
+【Female Student】[CR]
+「[i]Congratulations, Ichijou-san! You were really cool![/i]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -1820,34 +1820,35 @@
 [Face storage="f_a039"]
 [Voice storage="a0890" buf=2]
 【Haruka】[CR]
-「[v]ふへ……、ありが、と……ンぅ……[/v]」[KeyWait]
+「[v]Fuheh... T-Thanks... Nnuh...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒】[CR]
-「[i]感動しました！！　水の上で舞う姿、すごい、綺麗だったッス！[/i]」[KeyWait]
+【Male Student】[CR]
+「[i]I was really impressed! You looked so pretty dancing above the water like that![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a039"]
 [Voice storage="a0891" buf=2]
 【Haruka】[CR]
-「[v]そん、な……。たいしたこと、な……あ、あぁ……イぃ……[/v]」[KeyWait]
+「[v]N-No... I didn't do anything... that i-impressive...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a039"]
 [Voice storage="a0892" buf=2]
 【Haruka】[CR]
-（[v]う、うぅ……、せっかく、みんなが……祝って、くれてるのにぃ。エロぃ、声ぇ、なっちゃう……っ[/v]）[KeyWait]
+（[v]
+U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a031"]
 [Voice storage="a0893" buf=2]
 【Haruka】[CR]
-（[v]ああっ、ど、どうしよ……。水……に、弄られてる、から。お乳ぃ、変……な、ふうに、動いちゃって、るぅ……。みんなに、気付かれ……ちゃう……ッ！[/v]）[KeyWait]
+（[v]Aah, w-what do I do... The water... keeps playing with me. It's moving so weird around my boobs... Everyone's... gonna notice...![/v]）[KeyWait]
 [FaceOff]
 
-[text]意識すればするほど、皮肉なことに感度が高まってしまう。[KeyWait]
-[text]そんな状態の乳首を弾かれて、ビクンと背筋が大きく震えた。[KeyWait]
+[text]Ironically, the more I paid attention to it, the stronger it felt.[KeyWait]
+[text]A shudder ran up my spine as I felt the water flick my nipples.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV402b"]
@@ -1856,14 +1857,14 @@
 [Face storage="f_a018"]
 [Voice storage="a0894" buf=2]
 【Haruka】[CR]
-「[v]ヒッ！　ヒウゥ～～～～ッ！！[/v]」[KeyWait]
+「[v]Hyi! Hyuuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
 ;[text]ビクンと背筋が大きく震えてしまった。[KeyWait]
 
 [Face storage="f_o022"]
-【男子生徒】[CR]
-「[i]一条、さん……？[/i]」[KeyWait]
+【Male Student】[CR]
+「[i]I-Ichijou-san...?[/i]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -1873,126 +1874,126 @@
 [Face storage="f_a045"]
 [Voice storage="a0895" buf=2]
 【Haruka】[CR]
-「[v]あ、ちょっと、ひゃ、ひゃっくり……が……。あは、あはは……、ふあっ！！[/v]」[KeyWait]
+「[v]Ah, I have the h-hiccups... Aha, ahaha... Fwah![/v]」[KeyWait]
 [FaceOff]
 
-[text]誤魔化そうとする側から、今度は大陰唇をチュンと[eruby str="啄" text="ついば"]むような刺激が襲う。[KeyWait]
-[text]胸を警戒していたので不意打ちだった。膝が崩れそうになる。[KeyWait]
+[text]I tried to play it off, but right away,I felt something peck at my labia majora.[KeyWait]
+[text]I'd been so on guard for it to attack my chest that it caught me by surprise, almost making my knees buckle.[KeyWait]
 
 [Face storage="f_p012"]
-【女子生徒】[CR]
-「[i]大丈夫？　顔赤いけど。疲れてるなら、プールから上がった方が……[/i]」[KeyWait]
+【Female Student】[CR]
+「[i]Are you okay? Your face looks read. If you're tired, you should probably get out of the...[/i]」[KeyWait]
 [FaceOff]
 
-[text]ボクも出来るならそうしたい。けれど動こうとすると、触手の様に絡みついてくる水の蠢きが、ますます鋭敏な部分を刺激してくる。[KeyWait]
+[text]If I could, I would. But whenever I moved, the tentacle-like sensation squeezing around me squeezed stimulate my sensitive spots even more.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0896" buf=2]
 【Haruka】[CR]
-「[v]～～～～～～～ぅッ[/v]」[KeyWait]
+「[v]...![/v]」[KeyWait]
 [FaceOff]
 
-[text]心配してくれた子にお礼をいいたいけれど、声を出せばはしたない喘ぎになっちゃいそうだ。[KeyWait]
+[text]I wanted to thank the girl for her concern, but I knew that if I opened my mouth, I'd let out a shameless moan.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0897" buf=2]
 【Haruka】[CR]
-（[v]くぅ……、女……の部分、の、ひだひだまで弄って……るぅ……。ふぁ……、め、捲って……あ、あぁ……、キモチ良すぎて……声、出そう……[/v]）[KeyWait]
+（[v]Kuuh... I-It's playing with my... lips down there... Fwah... I-It's folding them back... A-Aah... This feels too good... I-I'm gonna moan...[/v]）[KeyWait]
 [FaceOff]
 
-[text]顔が悩ましげに瞳が潤み、表情が無防備に綻んでいるのが自分でも分かる。[KeyWait]
-[text]そんな顔をみんなに近くで見られているかと思うと、それだけで気が気ではない。[KeyWait]
+[text]I could feel my eyes moistening sensually and my face loosening up and becoming defenseless and lewd.[KeyWait]
+[text]Thinking about everyone seeing my face like that from such close range had me really uneasy.[KeyWait]
 ;[text][KeyWait]
 
 [Face storage="f_d001"]
 [Voice storage="d0011" buf=2]
 【Hideko】[CR]
-「[v]そっれでは、勝利者インタビュー、いってみようかー！[/v]」[KeyWait]
+「[v]Okay, let's do an interview with the winner![/v]」[KeyWait]
 [FaceOff]
 
-[text]かなりマズい状況だっていうのに、防水された撮影機材を抱える報道部を引き連れて、生徒会長がやってきた。[KeyWait]
+[text]Despite the situation being bad enough already, the student council president made her way over to me with the news club in tow, waterproof filming equipment and all.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a0898" buf=2]
 【Haruka】[CR]
-（[v]イ、インタビューッ！？[/v]）[KeyWait]
+（[v]A-An interview!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]焦る目の前にマイクが突き付けられた。[KeyWait]
+[text]A mic was suddenly thrust before my panicked eyes.[KeyWait]
 
 [Face storage="f_d002"]
 [Voice storage="d0012" buf=2]
 【Hideko】[CR]
-「[v]おっめでとう！　一条はるかちゃんッ。すごかったねー、編入早々の大活躍だったじゃない！！[/v]」[KeyWait]
+「[v]Congraaatulations, Ichijou Haruka-chan! You put on such a good show even though you just transferred in, you were amazing![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a0899" buf=2]
 【Haruka】[CR]
-「[v]は……はぁ……、あ、ありがと……、ございま、くひっ！[/v]」[KeyWait]
+「[v]Hah... Haah... T-Thank... you very much, kuhyi![/v]」[KeyWait]
 [FaceOff]
 
-[text]上級生なのに偉ぶった感じのない気さくな調子で戦いぶりを褒められ、礼をいおうとするが、水着の下の淫靡な水がぬるりとした感触で腹部を撫で回しながら、股間に集まってくる。[KeyWait]
+[text]The president congratulated me in such a friendly manner despite being in a higher grade. I tried to thank her, but more of the lewd water underneath my swimsuit was moving across my belly, caressing it as it gathered at my crotch.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0900" buf=2]
 【Haruka】[CR]
-（[v]あ、ああぁ……ッ！！　だめっ、そんなとこ、弄られッ、たらっ！[/v]）[KeyWait]
+（[v]A-Aaah...! No, if it plays with me there...![/v]）[KeyWait]
 [FaceOff]
 
-[text]太腿を擦り合わせて股を窄めたけれど、水相手には無駄な抵抗だ。[KeyWait]
-[text]乳房同様に、尻までぷにぷにと揺さぶられる。[KeyWait]
+[text]I tried to keep my crotch safe my squeezing my thighs shut, but my resistance was futile considering I was dealing with liquid.[KeyWait]
+[text]The water had begun jiggling my butt around along with my breasts.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0901" buf=2]
 【Haruka】[CR]
-（[v]ひうっ。そんな風に、されたら……。あ、あぁ……。さっき、トイレ、いったばかりなのにっ、したくなっちゃうっ！　お、おしっこ……ぉ[/v]）[KeyWait]
+（[v]Hyuh... If it keeps that up... A-Aah... I just went to the bathroom earlier, but I'm gonna have to go again! I'm gonna have to p-pee...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_d004"]
 [Voice storage="d0013" buf=2]
 【Hideko】[CR]
-「[v]ん……？　なんだか顔色が悪いけど、大丈夫？[/v]」[KeyWait]
+「[v]Hm...? You don't look very good, are you okay?[/v]」[KeyWait]
 [FaceOff]
 
-[text]異常に気がついた生徒会長が心配してくれる。[KeyWait]
+[text]She became worried upon noticing that something was off.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a0902" buf=2]
 【Haruka】[CR]
-「[v]ん……んぅ……[/v]」[KeyWait]
+「[v]Nnh... Nnnh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]これで切り上げてくれればと期待して頷くのだが―――、[KeyWait]
+[text]I nodded, expecting her to get the hint and call off the  interview, but-[KeyWait]
 
 [Face storage="f_d001"]
 [Voice storage="d0014" buf=2]
 【Hideko】[CR]
-「[v]激しい戦いで疲れちゃったかなあ？　じゃあ、あと質問２、３個くらいで終わりにするからね[/v]」[KeyWait]
+「[v]Maybe you're tired out from your intense battle? We'll keep this to just two or three questions, then.[/v]」[KeyWait]
 [FaceOff]
 
-[text]インタビューを中止する気はさらさらないようだった。[KeyWait]
+[text]She had no intention of stopping it, apparently.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a0903" buf=2]
 【Haruka】[CR]
-（[v]べ、別に……話すこと、なんか……ない……のに……[/v]）[KeyWait]
+（[v]I-I don't even... have anything... to say...[/v]）[KeyWait]
 [FaceOff]
 
-[text]急激に尿意が込み上げてきている。早くトイレに行きたい。けれど―――。[KeyWait]
+[text]I suddenly felt an intense urge to urinate. I wanted to get to a bathroom right away. But-[KeyWait]
 
 [Face storage="f_a016"]
 [Voice storage="a0904" buf=2]
 【Haruka】[CR]
-（[v]くぅ……あ、あぁああぁ……おしっこ、の、あな、あああぁ……ッ！[/v]）[KeyWait]
+（[v]Kuuh... A-Aaaaah... M-My peehole, aaaah...![/v]）[KeyWait]
 [FaceOff]
 
-[text]インタビューを断ろうと口を開きかけた途端、蠢く水が小さな尿口を押し開いた。[KeyWait]
+[text]Just as I was about to open my mouth to turn down the interview, I felt the wriggling water pry open my tiny urethra.[KeyWait]
 
 [Face storage="f_a039"]
 [Voice storage="a0905" buf=2]
 【Haruka】[CR]
-（[v]これじゃ、い、いくら我慢しても……、勝手に、おしっこ……っ、漏れちゃうっ！！　こんな……みんなの前で、漏らす……なんてっ！[/v]）[KeyWait]
+（[v]A-At this rate, no matter how much I try to hold it... My pee's... gonna come out anyway! I can't... wet myself... in front of everyone like this![/v]）[KeyWait]
 [FaceOff]
 
 [text]膀胱で堪えているのに無意味にされる。恐ろしい予感に震えていると、[KeyWait]
@@ -2000,144 +2001,144 @@
 [Face storage="f_a048"]
 [Voice storage="a0906" buf=2]
 【Haruka】[CR]
-（[v]ひぃいっ！　ふあっ、ヤッ、そこ……だ……めッ！！　お、おおおぉ、おぉ……ッ！　お尻ぃいいっ、あ、あな……ン、んぁあっ！！[/v]）[KeyWait]
+（[v]Hyiii! Fwah, no, not... there! O-Ooooh, ooh...! My b-butthoooole... Nhaah![/v]）[KeyWait]
 [FaceOff]
 
-[text]不意打ちに尻の穴を擽られた。[KeyWait]
-[text]肛門の襞一枚一枚に水が染みこんでほぐすような刺激を与えてくる。[KeyWait]
-[text]心の動きに反応してすぐに責め方を意地悪にしてくる水に為す術もない。[KeyWait]
+[text]The water caught me surprise by tickling my asshole.[KeyWait]
+[text]The water entered my anus, stimulating it by and loosening it up by wetting its walls.[KeyWait]
+[text]With the way the water read my heart in order to better tease me, I had no way to fight back against it.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a0907" buf=2]
 【Haruka】[CR]
-（[v]くぅ……ッ。いまの……で、少し、ちびっ……ちゃったぁ。他の生徒、こんないっぱい入ってるのにぃ……ッ！　プールの、中にっ[/v]）[KeyWait]
+（[v]Kuuh... I... peed a little just now... Even though I'm in the pool... and there's so many students around...![/v]）[KeyWait]
 [FaceOff]
 
-[text]ばれるような量ではないのだけど動転しちゃう。[KeyWait]
-[text]男の時のクラスメイトも、大好きな結女も、希美乃もいる。[KeyWait]
-[text]その水の中に排尿した後ろめたさが、なぜか背徳的な昂りとなって背筋を震わせた。[KeyWait]
+[text]It wasn't enough for everyone to notice, but it still got me flustered.[KeyWait]
+[text]There were male classmates here, as well as my beloved Yume, and Kimino, too.[KeyWait]
+[text]But for some reason, the guilt of having urinated in the pool turned into an immoral excitement, sending a shudder up my spine.[KeyWait]
 
-[text]じゅわっ！[KeyWait]
+[text]Seep![KeyWait]
 
 [Face storage="f_a048"]
 [Voice storage="a0908" buf=2]
 【Haruka】[CR]
-（[v]ひうっ！　ふぁ、また漏らし……。膣も、濡れて……ど、どうし、よう……[/v]）[KeyWait]
+（[v]Hyuh! Fwah, I peed again... My pussy's wet, too... W-What do I do...?[/v]）[KeyWait]
 [FaceOff]
 
-[text]尿と一緒に、愛液までもが膣口からこぼれ出た。[KeyWait]
+[text]Both pee and love juices were flowing forth from my crotch.[KeyWait]
 
 [Face storage="f_a048"]
 [Voice storage="a0909" buf=2]
 【Haruka】[CR]
-（[v]んふぅうっ！　おぉ、あ、あああぁ……っ！！[/v]）[KeyWait]
+（[v]Nfuuuh! Ooh, a-aaaah...![/v]）[KeyWait]
 [FaceOff]
 
-[text]考えると余計におかしくなるのに、頭の中ではっきりと言葉にしてしまい、子宮が危うく疼く。[KeyWait]
+[text]Even though just thinking about it made me crazy enough, forming the words clearly in my head was enough to make my womb throb.[KeyWait]
 
 [Face storage="f_d001"]
 [Voice storage="d0015" buf=2]
 【Hideko】[CR]
-「[v]緊張しちゃってるのかな～？　うふふ、可愛いね～[/v]」[KeyWait]
+「[v]Are you nervous? Ufufu, you're so cute.[/v]」[KeyWait]
 [FaceOff]
 
-[text]顔を赤くして俯く様を、生徒会長にからかわれてしまう。[KeyWait]
+[text]The student council president poked fun at me as I hung my blushing head.[KeyWait]
 
 [Face storage="f_d003"]
 [Voice storage="d0016" buf=2]
 【Hideko】[CR]
-「[v]それにしても、はるかちゃんったら、見事なプロポーションよね～。ねえねえ、スリーサイズってどれくらいあるの！？[/v]」[KeyWait]
+「[v]But anyway, you've got some nice proportions, Haruka-chan? Hey, hey, what are your three sizes!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]自分だって絶妙なプロポーションなくせに、興味深そうに尋ねてきた。[KeyWait]
+[text]Despite having a hot body herself, she inquisitively asked me about my own proportions.[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student A】[CR]
-「[i]おおっ！　会長っ、ナイス質問ッ！！[/i]」[KeyWait]
+「[i]Ooh! Nice question, president![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Male Student B】[CR]
-「[i]ブラジャーなにカップなのかも、聞いてくれーッ！[/i]」[KeyWait]
+「[i]Tell us what size bra you wear![/i]」[KeyWait]
 [FaceOff]
 
-[text]途端に男子生徒を中心に盛り上がる。[KeyWait]
+[text]The male students immediately showed their enthusiasm.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0910" buf=2]
 【Haruka】[CR]
-「[v]そん……なの、知らない……計ったこと……んくぅ……ない、からァ……。あひっ！！[/v]」[KeyWait]
+「[v]I... don't know... I've never.. measured before... Ahyi![/v]」[KeyWait]
 [FaceOff]
 
-[text]適当にあしらおうにも、まともに何か考えることが出来ない。[KeyWait]
+[text]I wanted to make something up, but my frazzled mind was unable to think of anything.[KeyWait]
 
 [Face storage="f_d003"]
 [Voice storage="d0017" buf=2]
 【Hideko】[CR]
-「[v]へー、じゃあ、この機会に、私が計ってあげちゃおっか？[/v]」[KeyWait]
+「[v]Oh? Then why don't I take this chance to measure you?[/v]」[KeyWait]
 [FaceOff]
 
 【Students】[CR]
-「[i]うぉおおおおおおおっ！[/i]」[KeyWait]
+「[i]Uwooooooooh![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒】[CR]
-「[i]いいぞぉおっ！　やれやれ～～～ッ！！[/i]」[KeyWait]
+【Male Student】[CR]
+「[i]Heck yeah! Do it, do iiiit![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p011"]
-【女子生徒】[CR]
-「[i]私も計るの手伝おうか～～！？[/i]」[KeyWait]
+【Female Student】[CR]
+「[i]Can I help, too!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]会長がそんなこというから、ますますみんなが盛り上がっちゃう。[KeyWait]
+[text]The president's proposal got everyone even more excited.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a0911" buf=2]
 【Haruka】[CR]
-（[v]…………ボ、ボクの、おっぱい、サイズ。計られちゃう……？[/v]）[KeyWait]
+（[v]...S-She's gonna measure... my boobs...?[/v]）[KeyWait]
 [FaceOff]
 
-[text]みんなの前にそんなことされるのはもちろんイヤだけど、自分のスリーサイズには興味が湧く。[KeyWait]
+[text]I obviously didn't want my body measured in front of everyone, but I [ita]was[endita] curious about my own three sizes.[KeyWait]
 
 [Face storage="f_a030"]
 [Voice storage="a0912" buf=2]
 【Haruka】[CR]
-（[v]ああ、でも、いま……水に、身体……弄られてるのに……。生徒会長に、触られ……ううん、計られ……たら……[/v]）[KeyWait]
+（[v]Aah, but... The water's playing with me... If the president touches me... No, if she [ita]measures[endita] me, then...[/v]）[KeyWait]
 [FaceOff]
 
-[text]みんなの前であられもなく悶えてしまいかねない。[KeyWait]
-[text]それに、みんなにスリーサイズを知られるなんて、女の子として、恥ずかしい……。[KeyWait]
+[text]There was no guarantee that I wouldn't shamelessly squirm about in front of everyone.[KeyWait]
+[text]Plus, as a girl, it'd be embarrassing having everyone know my three sizes...[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0913" buf=2]
 【Haruka】[CR]
-（[v]ふあぁ……だめ、だ、そんなの……[/v]）[KeyWait]
+（[v]Fwaah... N-No... I can't...[/v]）[KeyWait]
 [FaceOff]
 
-[text]なのに一ミリでも大きく見栄を張ろうとするかのように、乳房がぱんぱんに張ってきて、甘美の疼きを増大させる。[KeyWait]
+[text]Yet, almost as if they were trying to show off, even if only a little, my breasts swelled up, amplifying their sweet throbs of pleasure.[KeyWait]
 
 [Face storage="f_d001"]
 [Voice storage="d0018" buf=2]
 【Hideko】[CR]
-「[v]でも、残念！　いまちょっとメジャーとか計るものないんで、これはまたの機会だね[/v]」[KeyWait]
+「[v]But, too bad! I don't have a tape measure or anything with me right now, so we'll have to do it another time.[/v]」[KeyWait]
 [FaceOff]
 
 【All Students】[CR]
-「[i]ええ～～～[/i]」[KeyWait]
+「[i]Awwwww![/i]」[KeyWait]
 [FaceOff]
 
-[text]一斉に落胆の声があがる。[KeyWait]
-[text]しかし会長は全く悪びれた様子もなく、もしかしたら始めから計る気なんかなくて、ボクを含めたみんなをからかうためにいった様な気がしてきた。[KeyWait]
+[text]The whole crowd voiced their disappointment at once.[KeyWait]
+[text]But the president didn't seem bothered by that at all. I get the feeling she had no intention of measuring me from the start and was just trying to tease everyone, me included.[KeyWait]
 
 [Face storage="f_d002"]
 [Voice storage="d0019" buf=2]
 【Hideko】[CR]
-「[v]さ～て、次の質問だね♪[/v]」[KeyWait]
+「[v]Okay, next question! ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]ホッとした途端、[KeyWait]
+[text]I felt relieved, but then-[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV402b"]
@@ -2146,69 +2147,69 @@
 [Face storage="f_a048"]
 [Voice storage="a0914" buf=2]
 【Haruka】[CR]
-「[v]へぁっ！！　あっ、ひぃっ[/v]」[KeyWait]
+「[v]Hyeah! Ah, hyii![/v]」[KeyWait]
 [FaceOff]
 
-[text]陰唇の襞を内側からくぱーと押し開かれた。[KeyWait]
-[text]思わずへたり込みそうになる。[KeyWait]
+[text]I felt my lower lips get pushed open from the inside.[KeyWait]
+[text]I couldn't help but almost collaps on the spot.[KeyWait]
 
 [Face storage="f_d003"]
 [Voice storage="d0020" buf=2]
 【Hideko】[CR]
-「[v]あはは、そんな怖がらないで。変な質問はしないからさ[/v]」[KeyWait]
+「[v]Ahaha, you don't have to be so scared. I won't ask anything weird.[/v]」[KeyWait]
 [FaceOff]
 
-[text]などといいながら、面白いおもちゃを見つけた時の子供のような顔つきでボクを見詰めている。[KeyWait]
-[text]抗議するように生徒会長を睨むが、悩ましく瞳を潤ませた、誘うような上目遣いになってしまう。[KeyWait]
+[text]Despite what she was saying, she was staring at me like a kid who'd just found a fun-looking toy.[KeyWait]
+[text]I tried to give her a defiant glare, but with my wet lips and upturned eyes, it just looked like I was trying to seduce her.[KeyWait]
 
 [Face storage="f_p012"]
 【Female Student A】[CR]
-「[i]なんか……はるかさん、様子おかしくない？[/i]」[KeyWait]
+「[i]Um... Doesn't Haruka-san look kind of off?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o022"]
 【Male Student A】[CR]
-「[i]そういえば……。騎馬戦の後で疲れたのかなって思ったけど、違うような[/i]」[KeyWait]
+「[i]Now that you mention it... I thought she looked tired after the cavalry battle, but this kind of feels like something else...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
 【Male Student B】[CR]
-「[i]なんか妙に色っぽいっていうか……。エッチ、っぽくないか？　あの顔……[/i]」[KeyWait]
+「[i]She looks kind of... sexy? Y'know, that face she's making...[/i]」[KeyWait]
 [FaceOff]
 
-[text]蠢く水に女陰を弄られて浮かべる表情に、周りで見守る生徒たちから訝しむ声がざわざわと上がる。[KeyWait]
+[text]I heard voices of suspicion from the students watching me as a dirty expression formed on my face from the wriggling water playing with me.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a0915" buf=2]
 【Haruka】[CR]
-（[v]あ、ああ……。ボクの……顔、エッチに、なっちゃってる……？　見られてる、みんなに……？　気が、つかれちゃって……る……！？[/v]）[KeyWait]
+（[v]A-Aah... Am I making... a sexy face...? They're all looking at me...? They've... noticed...!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]みんなから注がれる視線が、淫らな発情を暴こうとしているように思われた。[KeyWait]
-[text]取り繕おうとしても、その快感を我慢する表情がスケベ顔に拍車をかけていた。[KeyWait]
+[text]I felt like everyone was trying to reveal a lewd face by staring at me.[KeyWait]
+[text]I tried to keep myself under control, but enduring the pleasure made my expression even more perverted.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0916" buf=2]
 【Haruka】[CR]
-（[v]ひうっ！　ワレメ、中ぁ。こんなとこ弄られたら。あぁっ、みんなの前、なのにっ[/v]）[KeyWait]
+（[v]Hyuh! It's inside my slit! If it messes with me there... Aah, no, everyone's right here![/v]）[KeyWait]
 [FaceOff]
 
-[text]秘裂の粘膜をヌリヌリと愛撫され、股ぐらが瞬時に熱を帯びた。[KeyWait]
-[text]みるみるうちに全身の力が抜けて、水から顔を出しているだけで精一杯だ。[KeyWait]
+[text]I felt a fever instantly overcome my crotch as the water caressed the slippery insides of my slit.[KeyWait]
+[text]Before long, I felt the strength drain from my muscles, and it became a struggle just to keep my head above the water.[KeyWait]
 
 [Face storage="f_a048"]
 [Voice storage="a0917" buf=2]
 【Haruka】[CR]
-（[v]うわっ、あ、ああっ！！　めくる、なあっ！　はうっ、中ぁ、イジってくるぅっ！！[/v]）[KeyWait]
+（[v]Uwah, a-aah! Don't fold, that back! Hauh, it's playing with me, inside![/v]）[KeyWait]
 [FaceOff]
 
-[text]小陰唇を摘まれ、左右にクイッと引っ張られると、敏感な器官すべてに水の冷たさがしみいった。[KeyWait]
-[text]悪くない。ふわっと胸に押し寄せる甘美に悩ましい吐息が溢れる。[KeyWait]
+[text]As the water gripped my labia majora and pulled it to the side, I felt cold water seep into my sensitive insides.[KeyWait]
+[text]It didn't feel bad. Hot, seductive breaths leaked from my lips as the sweet, relaxing pleasure washed over me.[KeyWait]
 
 [Face storage="f_d003"]
 [Voice storage="d0021" buf=2]
 【Hideko】[CR]
-「[v]ところで、はるかちゃんって、カレシとかいるのかなぅ？　その美貌だもん、前の学校でもすごくモテたでしょ～[/v]」[KeyWait]
+「[v]By the way, Haruka-chan, do you have a boyfriend? I'm sure your pretty face made you popular at your last school, right?[/v]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -2218,25 +2219,25 @@
 [Face storage="f_a050"]
 [Voice storage="a0918" buf=2]
 【Haruka】[CR]
-「[v]いない……そんなの、欲しくも、ない……。男、なんて……[/v]」[KeyWait]
+「[v]I don't... I don't need... a guy...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a0919" buf=2]
 【Haruka】[CR]
-（[v]ふぁ……ワレメの、中ッ、なかぁ……。擦ってるッ、ワレメに沿って、撫でて……ふぇあぁ[/v]）[KeyWait]
+（[v]Fwah... It's rubbing inside... my slit... It's going along it... Fweaah![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_d002"]
 [Voice storage="d0022" buf=2]
 【Hideko】[CR]
-「[v]まあ！　あらあらあらっ。じゃ、じゃあ、はるかさんって、女の子の方が好きな人なのっ！？[/v]」[KeyWait]
+「[v]Oh my! Oh my my [ita]my[endita]! T-Then, do you prefer girls instead, Haruka-san!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]蠢く水からの刺激が勢いづいて、もう理性が崩れる寸前だ。[KeyWait]
-[text]この事態をみんなに知られたくない一心でどうにか答えを返していた。[KeyWait]
-[text]だからどうしても馬鹿正直になってしまう。[KeyWait]
-[text]なのに水は淫裂を掻き乱しながら、敏感箇所を重点的に攻め始めた。[KeyWait]
+[text]Faced with the increasingly-intense stimulation of the wriggling water, I was just about to lose my mind.[KeyWait]
+[text]I absolutely didn't want everyone to know what was happening to me.[KeyWait]
+[text]But no matter what I did, my body acted honest.[KeyWait]
+[text]The water began focusing on my sensitive spots as it stirred up my pussy.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV402b"]
@@ -2245,26 +2246,26 @@
 [Face storage="f_a018"]
 [Voice storage="a0920" buf=2]
 【Haruka】[CR]
-（[v]ひあっ！　[eruby str="挿入" text="はい"]って！！　くふ……ぁ、うそぉ……そんな、とこっ！[/v]）[KeyWait]
+（[v]Hyah! It went on! Kufuh... Ah, no way... Not there![/v]）[KeyWait]
 [FaceOff]
 
-[text]小指の先程度の太さで膣穴の浅い部分にめり込んで、処女の硬さをほぐすようにくじってきた。[KeyWait]
-[text]しかも交互のリズムとなるように後ろの穴にまで同じことをしてくる。[KeyWait]
+[text]The water, about as thick as my pinker finger, buried itself shallowly inside me, playing with my hymen in order to loosen it up.[KeyWait]
+[text]And at the same time, it was playing with my rear hole, rhythmically moving in both spots at once.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a0921" buf=2]
 【Haruka】[CR]
-（[v]プールの、外……だったら、音ぉ、しちゃって……た。ぬぷっ、ぬぽ、って……[/v]）[KeyWait]
+（[v]If I had been outside the pool... They'd hear... wet sounds...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a0922" buf=2]
 【Haruka】[CR]
-（[v]ふぁああぁ～～、ま、また、愛液ぃ……。膣の奥……から、溢れて……こ、ここに……い、入れていいって、いってるみたい……[/v]）[KeyWait]
+（[v]Fwaaaaaah, m-my juices, not again... They're flowing out... from my pussy... I-It's like it's saying, it's okay to put it in...[/v]）[KeyWait]
 [FaceOff]
 
-[text]もちろん、男のペニスを……だ。[KeyWait]
-[text]この身体は女なのだから、発情すれば男のものを欲してしまう。[KeyWait]
+[text]By that... I meant a guy's dick, of course.[KeyWait]
+[text]Since my body was that of a girl's, naturally, it wanted a man when it got aroused.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a0923" buf=2]
@@ -2711,7 +2712,7 @@
 [text]そんな情けない絶頂だけは堪えようと気を張るけれど、[KeyWait]
 
 [Face storage="f_o022"]
-【男子生徒】[CR]
+【Male Student】[CR]
 「[i]あれ？　なんか、プールの水の色……この辺り、妙に生暖かい……。色も……？[/i]」[KeyWait]
 [FaceOff]
 
