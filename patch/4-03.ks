@@ -1477,7 +1477,7 @@
 「[v]N-No! Aaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]Using their heads as footstools, I moved forward and snatched the bandanna from Kimino's head.彼らの頭を踏み台にして身を乗り出し、ボクは希美乃の頭から鉢巻きを奪い取った。[KeyWait]
+[text]Using their heads as footstools, I moved forward and snatched the bandanna from Kimino's head.[KeyWait]
 
 [SoundOut buf=7 time=1000]
 [SoundOut buf=8 time=1000]
@@ -1509,7 +1509,7 @@
 [text]Shrill cheers broke out from the crowd as the student council president announced our victory, shaking the dome.[KeyWait]
 [text]As the crowd went wild, I dove into the pool and hurriedly stuffed my chest back into my swimsuit.[KeyWait]
 [text]I looked underwater and saw Kimino fixing hers as well.[KeyWait]
-[text]She gave me a somewhat frustrated-looking smile.ちょっと悔しそうな笑顔を向けてきた。[KeyWait]
+[text]She gave me a somewhat frustrated-looking smile.[KeyWait]
 
 [Face storage="f_o041"]
 【Male Student A】[CR]
@@ -1996,7 +1996,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]）
 （[v]A-At this rate, no matter how much I try to hold it... My pee's... gonna come out anyway! I can't... wet myself... in front of everyone like this![/v]）[KeyWait]
 [FaceOff]
 
-[text]膀胱で堪えているのに無意味にされる。恐ろしい予感に震えていると、[KeyWait]
+[text]It was making trying to hold my bladder pointless. A terrifying premonition hit me, and then-[KeyWait]
 
 [Face storage="f_a048"]
 [Voice storage="a0906" buf=2]
@@ -2301,7 +2301,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]）
 （[v]I'm... a guy... So I'm not... into guys... But... liking girls...? I'm in a girls body right now... So... Um...[/v]）[KeyWait]
 [FaceOff]
 
-[text]だIt was no good. My mind just wouldn't work.[KeyWait]
+[text]It was no good. My mind just wouldn't work.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV402c"]
@@ -2411,7 +2411,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]）
 [Face storage="f_d004"]
 [Voice storage="d0024" buf=5]
 【Hideko】[CR]
-「[v]You definitely do seem a little [end]too[endita] off... Let's stop the interview here, then.[/v]」[KeyWait]
+「[v]You definitely do seem a little [ita]too[endita] off... Let's stop the interview here, then.[/v]」[KeyWait]
 [FaceOff]
 
 [text]Even the president got concerned, finally switching off the mic.[KeyWait]
@@ -2602,8 +2602,8 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]）
 （[v]I'm... dirty...? Aah, everyone's looking at me... while I'm being dirty... I'm making everyone else dirty because I'm a dirty girl... Fwah! A-Aah![/v]）[KeyWait]
 [FaceOff]
 
-[text]女子たちのなかにも濡れた者がいるらしく、顔を赤らめ腰をモジモジさせていた。[KeyWait]
-[text]その様子を見ての興奮のフィードバックが、水の蠢きを過激にさせた。[KeyWait]
+[text]Apparently, some of the other girls had gotten wet, too. They were blushing and squirming around awkwardly.[KeyWait]
+[text]The water started stimulating me harder in response to me getting excited from seeing them.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a0955" buf=3]

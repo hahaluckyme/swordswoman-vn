@@ -17,20 +17,20 @@
 
 [Face storage="f_a042"]
 [Voice storage="a0982" buf=2]
-【はるか】[CR]
-「[v]ひうっ！？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyuh!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]不意に希美乃と目が合った。[KeyWait]
-[text]少し離れたところにいる彼女には、失禁はバレていないはずだ。[KeyWait]
+[text]My eyes suddenly met with Kimino's.[KeyWait]
+[text]We were a decent distance away from each other, so she shouldn't have noticed that I'd wet myself.[KeyWait]
 
 [Face storage="f_c025"]
 [Voice storage="c0070" buf=2]
-【希美乃】[CR]
-「[v]うふ……♪[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]Ufu... ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]なのにすべてを見透かしたように、その幼なじみが意味深な笑みを浮かべた。その途端―――。[KeyWait]
+[text]Yet, I watched as my childhood friend flashed me a suggestive smile like she'd seen through it all. And just then-[KeyWait]
 
 [HSceneStart]
 
@@ -40,27 +40,27 @@
 
 [Face storage="f_a041"]
 [Voice storage="a0983" buf=2]
-【はるか】[CR]
-「[v]き、希美乃……？　はわっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]K-Kimino...? Hawah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se128" buf=1]
 
-[text]急激に、蠢く水の感触が手応えを増してきた。[KeyWait]
+[text]Suddenly, the wriggling water's touch became more firm.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a0984" buf=2]
-【はるか】[CR]
-「[v]ひうっ、な、なに……！？　ああっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyuh, w-what...!? Aah![/v]」[KeyWait]
 [FaceOff]
 
-[text]驚いて水の中を確かめると、無色透明だったその水が、ぶにぶにとした触手の形を取って実体化していた。[KeyWait]
-[text]逃げようとする間もなく、手足にしっかりと巻き付かれ動きを封じられる。[KeyWait]
+[text]I looked down in surprise and saw that the transparent water had materialized into squishy tentacles.[KeyWait]
+[text]Before I even had a chance to run, my legs and arms were immediately bound.逃げようとする間もなく、手足にしっかりと巻き付かれ動きを封じられる。[KeyWait]
 
 [Face storage="f_a030"]
 [Voice storage="a0985" buf=2]
-【はるか】[CR]
-「[v]くそおっ！　は、放せッ！！　うわっ、あぁああああぁ――っ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Damnit! L-let go of me! Uwah, aaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 ;ＢＧＭ：陵辱２
@@ -71,61 +71,61 @@
 [CgSet storage="EV403a"]
 [UpDate]
 
-[text]ザッバァ――――ンッ！！[KeyWait]
+[text]Splaaaash![KeyWait]
 
-[text]そのまま水の中から高々と空中に抱え上げられてしまった。[KeyWait]
+[text]Then, they picked up me out of the water and raised me high into the air.[KeyWait]
 
 [Face storage="f_o022"]
-【男子生徒Ａ】[CR]
-「[i]う、うわああっ！！　はるかちゃんがっ！[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]U-Uwaaah! Haruka-chan![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p012"]
-【女子生徒Ａ】[CR]
-「[i]変な、蔓みたいなのが、一条さんに絡みついてる……[/i]」[KeyWait]
+【Female Student A】[CR]
+「[i]There's weird vines or something wrapped around her...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o032"]
-【男子生徒Ｂ】[CR]
-「[i]で、結局、なんなんだよ……あれ……[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]What the heck [ita]are[endita] those...?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｃ】[CR]
-「[i]分からない……、けど、なんか、妙にエロい……な……[/i]」[KeyWait]
+【Male Student C】[CR]
+「[i]I dunno... But... This is kind of erotic...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
-【男子生徒Ｄ】[CR]
-「[i]あ、ああ……[/i]」[KeyWait]
+【Male Student D】[CR]
+「[i]Y-Yeah...[/i]」[KeyWait]
 [FaceOff]
 
-[text]異変に戦くよりも、淫靡な光景に惹かれて、みんなの視線がボクに集まる。[KeyWait]
-[text]どうやら触手は他の生徒には危害を加えていないらしい。[KeyWait]
-[text]みなその場から逃げずに、ボクを見詰めて立ち尽くしていた。[KeyWait]
+[text]Rather than fighting the abnormality, everyone stared at me, their gazes stolen away by the perverted scene in front of them.[KeyWait]
+[text]It seemed that the tentacles hadn't hurt the other students.[KeyWait]
+[text]Everyone stood there, watching in silence instead of running.みなその場から逃げずに、ボクを見詰めて立ち尽くしていた。[KeyWait]
 
 [Face storage="f_b004"]
 [Voice storage="b0075" buf=2]
-【結女】[CR]
-「[v]は、はるかちゃんっ！？[/v]」[KeyWait]
+【Yume】[CR]
+「[v]H-Haruka-chan!?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a0986" buf=2]
-【はるか】[CR]
-「[v]結女ッ。あっ……だ、だめッ。見るなっ！　み……見ないでっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Yume... Ah... N-No, don't look! Don't... look at me![/v]」[KeyWait]
 [FaceOff]
 
-[text]驚いて見上げる結女の前で、水触手が両脚を強引に押し開く。[KeyWait]
+[text]The tentacles forcefully spread my legs open as Yume looked up at me, shocked.[KeyWait]
 
 ;【ＣＧ１２(ev403)：実体化した触手に犯されるシーン】[CR]
 
-[text]開帳された股間から―――。[KeyWait]
+[text]And then, from my wide-open legs-[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0987" buf=2]
-【はるか】[CR]
-「[v]くぅ……うううぅ……ッ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kuuh... Uuuuuh...[/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se188" buf=0]
@@ -133,64 +133,64 @@
 [CgSet storage="EV403b"]
 [UpDate]
 
-[text]ジョボジョボジョボ、ジョロジョロジョロロ～～～～～～～～ッ！[KeyWait]
+[text]Tinkle, tinkle, tinkle, tinkle![KeyWait]
 
-[text]いまだ収まらない小便がスク水越しに噴きこぼれていた。[KeyWait]
+[text]Still unable to control myself, urine sprayed out through my school swimsuit.[KeyWait]
 
 [Face storage="f_o022"]
-【男子生徒Ａ】[CR]
-「[i]うわっ、はるかさん、おしっこ漏らしてる！！[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Uwah, Haruka-chan's peeing![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o032"]
-【男子生徒Ｂ】[CR]
-「[i]さっきから様子がおかしかったのって……。も、もしかして、インタビュー受けながら出しちゃってたとか？[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]She seemed weird earlier, too... W-was she peeing during the interview?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p022"]
-【女子生徒Ａ】[CR]
-「[i]じゃあ、ずっと、私たちが入っているプールの中に！？[/i]」[KeyWait]
+【Female Student A】[CR]
+「[i]She peed in the pool we're swimming in, then!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p032"]
-【女子生徒Ｂ】[CR]
-「[i]うえ～、私さっき、頭まで潜っちゃった！[/i]」[KeyWait]
+【Female Student B】[CR]
+「[i]Blegh, I just had my head under the water![/i]」[KeyWait]
 [FaceOff]
 
-[text]一斉に生徒たちがざわめき立った。[KeyWait]
-[text]あからさまに汚らしそうにプールから上がって、シャワーを浴びに行く者もいる。[KeyWait]
+[text]All of the students started murmuring amongst themselves at once.[KeyWait]
+[text]Some of them, clearly feeling disgusted, got out of the pool and headed to the showers.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a0988" buf=3]
-【はるか】[CR]
-（[v]う、うぅ……、この、水が、弄くるから……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]U-Uuuh... It's because the water is playing with me...[/v]）[KeyWait]
 [FaceOff]
 
-[text]恥ずかしさと申し訳なさに胸が締め付けられる。[KeyWait]
-[text]なのに、尿道を薄い水の膜で無理矢理に押し開かれているから排尿が止まらないのだ。[KeyWait]
+[text]The guilt and shame felt like they were strangling my heart.[KeyWait]
+[text]Yet, with my urethra spread wide, I was unable to stop myself from urinating.[KeyWait]
 
 ;絶句中
 [Face storage="f_b004"]
 [Voice storage="b0076" buf=5]
-【結女】[CR]
-「[v]……………………[/v]」[KeyWait]
+【Yume】[CR]
+「[v].........[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a0989" buf=2]
-【はるか】[CR]
-「[v]ひうっ、み、見ないで……結女ぇ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyuh, d-don't look... Yume...[/v]」[KeyWait]
 [FaceOff]
 
-[text]注がれる無数の視線よりも、最愛の従妹からの憐れみと驚きの入り混じった視線が何よりも恥ずかしい。[KeyWait]
+[text]My beloved cousin's pitiful, surprised stare was more embarrassing than the rest of the students combined.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0990" buf=2]
-【はるか】[CR]
-「[v]くひぃ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kuhyii...[/v]」[KeyWait]
 [FaceOff]
 
-[text]彼女の眼差しから逃れるように顔を背ける。[KeyWait]
+[text]I turned my head away to avoid her gaze.[KeyWait]
 
 [Sound storage="se128" buf=0]
 
@@ -198,44 +198,44 @@
 [CgSet storage="EV403c"]
 [UpDate]
 
-[text]しかしさらに恥辱をもたらそうと、触手状に実体化した水の先端が、股間部を覆っている水着の布地を捲り返してしまった。[KeyWait]
+[text]But in an attempt to humiliate me even further, a tentacle slid underneath the crotch of my swimsuit, then pulled it to the side.[KeyWait]
 
 [Face storage="f_a042"]
 [Voice storage="a0991" buf=2]
-【はるか】[CR]
-「[v]ひあっ！？　や、やあっ、だめッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyah!? N-No, don't![/v]」[KeyWait]
 [FaceOff]
 
 [text]焦るがどうにもならない。両脚は大股開きにされたままガッチリと固定されてビクともしない。[KeyWait]
 
 [Face storage="f_o022"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]おわっ！　水着ッ、捲れたっ！？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]お……オマンコ、丸見えだぞっ！　一条はるかの、オマンコっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]す……すげえ……、ビラビラで、結構ぐちゅぐちゅしてるんだ……女のあそこって……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p022"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]へぇ……、あんな美人でも、やっぱり結構グロい形なんだ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p011"]
-【女子生徒Ｂ】[CR]
+【Female Student B】[CR]
 「[i]でも、色はピンクで、かなり綺麗かも……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a0992" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ああぁ……、見られちゃってる……ッ。みんなに、見られちゃってるぅ……。ボクの、女になったあそこぉ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -247,17 +247,17 @@
 [text]ぷっしゃあああぁ～～～～～～～！　パシャパシャパシャパシャ――――――ッ！！[KeyWait]
 
 [Face storage="f_p022"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]うわっ、やだあっ！　汚い！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]おおっ、すげえ、女の小便って、あんなところから出るんだっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]うはあっ、美人転校生の黄金水ッ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -265,13 +265,13 @@
 
 [Face storage="f_b026"]
 [Voice storage="b0077" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]は、はるか……ちゃん……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a0993" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あ、ああ……ゆ……結女ぇ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -279,13 +279,13 @@
 
 [Face storage="f_a050"]
 [Voice storage="a0994" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]結女の顔ッ……汚しちゃってる！　ボクの、汚いおしっこでっ！！　ああっ、そん……な！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a0995" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]は、放せっ、このっ！　こんなことっ、はぅううっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -302,7 +302,7 @@
 [ExVoice1 storage="aex05"]
 [Face storage="f_a018"]
 [Voice storage="a0996" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁあああぁっ！　はうっ、あ、はぁあああぁっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -311,7 +311,7 @@
 [ExVoice1 storage="aex06"]
 [Face storage="f_a018"]
 [Voice storage="a0997" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅうっ！　やめっ、ろっ！！　ふぇあああぁっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -320,12 +320,12 @@
 [text]たまらず身を捩らせると、[KeyWait]
 
 [Face storage="f_o022"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]あれ……、あの触手みたいなの、愛撫、してるのか……？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]か、感じてるみたい……。あの美人転校生……。触手に身体まさぐられて、悶えてる！[/i]」[KeyWait]
 [FaceOff]
 
@@ -334,7 +334,7 @@
 [ExVoice1 storage="aex07"]
 [Face storage="f_a050"]
 [Voice storage="a0998" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ち、違うっ。ふぁっ！！　あ、ああっ、こ、の……変なとこ、触る、なぁ……。みんな、がぁ……見て……はぁああんっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -342,7 +342,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a0999" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こ、これって、まるで、勃起した、ちんこじゃないか……。興奮して、カウパーまみれになった……。うぐぅ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -353,7 +353,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1000" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅううぅ……、あ、あぁ……も、もうっ！　んふぅっ、くすぐったい、って……ばあっ、あぁんっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -365,7 +365,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1002" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]うぅ……、ボクの、声……エッチだ……。エッチな女の子の、悶える……声……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -373,7 +373,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1003" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボクは……触手に弄られて、感じちゃってる……エッチな、女……の子、なんだ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -383,7 +383,7 @@
 [ExVoice1 storage="aex21"]
 [Face storage="f_a048"]
 [Voice storage="a1004" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふぅううっ！　お、あ、はぁああああぁッ！！　ふぁっ、はぁあああああぁ――――ンッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -391,18 +391,18 @@
 [text]スク水の内側で蠢く触手に揺さぶられて、柔らかな肉房がうねうねと拉げながら弾みまくる。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]す、すげえ……おっきいおっぱいが、あんなに揺れてる！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]柔らかそうだな……形、ぐにゃぐにゃになって……すごい、えっちぃよ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1005" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くぅ……、あ、あぁ……。見てる、男のヤツら……。ボクのおっぱい、見て……ふぁああぅっ！　し、知らなかっただろ……こんな、なる、んだから……おんなの、おっぱいって……。ひゃ、ひゃううっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -411,14 +411,14 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1006" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボク……女ぁ、なったから。おっきい、おっぱい、付いてるからッ！！[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex33"]
 [Face storage="f_a048"]
 [Voice storage="a1007" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁあうっ！　あぁはああぁっ！！　んあっ、くひっ！　ひうっ、イイッ、おっぱい、とろける、んふぁ～～～あああぁっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -435,7 +435,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a018"]
 [Voice storage="a1008" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はわぁっ！　ひゃんっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -444,22 +444,22 @@
 [text]けれど、今度は両手を触手に拘束されていて隠すことが出来ない。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]おわあああっ！　生乳ッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]はるかちゃんの、生おっぱい、丸見えだっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p021"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]はわああっ、おっきいっ！　服の上からより、ずっとっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p011"]
-【女子生徒Ｂ】[CR]
+【Female Student B】[CR]
 「[i]そ、それに、形もすごく綺麗ッ！！　羨まし～～～！[/i]」[KeyWait]
 [FaceOff]
 
@@ -468,7 +468,7 @@
 [ExVoice1 storage="aex34"]
 [Face storage="f_a050"]
 [Voice storage="a1009" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふあっ！　見て……るっ！！　ああ……ボクの、おっぱいっ……なま、おっぱいっ！　や、ああっ、ふぁああっ！！　んぁあっ！　ひうっ！！　くふっ、お、おおぁああぁ……ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -478,7 +478,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1010" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇああっ！　そんな、揉んだらっ！！　おぉぁあああっ！　んふぅっ、だめっ、くひっ！！　はうっ、あうっ！　ん……あっ、あ、ああっ、はぅんッ！！　も、もぉ……ふぇあああああぁ――っ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -490,29 +490,29 @@
 [text]膨らみのふもとから巻き付いた触手に搾乳するように揉まれ、乳首を啄むように刺激されると気が変になりそうな快感でいっぱいになった。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]あんなのに、乳弄られて、気持ちいいんだ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]エッチな顔が、ますますエロくなってる[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]なんか、オマンコまで、ひゅくひゅくし始めたぞ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]小便じゃなくて、なんか、違う感じで……ぬ、濡れてきてるし……[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex42"]
 [Face storage="f_a050"]
 [Voice storage="a1012" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　う……そ……。ボク、ぬ……濡れ……。ふぁぅンッ！！　ああっ、ひぁあっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -524,7 +524,7 @@
 [ExVoice1 storage="aex43"]
 [Face storage="f_a048"]
 [Voice storage="a1013" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くふ……ん……うぅ、だ……め……はあぁ……っ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -537,29 +537,29 @@
 [text]水着をめくられ開帳された女陰から、量を増しゆく発情の証が、ぼたぼたとプールの水に垂れ落ちる。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]うわ、あんなに……溢れてる。さっきのおしっこみたいに、俺にかけてくれないかな、あのまんこ汁[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p022"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]いや、普通、あんな出ないから！　すっごいエッチなのね、はるかちゃんって……きっともう、中までヌルヌルになっちゃってるわよ、あそこ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]じゃ、じゃあ……ちんこ、入る準備出来てる……ってことか？　あのおまんこ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]美人転校生の、オマンコ……ちんこ、入れて欲しがってるんだ……[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a060"]
 [Voice storage="a1015" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぅ……ち、違……ふぁ……あぁ……。んあ、も、もう……んくぅっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -569,7 +569,7 @@
 [ExVoice1 storage="aex42"]
 [Face storage="f_a048"]
 [Voice storage="a1016" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇああああぁっ！　だ、だめっ、そ、そっちっ、ヤッ！！　ああっ、くるなあっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -580,7 +580,7 @@
 [ExVoice1 storage="aex43"]
 [Face storage="f_a050"]
 [Voice storage="a1017" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]いや……だ……って、ばぁ……。ふぁ……ッ。は、あ、あああぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -590,7 +590,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1018" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇ……はぅ、あ、ああああぁッ！　ンッ、やだっ！！　ああっ、はぁあああぁ～～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -605,17 +605,17 @@
 [text]先端が茸のように傘を広げて[eruby str="鏃" text="やじり"]状に先細る。その形はまさしく。[KeyWait]
 
 [Face storage="f_o022"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]うわ、水が、ち、ちんぽになった……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p022"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]えー！　お、男の人の……って、あんなに大きいの！？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o032"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]いや、あれ、デカすぎだってば。くっそー、羨ましいなっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -623,7 +623,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1019" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ああっ、ま、まさか……。う……うそ、だろ？　こんなの……が……[/v]）[KeyWait]
 [FaceOff]
 
@@ -631,14 +631,14 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1020" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]でも、こいつの先っぽ……ボクの膣口に、狙い……定めてる……。完全に、[eruby str="犯" text="や"]る気満々で、狙ってる……ッ！！[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1021" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　んは……ああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -653,7 +653,7 @@
 [ExVoice1 storage="aex43"]
 [Face storage="f_a050"]
 [Voice storage="a1022" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……ふぅ……ッ、や、やめ……ろおっ！！　そんなの、い、やだ……あっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -666,7 +666,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1023" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぃうううっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -685,7 +685,7 @@
 [ExVoice1 storage="aex12"]
 [Face storage="f_a018"]
 [Voice storage="a1024" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くほぉ！　おはぁあっ！！　はうッ、あ、はあああぁ――――ッ！　んあっ、んはっ、ひぁあああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -694,7 +694,7 @@
 [ExVoice1 storage="aex13"]
 [Face storage="f_a017"]
 [Voice storage="a1025" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　ふあっ、んふぅ、う、うそぉ！！　あ、ああぁっ、入って……入ってくりゅっ！　ああっ、はああぁっ……中ッ……ああっ、奥ぅッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -702,7 +702,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1026" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]これじゃ、入られちゃう！　簡単に、犯されちゃってるぅっ！！　ああぁっ、液ちんぽぉ！　ボクの、[eruby str="膣内" text="なか"]ッ……たっぷり収まって……、ンッ、ふぅうっ、ふぁあああっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -711,7 +711,7 @@
 [ExVoice1 storage="aex21"]
 [Face storage="f_a018"]
 [Voice storage="a1027" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あはあぁっ！　んひっ！　ひぅっ！　く、ぅうんっ！　はひゃあっ！　ああっ！　ンッ、くっ、はああぁっ！　ああっ、かはっ、はぁっ、はんっ！　んひっ、ひっ、ふはああぁっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -732,7 +732,7 @@
 [ExVoice1 storage="aex44"]
 [Face storage="f_a031"]
 [Voice storage="a1028" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひいっ！！　ち、ちが……ぅッ！　これぇ、なか……で、[eruby str="膣内" text="なか"]……でぇ、み、水ッ、みじゅぅう～～。ほぉおおうううっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -743,7 +743,7 @@
 [ExVoice1 storage="aex21"]
 [Face storage="f_a018"]
 [Voice storage="a1029" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ああぁ、はぁあぁッ、ぃひぃ～～～ッ。来た奥ッ、くふぅうっ、入ってるっ！！　ふぁっ、あ、はぁあああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -752,7 +752,7 @@
 [ExVoice1 storage="aex05"]
 [Face storage="f_a050"]
 [Voice storage="a1030" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁっ？　は、はれ……ぇ？？？？[/v]」[KeyWait]
 [FaceOff]
 
@@ -763,7 +763,7 @@
 [ExVoice1 storage="aex27"]
 [Face storage="f_a048"]
 [Voice storage="a1031" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぉごっ！　んぬぅうおおっ！！　おぁ、な、なに……ッ、なん……で、お、あ、あああっ、太ッ！　ふッとぉおおおぁああああああぁッ、ンッ、ンンッ、んごぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -772,7 +772,7 @@
 [ExVoice1 storage="aex28"]
 [Face storage="f_a018"]
 [Voice storage="a1032" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひあっ、やぁああっ、らめっ！！　太ぉっ、ふと……イイッ！　無理ぃっ、さ、裂けッ、裂けるっ！！　くっふぉぁあああああああぁッ！　うぐぅうっ、はぁあああああぁッッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -784,7 +784,7 @@
 [ExVoice1 storage="aex27"]
 [Face storage="f_a018"]
 [Voice storage="a1033" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ヒィギィイイイッ！　ああっ、がぁあああっ！！　うぐッ、おぉ、ごぉおおおおおッ！　ふえっ、ふぁあああぅううう～～～ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -793,7 +793,7 @@
 [ExVoice1 storage="aex28"]
 [Face storage="f_a018"]
 [Voice storage="a1034" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁああっ、い、いっぱいぃいっ！！　硬い……の、ふ、太い……のぉっ！　にゃ、長ひぃ、のぉ……、あ、あああんっ、なかぁああっ、膣、内……ッ、入って、るっ！！　い、いっぱいっ！　ふぁううっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -803,7 +803,7 @@
 [ExVoice1 storage="aex44"]
 [Face storage="f_a018"]
 [Voice storage="a1035" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇ……ぇ、あ、はぁ……んんぅ……ふぁ……。えへ……ぁあああぁ……ぅんっ、はっ、はひゃあああぁぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -819,7 +819,7 @@
 [ExVoice1 storage="aex22"]
 [Face storage="f_a018"]
 [Voice storage="a1036" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]へぎぃいっ！　ほぉああっ！！　んふぉっ、ふえっ、ふぁあううっ！　んぉほぁあああああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -833,7 +833,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a1038" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くぁああっ、ひぃっ。お、犯されて……るっ！　ボク、滅茶苦茶にッ！！　こんなのっ、こんな……のぉっ！　いや……なの、にぃッ！！　んくぅ……、ふぁああっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -857,7 +857,7 @@
 [ExVoice1 storage="aex23"]
 [Face storage="f_a017"]
 [Voice storage="a1039" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]おあっ、はぅっ、ん……ああっ！！　ひゅぐっ！　ほぉうんッ！！　おっ、あっ、はぁうぅうううっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -866,7 +866,7 @@
 [ExVoice1 storage="aex22"]
 [Face storage="f_a017"]
 [Voice storage="a1040" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぅうっ！　ふぁあ……んっ！！　あぁッやぁああっ！　だ、だめ……、ふぉおあああぁッ！！　ンン～ッ！　くうっ！！　ふぁっ、はっ、はぁ～～～～～～～～～～ンッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -877,12 +877,12 @@
 [text]ぷじゅうっ！　びちゅっ！！　べしゅしゅっ！　ぶっちゃぁ――ッ！！[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]すげえ、ぶっといのにズボズボされる度、エロい汁噴き出してる……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]あんなドスケベまんこしてたんだ、あの編入生って！[/i]」[KeyWait]
 [FaceOff]
 
@@ -890,12 +890,12 @@
 [text]快感を拒めなくなって淫らに悶えちゃっているのに、淫乱扱いされると恥ずかしくて情けなくてたまらない。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]くっそ～、俺も犯りてえなぁ。あんな淫乱なら、お願いすれば簡単に犯らせてもらえたはずなのに！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]あの変な触手が終われば、あとは犯し放題かもしれねえぞ！　準備しといた方がいいかも！[/i]」[KeyWait]
 [FaceOff]
 
@@ -906,7 +906,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a060"]
 [Voice storage="a1041" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く、うぅ～。んぁ、う、うそ……。ああっ、そんな、こと……、そんな、ふぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -914,13 +914,13 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1042" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ひうっ、あ、はぁ……ッ、みん……なぁ、ちんぽ、シコ……って……。あ、あれ、全部で、ボク……を……？　んふぉッ！　はあ、あああぁ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1043" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ふぁ……、あ、あいちゅら、まで……。ふぁああっ。な、なんらよ、もおぉ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -940,7 +940,7 @@
 [ExVoice1 storage="aex42"]
 [Face storage="f_a018"]
 [Voice storage="a1044" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇえええぁあああっ！　んっはぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -953,7 +953,7 @@
 [ExVoice1 storage="aex33"]
 [Face storage="f_a017"]
 [Voice storage="a1045" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇええっ！？　はうっ、ああっ、んぁあああぁ――――――ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -962,7 +962,7 @@
 [ExVoice1 storage="aex34"]
 [Face storage="f_a050"]
 [Voice storage="a1046" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほぅうううっ！　んああぁんッ！！　やあっ！　ひぁああああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -970,7 +970,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1047" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ふぁあああっ、な、なんでっ！？　ああぁ、中ぁッ！　なにかっ……ふ、太いのっ！！　あぁ……ふうっ！　欲し……ぃ、んぁああっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -979,7 +979,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1048" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]んくぅ……ぶっとい、ちんぽぉ、でぇ……ヴァギナぁ、イッパイ……されたいッ！　子宮……ぅ、ガンガンッ、激しくぅ……ッ、つ、突き上げられたいィイイッ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -992,7 +992,7 @@
 [ExVoice1 storage="aex42"]
 [Face storage="f_a018"]
 [Voice storage="a1049" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぉおぅっ！　ふぇああああっ！！　あ、あああっ、きぃ、き……たぁああっ、太いぃのおおっ、中ッ、はぁああああっ！　きも……気持ちぃ、あひぃいいいいゅ！！　ふぁ、あ、あ、ああっ、はぁあああんんっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1001,7 +1001,7 @@
 [ExVoice1 storage="aex22"]
 [Face storage="f_a018"]
 [Voice storage="a1050" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅふぁあああっ！　へぁああっ、はんっ、アアァンンンッ！！　えひぃいいいぃ～～～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1011,7 +1011,7 @@
 [ExVoice1 storage="aex23"]
 [Face storage="f_a017"]
 [Voice storage="a1051" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁああっ……こ、これぇえっ……やっぱ、これっ！　膣キツキツぅしてくれるぅっ。太いの、イィイイイッ！！　んはぁああっ、奥来るッ、ズンズンゴンゴン来るぅうっ！　ひぃいううっ！！　ふぇあ……ッ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1025,7 +1025,7 @@
 [ExVoice1 storage="aex22"]
 [Face storage="f_a018"]
 [Voice storage="a1052" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇえええっ！？　んくぅう、い、いやぁあああぁ……ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1037,7 +1037,7 @@
 [ExVoice1 storage="aex43"]
 [Face storage="f_a018"]
 [Voice storage="a1053" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]おほぁあああっ！　んおっ、あっはぁあああああぁッ[hearts][/v]」[KeyWait]
 [FaceOff]
 
@@ -1047,7 +1047,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a018"]
 [Voice storage="a1054" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]へぇえええぁああ……っ。ほうんっ！　んぁうぅ……。ひぐああぁっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1056,7 +1056,7 @@
 [ExVoice1 storage="aex42"]
 [Face storage="f_a017"]
 [Voice storage="a1055" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]えふぅうっ！　ふぁあっ、イイッ！！　くぁあああっ、これッ、んぃいいっ！　おあっ、はんっ、あふぅうあああああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1065,7 +1065,7 @@
 [ExVoice1 storage="aex43"]
 [Face storage="f_a018"]
 [Voice storage="a1056" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んくぅうッ！　おぉっ！！　ああっ、はぁううっ！　んあっ、ひぃ、いいぃっ！！　ふわっ、はっ、んひっ！　ひあっ！　んはぁあああぁ～～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1074,31 +1074,31 @@
 [ExVoice1 storage="aex42"]
 [Face storage="f_a017"]
 [Voice storage="a1057" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]きもちぃひぃいいっ！　ふぁっ、太いのぉ、んあっ、は、イイィイイイイイィ～～～～ッ！！　くふぉああああっ、も、もっとぉ……もっと、ズポズポ……おまんこ、ちょうだいぃッ！　んぉおおおおおおおおおおぅうううっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]たまらず、はしたなすぎる嬌声を張り上げてしまった。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]す、すげえ、淫乱すぎる……ッ！！　あんなのに犯されながら、まだ物足りなさそうだ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]やっぱり、俺たち全員で犯しまくって満足させてやらないとっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [text]案の定、男子生徒たちの興奮を煽ってしまった。ペニスを扱く手が勢いを増す。[KeyWait]
 
 [Face storage="f_p022"]
-【女子生徒Ａ】[CR]
+【Female Student A】[CR]
 「[i]み、みんな見てるのに……、恥ずかしくないのかな……？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p032"]
-【女子生徒Ｂ】[CR]
+【Female Student B】[CR]
 「[i]なんか、気持ち良すぎてそれどころじゃないって感じ……[/i]」[KeyWait]
 [FaceOff]
 
@@ -1117,7 +1117,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a1058" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]は、恥ずかしいし……、ボク、ほんとは男だからぁ……、こんなの、イヤ、だけど……。ふぇあああっ、き、気持ち、イイッ！！　んぁああっ、太いのに、おまんこ、犯されて……イイイッ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1128,14 +1128,14 @@
 
 [Face storage="f_b012"]
 [Voice storage="b0078" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]………………[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex38"]
 [Face storage="f_a050"]
 [Voice storage="a1059" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　あ、ああああぁ……、ゆ、結女……ぇ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1146,7 +1146,7 @@
 [ExVoice1 storage="aex39"]
 [Face storage="f_a050"]
 [Voice storage="a1060" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あぁ……、違う……これ、違う……から……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1155,7 +1155,7 @@
 
 [Face storage="f_b012"]
 [Voice storage="b0079" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]はるか……ちゃん……。イヤぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1166,7 +1166,7 @@
 [ExVoice1 storage="aex46"]
 [Face storage="f_a050"]
 [Voice storage="a1061" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぃ……あ、あぁ……、ち、ちが……。んはぁああんんっ！　ふぁ、あ、はぁああああぁ――――ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1175,7 +1175,7 @@
 [ExVoice1 storage="aex23"]
 [Face storage="f_a018"]
 [Voice storage="a1062" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はひゃあっ！　はンッ！　んくっ！　んああっ！　んひゃっ、はっ、はぁんっ！　んひっ！　ひぐっ！　んっ、んんぅ――！　んはっ！　はっ！　はがぁっ！　あああぁぁんっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1187,7 +1187,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1063" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぃいいぅ、いっ、あああぁっ、イクッ、イッちゃ……うっ！！　ふんぁああっ、あはぁあああぁ――――――ッ、イクイクイクゥウウウゥッ！　はぁああああぁ～～～～～～～～～～～ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1205,7 +1205,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1064" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あひぃいっ、い、いっちゃ……た……ああぁっ。結女ぇ、見てる……のにぃ、こんな……淫ら……な……。恥ずかしい……姿ぁ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1213,12 +1213,12 @@
 [text]そうすればもっと強烈な軽蔑と嫌悪感を彼女に注がれて、もっとすごい絶頂が得られるかもしれない。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]す、すげえ……。いまのって、イッたんだろ……？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]でもまだオマンコに、太いの咥え込んで放さねえぜ。腰もまだ、動かし続けてるし……[/i]」[KeyWait]
 [FaceOff]
 
@@ -1227,7 +1227,7 @@
 
 [Face storage="f_a049"]
 [Voice storage="a1065" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふぅ……ふぁ……はぁ……ん、あ、ああぁ……ひぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1304,7 +1304,7 @@
 
 [Face storage="f_a045"]
 [Voice storage="a1066" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　な、なんで……？　ボクだけ……じゃなく、て、みんな……まで……？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1312,7 +1312,7 @@
 
 [Face storage="f_a045"]
 [Voice storage="a1067" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ゆ、結女は……！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1323,7 +1323,7 @@
 
 [Face storage="f_b019"]
 [Voice storage="b0080" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ふぁああっ！　た、助け……て、ああぁ……。はるか、ちゃん……。希美乃……ちゃん……。――りょ……、遼……ちゃん……！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1335,7 +1335,7 @@
 
 [Face storage="f_a042"]
 [Voice storage="a1068" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あ、あああぁ……。ゆ……め……ぇ……！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1348,13 +1348,13 @@
 
 [Face storage="f_c026"]
 [Voice storage="c0071" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]くそ！　なんなのよ、これは！！　水鬼のヤツ、なんでいきなり暴走して……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a041"]
 [Voice storage="a1069" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]き、希美乃……？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1362,7 +1362,7 @@
 
 [Face storage="f_a047"]
 [Voice storage="a1070" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]な、なんだ……？　あれ、き……希美乃じゃ……ない……っ！？[/v]）[KeyWait]
 [FaceOff]
 
@@ -1371,7 +1371,7 @@
 
 [Face storage="f_a062"]
 [Voice storage="a1071" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]保健室の鬼は……退治した……はず……？　いや、違う……。あ、あれは……もっと、強大な……ッ。ああっ、ゆ……結女ッ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1382,13 +1382,13 @@
 
 [Face storage="f_b018"]
 [Voice storage="b0081" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]だ……め……ぇ……、助け……て……。あぁ……、い、いやぁ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c026"]
 [Voice storage="c0072" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]厄介なことになったわね……。いや……でも、この状況はこのまま使えるかも……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1396,7 +1396,7 @@
 
 [Face storage="f_a062"]
 [Voice storage="a1072" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]お前……は、誰……だ？　本当の希美乃……は、どこに、いった。ゆ……結女から、離れろ……。んむぐっ、あぶ……あ、あぁ、ああああああぁ……[/v]」[KeyWait]
 [FaceOff]
 
