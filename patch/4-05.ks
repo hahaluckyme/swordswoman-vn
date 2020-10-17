@@ -619,7 +619,7 @@
 「[i]No, that thing's way too big. Damn, I'm jealous![/i]」[KeyWait]
 [FaceOff]
 
-[text]That's right - it took on the form of a rather gigantic penis.[KeyWait]
+[text]That's right, it took on the form of a rather gigantic penis.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1019" buf=3]
@@ -717,7 +717,7 @@
 
 [text]When I'd timidly tried putting my own finger it, it felt good, but it hurt a bit, too.[KeyWait]
 [text]But this made me feel nothing but pleasure. It was no good... It was making me feel fine with being violated.[KeyWait]
-[text]Even though it went in so smoothly, the tentacle was formed formed into a huge, solid dick right up until my entrance, so from the outside, it looked like I had an absolutely massive cock inside me.[KeyWait]
+[text]Even though it went in so smoothly, the tentacles were formed formed into a huge, solid dick right up until my entrance, so from the outside, it looked like I had an absolutely massive cock inside me.[KeyWait]
 
 [Face storage="f_o032"]
 【Male Student】[CR]
@@ -807,25 +807,25 @@
 「[v]F-Fweh... Ah, haah... Nnnnh... Fwah... Eheh... Aaaaah... Nnh, hah, hahyaaaaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]I cried and drooled as my face formed into an ahegao from the sensation of having my womb filled up with the foreign object.[KeyWait]
-[text]As I remained still, almost like I hadn't grasped the situation yet, hesitating as to whether or not to give in to my suddenly-feverish womb-[KeyWait]
+[text]胎内が異物でギチギチに満たされた感触に、涙とヨダレが溢れかえり、だらしなく表情がアヘ崩れる。[KeyWait]
+[text]まだ事態を把握していないかのように呆ける理性で、急激に熱帯びる子宮に戸惑っていると―――。[KeyWait]
 
 [Sound storage="se167" buf=8 loop=true]
 
-[text]Schwap! Schwap, thwap, thwap, schwap, thwap, thwap, thwap![KeyWait]
+[text]ぬっぶっ！　ぞぼっ、ずぶずぶずぷ、ずちゅ、ぐちゅ、ズブンッ、ズブン、ズブブンッ！！[KeyWait]
 
-[text]The swollen tentacle dick began thrusting hard and fast.[KeyWait]
+[text]怒張触手が激しいストロークを繰り出し始めた。[KeyWait]
 
 [ExVoice1 storage="aex22"]
 [Face storage="f_a018"]
 [Voice storage="a1036" buf=2]
 【Haruka】[CR]
-「[v]Hegyiii! Hwoaah! Nfwoh, fweh, fwaauuh! Nhohwaaaaaaah![/v]」[KeyWait]
+「[v]へぎぃいっ！　ほぉああっ！！　んふぉっ、ふえっ、ふぁあううっ！　んぉほぁあああああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
-[text]It was so rough it felt like my pussy was being turned inside-out. It hammered against my womb, not holding back in the least.[KeyWait]
-[text]In reality, I was a guy. I'd only just had my virginity stolen away as a girl.[KeyWait]
-[text]The merciless stimulation continued to torture my pussy.[KeyWait]
+[text]勢いよく膣襞が捲り返される。ガツガツと容赦なく、子宮壺が打ちのめされる。[KeyWait]
+[text]本当は男なのに。女の身体で、いま処女を奪われたばかりなのに。[KeyWait]
+[text]情け容赦のない刺激が牝穴を責め苛んでくる。[KeyWait]
 
 ;a1037
 ;[ExVoice1 storage="aex45"]
@@ -834,10 +834,10 @@
 [Face storage="f_a017"]
 [Voice storage="a1038" buf=3]
 【Haruka】[CR]
-（[v]Kuhaaah, hyii... I'm... being raped! It's messing me up hard! No, no... I don't... want this! But, nkh... Fwaaah![/v]）[KeyWait]
+（[v]くぁああっ、ひぃっ。お、犯されて……るっ！　ボク、滅茶苦茶にッ！！　こんなのっ、こんな……のぉっ！　いや……なの、にぃッ！！　んくぅ……、ふぁああっ！[/v]）[KeyWait]
 [FaceOff]
 
-[text]My feminine body had gradually gotten used to the water's caress, and now I felt sweet pleasure from the rough rape.[KeyWait]
+[text]水中での愛撫から時間をかけて慣らされた女体が、突然の激しい陵辱にも甘美を感じてしまう。[KeyWait]
 
 [Face storage="f_o031"]
 【Male Student】[CR]
@@ -849,54 +849,54 @@
 「[i]She... really is a slut, huh. She should be in lots of pain with that inside her, but... She looks like she feels really good...[/i]」[KeyWait]
 [FaceOff]
 
-[text]Normally, being raped by such a huge cock would probably just hurt. It wouldn't feel good at all.[KeyWait]
-[text]But, thanks to my body being so aroused, the way the water tentacle had went inside me then deflowered me had made my unfamiliar feminine body submit to its lust.[KeyWait]
+[text]こんな巨根で普通に犯されたら、確かに痛くて快感なんか味わえなかっただろう。[KeyWait]
+[text]けれど、十分に肉体を発情させられた上に、挿入されてから破瓜するという水触手ならではの犯し方が、この不慣れな女体を陥落させてしまった。[KeyWait]
 
-[text]Thwap, schwap, thwap, thwap, thwap! Thwap, thwap! Thwap, thwap, thwap![KeyWait]
+[text]ずちゅ、ぐちゅ、ずぽっ、ずぼずぼずぼずぼっ！　ズンッ、ズムッ！！　ズンズンズンッ！[KeyWait]
 
 [ExVoice1 storage="aex23"]
 [Face storage="f_a017"]
 [Voice storage="a1039" buf=2]
 【Haruka】[CR]
-「[v]Owah, hauh, nnh... Aah! Hyuguh! Hoouhn! Oh, ah, haauuuuuh![/v]」[KeyWait]
+「[v]おあっ、はぅっ、ん……ああっ！！　ひゅぐっ！　ほぉうんッ！！　おっ、あっ、はぁうぅうううっ！[/v]」[KeyWait]
 [FaceOff]
 
-[text]The swollen member spun like a drill as it dug into my pussy, pushing up against my womb and gradually getting my body accustomed to sex.[KeyWait]
+[text]ドリルみたいに回転して襞肉を抉りながら勢いよく出入りする怒張が膣奥を突き上げる度に、肉体が官能に慣らされてゆく。[KeyWait]
 
 [ExVoice1 storage="aex22"]
 [Face storage="f_a017"]
 [Voice storage="a1040" buf=2]
 【Haruka】[CR]
-「[v]Hyuuh! Fwaah... Nnh! Aah, noooo! D-Don't... Fwooaaaah! Nnnnnh! Kuuh! Fwah, hah, haaaaaaaaaaaahn![/v]」[KeyWait]
+「[v]ひぅうっ！　ふぁあ……んっ！！　あぁッやぁああっ！　だ、だめ……、ふぉおあああぁッ！！　ンン～ッ！　くうっ！！　ふぁっ、はっ、はぁ～～～～～～～～～～ンッ！[/v]」[KeyWait]
 [FaceOff]
 
-[text]My words of refusal had long-since turned into nothing more than signs that moans were to follow.[KeyWait]
+[text]ダメという拒絶の言葉も、すでに快楽を訴える嬌声の枕詞と成り果てた。[KeyWait]
 
 [Sound storage="se119" buf=0]
 
-[text]Spurt! Spurt! Squirt! Squirt![KeyWait]
+[text]ぷじゅうっ！　びちゅっ！！　べしゅしゅっ！　ぶっちゃぁ――ッ！！[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student A】[CR]
-「[i]Whoa, she squirts our her dirty juices whenever that thick thing thrusts into her...[/i]」[KeyWait]
+「[i]すげえ、ぶっといのにズボズボされる度、エロい汁噴き出してる……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Male Student B】[CR]
-「[i]I can't believe the transfer student had such a slutty pussy![/i]」[KeyWait]
+「[i]あんなドスケベまんこしてたんだ、あの編入生って！[/i]」[KeyWait]
 [FaceOff]
 
-[text]The guys looking up at me and watching me get raped by the water tentacle made whatever rude observations came to their minds.[KeyWait]
-[text]Even though I was writhing lewdly from the undeniable pleasure, I still felt pathetic and ashamed from them treating me like a slut.[KeyWait]
+[text]水触手に犯されるボクを見上げて、男子生徒たちが好き勝手なことをいい始めた。[KeyWait]
+[text]快感を拒めなくなって淫らに悶えちゃっているのに、淫乱扱いされると恥ずかしくて情けなくてたまらない。[KeyWait]
 
 [Face storage="f_o041"]
 【Male Student C】[CR]
-「[i]Damnit, I wanna fuck her, too... I'm sur ea slut like her wouldn't say no if I asked![/i]」[KeyWait]
+「[i]くっそ～、俺も犯りてえなぁ。あんな淫乱なら、お願いすれば簡単に犯らせてもらえたはずなのに！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
 【Male Student D】[CR]
-「[i]Maybe we'll get to have her after those freaky tentacles are done! We should probably get ready![/i]」[KeyWait]
+「[i]あの変な触手が終われば、あとは犯し放題かもしれねえぞ！　準備しといた方がいいかも！[/i]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -907,31 +907,31 @@
 [Face storage="f_a060"]
 [Voice storage="a1041" buf=2]
 【Haruka】[CR]
-「[v]Kuh, uuuh... Nhah, n-no way... Aah, that's not... No, fwaaah![/v]」[KeyWait]
+「[v]く、うぅ～。んぁ、う、うそ……。ああっ、そんな、こと……、そんな、ふぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
-[text]The boys took off their tight shorts all at once and began stroking their erect dicks so they could fuck me right away when their turn came up.[KeyWait]
+[text]順番が回ってきた時、すぐにボクを犯せるようにと、彼らが一斉に海パンからガチガチに勃起したペニスを取り出して扱き始めた。[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1042" buf=3]
 【Haruka】[CR]
-（[v]Hyuh, ah, haah... They're, all... stroking, their dicks... W-Wait, they all, really... want to...? Nfwoh! Haah, aaah...![/v]）[KeyWait]
+（[v]ひうっ、あ、はぁ……ッ、みん……なぁ、ちんぽ、シコ……って……。あ、あれ、全部で、ボク……を……？　んふぉッ！　はあ、あああぁ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1043" buf=3]
 【Haruka】[CR]
-（[v]Fwah... E-Even they've, gone crazy... Fwaaah. G-Geez, what the heck...[/v]）[KeyWait]
+（[v]ふぁ……、あ、あいちゅら、まで……。ふぁああっ。な、なんらよ、もおぉ……[/v]）[KeyWait]
 [FaceOff]
 
-[text]The friends I'd fought alongside during the cavalry battle were there, too.[KeyWait]
-[text]In particular, Watanabe had gone as far begged me to become his wife, but...[KeyWait]
-[text]In the end, he too was preparing his dick to fuck me like I was some sort of sex toy.[KeyWait]
-[text]I should have been mad, but instead, it stirred up a masochistic arousal inside of me, making me shudder.[KeyWait]
+[text]その集団には騎馬戦を共に戦った友人たちがいた。[KeyWait]
+[text]特に渡辺は嫁にするとまでいって求愛してくれたのに……。[KeyWait]
+[text]結局はボクを性玩具扱いして、犯そうとちんこの準備をしている。[KeyWait]
+[text]腹立たしいはずなのに、それがゾクゾクとした被虐の興奮をもたらす。[KeyWait]
 
-[text]Fap, fap, fap, fap, fap, fap, fap, fap...[KeyWait]
+[text]シコシコシコ、シュコシュコ、ズニュ、シュルシュルシュル、スコスコスコ。[KeyWait]
 
-[text]The disgusting sounds were like beautiful music to the ears of my feminine body.[KeyWait]
+[text]おぞましい音色が、女体化した耳には極上の調べに聞こえる。[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV403f"]
@@ -941,50 +941,50 @@
 [Face storage="f_a018"]
 [Voice storage="a1044" buf=2]
 【Haruka】[CR]
-「[v]Fweeeeaaaah! Nhaaaah![/v]」[KeyWait]
+「[v]ふぇえええぁあああっ！　んっはぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
-[text]As I imagined being fucked by countless penises, I shuddered, making my vagina tighten up and squeeze down on the throbbing tentacle inside it.[KeyWait]
+[text]無数のペニスに犯されることを想像すると、身震いが起きてキュンとヴァギナが窄まり、怒張触手を締め付けた。[KeyWait]
 
 [SoundOut buf=8 time=500]
 
-[text]But, just then-[KeyWait]
+[text]だが、その途端――。[KeyWait]
 
 [ExVoice1 storage="aex33"]
 [Face storage="f_a017"]
 [Voice storage="a1045" buf=2]
 【Haruka】[CR]
-「[v]Fweeeh!? Hauh, aah, nhaaaaaaaaaaah![/v]」[KeyWait]
+「[v]ふぇええっ！？　はうっ、ああっ、んぁあああぁ――――――ッ！[/v]」[KeyWait]
 [FaceOff]
 
-[text]The extra-large dick that had been filling me up suddenly lost its thickness and returned to the same softness it'd had when it first went inside me.[KeyWait]
+[text]膣内をギチギチに満たしていた極太が、一瞬にして硬さと太さを失い、挿入してきた時の軟体に変わってしまった。[KeyWait]
 
 [ExVoice1 storage="aex34"]
 [Face storage="f_a050"]
 [Voice storage="a1046" buf=2]
 【Haruka】[CR]
-「[v]Houuuuh! Nhaaahn! Noo! Hyaaaaah![/v]」[KeyWait]
+「[v]ほぅうううっ！　んああぁんッ！！　やあっ！　ひぁああああっ！！[/v]」[KeyWait]
 [FaceOff]
 
-[text]Back when I'd been a virgin afraid to even stick a finger inside herself, this would have still been plenty. But now, having been conditioned with the rough thrusts of a huge cock, it wasn't nearly enough to please me.[KeyWait]
+[text]膣に指を入れるのも恐る恐るだった処女の時なら、それでも十分だったけど、極太の激しいストロークが快感になるほど慣らされた身体には、物足りなくて仕方ない。[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1047" buf=3]
 【Haruka】[CR]
-（[v]Fwaaaah, w-why!? Aaah, thick... I want... Aah... Fuuh! I want something... T-Thick inside me, nhaaah![/v]）[KeyWait]
+（[v]ふぁあああっ、な、なんでっ！？　ああぁ、中ぁッ！　なにかっ……ふ、太いのっ！！　あぁ……ふうっ！　欲し……ぃ、んぁああっ！！[/v]）[KeyWait]
 [FaceOff]
 
-[text]My pussy, now not as full, was shaken by a feeling of intense loss.[KeyWait]
-[text]My womb shook around in dissatisfaction at the absence of the rough, heavy pounding it'd been receiving just moments ago.[KeyWait]
+[text]激しい喪失感が、空虚な膣穴を揺るがす。[KeyWait]
+[text]打ち切れた重々しい突き込みに、子宮が不満を訴えるように暴れ弾む。[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1048" buf=3]
 【Haruka】[CR]
-（[v]Nkh... I want... thick dick... in my vagina! I want it... to pound me... and thrust hard against my woooomb![/v]）[KeyWait]
+（[v]んくぅ……ぶっとい、ちんぽぉ、でぇ……ヴァギナぁ、イッパイ……されたいッ！　子宮……ぅ、ガンガンッ、激しくぅ……ッ、つ、突き上げられたいィイイッ！！[/v]）[KeyWait]
 [FaceOff]
 
-[text]My pussy squeezed tight around the gelatinous tentacle in an attempt to feel [ita]something[endita] trespassing inside it.[KeyWait]
-[text]And right then, jsut as suddenly as before-[KeyWait]
+[text]少しでも異物の感触を得ようと膣壁が収縮し、ゲル状触手に絡みつく。[KeyWait]
+[text]その途端、またしても唐突に――。[KeyWait]
 
 [Sound storage="se128" buf=1]
 [SoundIn storage="se167" buf=8 loop=true time=1000]
@@ -993,43 +993,43 @@
 [Face storage="f_a018"]
 [Voice storage="a1049" buf=2]
 【Haruka】[CR]
-「[v]Fwoouh! Fweaaaah! A-Aaah, h-here... it is, so thiiiick, inside me, haaaaaah! It feels... so good, ahyiiiiiiuh! Fwah, a-a-aah, haaaaahn![/v]」[KeyWait]
+「[v]ふぉおぅっ！　ふぇああああっ！！　あ、あああっ、きぃ、き……たぁああっ、太いぃのおおっ、中ッ、はぁああああっ！　きも……気持ちぃ、あひぃいいいいゅ！！　ふぁ、あ、あ、ああっ、はぁあああんんっ！[/v]」[KeyWait]
 [FaceOff]
 
-[text]In an instant, the tentacle went back to being abnormally thick and hard, filling up my womb so much it felt like it was going to burst as it thrusted as deep as it could go.[KeyWait]
+[text]一瞬にして触手が並外れた太さと硬さを取り戻し、子宮をはち切れんばかりに満たしながら、奥底を容赦なく突き弾いた。[KeyWait]
 
 [ExVoice1 storage="aex22"]
 [Face storage="f_a018"]
 [Voice storage="a1050" buf=2]
 【Haruka】[CR]
-「[v]Kuufwaaaah! Hyeaaah, hahn, aaahn! Ehyiiiiiiiiiii![/v]」[KeyWait]
+「[v]くぅふぁあああっ！　へぁああっ、はんっ、アアァンンンッ！！　えひぃいいいぃ～～～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
-[text]I immediately came a little. Not just once, but multiple times in a row.[KeyWait]
-[text]I made a lewd and lazy face and shook my hips like crazy as all of the love juices that had built up inside me while my pussy yearned for for the thick tentacle cock's return shot out like a water gun.[KeyWait]
+[text]瞬間的に軽く達してしまった。しかも一回だけじゃなく、何度も連続して。[KeyWait]
+[text]無様な弛み顔をみんなに晒して、腰をガクガク振りたくり、喪失感の最中に分泌しまくったねっとり愛液を、水鉄砲のようにぶちまけた。[KeyWait]
 
 [ExVoice1 storage="aex23"]
 [Face storage="f_a017"]
 [Voice storage="a1051" buf=2]
 【Haruka】[CR]
-「[v]Fwaaah... Y-Yes... That's it! Having it be so thick it fills up my pussy feels so gooood! Nhaaaah, it's so deep, it's pounding me so deeeep! Hyiiiuuh! Fweah...!?[/v]」[KeyWait]
+「[v]ふぁああっ……こ、これぇえっ……やっぱ、これっ！　膣キツキツぅしてくれるぅっ。太いの、イィイイイッ！！　んはぁああっ、奥来るッ、ズンズンゴンゴン来るぅうっ！　ひぃいううっ！！　ふぇあ……ッ！？[/v]」[KeyWait]
 [FaceOff]
 
-[text]I rejoiced at having the tentacle stimulate me as it pushed me apart as far as I could go, making it tough for me to breathe.[KeyWait]
-[text]I began thrusting my own hips in search of more pleasure in response to the tentacle's rough thrusts aginst my womb.[KeyWait]
+[text]膣を目一杯に押し広げ、息苦しいほどの刺激もたらしてくる太触手に歓喜した。[KeyWait]
+[text]奥壺を拉げる激しい突き込みに、さらに激しい悦楽を貪ろうと自分から腰を迫り出す。[KeyWait]
 
 [SoundOut buf=8 time=500]
 
-[text]But, just like before, it went soft and shrunk down to a shape that no longer stretched my pussy.[KeyWait]
+[text]だがしかし、またしても触手は柔らかく、膣に無理をかけない形状に綻んでしまう。[KeyWait]
 
 [ExVoice1 storage="aex22"]
 [Face storage="f_a018"]
 [Voice storage="a1052" buf=2]
 【Haruka】[CR]
-「[v]Fweeee!? Nkuuh, n-noooooo...[/v]」[KeyWait]
+「[v]ふぇえええっ！？　んくぅう、い、いやぁあああぁ……ッ！[/v]」[KeyWait]
 [FaceOff]
 
-[text]My voice turned to cries from the frustration. My starving womb squeezed down, and then-[KeyWait]
+[text]もどかしさの余り涙声が溢れる。飢餓を覚えた膣がまた収縮すると、[KeyWait]
 
 [Sound storage="se128" buf=1]
 [SoundIn storage="se167" buf=8 loop=true time=1000]
@@ -1038,74 +1038,74 @@
 [Face storage="f_a018"]
 [Voice storage="a1053" buf=2]
 【Haruka】[CR]
-「[v]Ohowaaaah! Nhoh, ahaaaaaaaah![hearts][/v]」[KeyWait]
+「[v]おほぁあああっ！　んおっ、あっはぁあああああぁッ[hearts][/v]」[KeyWait]
 [FaceOff]
 
-[text]Right away, the tentacle expanded and became huge again, then started thrusting as if nothing had even happened.[KeyWait]
-[text]But as soon as it started, it softened up again, then immediately hardened again.[KeyWait]
+[text]すぐに触手は巨根サイズへ膨張して、何事もなかったようにストロークを繰り出す。[KeyWait]
+[text]かと思うと、軟体化して、またすぐに剛直化して、[KeyWait]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a018"]
 [Voice storage="a1054" buf=2]
 【Haruka】[CR]
-「[v]Hyeeeeaaah... Houhn! Nhauuh... Hyigwaaah![/v]」[KeyWait]
+「[v]へぇえええぁああ……っ。ほうんっ！　んぁうぅ……。ひぐああぁっ！！[/v]」[KeyWait]
 [FaceOff]
 
-[text]The water tentacle kept changing shape, alternating between roughly stimualting my pussy and leaving it out to try, making the world flash before my eyes.[KeyWait]
+[text]水触手は膣を激しく責めたりはぐらかしたりの形状変化を目まぐるしく繰り返し始めた。[KeyWait]
 
 [ExVoice1 storage="aex42"]
 [Face storage="f_a017"]
 [Voice storage="a1055" buf=2]
 【Haruka】[CR]
-「[v]Efuuuh! Fwaah, so good! Kuhaaaah, this feels, so gooood! Owah, hahn, afuuaaaaaah![/v]」[KeyWait]
+「[v]えふぅうっ！　ふぁあっ、イイッ！！　くぁあああっ、これッ、んぃいいっ！　おあっ、はんっ、あふぅうあああああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
-[text]The pleasure from the rough thrusts was enough on its own, but the random feelings of emptiness deepened that pleasure even further, making me feel like I was going to go insane.[KeyWait]
+[text]激しいストロークだけでもたまらない快感が押し寄せてくるのに、ランダムに虚無感を与えられるから快楽がますます濃度を増して気がおかしくなりそうになる。[KeyWait]
 
 [ExVoice1 storage="aex43"]
 [Face storage="f_a018"]
 [Voice storage="a1056" buf=2]
 【Haruka】[CR]
-「[v]Nkuuuh! Ooh! Aah, hauuuh! Nhah, h-hyiiiii! fwah, hah, nhyi! Hyah! Nhaaaaaaaaah![/v]」[KeyWait]
+「[v]んくぅうッ！　おぉっ！！　ああっ、はぁううっ！　んあっ、ひぃ、いいぃっ！！　ふわっ、はっ、んひっ！　ひあっ！　んはぁあああぁ～～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
-[text]The feeling of having the tentacles squeeze my wildly-bouncing breasts in an attempt to milk them as I shook around from the excessive pleasure was unbearably maddening.[KeyWait]
+[text]悶え捩れる身体に、乳房が暴れ弾み、触手で搾乳される疼痛がたまらなく狂おしい。[KeyWait]
 
 [ExVoice1 storage="aex42"]
 [Face storage="f_a017"]
 [Voice storage="a1057" buf=2]
 【Haruka】[CR]
-「[v]It feels so gooood! Fwah, thick, nhah, is gooooooooooood! Kufwoaaaah, m-more... More, thrust... Thrust into my pussy mooore! Nhooooooooooouuuuh![/v]」[KeyWait]
+「[v]きもちぃひぃいいっ！　ふぁっ、太いのぉ、んあっ、は、イイィイイイイイィ～～～～ッ！！　くふぉああああっ、も、もっとぉ……もっと、ズポズポ……おまんこ、ちょうだいぃッ！　んぉおおおおおおおおおおぅうううっ！！[/v]」[KeyWait]
 [FaceOff]
 
-[text]I couldn't help but moan pathetically.[KeyWait]
+[text]たまらず、はしたなすぎる嬌声を張り上げてしまった。[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student A】[CR]
-「[i]W-Whoa, she's [ita]too[endita] slutty...! That thing's fucking her so hard, but she looks like she still wants more![/i]」[KeyWait]
+「[i]す、すげえ、淫乱すぎる……ッ！！　あんなのに犯されながら、まだ物足りなさそうだ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Male Student B】[CR]
-「[i]Looks like we're gonna all have to fuck her to satisfy her after all![/i]」[KeyWait]
+「[i]やっぱり、俺たち全員で犯しまくって満足させてやらないとっ！！[/i]」[KeyWait]
 [FaceOff]
 
-[text]Naturally, my moans got the boys even more excited. They were stroking their dicks even harder now.[KeyWait]
+[text]案の定、男子生徒たちの興奮を煽ってしまった。ペニスを扱く手が勢いを増す。[KeyWait]
 
 [Face storage="f_p022"]
 【Female Student A】[CR]
-「[i]E-Everyone's watching... Isn't she embarrassed...?[/i]」[KeyWait]
+「[i]み、みんな見てるのに……、恥ずかしくないのかな……？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p032"]
 【Female Student B】[CR]
-「[i]It kinda looks like it feels so good she doesn't even care...[/i]」[KeyWait]
+「[i]なんか、気持ち良すぎてそれどころじゃないって感じ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_d002"]
 [Voice storage="d0025" buf=5]
-【Hideko】[CR]
-「[v]Could I try those tentacle things next, maybe...? Haah, nnh...[/v]」[KeyWait]
+【秀子】[CR]
+「[v]次は私にも、あの触手みたいなの、試させてくれない、かな……？　はぁ、ん……[/v]」[KeyWait]
 [FaceOff]
 
 [text]女の子たちは呆れたように呟きながら、それでもボクの痴態から目が離せず、こっそりと自分の胸とか股間を弄っている。[KeyWait]
