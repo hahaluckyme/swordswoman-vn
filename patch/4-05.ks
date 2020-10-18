@@ -996,7 +996,7 @@
 「[v]Fwoouh! Fweaaaah! A-Aaah, h-here... it is, so thiiiick, inside me, haaaaaah! It feels... so good, ahyiiiiiiuh! Fwah, a-a-aah, haaaaahn![/v]」[KeyWait]
 [FaceOff]
 
-[text]In an instant, the tentacle went back to being abnormally thick and hard, filling up my womb so much it felt like it was going to burst as it thrusted as deep as it could go.[KeyWait]
+[text]In an instant, the tentacle went back to being abnormally thick and hard, filling up my womb so much it felt like it was going to burst as it thrust as deep as it could go.[KeyWait]
 
 [ExVoice1 storage="aex22"]
 [Face storage="f_a018"]
@@ -1051,7 +1051,7 @@
 「[v]Hyeeeeaaah... Houhn! Nhauuh... Hyigwaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]The water tentacle kept changing shape, alternating between roughly stimualting my pussy and leaving it out to try, making the world flash before my eyes.[KeyWait]
+[text]The water tentacle kept changing shape, alternating between roughly stimulating my pussy and leaving it out to try, making the world flash before my eyes.[KeyWait]
 
 [ExVoice1 storage="aex42"]
 [Face storage="f_a017"]
@@ -1108,8 +1108,8 @@
 「[v]Could I try those tentacle things next, maybe...? Haah, nnh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]女の子たちは呆れたように呟きながら、それでもボクの痴態から目が離せず、こっそりと自分の胸とか股間を弄っている。[KeyWait]
-[text]しかも生徒会長などは、水触手に興味を抱いて瞳をとろりとさせていた。[KeyWait]
+[text]The girls mumbled in disbelief, but they couldn't take their eyes off my pathetic state, and stealthily began playing with their chests and crotches.[KeyWait]
+[text]Even the student council president's eyes were glazed over with curiosity toward the water tentacles.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV403g"]
@@ -1118,56 +1118,56 @@
 [Face storage="f_a017"]
 [Voice storage="a1058" buf=3]
 【Haruka】[CR]
-（[v]は、恥ずかしいし……、ボク、ほんとは男だからぁ……、こんなの、イヤ、だけど……。ふぇあああっ、き、気持ち、イイッ！！　んぁああっ、太いのに、おまんこ、犯されて……イイイッ！[/v]）[KeyWait]
+（[v]T-This is, embarrassing... I'm mostly, a guy, so... I don't, want htis... Fweaaah, i-it feels, so good! Nhaaah, having my pussy fucked, by this thick thing... feels so gooood![/v]）[KeyWait]
 [FaceOff]
 
-[text]侮蔑の眼差しすら、もう快感へのスパイスにしかならない。[KeyWait]
-[text]どうせなら思いっきり軽蔑して、嘲笑ってくれればいい。[KeyWait]
-[text]そんな自暴自棄な思いで、喘ぎながらプールを見回す。[KeyWait]
-[text]注がれる生徒たちの視線に、ゾクゾク背筋を震わせていると、[KeyWait]
+[text]Everyone's disdainful gazes were no longer anything other than a way to spice up the stimulation.[KeyWait]
+[text]Go ahead, look down on me like I'm scum and laugh at me in disgust.[KeyWait]
+[text]Masochistic thoughts like that passed through my head as I looked around the pool, wheezing heavily.[KeyWait]
+[text]The students' gazes made shivers run up my spine, but-[KeyWait]
 
 [Face storage="f_b012"]
 [Voice storage="b0078" buf=5]
 【Yume】[CR]
-「[v]………………[/v]」[KeyWait]
+「[v].........[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex38"]
 [Face storage="f_a050"]
 [Voice storage="a1059" buf=2]
 【Haruka】[CR]
-「[v]ひうっ！　あ、ああああぁ……、ゆ、結女……ぇ……[/v]」[KeyWait]
+「[v]Hyuh! A-Aaaaah... Y-Yume...[/v]」[KeyWait]
 [FaceOff]
 
-[text]最愛の従妹と目が合ってしまった。[KeyWait]
-[text]こんな姿を見られているのが恐くて、あえてこちらから見ないようにしていたのに。[KeyWait]
-[text]快感に頭が呆けていて、結女を見てしまった。[KeyWait]
+[text]My eyes met with my beloved cousin's.[KeyWait]
+[text]I'd been scared of her seeing me like this, so I'd tried to avoid looking her way.[KeyWait]
+[text]But with my head this full of ecstasy, I slipped up.[KeyWait]
 
 [ExVoice1 storage="aex39"]
 [Face storage="f_a050"]
 [Voice storage="a1060" buf=2]
 【Haruka】[CR]
-「[v]あぁ……、違う……これ、違う……から……[/v]」[KeyWait]
+「[v]Aah... No... This is... a misunderstanding...[/v]」[KeyWait]
 [FaceOff]
 
-[text]弁解にもならない呟きを漏らしながら、けれどストロークにあわせて腰が迫り出す。[KeyWait]
-[text]触手が軟体化すると、物欲しげな表情で呻いてしまう。[KeyWait]
+[text]As I mumbled out words, failing to make any sort of case for myself, I shook my hips in time with the tentacle's thrusts.[KeyWait]
+[text]Every time it would solidify, I'd get a longing look on my face and moan.[KeyWait]
 
 [Face storage="f_b012"]
 [Voice storage="b0079" buf=5]
 【Yume】[CR]
-「[v]はるか……ちゃん……。イヤぁ……[/v]」[KeyWait]
+「[v]Haruka... chan... No...[/v]」[KeyWait]
 [FaceOff]
 
-[text]そんなボクに、結女は恥じらいで真っ赤に染まった顔を背けた。[KeyWait]
-[text]汚らわしいものから目を背けるように。[KeyWait]
-[text]傍らに、希美乃が寄り添っていて、結女を庇うように抱き締めながら、非難の眼差しで睨んできた。[KeyWait]
+[text]Yume, blushing bright red, looked away from me in shame.[KeyWait]
+[text]It was like she was averting her eyes from something filthy.[KeyWait]
+[text]Kimino stood beside Yume, holding her as if she was protecting her and glaring up at me reproachfully.[KeyWait]
 
 [ExVoice1 storage="aex46"]
 [Face storage="f_a050"]
 [Voice storage="a1061" buf=2]
 【Haruka】[CR]
-「[v]ひぃ……あ、あぁ……、ち、ちが……。んはぁああんんっ！　ふぁ、あ、はぁああああぁ――――ッ！！[/v]」[KeyWait]
+「[v]Hyii... A-Aah... N-No, you're wrong... Nhaaaahn! Fwah, ah, haaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 ;a1062
@@ -1176,19 +1176,19 @@
 [Face storage="f_a018"]
 [Voice storage="a1062" buf=2]
 【Haruka】[CR]
-「[v]はひゃあっ！　はンッ！　んくっ！　んああっ！　んひゃっ、はっ、はぁんっ！　んひっ！　ひぐっ！　んっ、んんぅ――！　んはっ！　はっ！　はがぁっ！　あああぁぁんっ！！[/v]」[KeyWait]
+「[v]Hahyaah! Hahn! Nkh! Nhaah! Nhyah, hah, haahn! Nhyi! Hyiguh! Nnh, nnnnnh! Nhah! Hah! Hagaah! Aaaaahn![/v]」[KeyWait]
 [FaceOff]
 
-[text]膣をストロークされて、子宮を勢いよく突き上げられると、女体は快感にうねり狂ってしまう。[KeyWait]
-[text]他人に恥を晒すのとは桁が違う、最愛の少女に軽蔑された耐え難い羞恥がその官能を増大させる。[KeyWait]
-[text]またさらに、結女を幻滅させると分かっていながら―――[KeyWait]
+[text]My feminine body writhed like crazy at the stimulation of having its pussy thrusted into and its womb slammed up against.[KeyWait]
+[text]The unbearable shame of having not just any regular person, but the girl I loved look at me in disgust as I humiliated myself in front of her... It just made me feel it even more.[KeyWait]
+[text]So even knowing that it would run Yume's image of me-[KeyWait]
 
 [ExVoice1Stop]
 
 [Face storage="f_a018"]
 [Voice storage="a1063" buf=2]
 【Haruka】[CR]
-「[v]ひぃいいぅ、いっ、あああぁっ、イクッ、イッちゃ……うっ！！　ふんぁああっ、あはぁあああぁ――――――ッ、イクイクイクゥウウウゥッ！　はぁああああぁ～～～～～～～～～～～ッ！！[/v]」[KeyWait]
+「[v]H-Hyiiiii, aaaah, I'm cumming, I'm... cumming! Fhnhaaah, ahaaaaaaaaaaaah!, I'm cumming I'm cumming I'm cummiiiiiing! Haaaaaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [ExtasyF]
@@ -1198,40 +1198,40 @@
 [CgSet storage="EV403h"]
 [UpDate]
 
-[text]ぷじゅるぅううううっ！　びゅるっ！！　ぶびゅびちゅびちゅびちゅちゅぅ――――――ッ！[KeyWait]
+[text]Spuuuuuurt! Spurt! Spurt, spurt, spurt, spurt, spurt, spurt![KeyWait]
 
-[text]激しい絶頂が、耐え難い現実から逃避させるかのように意識を官能の灼熱へと弾き上げた。[KeyWait]
-[text]極太の触手にみっちり満たされた膣をみんなに見せつけるように迫り出して、尿道から絶頂の飛沫を勢いよく撒き散らす。[KeyWait]
+[text]My intense orgasm launched my mind straight into a molten lake of pleasure, almost as if it was helping me escape from the unbearable reality in front of me.[KeyWait]
+[text]I thrust my hips forward like I was trying to show my tentacle-packed pussy off to everyone as a fountain of climax juices sprayed out of my urethra.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1064" buf=3]
 【Haruka】[CR]
-（[v]あひぃいっ、い、いっちゃ……た……ああぁっ。結女ぇ、見てる……のにぃ、こんな……淫ら……な……。恥ずかしい……姿ぁ……[/v]）[KeyWait]
+（[v]Ahyiiii, I-I... came... Aaah, even though... Yume's watching... I look... so... dirty... and shameful...[/v]）[KeyWait]
 [FaceOff]
 
-[text]いっそこのままボクが遼だってバラしてしまおうかと、破滅の考えが脳裏をよぎる。[KeyWait]
-[text]そうすればもっと強烈な軽蔑と嫌悪感を彼女に注がれて、もっとすごい絶頂が得られるかもしれない。[KeyWait]
+[text]The self-destructive thought of revealing to her that I was Ryou crossed through my mind.[KeyWait]
+[text]If I did that, she'd look at me with even more disgust and hatred, and I might be able to climax even harder.[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student A】[CR]
-「[i]す、すげえ……。いまのって、イッたんだろ……？[/i]」[KeyWait]
+「[i]W-Wow... She just came, didn't she..?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Male Student B】[CR]
-「[i]でもまだオマンコに、太いの咥え込んで放さねえぜ。腰もまだ、動かし続けてるし……[/i]」[KeyWait]
+「[i]But she's still squeezing that thing with her pussy. She's still moving her hips, too...[/i]」[KeyWait]
 [FaceOff]
 
-[text]身体中の力が溢れ出てしまったような虚脱のなかで、身体は際限なく快感を求めていた。[KeyWait]
-[text]今度はさらに、見苦しい姿を結女に晒してしまうだろう。[KeyWait]
+[text]As all of my body's strength left, making me feel totally exhausted, it could feel it desiring more pleasure. Limitless pleasure.[KeyWait]
+[text]I'd probably show Yume an even more pathetic sight next time.[KeyWait]
 
 [Face storage="f_a049"]
 [Voice storage="a1065" buf=2]
 【Haruka】[CR]
-「[v]んふぅ……ふぁ……はぁ……ん、あ、ああぁ……ひぁ……[/v]」[KeyWait]
+「[v]Nfuuh... Fwah... Haah... Nnh, a-aaah... Hyah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]それでも、触手の愛撫に悩ましい喘ぎをこぼしていると―――、[KeyWait]
+[text]But, as I stayed in the tentacles' grip, moaning at their caress-[KeyWait]
 
 
 [eval exp="sf.kaisouOpenFlag['08']=1"]
@@ -1245,18 +1245,18 @@
 [BgSet storage="bg110"]
 [UpDate]
 
-[text]ずぞ、ずぞぞぞぞぞぞぞ、じゃばじゃばじゃばっ！[KeyWait]
+[text]Ripples, bubble, splish![KeyWait]
 
-[text]プールの水が沸き立ったように一斉に波打ち始めた。[KeyWait]
+[text]Suddenly, the water began to ripple like it had begun boiling.[KeyWait]
 
 [Face storage="f_o022"]
 【Male Student】[CR]
-「[i]な、なんだ……？[/i]」[KeyWait]
+「[i]W-What's going on...?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p052"]
 【Female Student】[CR]
-「[i]水が……、なんか、変ッ！[/i]」[KeyWait]
+「[i]The water... There's something wrong with it![/i]」[KeyWait]
 [FaceOff]
 
 ;[text][KeyWait]
@@ -1267,56 +1267,56 @@
 [SoundOut buf=0 time=500]
 [Sound storage="se828" buf=1]
 
-[text]バッシャァ――――――――ンンッ！！[KeyWait]
+[text]Splaaaaaaaaaaash![KeyWait]
 
 [Face storage="f_o032"]
-【生徒たち】[CR]
-「[i]うわぁあああああっ、ああぁ――――――――ッ！[/i]」[KeyWait]
+【Students】[CR]
+「[i]Uwaaaaaaah, aaaaaaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]生徒たちが騒然となる中、水の中からさらに無数の触手が鎌首をもたげて、みんなに襲いかかり始めた。[KeyWait]
+[text]Countless tentacles reared their heads fro the water and began attacking the panicking students.[KeyWait]
 
 [Face storage="f_o012"]
 【Male Student】[CR]
-「[i]や、やめろぉおぉッ！！　くそおっ、放せぇえっ！[/i]」[KeyWait]
+「[i]C-Cut it ooout! Damnit, let me gooo![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p052"]
 【Female Student】[CR]
-「[i]ひぁあっ、なに、これぇ……ッ！　た、助けて……ッ！！[/i]」[KeyWait]
+「[i]Hyaah, what's happening... H-Help me...![/i]」[KeyWait]
 [FaceOff]
 
-[text]いままではボクばかりを陵辱するだけで、他の人には無害だった触手が男女を問わず全員に絡みついて淫らに蠢き始めた。[KeyWait]
+[text]The tentacles, which had been totally harmless to the others and seemed content just raping me, coiled around both the boys and girls and started wriggling around lewdly on their bodies.[KeyWait]
 
 [Face storage="f_o012"]
 【Male Student】[CR]
-「[i]は、放せッ、くそおおっ！！[/i]」[KeyWait]
+「[i]L-Let go of me, damnit![/i]」[KeyWait]
 [FaceOff]
 
-[text]強靱な肉蔓に全身を締め付けられ、男たちが苦痛の呻きを上げる。[KeyWait]
+[text]The boys groaned in pain as their bodies were entangled by the thick, watery vines.[KeyWait]
 
 [Face storage="f_p054"]
 【Female Student】[CR]
-「[i]あぁああっ、い、いやぁああっ、入って……くるぅううっ！　んぁはああッ、やめ……ぁああああっ！！　う、動い……て……ッ！　ふぇああああぁ～～～、な、なかぁああっ！！[/i]」[KeyWait]
+「[i]Aaaah, n-noooo, it's... going iiiin! Nhahaaah, stop... Aaaaah! I-It's moving... Fweaaaaaaaah, i-inside meeee![/i]」[KeyWait]
 [FaceOff]
 
-[text]その一方で女子の穴という穴に触手の先が埋まり込んで激しくうねり、苛烈な甘美を無理強いされていた。[KeyWait]
+[text]On the other hand, the tentacles had buried themselves within every hole the girls had, and were wriggling around and forcing them to endure intense pleasure.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1066" buf=2]
 【Haruka】[CR]
-「[v]ひうっ！　な、なんで……？　ボクだけ……じゃなく、て、みんな……まで……？[/v]」[KeyWait]
+「[v]Hyuh!? W-Why...?  They're... going for the others now...? Not just me...?[/v]」[KeyWait]
 [FaceOff]
 
-[text]いままでボクしか襲っていなかったのに、突然無差別攻撃を始めた触手に困惑する。[KeyWait]
+[text]I was baffled. They'd only attacked me up until now, but they'd begun indiscriminately assault the other students all of a sudden.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1067" buf=2]
 【Haruka】[CR]
-「[v]ゆ、結女は……！？[/v]」[KeyWait]
+「[v]W-What about Yume...!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]従妹の身を案じ、朦朧とする意識を振り絞って確かめ見ると、[KeyWait]
+[text]I got a grip on my foggy mind and looked over at Yume to make sure she was safe, but-[KeyWait]
 
 [ChrSet0 storage="b_b034l"]
 [UpDate]
@@ -1324,11 +1324,11 @@
 [Face storage="f_b019"]
 [Voice storage="b0080" buf=2]
 【Yume】[CR]
-「[v]ふぁああっ！　た、助け……て、ああぁ……。はるか、ちゃん……。希美乃……ちゃん……。――りょ……、遼……ちゃん……！！[/v]」[KeyWait]
+「[v]Fwaaah! H-Help me... Aaah... Haruka-chan... Kimino... chan... R-Ryou... chan![/v]」[KeyWait]
 [FaceOff]
 
-[text]彼女ももうすでに無数の水触手に飲み込まれていた。[KeyWait]
-[text]しかも鬼を魅了する[eruby str="芳醇" text="ほうじゅん"]な錬気を蓄えた鬼慰姫であるからか、他の誰よりも襲い来る数が多い。[KeyWait]
+[text]She'd already been swallowed up by the mass of tentacles.[KeyWait]
+[text]Not only that, but perhaps due to her overflowing with so much Renki because she was the Oni-Pleasing Princess, there were more attacking her than anyone else.[KeyWait]
 
 [ChrReset0]
 [UpDate]
@@ -1336,12 +1336,12 @@
 [Face storage="f_a042"]
 [Voice storage="a1068" buf=2]
 【Haruka】[CR]
-「[v]あ、あああぁ……。ゆ……め……ぇ……！！[/v]」[KeyWait]
+「[v]A-Aaaah... Y-Yume...![/v]」[KeyWait]
 [FaceOff]
 
-[text]いまのボクと希美乃にだけではなく、結女は男の姿のボクにまで助けを求めてくれていた。[KeyWait]
-[text]なのにボクは何も出来ない。激しい絶頂に脱力した身体で、早くもまた官能を昂らせ溺れてゆく。[KeyWait]
-[text]その朦朧とした眼に、みんなが襲われる中でたった一人群がる水触手を払い退けている少女がいた。[KeyWait]
+[text]Rather than just calling for help from Haruka and Kimino, she was also calling for the original, male me.[KeyWait]
+[text]Yet, I was unable to do anything. My intense orgasm had drained my body entirely and I could do nothing but drown in the stimulation the tentacles kept forcing upon me.[KeyWait]
+[text]I looked around with my hazy eyes. In the midst of everyone being attacked, there was one girl who was fighting off the tentacles swarming her.[KeyWait]
 
 [ChrSet0 storage="b_c035l"]
 [UpDate]
@@ -1349,13 +1349,13 @@
 [Face storage="f_c026"]
 [Voice storage="c0071" buf=2]
 【Kimino】[CR]
-「[v]くそ！　なんなのよ、これは！！　水鬼のヤツ、なんでいきなり暴走して……[/v]」[KeyWait]
+「[v]Damnit! What's going on!? Why'd the water oni go wild all of a sudden...!?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a041"]
 [Voice storage="a1069" buf=2]
 【Haruka】[CR]
-「[v]き、希美乃……？[/v]」[KeyWait]
+「[v]K-Kimino...?[/v]」[KeyWait]
 [FaceOff]
 
 [text]驚いて声を漏らすと、幼なじみが冷たい眼差しで、こちらを横目にうかがった。[KeyWait]
