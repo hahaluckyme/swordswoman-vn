@@ -1772,7 +1772,7 @@
 [OptionTarget num=2]
 [eval exp="f.‚SÍƒoƒbƒh=0"]
 
-[text]I considered heading over toward her my self, but with all of the students huddled around me, I couldn't really escape.[KeyWait]
+[text]I considered heading over toward her myself, but with all of the students huddled around me, I couldn't really escape.[KeyWait]
 [text]For the time being, I was at least able to confirm that the water wrapping around me wasn't attacking Yume.[KeyWait]
 
 

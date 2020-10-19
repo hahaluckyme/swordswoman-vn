@@ -23,72 +23,72 @@
 [ExVoice2 storage="bex23"]
 [Face storage="f_b018"]
 [Voice storage="b0082" buf=5]
-【結女】[CR]
-「[v]ひぃううううぅ、あ、はぁあああっ！　だめぇッ、だめ、またイッちゃうっ！！　イクッ！　うんぅううううぅっ、あはぁあああぁ～～～～～～ッ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyiiuuuuuh, ah, haaaaah! Nooo, no, I'm gonna cum again! I'm cumming! Uhnhuuuuuuh, ahaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se119" buf=0]
 
-[text]ぷじゅっ、びびゅじゅ、ぶちゅぶちゅぶちゅぅ――――――ッ！！[KeyWait]
+[text]Spurt, spurt, spurt![KeyWait]
 
 [ExVoice1 storage="aex02"]
 [Face storage="f_a050"]
 [Voice storage="a1073" buf=2]
-【はるか】[CR]
-「[v]ゆ、結女……ぇ、んふぁ、あ、はぁ……ああぁ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Y-Yume... Nfwah, ah, haah... Aaah...[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex23"]
 [Face storage="f_b017"]
 [Voice storage="b0083" buf=5]
-【結女】[CR]
-「[v]へあ……ああぁ、はりゅかちゃぁん、イッ、たぁ、私ぃ、また、イッちゃったぁ。こ……こんろは、お尻ぃ、お尻で、ふぁああ、イッ、イッちゃったのぉ……はあぁんんっ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyeah... Aaah, Haruka-chan, I-I, came again. T-This time... I, came with, fwaaah, m-my butt... Haaahn![/v]」[KeyWait]
 [FaceOff]
 
 ;b0084
 ;[ExVoice2 storage="bex01"]
 ;「あひゃああぁ……はぅん……んひぃ……んふぅっ、ふうん……はぁ、はあぁん……んはっ、はぁ、ふあぁぁん……はひゃ、は、んんうぅ……んひっ……ひゃうっ、んっ、んはあぁぁ……」
 
-[text]ここは……、学園内のどこかの教室だろうか？[KeyWait]
-[text]窓という窓には濁った灰色の触手がびっしりと張り付いていて、外をうかがうことも出来ない。[KeyWait]
-[text]いや窓だけじゃない。この部屋いっぱいに、プールのなかで襲いかかってきた水触手がうねうねと蠢きながら充ち満ちていた。[KeyWait]
+[text]We were in... A classroom somewhere in the school, I think?[KeyWait]
+[text]Ash-colored tentacles stuck to all the windows, making it so we couldn't see outside.[KeyWait]
+[text]No, it wasn't just the windows. The entire room was filled to the brim with the same writhing water tentacles that had attacked us in the pool.[KeyWait]
 
 [ExVoice1 storage="aex33"]
 [Face storage="f_a017"]
 [Voice storage="a1074" buf=2]
-【はるか】[CR]
-「[v]ボ、ボクも……ふぇああ、また……変、なって……来たぁ。だめ、イキそう……ッ、んぅっ、ふぇああっ、あ、やだっ、あ、ふぁああああっ、んあッ！　くほぉおおおっ！！　はぅんっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I-I'm... fweaah, feeling weird... again, too. No, I'm close... Nnh, fweaah, ah, no, ah, fwaaaaah, nhah! Kuhoooooh! Hauhn![/v]」[KeyWait]
 [FaceOff]
 
-[text]絶え間なく肌を這い回る触手が、神経を休ませてくれない。正気が一秒ごとに削られてゆく。[KeyWait]
-[text]プールで気を失い、息を吹き返した時にはもうここにいた。[KeyWait]
-[text]それからもうどのくらい経ったのか？[KeyWait]
-[text]何度も何度も絶頂しては失神を繰り返し、時の感覚を完全に失っていた。[KeyWait]
+[text]The tentacles wriggled around around on my skin incessantly, not giving my nerves time to rest. They were shaving away my sanity with every passing second.[KeyWait]
+[text]After losing consciousness in the pool and waking up, I'd found myself here.[KeyWait]
+[text]Just how much time had passed?[KeyWait]
+[text]After waking up here, I'd climaxed, passed out, and woke back up countless times, making me completely lose my sense of time.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a1075" buf=3]
-【はるか】[CR]
-（[v]プールで……い、入れられて……からぁ……。ずっと、入れられ……っぱなしだからっ。目……覚めた時……お、お尻にもっ、太い……の、は……入って……入ってたしぃッ！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]It's been... inside me... ever since I was in the pool... It's been inside me... this whole time. And when I woke up... There was one... in my... b-butt, too![/v]）[KeyWait]
 [FaceOff]
 
-[text]ぷじゅっ、びゅぶっ、ぷしゅしゅっ！！[KeyWait]
+[text]Spurt, spurt, spurt![KeyWait]
 
-[text]意識すると、極太触手に絶え間なくストロークされる前後穴の刺激を一段と鮮明に感じてしまい、一瞬で絶頂に達する。[KeyWait]
-[text]相変わらず水触手の疑似男根は極太と軟体をランダムに切り替えて、膣穴の飢餓を煽り立て、感度を最大に引き上げさせる。[KeyWait]
-[text]恐らく、いや間違いなく結女の膣と肛門をストロークする太蔓も、同じように可変しているのだろう。[KeyWait]
+[text]Whenever I would paid attention to them, I'd feel the super-thick tentacles constantly thrusting in both my holes even more clearly, resulting in me cumming an in instant.[KeyWait]
+[text]As always, the phallic water tentacles would change their thickness and stiffness at random, making my pussy starve for more and forcing it to be as sensitive as possible.[KeyWait]
+[text]It was likely - no, certain, even - that the watery vines thrusting into Yume's pussy and ass were capable of transforming in the same way.[KeyWait]
 
 [ExVoice2 storage="bex02"]
 [Face storage="f_b018"]
 [Voice storage="b0085" buf=5]
-【結女】[CR]
-「[v]ふぇあ……はぅ……あ、はああぁ……。んくぅ、ほぉんっ！　は……うっ、だ……めぇ……ッ！！　ん……ッ、ンンッ、ん～～ぅっ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Fweah... Hauh... Ah, haaaah... Nkh, hoohn! Hah... Uuh, n-no...! Nnh... Nnnnh, nnnnnnh![/v]」[KeyWait]
 [FaceOff]
 
 ;b0086
 ;[ExVoice2 storage="bex02"]
 ;「あふううぅんっ！　はっ、んふっ、んっ……はひゃあああぁっ！　はぅんっ、んくっ、あひゃ、ひゃふぅん……んひゃ、はひゅ……んっ、はああぁっ！　はぅっ、んっ……んんぅ、んはあああぁぁっ！」
 
-[text]あどけなく可憐な顔立ちが淫靡に媚び蕩けて、時折切なげに眉根を寄せながらもどかしげに腰をくねらせる。[KeyWait]
+[text]Yume's innocent, cherubic face had melted into a perverse, longing one. Occasionally, I'd see her twist her hips around in frustration, looking like she wanted more.[KeyWait]
 
 [ExtasyF]
 ;イベント絵表示
@@ -98,8 +98,8 @@
 [ExVoice1 storage="aex33"]
 [Face storage="f_a018"]
 [Voice storage="a1076" buf=2]
-【はるか】[CR]
-「[v]んはぁああっ！　くぅうっ！！　ふぁっ！　ああっ、や、また……来ちゃうッ！！　お、おぉ、尻ぃと、膣ぅ、同時ぃいいいっ！　んはぁああっ！！　ふぁああぅううっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Nhaaaah! Kuuuh! Fwah! Aah, no, not... again! M-My butt and pussy, both at the same time! Nhaaaah! Fwaaauuuh![/v]」[KeyWait]
 [FaceOff]
 
 [ExtasyCount]
@@ -107,8 +107,8 @@
 [ExVoice2 storage="bex01"]
 [Face storage="f_b018"]
 [Voice storage="b0087" buf=5]
-【結女】[CR]
-「[v]ひぁああっ、だめぇ、はるかちゃんッ、ゆぅ、揺らさないでっ！　イッちゃうっ！！　私もイッちゃううっ！　あふぅううう～～～～～～ぁああああぁはぁあああああぁ――――――ッ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyaaah, nooo, Haruka-chan, s-shtop shaking me! I'm gonna cum! I'm gonna cum, toooo! Afuuuuuuuuuuuh, aaaaaahaaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [ExtasyF]
@@ -116,53 +116,53 @@
 [ExVoice1 storage="aex35"]
 [Face storage="f_a018"]
 [Voice storage="a1077" buf=2]
-【はるか】[CR]
-「[v]ひぃあはっ！　結女……もッ、あ、暴れ……ない……でぇえっ！！　ああだめっ、いくッ！　イッてるのにッ！！　イキならが、またイクゥウウッ！　へぁっ！！　はぅんっ、お、あぁああああああぁ――――――ッッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyiiaha! Yume... Come on, stop s-squirming... like thaaat! Aah, no, I'm gonna cum! I'm already cumming! I'm gonna cum again while cummiiiiing! Hyeah! Hauhn, oh, aaaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]撓わな乳房同士をぐにゅぐにゅと密着させながら抱き締め合い、激しい痙攣を共有する。[KeyWait]
-[text]この触手に満たされた部屋で、ずっとたった二人きりで、入れられっぱなしの剛直肉に前後穴を犯され、ヌメヌメした蔓に肌を愛撫され際限なく絶頂を繰り返す。[KeyWait]
+[text]Our soft breasts pressed against each other as we held each other and spasmed hard.[KeyWait]
+[text]Yume and I repeatedly climaxed together in the tentacle-filled room, isolated from the outside world, with stiff tentacles constantly in our holes, and slippery ones caressing us without pause.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a1078" buf=3]
-【はるか】[CR]
-（[v]外……ぉ、どうなってるんだ？　みんな……どうなった……んだ……？　き……希美乃……は……？　これも、全部……希美乃……が？　い、いつまで……こんなこと、続くの…………？[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]What's... it like outside? What happened... to the others...? What about...  Kimino...? Did she... do all of this...? H-How long... is this going to go on for...?[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex26"]
 [Face storage="f_a018"]
 [Voice storage="a1079" buf=2]
-【はるか】[CR]
-「[v]ふぇあっ、あふうっ！！　イッたのに、また……イクッ！　ひぅうっ、お尻も、また、イクッッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Fweah, afuuh! Even though I just came, I'm.. cumming again! Hyuuh, my butt, my butt's cumming too![/v]」[KeyWait]
 [FaceOff]
 
-[text]禍々しい気配を溢れさせていた幼なじみの仕業なのだろうか？[KeyWait]
-[text]なぜこんなことを？　いつまでこんなことが続くのか……？[KeyWait]
-[text]結女と二人きりで絶え間ない快楽を与えられながらの放置が、いつ終わるのかも分からぬまま続く。[KeyWait]
+[text]Was this really the doing of my childhood friend, was was overflowing with such an ominous aura?[KeyWait]
+[text]Why would she do this? And how long would she keep it up for...?[KeyWait]
+[text]Yume and I remained abandoned, constantly receiving pleasure but having no idea as to when it would end.[KeyWait]
 
-[text]ぬちゅ、ぐちゅ、ずぶっ、ずぽずぽずぶずぶずぶっ、じゅぷっ、ぐちゃ。[KeyWait]
+[text]Schwap, schwap, thwap, thwap, thwap, thwap, schwap, thwap...[KeyWait]
 
 [ExVoice2 storage="bex01"]
 [Face storage="f_b017"]
 [Voice storage="b0088" buf=5]
-【結女】[CR]
-「[v]はぁ……ぅ、はるか……ちゃ……ぁんッ。おかしく、なっちゃう……こんなの、だめ……なのに、良く……なっちゃう……。ふぁあああっ、もう、ああっ、んはっ、はぁああああ～～～ッ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Haah... Haruka... chan... I'm, gonna go crazy... I can't, take this, but... It feels good... Fwaaaah, no, aah, nhah, haaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex02"]
 [Face storage="f_b018"]
 [Voice storage="b0089" buf=5]
-【結女】[CR]
-「[v]あはぁ……んうぅ……らめぇ、いっぱいイってるのにぃ……はるかちゃああん……あひゃぁ……また、わたしのおまんこぉ……きもちよすぎてぇ……はひゃあああぁ、ひゃふぅ……ん、はひゃっ、んひゃああああぁぁぁ……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Ahaah... Nhuuh... No, I've came so much... Haruka-chaaan... Ahyaah... My pusshy... feelsh too good again... Hahyaaaaah, hyafuuh... Nnh, hahyah, nhyaaaaaaaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]ねちゅ、ぐちっ、ずぷっ、ずぷっ、ぐぽぽ、ずぽぶぽずぽっ。[KeyWait]
+[text]Squelch, shwap, thwap, thwap, squelch, squelch...[KeyWait]
 
 [ExVoice1 storage="aex23"]
 [Face storage="f_a018"]
 [Voice storage="a1080" buf=2]
-【はるか】[CR]
-「[v]ふぁ、はっ、あ、んぁああっ！　ボク……も、こんなの……気持ち、良すぎてぇ……変になるぅっ！！　ふぁああ、結女と、一緒に、ダメ……なっちゃうッ。んふぉ、はう……おぁあああああっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Fwah, hah, ah, nhaaah! I'm... gonna go crazy from how good... this feels, too! Fwaaah, I'm gonna go crazy, with Yume... Nfwoh, hauh... Owaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1Stop time=2000]
@@ -175,9 +175,9 @@
 	[move page=back layer=5 time=2000 path=(0,0,255) accel=0]
 [endif]
 
-[text]一度達する度に、正気が刮げられ、狂乱へと意識が堕ちゆく。[KeyWait]
-[text]このまますべてを快楽に委ねてしまった方が楽なのではという考えが、何度も脳裏を[eruby str="掠" text="かす"]めた。[KeyWait]
-[text]どちらからともなく唇を重ね合わせ、唾液をこね合わせる濃厚なキスを交わしながら、ボクと結女はいつ終わるともしれない絶望の快楽に囚われ続けていた。[KeyWait]
+[text]Every time I came, my sanity was whittle away, gradually sinking me further into insanity.[KeyWait]
+[text]The thought that maybe it would be easier to just give in to the pleasure passed through my head countless times.[KeyWait]
+[text]Yume and I kissed each other deeply and sloppily, sharing our saliva. We were prisoners to this hopeless pleasure, of which we didn't know when would end.[KeyWait]
 
 ;黒画面
 [BgSet storage="_black"]
@@ -186,9 +186,9 @@
 [SoundAllOut time=2000]
 [BgmFadeOut time=2000]
 
-[text]………………………………………………[KeyWait]
-[text]………………………………[KeyWait]
-[text]………………[KeyWait]
+[text].........[KeyWait]
+[text]......[KeyWait]
+[text]...[KeyWait]
 
 [scenarioend]
 ;ＢＡＤＥＮＤ

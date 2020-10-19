@@ -1358,24 +1358,24 @@
 「[v]K-Kimino...?[/v]」[KeyWait]
 [FaceOff]
 
-[text]驚いて声を漏らすと、幼なじみが冷たい眼差しで、こちらを横目にうかがった。[KeyWait]
+[text]I muttered her name in surprise, then saw her glance over at me with cold eyes.[KeyWait]
 
 [Face storage="f_a047"]
 [Voice storage="a1070" buf=2]
 【Haruka】[CR]
-（[v]な、なんだ……？　あれ、き……希美乃じゃ……ない……っ！？[/v]）[KeyWait]
+（[v]W-What...? Huh...? T-That's... not Kimino...!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]姿形は見間違えようのない幼なじみ。[KeyWait]
-[text]しかし鬼斬姫となった全神経が、禍々しく危険なものを感じ取る。[KeyWait]
+[text]There was no mistaking that she looked like my childhood friend.[KeyWait]
+[text]Yet, all of my senses as the Oni-Cutting Princess could feel something sinister from her.[KeyWait]
 
 [Face storage="f_a062"]
 [Voice storage="a1071" buf=2]
 【Haruka】[CR]
-（[v]保健室の鬼は……退治した……はず……？　いや、違う……。あ、あれは……もっと、強大な……ッ。ああっ、ゆ……結女ッ！！[/v]）[KeyWait]
+（[v]But... I exterminated the oni in the nurse's office... Right...? No, this is... S-Something... even stronger... Aah, Y-Yume![/v]）[KeyWait]
 [FaceOff]
 
-[text]彼女を結女の側に置いておいたらいけない……。[KeyWait]
+[text]I couldn't let her stay near Yume's side...[KeyWait]
 
 [ChrReset0]
 [UpDate]
@@ -1383,25 +1383,25 @@
 [Face storage="f_b018"]
 [Voice storage="b0081" buf=2]
 【Yume】[CR]
-「[v]だ……め……ぇ……、助け……て……。あぁ……、い、いやぁ……[/v]」[KeyWait]
+「[v]N-No... Help... me... Aah... D-Don't...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c026"]
 [Voice storage="c0072" buf=2]
 【Kimino】[CR]
-「[v]厄介なことになったわね……。いや……でも、この状況はこのまま使えるかも……[/v]」[KeyWait]
+「[v]This sure turned into a mess... Wait, no... Maybe I can use this...[/v]」[KeyWait]
 [FaceOff]
 
-[text]目の前で親友がおぞましい触手に穢されているというのに、助けることもせず、ただ自分に襲いかかってくるものだけを払い退けている。[KeyWait]
+[text]Despite her friend being dirtied by tentacles right in front of her, Kimino didn't help her, instead just fending off the ones that went for her own body.[KeyWait]
 
 [Face storage="f_a062"]
 [Voice storage="a1072" buf=2]
 【Haruka】[CR]
-「[v]お前……は、誰……だ？　本当の希美乃……は、どこに、いった。ゆ……結女から、離れろ……。んむぐっ、あぶ……あ、あぁ、ああああああぁ……[/v]」[KeyWait]
+「[v]Who... are you...? Where's... the real Kimino? Get away... from Yume... Nmgh, abuh... A-Aah, aaaaaaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]希美乃の姿をした希美乃でないものから結女を護ろうともがくなか、新たな触手がペニスの形状へと変わって、ボクの口の中に無理矢理押し入ってくる。[KeyWait]
-[text]何となく精液の匂いに似た、プールの水の塩素臭が鼻腔へと抜け行くなか、ボクは喘ぐことも出来ず次第に意識を失っていった。[KeyWait]
+[text]As I tried to struggle free in order to save Yume from whatever was masquerading as Kimino, a new tentacle formed into the shape of a penis and crammed itself into my mouth.[KeyWait]
+[text]As the stench of chlorine with a hint of semen passed through my nostrils, I gradually fell unconscious, unable to gasp for air.[KeyWait]
 
 [SoundAllOut time=2000]
 [BgmFadeOut time=2000]
