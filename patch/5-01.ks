@@ -1,6 +1,6 @@
 
 *scene5-01|Chapter 5: Creeping Danger
-[eval exp="f.chaptertitle='Attending School Together After the Event'"]
+[eval exp="f.chaptertitle='Walking Home Together After the Event'"]
 
 [BgSet storage="chapter05"]
 [UpDate]
@@ -27,33 +27,33 @@
 
 [Face storage="f_c004"]
 [Voice storage="c0073" buf=2]
-【希美乃】[CR]
-「[v]はるか、大丈夫？　かなり具合悪そうだったけど……[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]Are you okay, Haruka? It didn't look like you felt good earlier...[/v]」[KeyWait]
 [FaceOff]
 
-[text]最高潮に盛り上がったイベントも無事に終わり、ボクは結女と希美乃と一緒に下校中だった。[KeyWait]
+[text]After reaching its climax, the event ended without incident, and the three of us walked home from school.[KeyWait]
 
 [Face storage="f_a034"]
 [Voice storage="a1081" buf=2]
-【はるか】[CR]
-「[v]うん、もうすっかり。それより希美乃こそ、足大丈夫なの？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]It's okay, I'm feeling perfectly fine now. More importantly, is your ankle okay, Kimino?[/v]」[KeyWait]
 [FaceOff]
 
-[text]奇妙な水の異変はボクを失禁させると、その後は何事もなかったかのように消え失せていた。[KeyWait]
+[text]The incident with the strange water had made me pee in the pool, but after that, the water disappeared as if it'd never even been there.[KeyWait]
 
 [Face storage="f_a009"]
 [Voice storage="a1082" buf=2]
-【はるか】[CR]
-（[v]インタビューの最中にイッて、おしっこまで漏らしたなんて、恥ずかしくていえないし……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Saying that I came and peed during the interview would be too embarrassing...[/v]）[KeyWait]
 [FaceOff]
 
-[text]激戦でちょっと疲れたということにしておいた。[KeyWait]
-[text]むしろ、騎馬から落ちまいと踏ん張った時に捻ったという、希美乃の足の方が心配だ。[KeyWait]
+[text]I used the excuse that I was just worn out from the competition.[KeyWait]
+[text]I was more worried about Kimino's ankle, which she'd twisted in an attempt to not fall off her horses.[KeyWait]
 
 [Face storage="f_b004"]
 [Voice storage="b0090" buf=2]
-【結女】[CR]
-「[v]まだ痛む？　先生が車で送ってくれるっていってたし、無理しない方が……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Does it still hurt? Sensei offered to drive you home, so you shouldn't force yourself...[/v]」[KeyWait]
 [FaceOff]
 
 [ChrSet1 storage="b_c012"]
@@ -61,16 +61,16 @@
 
 [Face storage="f_c005"]
 [Voice storage="c0074" buf=2]
-【希美乃】[CR]
-「[v]大丈夫大丈夫。きちんと手当てしてもらったし、大したことないって。それにたまちゃん先生の運転って、なんかすっごく不安な感じするし[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]I'm okay, I'm okay. It's no big deal, and I had it treated already anyway. If anything, I'd be more worried in the hands of Tamachan-sensei's driving.[/v]」[KeyWait]
 [FaceOff]
 
-[text]そういいながらも、足を引きずりながら歩く姿が大変そうだ。[KeyWait]
+[text]Despite saying she was okay, Kimino was dragging her foot as she walked.[KeyWait]
 
 [Face storage="f_a056"]
 [Voice storage="a1083" buf=2]
-【はるか】[CR]
-「[v]昔から希美乃は無理しすぎるんだから……。ほらちっちゃい頃に、ジャングルジムの上からジャンプして足挫いたじゃない。あの時もいまみたいにボクと結女で家まで送っていって……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]You've always pushed yourself too hard, Kimino... Remember when you twisted your ankle on the jungle gym when you we were kids? Then, Yume and I walked you home just like we're doing now...[/v]」[KeyWait]
 [FaceOff]
 
 [ChrSet1 storage="b_c013"]
@@ -79,62 +79,62 @@
 
 [Face storage="f_b024"]
 [Voice storage="b0091" buf=2]
-【結女】[CR]
-「[v]ほえ？　はるかちゃん、昔からって……？[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Huh? What do you mean, "always"...?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c004"]
 [Voice storage="c0075" buf=2]
-【希美乃】[CR]
-「[v]な、なんではるかがそんなこと知ってんの……？[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]W-Why do you know that, Haruka...?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a034"]
 [Voice storage="a1084" buf=2]
-【はるか】[CR]
-「[v]……って、話を、ちょ、遼が前にいってたからっ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]...I mean, that's what Ryou told me a while back...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a051"]
 [Voice storage="a1085" buf=2]
-【はるか】[CR]
-（[v]ま、まずい……ッ。ついこの二人と一緒にいると、いつものつもりになっちゃって……。い、いまのボクは、離れて暮らしていた遼の双子の姉で、はるかなんだった！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]C-Crap... I keep relaxing and going back to normal when I'm around Yume and Kimino... R-Right now, I'm Haruka, Ryou's twin sister who lived apart from him![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_c023"]
 [Voice storage="c0076" buf=2]
-【希美乃】[CR]
-「[v]りょ、遼のやつ！　そんなことまで教えるだなんて！　べ、別にいつもそんな暴れてたわけじゃないからっ！！[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]D-Damnit, Ryou! I can't believe he'd tell you that much about me! I wasn't [ita]that[endita] reckless as a kid, okay!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]どうにか取り繕ったと思ったのだが、希美乃はなぜか顔を赤くしてむくれ顔になる。[KeyWait]
+[text]Kimino tried to save face, but for whatever reason, she was blushing and pouting.[KeyWait]
 
 [ChrSet2 storage="b_b015"]
 [UpDate]
 
 [Face storage="f_b025"]
 [Voice storage="b0092" buf=2]
-【結女】[CR]
-「[v]遼ちゃんとはるかちゃんって、結構連絡取り合ってたんだね。宗家の事柄だから仕方ないのかもだけど、私全然はるかちゃんのこと知らなかったな～。あっちでも全く会わなかったし……。遼ちゃんもなにも教えてくれなかったから……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]You two talk a lot, huh? I didn't even know about you thanks to your family stuff... I never saw you at Ryou-chan's house... He never even told me about you...[/v]」[KeyWait]
 [FaceOff]
 
-[text]しかも結女がしょんぼりと寂しそうにすね始めた。[KeyWait]
+[text]Yume began pouting too, sounding dejected.[KeyWait]
 
 [Face storage="f_c022"]
 [Voice storage="c0077" buf=2]
-【希美乃】[CR]
-「[v]りょ、遼のやつ、他にあたしのこと何ていってた！？　ど、どうせろくなこといってないんでしょうけど……ッ。ほんと、しょうがない奴なんだからっ！！[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]W-What else did Ryou say about me!? N-Nothing good, I'm sure... Ugh, I can't believe him![/v]」[KeyWait]
 [FaceOff]
 
-[text]余計なことをいえば、晴れて男に戻れた時に、ボコボコにされそうだ。[KeyWait]
+[text]I got the feeling that if I kept talking, I'd be in for a beating when I turned back into a guy.[KeyWait]
 
 [Face storage="f_a034"]
 [Voice storage="a1086" buf=2]
-【はるか】[CR]
-「[v]あ、ええと……そんな頻繁に連絡取ってたわけじゃないから……。ほんのちょっと、話のついでに聞いただけなんで……。ええと、ちょっとジュース買いに寄っていい？　なんだか喉渇いちゃった[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Ah, um... I don't talk to him [ita]that[endita] often... He just kind of mentioned it once... Um, mind if we stop and get some juice? I'm kind of thirsty.[/v]」[KeyWait]
 [FaceOff]
 
-[text]余り余計なことをいうとボロが出る。適当にはぐらかして話題を変えた。[KeyWait]
+[text]I'd give myself away if I said too much, so I changed the subject.[KeyWait]
 
 [ChrSet1 storage="b_c011"]
 [ChrSet2 storage="b_b011"]
@@ -142,12 +142,12 @@
 
 [Face storage="f_b001"]
 [Voice storage="b0093" buf=2]
-【結女】[CR]
-「[v]そういえば今日新発売のお菓子があるんだ♪　買ってって一緒に食べようよ[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Now that you mention it, they're selling a new kind of candy today. ♪ Let's get some and have it together![/v]」[KeyWait]
 [FaceOff]
 
-[text]甘いものに目がない結女がキラキラと瞳を輝かせた。[KeyWait]
-[text]丁度目に入ったコンビニへと小走りで向かう。[KeyWait]
+[text]Yume's eyes were twinkling. She loved sweets.[KeyWait]
+[text]She began trotting toward a nearby convenience store.[KeyWait]
 
 
 [jump storage="5-02.ks"]

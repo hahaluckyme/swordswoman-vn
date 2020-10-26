@@ -268,7 +268,7 @@
 [Face storage="f_b011"]
 [Voice storage="b0056" buf=2]
 ÅyYumeÅz[CR]
-Åu[v]Sigh... Maybe I'd loook better if they were a little smaller... I put on some weight, too... Maybe I should go on a diet...[/v]Åv[KeyWait]
+Åu[v]Sigh... Maybe I'd look better if they were a little smaller... I put on some weight, too... Maybe I should go on a diet...[/v]Åv[KeyWait]
 [FaceOff]
 
 [text]Yume took her hands off her chest and and buttoned her uniform back up, looking solemn at the thought of going on a diet, which she'd never successfully done before.[KeyWait]

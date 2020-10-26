@@ -15,113 +15,113 @@
 
 [Face storage="f_b004"]
 [Voice storage="b0094" buf=2]
-【結女】[CR]
-「[v]あ…………[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Ah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]しかしその足が、急に立ち止まった。[KeyWait]
+[text]But she suddenly stopped.[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
-「[i]ギャハッハハハハハッ、マッジかよお。クソだな、そりゃ！[/i]」[KeyWait]
+【Delinquent A】[CR]
+「[i]Gyahahahahahaha, seriously? That's gotta be bullshit![/i]」[KeyWait]
 [FaceOff]
 
-[text]見ればその店の入り口の辺りに、１０人くらいの柄の悪い男たちが馬鹿笑いしていた。[KeyWait]
+[text]I looked and saw about 10 shady-looking guys laughing like idiots near the store's entrance.[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
-「[i]んで、こん前の乳女とクソ生意気なガキ、マジで見つかったんだろな？[/i]」[KeyWait]
+【Delinquent B】[CR]
+「[i]So ya really found that busty girl and lively brat from before, then?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
-「[i]あ～、確かに戻橋の生徒だそうだ。ここ張ってりゃぜってー通るって！[/i]」[KeyWait]
+【Delinquent C】[CR]
+「[i]Yeah, they're from Modoribashi or somethin', I guess. They'll pass by here if we wait![/i]」[KeyWait]
 [FaceOff]
 
-[text]だらしなく地べたに座って呂律の回らない声を張り上げる。[KeyWait]
-[text]その周りには、食い散らかしたパンの包みなどのゴミくずや、タバコの吸い殻が散らばっていた。[KeyWait]
+[text]They were carelessly sitting on the ground and loudly chatting amongst themselves, not caring that they were slurring their words.[KeyWait]
+[text]Around them were wrappers for bread they'd snacked on, scraps of trash, and cigarette butts.[KeyWait]
 
 [Face storage="f_c026"]
 [Voice storage="c0078" buf=2]
-【希美乃】[CR]
-「[v]あ、あいつらっ！！[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]I-It's them![/v]」[KeyWait]
 [FaceOff]
 
-[text]途端に希美乃の顔つきが険しくなる。[KeyWait]
+[text]Kimino's face instantly became serious.[KeyWait]
 
 [Face storage="f_b004"]
 [Voice storage="b0095" buf=2]
-【結女】[CR]
-「[v]えっと、お菓子はまた明日にしよっかな……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Um, let's get candy another day...[/v]」[KeyWait]
 [FaceOff]
 
-[text]結女も強張った表情で[eruby str="踵" text="きびす"]を返す。[KeyWait]
-[text]だが男たちは、めざとくその様を見ていた。[KeyWait]
+[text]Yume turned around, also wearing a stiff look on her face.[KeyWait]
+[text]But, the sharp-sighted guys noticed her.[KeyWait]
 
 [ChrSet1 storage="b_q002" pos=c]
 [UpDate]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
-「[i]おい、来たぜ～[/i]」[KeyWait]
+【Delinquent D】[CR]
+「[i]Hey, there they are![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【不良Ｅ】[CR]
-「[i]な～んだよ、シカトたぁひでえんじゃねえの？　ゆ～め～ちゃん！！[/i]」[KeyWait]
+【Delinquent E】[CR]
+「[i]Hey, Yuuume-chan! ♪ Pretty awful ignorin' us, don'tcha think!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b004"]
 [Voice storage="b0096" buf=2]
-【結女】[CR]
-「[v]ひいっ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyii![/v]」[KeyWait]
 [FaceOff]
 
-[text]立ち上がり、こちらに向かってきながら、[eruby str="癇" text="かん"]に障る口調で話しかけてくる。[KeyWait]
-[text]その声に結女が怯えて立ち尽くした。[KeyWait]
+[text]They stood up and headed over our way, slinging unpleasant words at us as they approached.。[KeyWait]
+[text]Yume froze in place and started shuddering.[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a1087" buf=2]
-【はるか】[CR]
-「[v]なに……？　知り合いなの……？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]What...? Do you know them...?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c026"]
 [Voice storage="c0079" buf=2]
-【希美乃】[CR]
-「[v]冗談でしょ。あんなのが知り合いなわけない。……でも、この前ちょっとね……[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]You must be kidding. Of course not... It's just that, well...[/v]」[KeyWait]
 [FaceOff]
 
-[text]希美乃が緊張の面持ちで嫌悪感たっぷりにいう。[KeyWait]
+[text]Kimino began talking, her face speaking to both her stress and disgust.[KeyWait]
 
 [Face storage="f_c026"]
 [Voice storage="c0080" buf=2]
-【希美乃】[CR]
-「[v]一昨日、結女と買い物に行った時、駅前でナンパしてきたのよ。あんまりしつこいし、なんだかすごく嫌な感じがしたんで、大声上げて騒いでやったら警官が来てくれて助かったんだけど……[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]When I was out shopping with Yume the day before yesterday, they hit on us in front of the station. I got a bad feeling because they were so stubborn, so I shouted and a policeman came to help us, but...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a035"]
 [Voice storage="a1088" buf=2]
-【はるか】[CR]
-「[v]そんなことが！？　ボクに……い、いや、親とかに相談しなかったの？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]No way, that happened!? And you didn't tell me... I-I mean, your parents or anything?[/v]」[KeyWait]
 [FaceOff]
 
-[text]怒りがムカムカと込み上げてきた。[KeyWait]
-[text]自分の知らない時に、二人がそんな不快な目にあっていたなんて……。[KeyWait]
+[text]I felt myself getting mad.[KeyWait]
+[text]I couldn't believe they'd had to go through that when I wasn't there...[KeyWait]
 
 [Face storage="f_c009"]
 [Voice storage="c0081" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]だってそれっきりだと思ったんだもん。実際には無事だったわけだし、それに心配とかかけたくなかったから。でもまさかまた会うなんて。それもこんなところで……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]あの時はずいぶんなことしてくれたじゃねえかよ。こっちはゆめちゃんたちと一緒に遊びたくて声かけただけだってのに。あの後、サツに追っかけ回されて大変だったんだぜ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]おかげで探し回っちゃったぜ～。運良くゆめちゃんときみのちゃんの名前知ってる、戻橋の生徒がいたんでちょいとお願いしてみたら、親切に、このコンビニに良く立ち寄るってことまで教えてくれたぜー[/i]」[KeyWait]
 [FaceOff]
 
@@ -129,7 +129,7 @@
 
 [Face storage="f_c010"]
 [Voice storage="c0082" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]あ、あたしら待ち伏せしてたっていうの……？[/v]」[KeyWait]
 [FaceOff]
 
@@ -137,7 +137,7 @@
 
 [Face storage="f_b024"]
 [Voice storage="b0097" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]き、希美乃ちゃん……、はるか……ちゃん……[/v]」[KeyWait]
 [FaceOff]
 
@@ -145,7 +145,7 @@
 
 [Face storage="f_a035"]
 [Voice storage="a1089" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]大丈夫。行こう。遠回りだけど、あっちから帰ろう[/v]」[KeyWait]
 [FaceOff]
 
@@ -153,13 +153,13 @@
 
 [Face storage="f_c009"]
 [Voice storage="c0083" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]はるか……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b024"]
 [Voice storage="b0098" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]はるかちゃん……[/v]」[KeyWait]
 [FaceOff]
 
@@ -167,7 +167,7 @@
 
 [Face storage="f_a035"]
 [Voice storage="a1090" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]鬼と戦ったからかな……？　なんかあんまり恐くないや。いままでだったら……遼、だったら……きっとこんな風に落ち着いてられなかったと思う……[/v]）[KeyWait]
 [FaceOff]
 
@@ -177,7 +177,7 @@
 [playbgm storage="bgm007"]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]おいおい、なにシカトして帰ろうとしてんだよ？　お前、この二人のお友達か？　ふ～ん、なかなかイイじゃねえの、お前も付き合いな！[/i]」[KeyWait]
 [FaceOff]
 
@@ -185,32 +185,32 @@
 [text]この男からの視線は、何度味わっても慣れなくて鳥肌が立つような気色悪さを覚える。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]今日は一緒に遊んでもらうぜ。この前の礼もしなくちゃならねえしな！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b031"]
 [Voice storage="b0099" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひうぅっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c010"]
 [Voice storage="c0084" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]なっ！？　ちょっと、どきなさいよ！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]案の定すんなり帰らせてもらえるわけがない。行く手に回り込まれ、取り囲まれてしまった。[KeyWait]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]声かけただけだってのに、サツまで呼ばれたんだ。いやだなんていわせねえぜ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a006"]
 [Voice storage="a1091" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]いちいち脅すような喋り方してっ！　結女が怖がってるじゃないかっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -218,7 +218,7 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1092" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]どけっ！　お前たちなんかと遊んでいる暇なんか、ないっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -231,19 +231,19 @@
 
 [Face storage="f_a035"]
 [Voice storage="a1093" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]結女ッ。希美乃も、足痛むだろうけどっ[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b004"]
 [Voice storage="b0100" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]う、うん[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c027"]
 [Voice storage="c0085" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]平気だからっ[/v]」[KeyWait]
 [FaceOff]
 
@@ -253,7 +253,7 @@
 [text]駆け足気味に速度を上げると、結女はもちろん、希美乃も痛みを堪えて走り出す。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]まぁてやぁああっ！　このくそ女ッ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -261,7 +261,7 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1094" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]このまま走って逃げろ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -269,13 +269,13 @@
 
 [Face storage="f_b032"]
 [Voice storage="b0101" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]はるかちゃんっ！？[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c027"]
 [Voice storage="c0086" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]はるかっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -283,13 +283,13 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1095" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あの程度のやつらなら、ボク一人で食い止められる[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a1096" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -300,7 +300,7 @@
 [text]グァシュッ！！[KeyWait]
 
 [Face storage="f_o012"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]ぐはぁああああっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -308,12 +308,12 @@
 [text]手の甲に感じるその感触に、異様な高揚を覚えた。[KeyWait]
 
 [Face storage="f_q022"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]てめえっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q032"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]この、クソ女ぁああっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -321,19 +321,19 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1097" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]お前ら……。結女と希美乃を怖がらせるなんて……許せない！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]けれどボクはそれ以上の憤怒を、ヤツらに叩き付けてやる。[KeyWait]
 
 [Face storage="f_q022"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]ひうっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q032"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]うおぅっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -342,7 +342,7 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1098" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]セィイイイッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -351,7 +351,7 @@
 [text]ベキィッ！！[KeyWait]
 
 [Face storage="f_q022"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]ぐふぉおっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -360,7 +360,7 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1099" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ハァアアアッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -371,13 +371,13 @@
 [text]グシャッ！[KeyWait]
 
 [Face storage="f_q032"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]あがぁあっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a057"]
 [Voice storage="a1100" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]やっぱりすごいっ！　この身体ッ、どんな動きでも出来るっ！！　そ、それに……[/v]）[KeyWait]
 [FaceOff]
 
@@ -385,7 +385,7 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1101" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふんっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -394,12 +394,12 @@
 [text]ゴズッ！！[KeyWait]
 
 [Face storage="f_o032"]
-【不良Ｅ】[CR]
+【Delinquent E】[CR]
 「[i]ごはっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q022"]
-【不良Ｆ】[CR]
+【Delinquent F】[CR]
 「[i]ぐあっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -407,7 +407,7 @@
 
 [Face storage="f_a057"]
 [Voice storage="a1102" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こいつらぶちのめすの……気持ちイイッ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -416,18 +416,18 @@
 [text]自然と残酷な笑みが浮かんだ。[KeyWait]
 
 [Face storage="f_q032"]
-【不良Ｇ】[CR]
+【Delinquent G】[CR]
 「[i]この、くそ女ぁあああッ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q032"]
-【不良Ｈ】[CR]
+【Delinquent H】[CR]
 「[i]ふざけやがってぇえっ！　犯すぞぁあああっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a057"]
 [Voice storage="a1103" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こいつらの動き……遅いっ。いや、ボクが速すぎるのか？　まあ……どうでもいいっ[/v]）[KeyWait]
 [FaceOff]
 
@@ -435,7 +435,7 @@
 
 [Face storage="f_a006"]
 [Voice storage="a1104" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふんっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -446,7 +446,7 @@
 [text]ドゴッ！！[KeyWait]
 
 [Face storage="f_q032"]
-【不良Ｇ】[CR]
+【Delinquent G】[CR]
 「[i]ごぼぁああっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -455,7 +455,7 @@
 [text]スカートが捲れるけれど気にしない。真後ろに足をはね上げた。[KeyWait]
 
 [Face storage="f_q032"]
-【不良Ｈ】[CR]
+【Delinquent H】[CR]
 「[i]ぎへぇえっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -464,12 +464,12 @@
 
 [Face storage="f_a057"]
 [Voice storage="a1105" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]しーらない、ボク、女の子だもん[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o012"]
-【不良Ｉ】[CR]
+【Delinquent I】[CR]
 「[i]ッざっけやがって、この……ごはあっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -477,12 +477,12 @@
 [text]楽しい……。顔がますます残酷な笑みに綻ぶ。[KeyWait]
 
 [Face storage="f_q022"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]ちくしょうっ、この女ッ、つええっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o012"]
-【不良Ｉ】[CR]
+【Delinquent I】[CR]
 「[i]なんだよ、あのパンチ。女の力じゃねえぞ。武器でも隠し持ってんじゃねえのか？[/i]」[KeyWait]
 [FaceOff]
 
@@ -491,14 +491,14 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1106" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]今後一切結女と希美乃に変な真似しないと誓え！　そうすればここまでにしておいてやる！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]声を張り上げて威圧すると、ヤツらの戦意が完全に喪失した。けれど―――[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]さーてと、調子に乗るのもそこまでだぜ。大人しくしな。さもないと、こいつらがどうなるかわかんねえぜ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -506,13 +506,13 @@
 
 [Face storage="f_c014"]
 [Voice storage="c0087" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]このっ、放せってばっ！！　や、やめろっ。あぐぅッ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b033"]
 [Voice storage="b0102" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]希美乃ちゃんっ！！　きゃうぅっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -527,7 +527,7 @@
 
 [Face storage="f_a038"]
 [Voice storage="a1107" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――！！　結女ッ、希美乃ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -535,25 +535,25 @@
 
 [Face storage="f_a051"]
 [Voice storage="a1108" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]な、なんで……？[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b016"]
 [Voice storage="b0103" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]だって……わたしたちのせいで、はるかちゃんが酷い目にあうって思ったから……。あうぅ、ごめんなさい……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c022"]
 [Voice storage="c0088" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]ご、ごめん……。はるかが、そんなに強いなんて、知らなかったから……。でも、こんな奴らの中にあんた一人置いていくわけにいかなくて……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a051"]
 [Voice storage="a1109" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]……………………[/v]」[KeyWait]
 [FaceOff]
 
@@ -563,12 +563,12 @@
 
 [Face storage="f_a051"]
 [Voice storage="a1110" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふ、二人を放せ！　さもないと……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]さもないとどうするんだよ？　そこから一歩でも動いてみな。こいつらの綺麗なツラに、二度と消えない傷、付けてやるぜ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -576,26 +576,26 @@
 
 [Face storage="f_b016"]
 [Voice storage="b0104" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひいっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c009"]
 [Voice storage="c0089" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]く、くそお……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a063"]
 [Voice storage="a1111" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]や、やめろっ！[/v]」[KeyWait]
 [FaceOff]
 
 [text]この身体がいくら速くても、こればかりはどうにもならない。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]それにしても、いい乳してるじゃねえの。最近の女子高校生は発育いいなあっ[/i]」[KeyWait]
 [FaceOff]
 
@@ -603,7 +603,7 @@
 
 [Face storage="f_b018"]
 [Voice storage="b0105" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひぁああああ～～～ッ！　やめ、て……、あぁ……。やだ……ぁ、ううぅ～～～～っ[/v]」[KeyWait]
 [FaceOff]
 
@@ -611,13 +611,13 @@
 
 [Face storage="f_a063"]
 [Voice storage="a1112" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ああっ、ゆ、結女ッ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c024"]
 [Voice storage="c0090" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]ちょっとっ、やめなさいよっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -625,13 +625,13 @@
 [text]結女の傍らでもがく希美乃も同様だ。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]おほぉ～、でっけー。たまんねえぜ、この揉み心地[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b018"]
 [Voice storage="b0106" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]あ、あああぁ……やめ……て。放して……ぇ……。ひぃいい……ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -640,26 +640,26 @@
 
 [Face storage="f_a064"]
 [Voice storage="a1113" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]き……きさ……ま……[/v]」[KeyWait]
 [FaceOff]
 
 [text]ヤツらと不甲斐ない自分への怒りでどうにかなりそうだ。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]くっくっく、ざまあみやがれ、暴力女ッ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]この傷の借りはきっちりと返させてもらうからな！[/i]」[KeyWait]
 [FaceOff]
 
 [text]ただ見守るしかないボクに、さっき叩きのめした連中が恨みの眼差しで言葉を吐きかけてくる。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]さてと、こんなところじゃ何だから、一緒に来てもらうか[/i]」[KeyWait]
 [FaceOff]
 
@@ -684,7 +684,7 @@
 
 [Face storage="f_a029"]
 [Voice storage="a1114" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こいつもグルなのか！？[/v]）[KeyWait]
 [FaceOff]
 
@@ -693,27 +693,27 @@
 [text]店内には他に誰もいない。[KeyWait]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]いきなり暴れ出しやがってよお。変な武器隠し持ってるみたいで無茶苦茶痛えんだよ、こいつにドツかれると。クソッ！[/i]」[KeyWait]
 [FaceOff]
 
 [text]もちろんそんな武器なんか持っていない。この身体の力が、そう思わせるくらいに強いだけだ。[KeyWait]
 
 [Face storage="f_o031"]
-【不良Ｅ】[CR]
+【Delinquent E】[CR]
 「[i]奥、使うぜ。すぐに交代するからもうしばらく頼むわ[/i]」[KeyWait]
 [FaceOff]
 
 [text]勝手知ったる様子で、不良たちは結女と希美乃を連れて、関係者立ち入り禁止のドアの向こうへ入ってゆく。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]よーこそ、俺たちのＶＩＰルームへ。そ～らよっと[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a065"]
 [Voice storage="a1115" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]おわっ！[/v]」[KeyWait]
 [FaceOff]
 
