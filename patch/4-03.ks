@@ -2723,7 +2723,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 [FaceOff]
 
 [text]Someone had finally caught wind of what was going on.[KeyWait]
-[text]A nearby boy tilted his head suspiciously, looking at the water and gradually tracing it to myc rotch.[KeyWait]
+[text]A nearby boy tilted his head suspiciously, looking at the water and gradually tracing it to my crotch.[KeyWait]
 
 [Face storage="f_a018"]
 [Voice storage="a0968" buf=3]

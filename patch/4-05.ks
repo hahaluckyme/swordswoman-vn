@@ -1308,7 +1308,7 @@
 Åu[v]Hyuh!? W-Why...?  They're... going for the others now...? Not just me...?[/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I was baffled. They'd only attacked me up until now, but they'd begun indiscriminately assault the other students all of a sudden.[KeyWait]
+[text]I was baffled. They'd only attacked me up until now, but they'd begun indiscriminately assaulting the other students all of a sudden.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1067" buf=2]
