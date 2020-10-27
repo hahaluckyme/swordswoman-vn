@@ -70,7 +70,7 @@
 [Face storage="f_a056"]
 [Voice storage="a1083" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v]You've always pushed yourself too hard, Kimino... Remember when you twisted your ankle on the jungle gym when you we were kids? Then, Yume and I walked you home just like we're doing now...[/v]Åv[KeyWait]
+Åu[v]You've always pushed yourself too hard, Kimino... Remember when you twisted your ankle on the jungle gym when we were kids? Then, Yume and I walked you home just like we're doing now...[/v]Åv[KeyWait]
 [FaceOff]
 
 [ChrSet1 storage="b_c013"]

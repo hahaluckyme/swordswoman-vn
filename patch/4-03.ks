@@ -45,7 +45,7 @@
 [Face storage="f_a055"]
 [Voice storage="a0793" buf=2]
 ÅyHarukaÅz[CR]
-Åi[v]Yume had told the director about Kimino complaing about the pool being so small, and he'd decided to have a new one built... But I never imagined we'd get one [ita]this[endita] stupidly huge...[/v]Åj[KeyWait]
+Åi[v]Yume had told the director about Kimino complaining about the pool being so small, and he'd decided to have a new one built... But I never imagined we'd get one [ita]this[endita] stupidly huge...[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]Today was the opening day of our school's new, oversized pool.[KeyWait]
@@ -125,7 +125,7 @@
 [Face storage="f_c001"]
 [Voice storage="c0036" buf=2]
 ÅyKiminoÅz[CR]
-Åu[v]The president's into from the get-go again today, huh. Aah, it's getting me kinda fired up, too![/v]Åv[KeyWait]
+Åu[v]The president's into it from the get-go again today, huh. Aah, it's getting me kinda fired up, too![/v]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_b001"]
@@ -156,7 +156,7 @@
 [Face storage="f_d002"]
 [Voice storage="d0003" buf=2]
 ÅyHidekoÅz[CR]
-Åu[v]Ladies and gentlemen! Coming straight to you from Modoribashi Academy's high school student council today, to commemorate of the completion of our new inground pool, we'll be hosting our first-ever mixed gender pool cavalry competition (with some potential wardrobe malfunctions ÅÙ)![/v]Åv[KeyWait]
+Åu[v]Ladies and gentlemen! Coming straight to you from Modoribashi Academy's high school student council today, to commemorate the completion of our new inground pool, we'll be hosting our first-ever mixed gender pool cavalry competition (with some potential wardrobe malfunctions ÅÙ)![/v]Åv[KeyWait]
 [FaceOff]
 
 ÅyStudentsÅz[CR]
@@ -177,7 +177,7 @@
 [Face storage="f_d001"]
 [Voice storage="d0005" buf=2]
 ÅyHidekoÅz[CR]
-Åu[v]The last team standing will receive 10,000 yen worth of meal tickets for the cafeteria, and each member of the team of the team will also receive a pair ticket for a two-day, one-night stay at an inn with a luxurious outdoor onsen![/v]Åv[KeyWait]
+Åu[v]The last team standing will receive 10,000 yen worth of meal tickets for the cafeteria, and each member of the team will also receive a pair ticket for a two-day, one-night stay at an inn with a luxurious outdoor onsen![/v]Åv[KeyWait]
 [FaceOff]
 
 ÅyStudentsÅz[CR]
@@ -530,7 +530,7 @@
 [Face storage="f_a003"]
 [Voice storage="a0819" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v]Uh...Ç§Ç¡[/v]Åv[KeyWait]
+Åu[v]Uh...d[/v]Åv[KeyWait]
 [FaceOff]
 
 ;[text][KeyWait]
@@ -1018,7 +1018,7 @@
 [FaceOff]
 
 [Face storage="f_g902"]
-ÅyÅyWatanabe, Usui, UrabeÅzÅz[CR]
+ÅyWatanabe, Usui, UrabeÅz[CR]
 Åu[i]Got it![/i]Åv[KeyWait]
 [FaceOff]
 
@@ -1306,7 +1306,7 @@
 [Face storage="f_a045"]
 [Voice storage="a0858" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v]I-I can't believe the president's was right when she said there might be wardrobe malfunctions...![/v]Åv[KeyWait]
+Åu[v]I-I can't believe the president was right when she said there might be wardrobe malfunctions...![/v]Åv[KeyWait]
 [FaceOff]
 
 [text]Kimino and I were on guard against potential attacks from each other. We covered our chests with one arm, barely hiding anything at all.[KeyWait]
@@ -1356,7 +1356,7 @@
 Åi[v]Kimino's horses... are staring at my chest, too... Their eyes look really perverted...[/v]Åj[KeyWait]
 [FaceOff]
 
-[text]The shame was killing me. Apparently, it wasn't just my body th at had become more sensitive as a girl - my perception had, too. I felt totally disgusted at the sticky, perverted gazes washing over me.[KeyWait]
+[text]The shame was killing me. Apparently, it wasn't just my body that had become more sensitive as a girl - my perception had, too. I felt totally disgusted at the sticky, perverted gazes washing over me.[KeyWait]
 [text]But despite that, my body heated up like it was aroused. I felt sweat drip from my slightly-flushed skin.[KeyWait]
 
 [Face storage="f_a049"]
@@ -1434,7 +1434,7 @@
 [text]I noticed her moment of weakness and gave the order.[KeyWait]
 
 [Face storage="f_g902"]
-ÅyÅyWatanabe, Usui, UrabeÅzÅz[CR]
+ÅyWatanabe, Usui, UrabeÅz[CR]
 Åu[i]Uwooooooooooh![/i]Åv[KeyWait]
 [FaceOff]
 
@@ -1458,7 +1458,7 @@
 Åu[i]Sorry, Sakatani![/i]Åv[KeyWait]
 [FaceOff]
 
-[text]They quickly tried to move to catch her, but-çQÇƒÇƒéÛÇØé~ÇﬂÇ…å¸Ç©Ç§Ç™ÅA[KeyWait]
+[text]They quickly tried to move to catch her, but-[KeyWait]
 
 [Face storage="f_a058"]
 [Voice storage="a0870" buf=2]
@@ -1753,7 +1753,7 @@
 [Face storage="f_c001"]
 [Voice storage="c0065" buf=2]
 ÅyKiminoÅz[CR]
-Åu[v]Geez, Haruka's so strong you'd never think she's Ryou's twin sister. Now I [end]really[endita] want her to join the swim club.[/v]Åv[KeyWait]
+Åu[v]Geez, Haruka's so strong you'd never think she's Ryou's twin sister. Now I [ita]really[endita] want her to join the swim club.[/v]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
@@ -1877,7 +1877,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 Åu[v]Ah, I have the h-hiccups... Aha, ahaha... Fwah![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I tried to play it off, but right away,I felt something peck at my labia majora.[KeyWait]
+[text]I tried to play it off, but right away, I felt something peck at my labia majora.[KeyWait]
 [text]I'd been so on guard for it to attack my chest that it caught me by surprise, almost making my knees buckle.[KeyWait]
 
 [Face storage="f_p012"]
@@ -1885,7 +1885,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 Åu[i]Are you okay? Your face looks read. If you're tired, you should probably get out of the...[/i]Åv[KeyWait]
 [FaceOff]
 
-[text]If I could, I would. But whenever I moved, the tentacle-like sensation squeezing around me squeezed stimulate my sensitive spots even more.[KeyWait]
+[text]If I could, I would. But whenever I moved, the tentacle-like sensation squeezing around me stimulated my sensitive spots even more.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0896" buf=2]
@@ -1964,7 +1964,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 Åu[v]Nnh... Nnnh...[/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I nodded, expecting her to get the hint and call off the  interview, but-[KeyWait]
+[text]I nodded, expecting her to get the hint and call off the interview, but-[KeyWait]
 
 [Face storage="f_d001"]
 [Voice storage="d0014" buf=2]
@@ -2151,7 +2151,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 [FaceOff]
 
 [text]I felt my lower lips get pushed open from the inside.[KeyWait]
-[text]I couldn't help but almost collaps on the spot.[KeyWait]
+[text]I couldn't help but almost collapse on the spot.[KeyWait]
 
 [Face storage="f_d003"]
 [Voice storage="d0020" buf=2]
@@ -2249,7 +2249,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 Åi[v]Hyah! It went on! Kufuh... Ah, no way... Not there![/v]Åj[KeyWait]
 [FaceOff]
 
-[text]The water, about as thick as my pinker finger, buried itself shallowly inside me, playing with my hymen in order to loosen it up.[KeyWait]
+[text]The water, about as thick as my pinky finger, buried itself shallowly inside me, playing with my hymen in order to loosen it up.[KeyWait]
 [text]And at the same time, it was playing with my rear hole, rhythmically moving in both spots at once.[KeyWait]
 
 [Face storage="f_a017"]
@@ -2431,7 +2431,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 [Face storage="f_a060"]
 [Voice storage="a0937" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]There... are beds in there... I-I could masturbate... I could play with... the inside ofthrobbing pussy... until I cum... Fwaaaah...[/v]Åj[KeyWait]
+Åi[v]There... are beds in there... I-I could masturbate... I could play with... the inside of my throbbing pussy... until I cum... Fwaaaah...[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]I felt a bit of drool leak from my mouth, as well as more hot lube seep out of my pussy.[KeyWait]
@@ -2439,7 +2439,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 [Face storage="f_a050"]
 [Voice storage="a0938" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]If Kimino... comes to... T-Then we can both... Wait, what M I...[/v]Åj[KeyWait]
+Åi[v]If Kimino... comes to... T-Then we can both... Wait, what am I...[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]There'd be no going back if I did something like that.[KeyWait]
@@ -2503,7 +2503,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 Åu[v]...! Hyeh... Ah... Ah...![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I somehow managed to avoid shrieking, but I couldn't stp myself from opening my eyes wide and drooling.[KeyWait]
+[text]I somehow managed to avoid shrieking, but I couldn't stop myself from opening my eyes wide and drooling.[KeyWait]
 [text]I twitched as I bent backward and my crotch spasmed.[KeyWait]
 [text]A torrent of my love juices sprayed out and mixed with the pool water. I wonder if anyone noticed?[KeyWait]
 
@@ -2544,7 +2544,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 Åu[v]Look, there's definitely something wrong with you, Haruka. Don't push yourself, let's go to the nurse's office![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]Just when my legs were about to crumble underndeath me, Kimino grabbed me and supported me.[KeyWait]
+[text]Just when my legs were about to crumble underneath me, Kimino grabbed me and supported me.[KeyWait]
 
 [ExVoice1 storage="aex39"]
 [Face storage="f_a039"]

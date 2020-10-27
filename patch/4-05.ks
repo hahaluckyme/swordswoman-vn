@@ -55,7 +55,7 @@
 [FaceOff]
 
 [text]I looked down in surprise and saw that the transparent water had materialized into squishy tentacles.[KeyWait]
-[text]Before I even had a chance to run, my legs and arms were immediately bound.逃げようとする間もなく、手足にしっかりと巻き付かれ動きを封じられる。[KeyWait]
+[text]Before I even had a chance to run, my legs and arms were immediately bound.[KeyWait]
 
 [Face storage="f_a030"]
 [Voice storage="a0985" buf=2]
@@ -253,7 +253,7 @@
 
 [Face storage="f_o021"]
 【Male Student A】[CR]
-「[i]Ooh, wow, so [end]that's[endita] where girls pee from![/i]」[KeyWait]
+「[i]Ooh, wow, so [ita]that's[endita] where girls pee from![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
@@ -369,7 +369,7 @@
 （[v]Uuuh... My voice... sounds so dirty... It's the voice... of a dirty, squirming girl...[/v]）[KeyWait]
 [FaceOff]
 
-[text]Moans so sensual that they surprised even mecame out of my mouth, each one reminding me that I wasn't a guy.[KeyWait]
+[text]Moans so sensual that they surprised even me came out of my mouth, each one reminding me that I wasn't a guy.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1003" buf=3]
@@ -378,7 +378,7 @@
 [FaceOff]
 
 [text]The more I thought about how messed up this was, the better I felt.[KeyWait]
-[text]Almost as if they were waiting for that, the water tentacles wrapped around my breasts and began bolding groping them.[KeyWait]
+[text]Almost as if they were waiting for that, the water tentacles wrapped around my breasts and began boldly groping them.[KeyWait]
 
 [ExVoice1 storage="aex21"]
 [Face storage="f_a048"]
@@ -455,7 +455,7 @@
 
 [Face storage="f_p021"]
 【Female Student A】[CR]
-「[i]Hawaaah, they're so big! They looked so much smaller through her in clothes![/i]」[KeyWait]
+「[i]Hawaaah, they're so big! They looked so much smaller through her clothes![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p011"]
@@ -486,7 +486,7 @@
 ;[ExVoice1 storage="aex42"]
 ;「あひゃああぁっ！　んはっ！　はううぅん！　あはぁっ、はっ、んんぅっ！　はぐっ、ふっ、ふうんっ！　んひっ、ひあ、は、はぁん……ひゃうっ、んっ、ぁひゃあっ！」
 
-[text]With my tight swimsuit out of the way, the tentacles had begun playing with me more roughy.[KeyWait]
+[text]With my tight swimsuit out of the way, the tentacles had begun playing with me more roughly.[KeyWait]
 [text]Some of them gripped my mounds at the base and squeezed them like they were milking them, while some of them pecked at my nipples, filling me with a maddening pleasure.[KeyWait]
 
 [Face storage="f_o021"]
@@ -591,7 +591,7 @@
 [Face storage="f_a048"]
 [Voice storage="a1018" buf=2]
 【Haruka】[CR]
-「[v]Fweh... H auh, a-aaaaah! Nnh, no! Aah, haaaaaaaaaah![/v]」[KeyWait]
+「[v]Fweh... auh, a-aaaaah! Nnh, no! Aah, haaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se128" buf=0]
@@ -606,12 +606,12 @@
 
 [Face storage="f_o022"]
 【Male Student A】[CR]
-「[i]Whoa, the water, i-it turned intoa dick...[/i]」[KeyWait]
+「[i]Whoa, the water, i-it turned into a dick...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p022"]
 【Female Student A】[CR]
-「[i]Huh!? A-Are guys... really t hat big!?[/i]」[KeyWait]
+「[i]Huh!? A-Are guys... really that big!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o032"]
@@ -672,7 +672,7 @@
 
 [text]The tentacle's head pressed against my defenseless hole.[KeyWait]
 [text]I'd expected it to feel cold like water, but the solidified tentacle's tip felt warm like human skin.[KeyWait]
-[text]I felt less and like like resisting.[KeyWait]
+[text]I felt less and less like resisting.[KeyWait]
 [text]The thick tentacle cock went ahead and began pushing itself into my loosened pussy.[KeyWait]
 
 [Sound storage="se160" buf=0]
@@ -717,7 +717,7 @@
 
 [text]When I'd timidly tried putting my own finger it, it felt good, but it hurt a bit, too.[KeyWait]
 [text]But this made me feel nothing but pleasure. It was no good... It was making me feel fine with being violated.[KeyWait]
-[text]Even though it went in so smoothly, the tentacle was formed formed into a huge, solid dick right up until my entrance, so from the outside, it looked like I had an absolutely massive cock inside me.[KeyWait]
+[text]Even though it went in so smoothly, the tentacle was formed into a huge, solid dick right up until my entrance, so from the outside, it looked like I had an absolutely massive cock inside me.[KeyWait]
 
 [Face storage="f_o032"]
 【Male Student】[CR]
@@ -891,7 +891,7 @@
 
 [Face storage="f_o041"]
 【Male Student C】[CR]
-「[i]Damnit, I wanna fuck her, too... I'm sur ea slut like her wouldn't say no if I asked![/i]」[KeyWait]
+「[i]Damnit, I wanna fuck her, too... I'm sure a slut like her wouldn't say no if I asked![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
@@ -1006,7 +1006,7 @@
 [FaceOff]
 
 [text]I immediately came a little. Not just once, but multiple times in a row.[KeyWait]
-[text]I made a lewd and lazy face and shook my hips like crazy as all of the love juices that had built up inside me while my pussy yearned for for the thick tentacle cock's return shot out like a water gun.[KeyWait]
+[text]I made a lewd and lazy face and shook my hips like crazy as all of the love juices that had built up inside me while my pussy yearned for the thick tentacle cock's return shot out like a water gun.[KeyWait]
 
 [ExVoice1 storage="aex23"]
 [Face storage="f_a017"]
@@ -1016,7 +1016,7 @@
 [FaceOff]
 
 [text]I rejoiced at having the tentacle stimulate me as it pushed me apart as far as I could go, making it tough for me to breathe.[KeyWait]
-[text]I began thrusting my own hips in search of more pleasure in response to the tentacle's rough thrusts aginst my womb.[KeyWait]
+[text]I began thrusting my own hips in search of more pleasure in response to the tentacle's rough thrusts against my womb.[KeyWait]
 
 [SoundOut buf=8 time=500]
 
@@ -1118,7 +1118,7 @@
 [Face storage="f_a017"]
 [Voice storage="a1058" buf=3]
 【Haruka】[CR]
-（[v]T-This is, embarrassing... I'm mostly, a guy, so... I don't, want htis... Fweaaah, i-it feels, so good! Nhaaah, having my pussy fucked, by this thick thing... feels so gooood![/v]）[KeyWait]
+（[v]T-This is, embarrassing... I'm mostly, a guy, so... I don't, want this... Fweaaah, i-it feels, so good! Nhaaah, having my pussy fucked, by this thick thing... feels so gooood![/v]）[KeyWait]
 [FaceOff]
 
 [text]Everyone's disdainful gazes were no longer anything other than a way to spice up the stimulation.[KeyWait]
@@ -1181,7 +1181,7 @@
 
 [text]My feminine body writhed like crazy at the stimulation of having its pussy thrusted into and its womb slammed up against.[KeyWait]
 [text]The unbearable shame of having not just any regular person, but the girl I loved look at me in disgust as I humiliated myself in front of her... It just made me feel it even more.[KeyWait]
-[text]So even knowing that it would run Yume's image of me-[KeyWait]
+[text]So even knowing that it would ruin Yume's image of me-[KeyWait]
 
 [ExVoice1Stop]
 

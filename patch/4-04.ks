@@ -83,7 +83,7 @@
 （[v]Nhoooh, hah, aaaaaaaah![/v]）[KeyWait]
 [FaceOff]
 
-[text]Flashes of lightw ent off in my head. My entire body shuddered and shook.[KeyWait]
+[text]Flashes of light went off in my head. My entire body shuddered and shook.[KeyWait]
 [text]My womb suddenly clenched up really hard, and then my pussy and anus followed suit.[KeyWait]
 
 [Face storage="f_a017"]
@@ -101,7 +101,7 @@
 「[v]Ah, haah...! Auuh! Hauuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]It was something close to a miracle that I was able to keep my moans to a minimum/[KeyWait]
+[text]It was something close to a miracle that I was able to keep my moans to a minimum.[KeyWait]
 [text]Pretending to hug Yume back, I pressed my lips against her neck in order to muffle my sounds.[KeyWait]
 
 [Face storage="f_b030"]

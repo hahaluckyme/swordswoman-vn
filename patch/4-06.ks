@@ -73,7 +73,7 @@
 
 [text]Spurt, spurt, spurt![KeyWait]
 
-[text]Whenever I would paid attention to them, I'd feel the super-thick tentacles constantly thrusting in both my holes even more clearly, resulting in me cumming an in instant.[KeyWait]
+[text]Whenever I would pay attention to them, I'd feel the super-thick tentacles constantly thrusting in both my holes even more clearly, resulting in me cumming in an instant.[KeyWait]
 [text]As always, the phallic water tentacles would change their thickness and stiffness at random, making my pussy starve for more and forcing it to be as sensitive as possible.[KeyWait]
 [text]It was likely - no, certain, even - that the watery vines thrusting into Yume's pussy and ass were capable of transforming in the same way.[KeyWait]
 
@@ -136,7 +136,7 @@
 Åu[v]Fweah, afuuh! Even though I just came, I'm.. cumming again! Hyuuh, my butt, my butt's cumming too![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]Was this really the doing of my childhood friend, was was overflowing with such an ominous aura?[KeyWait]
+[text]Was this really the doing of my childhood friend, who was overflowing with such an ominous aura?[KeyWait]
 [text]Why would she do this? And how long would she keep it up for...?[KeyWait]
 [text]Yume and I remained abandoned, constantly receiving pleasure but having no idea as to when it would end.[KeyWait]
 
@@ -177,7 +177,7 @@
 
 [text]Every time I came, my sanity was whittle away, gradually sinking me further into insanity.[KeyWait]
 [text]The thought that maybe it would be easier to just give in to the pleasure passed through my head countless times.[KeyWait]
-[text]Yume and I kissed each other deeply and sloppily, sharing our saliva. We were prisoners to this hopeless pleasure, of which we didn't know when would end.[KeyWait]
+[text]Yume and I kissed each other deeply and sloppily, sharing our saliva. We were prisoners to this hopeless pleasure, of which we didn't know would ever end.[KeyWait]
 
 ;çïâÊñ 
 [BgSet storage="_black"]

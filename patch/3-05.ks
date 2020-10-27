@@ -454,7 +454,7 @@
 
 [text].........[KeyWait]
 [text]......[KeyWait]
-[text]...[save][KeyWait]
+[text]...[KeyWait]
 
 [SoundAllStop]
 [stopbgm]
@@ -463,11 +463,4 @@
 
 [wait time=1000]
 
-;placeholder
-[BgSet storage="placeholder"]
-[UpDate]
-
-[cancelskip]
-
-;[jump storage="4-01.ks"]
-
+[jump storage="4-01.ks"]

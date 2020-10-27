@@ -38,7 +38,7 @@
 [Face storage="f_a003"]
 [Voice storage="a0780" buf=2]
 ÅyHarukaÅz[CR]
-Åi[v]Just knowing that she's being targeted must be enough of a shock. Is there some kind of wait I can tell her who I am without it hurting her...?[/v]Åj[KeyWait]
+Åi[v]Just knowing that she's being targeted must be enough of a shock. Is there some kind of way I can tell her who I am without it hurting her...?[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]Without even thinking about it, I could tell it was close to impossible.[KeyWait]

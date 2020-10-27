@@ -60,7 +60,7 @@
 [Face storage="f_b001"]
 [Voice storage="b0050" buf=2]
 【Yume】[CR]
-「[v]You really are twins, huh? You're even using him room.  It feels kinda different than you using it while he's gone, though.[/v]」[KeyWait]
+「[v]You really are twins, huh? You're even using his room. It kinda doesn't feel like Ryou-chan's even gone.[/v]」[KeyWait]
 [FaceOff]
 
 [text]Being at home naturally made me relax more, making me accidentally talk and act like Ryou in front of Yume.[KeyWait]
@@ -228,7 +228,7 @@
 （[v]Even though I'm a girl... I got excited and wet from seeing another girl...[/v]）[KeyWait]
 [FaceOff]
 
-[text]Since I had a pussy that could get wet instead of a dick that could hard, that was only a given, but it still felt kind of weird.[KeyWait]
+[text]Since I had a pussy that could get wet instead of a dick that could get hard, that was only a given, but it still felt kind of weird.[KeyWait]
 
 [Face storage="f_a054"]
 [Voice storage="a0767" buf=2]
