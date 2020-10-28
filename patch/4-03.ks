@@ -2700,7 +2700,7 @@ U-Uuh... Even though everyone's congratulating me... Here I am, moaning...[/v]Åj
 [FaceOff]
 
 [text]I was visited upon by an intense feeling of exhaustion.[KeyWait]
-[text]The sweet sensation of having my lower lips pulled apart and the inside of my pussy teased combined with the pleasure of urinating, making waves that washed my reason clean way.[KeyWait]
+[text]The sweet sensation of having my lower lips pulled apart and the inside of my pussy teased combined with the pleasure of urinating, making waves that washed my reason clean away.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a0966" buf=3]

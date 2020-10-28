@@ -25,6 +25,7 @@
 
 [text]After an eternity of poorly doggy paddling and making a show of splashing water all over, Yume finally reached us.[KeyWait]
 [text]She embraced both Kimino and I, congratulating us with a sweet, sugary smile on her face.[KeyWait]
+[text]And in response to her embrace-[KeyWait]
 
 ;ÇaÇfÇlÅFÇgÇP
 [playbgm storage="bgm011"]
@@ -180,7 +181,7 @@
 
 [text].........[KeyWait]
 [text]......[KeyWait]
-[text]...[KeyWait]
+[text]...save][KeyWait]
 
 [SoundAllStop]
 [stopbgm]
@@ -189,5 +190,11 @@
 
 [wait time=500]
 
-[jump storage="5-01.ks"]
+;placeholder
+[BgSet storage="placeholder"]
+[UpDate]
+
+[cancelskip]
+
+;[jump storage="5-01.ks"]
 
