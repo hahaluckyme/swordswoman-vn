@@ -592,78 +592,78 @@
 「[v]D-Don't![/v]」[KeyWait]
 [FaceOff]
 
-[text]この身体がいくら速くても、こればかりはどうにもならない。[KeyWait]
+[text]No matter how fast this body could move, there was nothing I could do.[KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]それにしても、いい乳してるじゃねえの。最近の女子高校生は発育いいなあっ[/i]」[KeyWait]
+「[i]Anyway, you've got some real nice tits on you. High school girls these days sure do grow up healthy.[/i]」[KeyWait]
 [FaceOff]
 
-[text]立ち尽くすしかないボクに見せつけるように、不良のリーダーはナイフでの脅しを手下に任せると、結女の乳房を、背後から抱きすくめるようにして両手で揉み始めた。[KeyWait]
+[text]The leader passed the knife off to one of his underlings, then grabbed Yume from behind and began rubbing her breasts, making sure I'd have to watch as I stood there, unsure what to do.[KeyWait]
 
 [Face storage="f_b018"]
 [Voice storage="b0105" buf=2]
 【Yume】[CR]
-「[v]ひぁああああ～～～ッ！　やめ、て……、あぁ……。やだ……ぁ、ううぅ～～～～っ[/v]」[KeyWait]
+「[v]Hyaaaaaaaah! S-Stop... Aah... No... Ah, uuuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]二つの膨らみに指がめり込んで、柔らかな肉房が乱暴に拉げられた。[KeyWait]
+[text]His fingers dank into her two soft mounds as he squeezed them and distorted their shapes.[KeyWait]
 
 [Face storage="f_a063"]
 [Voice storage="a1112" buf=2]
 【Haruka】[CR]
-「[v]ああっ、ゆ、結女ッ！[/v]」[KeyWait]
+「[v]Aah, Y-Yume![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c024"]
 [Voice storage="c0090" buf=2]
 【Kimino】[CR]
-「[v]ちょっとっ、やめなさいよっ！！[/v]」[KeyWait]
+「[v]Hey, cut that out![/v]」[KeyWait]
 [FaceOff]
 
-[text]助けなくちゃと足を踏み出しかけるけれど、ナイフをちらつかせられるとそれ以上動けない。[KeyWait]
-[text]結女の傍らでもがく希美乃も同様だ。[KeyWait]
+[text]I just about took a step forward to save her, but the delinquent showed me the knife again, leaving me unable to act.[KeyWait]
+[text]Kimino struggled as she was held next to Yume, unable to help her just like I was.[KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]おほぉ～、でっけー。たまんねえぜ、この揉み心地[/i]」[KeyWait]
+「[i]Ohooh, they're huge! Man, I just can't get enough of 'em![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b018"]
 [Voice storage="b0106" buf=2]
 【Yume】[CR]
-「[v]あ、あああぁ……やめ……て。放して……ぇ……。ひぃいい……ッ[/v]」[KeyWait]
+「[v]A-Aaaah... Stop... it... Let me go... Hyiiii...[/v]」[KeyWait]
 [FaceOff]
 
-[text]首筋に舌を這わされ臭い息を吹きかけられる。[KeyWait]
-[text]その気色悪さに蒼白となった幼げな顔立ちが涙をこぼす。[KeyWait]
+[text]He ran his tongue along the nape of her neck, breathing his stinky breath on her.[KeyWait]
+[text]Her young, innocent face turned pale from disgust and began to tear up.[KeyWait]
 
 [Face storage="f_a064"]
 [Voice storage="a1113" buf=2]
 【Haruka】[CR]
-「[v]き……きさ……ま……[/v]」[KeyWait]
+「[v]Y-You... bastards...[/v]」[KeyWait]
 [FaceOff]
 
-[text]ヤツらと不甲斐ない自分への怒りでどうにかなりそうだ。[KeyWait]
+[text]I felt like I was going to go crazy from anger - both at the delinquents, and at myself for being powerless to stop them.[KeyWait]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]
-「[i]くっくっく、ざまあみやがれ、暴力女ッ！[/i]」[KeyWait]
+「[i]Kukuku, this is what you get, you violent bitch![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
 【Delinquent C】[CR]
-「[i]この傷の借りはきっちりと返させてもらうからな！[/i]」[KeyWait]
+「[i]We're gonna pay you back for hurting us![/i]」[KeyWait]
 [FaceOff]
 
-[text]ただ見守るしかないボクに、さっき叩きのめした連中が恨みの眼差しで言葉を吐きかけてくる。[KeyWait]
+[text]I was unable to do anything but watch as the guys I'd just beat up glared back at me detestfully and showered me with abuse.[KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]さてと、こんなところじゃ何だから、一緒に来てもらうか[/i]」[KeyWait]
+「[i]Okay, it ain't good to do this stuff out here, so come with us.[/i]」[KeyWait]
 [FaceOff]
 
-[text]ひとしきり結女の巨乳を触りまくったリーダー格が、顎で指し示す。[KeyWait]
+[text]The group's leader motioned toward the convenience store with his chin.[KeyWait]
 
 ;黒画面
 [BgSet storage="_black"]
@@ -673,53 +673,53 @@
 
 [Sound storage="se753" buf=0]
 
-[text]従うしかなく、ボクは結女と希美乃と共に、コンビニの店内へと連れ込まれた。[KeyWait]
+[text]Having no choice but to obey, I was led into the convenience store along with Yume and Kimino.[KeyWait]
 
 ;場所；コンビニ店内
 
 [Face storage="f_o011"]
-【店員】[CR]
-「[i]よお、ずいぶん手こずったじゃねえの[/i]」[KeyWait]
+【Store Clerk】[CR]
+「[i]Yo, had some trouble, huh?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a029"]
 [Voice storage="a1114" buf=2]
 【Haruka】[CR]
-（[v]こいつもグルなのか！？[/v]）[KeyWait]
+（[v]He's in on this, too!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]いつもの店員と違う、見たことないヤツだった。[KeyWait]
-[text]店の前で女の子が不良に襲われているのに、通報もしないと思ったらそういうことだった。[KeyWait]
-[text]店内には他に誰もいない。[KeyWait]
+[text]There was a different clerk running the counter than usual. I hadn't seen him before.[KeyWait]
+[text]Considering he hadn't called the police despite girls being assaulted in front of the store, I guess this was the natural conclusion.[KeyWait]
+[text]There was nobody else in the store.[KeyWait]
 
 [Face storage="f_o011"]
 【Delinquent D】[CR]
-「[i]いきなり暴れ出しやがってよお。変な武器隠し持ってるみたいで無茶苦茶痛えんだよ、こいつにドツかれると。クソッ！[/i]」[KeyWait]
+「[i]Yeah, this one got rough on us all of a sudden. She's hidin' some weird weapon or somethin', gettin' hit by her hurts like hell! Tch![/i]」[KeyWait]
 [FaceOff]
 
-[text]もちろんそんな武器なんか持っていない。この身体の力が、そう思わせるくらいに強いだけだ。[KeyWait]
+[text]I didn't actually have a weapon, of course. This body was just so strong that it made them think that.[KeyWait]
 
 [Face storage="f_o031"]
 【Delinquent E】[CR]
-「[i]奥、使うぜ。すぐに交代するからもうしばらく頼むわ[/i]」[KeyWait]
+「[i]We're gonna use the back. Someone'll switch with you soon, so you handle things out here for now.[/i]」[KeyWait]
 [FaceOff]
 
-[text]勝手知ったる様子で、不良たちは結女と希美乃を連れて、関係者立ち入り禁止のドアの向こうへ入ってゆく。[KeyWait]
+[text]The delinquents led Yume and Kimino through the employees only door, acting like they owned the place.[KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]よーこそ、俺たちのＶＩＰルームへ。そ～らよっと[/i]」[KeyWait]
+「[i]Welcome to our VIP room! C'mon, go on in![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a065"]
 [Voice storage="a1115" buf=2]
 【Haruka】[CR]
-「[v]おわっ！[/v]」[KeyWait]
+「[v]Owah![/v]」[KeyWait]
 [FaceOff]
 
 [BgmFadeOut time=1000]
 
-[text]その中へと、ボクは不良の一人に後ろから背中を突き飛ばされ、たたらを踏みながら入っていった。[KeyWait]
+[text]One of the delinquents pushed me from behind, making me stumble through the door.[KeyWait]
 
 [wait time=500]
 

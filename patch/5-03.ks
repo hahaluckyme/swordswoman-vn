@@ -1,6 +1,6 @@
 
 *scene5-03|
-[eval exp="f.chaptertitle='Taken to the Storehouse'"]
+[eval exp="f.chaptertitle='Taken to the Storage Room'"]
 
 ;場所：コンビニ倉庫
 ;時間：放課後
@@ -14,13 +14,13 @@
 
 [Face storage="f_a035"]
 [Voice storage="a1116" buf=2]
-【はるか】[CR]
-（[v]ここ、倉庫か……。結構広いんだな……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]This is the storage room, huh... It's pretty big...[/v]）[KeyWait]
 [FaceOff]
 
-[text]周りには飲み物や食料品など在庫の段ボールが積み上げられていた。[KeyWait]
-[text]休憩室も兼ねているらしく、廃品をリフォームしたっぽいソファとテーブルが置かれ、くつろげるようになっている。[KeyWait]
-[text]その部屋の真ん中で、ボクは男たちにぐるりと周りを囲まれていた。[KeyWait]
+[text]The room was stacked with cardboard boxes containing food, drinks, and so on.[KeyWait]
+[text]It was apparently used as a break room, as well. There was a couch and table that were refurbished from ones that had been trashed, set up so employees could use them to relax.[KeyWait]
+[text]I was in the middle of the room, surrounding by the guys who had led me here.[KeyWait]
 
 [ChrSet0 storage="b_q001"]
 
@@ -29,48 +29,48 @@
 [UpDate]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
-「[i]ずいぶんと手加減なくやってくれたじゃねえかよ[/i]」[KeyWait]
+【Delinquent A】[CR]
+「[i]You sure gave us one hell of a hard time earlier.[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a1117" buf=2]
-【はるか】[CR]
-「[v]お前たちがしつこいからだろ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]You sure you just didn't know when to give up?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
-「[i]へえ、ちょっとカラオケに誘っただけで、いきなり人をボコボコにするのかよ。酷すぎやしねえか？　それ[/i]」[KeyWait]
+【Delinquent A】[CR]
+「[i]You beat the shit out of someone just because they invite you to karaoke? That's a bit awful, don'tcha think?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a1118" buf=2]
-【はるか】[CR]
-「[v]ふざけるな！　前にも結女と希美乃につきまとったそうじゃないかっ！！　それにこんなところに連れ込むなんてっ！！　いったい何するつもりだよ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]You can't be serious! You guys pretty much stalked Yume and Kimino, and now you've dragged us all in [ita]here[endita]! What do you plan on doing!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]結女と希美乃は相変わらずナイフを突き付けられ、身体をまさぐられながら男たちに取り押さえられている。[KeyWait]
+[text]Yume and Kimino were still being groped and restrained with knives pointed at them.[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
-「[i]仲間を怪我させた責任取ってもらわねえとなあ。オレたちを不愉快な目にあわせたんだから、その分楽しませてもらおうか。もちろん、お前ら全員の身体でな[/i]」[KeyWait]
+【Delinquent A】[CR]
+「[i]I've gotta have you take responsibility for hurting my buddies. You gave us a bad time, so you're gonna give us a good time to make up for it. With your bodies, of course.[/i]」[KeyWait]
 [FaceOff]
 
-[text]ゾッとするような非人間的な目が、ボクらの身体を舐め回すように見る。[KeyWait]
-[text]まるで服の下を蛇に這い回られるような気色の悪さに、ゾッと鳥肌が立った。[KeyWait]
+[text]I shuddered as the leader looked at us with inhuman eyes, practically licking us with his gaze.[KeyWait]
+[text]The disgusting sensation, which felt like having a snake wriggle around beneath my clothes, gave me goosebumps.[KeyWait]
 
 [Face storage="f_c010"]
 [Voice storage="c0091" buf=2]
-【希美乃】[CR]
-「[v]冗談ッ、誰が、あんたらなんかっ！！[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]You must be kidding! Nobody would wanna touch you guys![/v]」[KeyWait]
 [FaceOff]
 
-[text]希美乃が声を荒らげてもがくが―――、[KeyWait]
+[text]Kimino shouted and struggled, but-[KeyWait]
 
 [Face storage="f_q022"]
-【不良Ｂ】[CR]
-「[i]うるせえ、貧乳ッ！[/i]」[KeyWait]
+【Delinquent B】[CR]
+「[i]Shut it, tiny tits![/i]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se206" buf=0]
@@ -79,95 +79,95 @@
 
 [Face storage="f_c015"]
 [Voice storage="c0092" buf=2]
-【希美乃】[CR]
-「[v]あぐぅうううぅッ！[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]Aguuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]怪我した足を蹴飛ばされ、痛みに呻いた。[KeyWait]
+[text]She shrieked in pain as one of the delinquents kicked her injured leg.[KeyWait]
 
 [Face storage="f_b017"]
 [Voice storage="b0107" buf=2]
-【結女】[CR]
-「[v]希美乃ちゃんっ！！　ひぃっ！　嫌ぁあっ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Kimino-chan! Hyii! Nooo![/v]」[KeyWait]
 [FaceOff]
 
-[text]結女が心配の声を上げるが、その瞬間制服のスカートを捲られてしまった。[KeyWait]
-[text]ショーツの餓えからぽっちゃりしたお腹を汗ばんだ男の手に撫でられる。[KeyWait]
-[text]その間にも乳房をまさぐる手は止まらない。[KeyWait]
+[text]Yume called out, worried, but just then, her uniform's skirt was flipped up.[KeyWait]
+[text]One of the delinquents started rubbing her slightly chubby belly with his sweaty hands, right above her panties.[KeyWait]
+[text]Meanwhile, the others hadn't stopped groping her breasts.[KeyWait]
 
 [Face storage="f_b018"]
 [Voice storage="b0108" buf=2]
-【結女】[CR]
-「[v]やぁ、やめてッ！　はううっ、あああああぁッ、やだぁああああッ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]No, stop! Hauuh, aaaaaah, noooooo![/v]」[KeyWait]
 [FaceOff]
 
-[text]気色悪さに顔を引きつらせ、涙を流しながら身を捩る。[KeyWait]
+[text]Her face twisted with disgust as she began to cry and squirm.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1119" buf=2]
-【はるか】[CR]
-「[v]結女――ッ！　こ、この……ッ。やめ……ッ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Yumeee! Y-You bastards... If you...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
-「[i]……て欲しければ、オレらを満足させることだな[/i]」[KeyWait]
+【Delinquent A】[CR]
+「[i]...If you want us to stop, then you're gonna have to satisfy us.[/i]」[KeyWait]
 [FaceOff]
 
-[text]ボクの言葉を奪うようにして、茶化した口調で要求する。[KeyWait]
+[text]The leader made his demands, stealing my words and mocking me in the process.[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
-「[i]ああ、その前に隠し持ってる物騒な武器、出してもらおうか？　またいきなり暴れられたらシャレにならねえからな！[/i]」[KeyWait]
+【Delinquent A】[CR]
+「[i]Aah, but before that, how about you give us that weapon you're hiding? It wouldn't be pretty if you suddenly got violent![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a1120" buf=2]
-【はるか】[CR]
-「[v]そんなもの持ってないっ！　結女と希美乃から離れろってばっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I don't have one! Get away from Yume and Kimino already![/v]」[KeyWait]
 [FaceOff]
 
 [text]彼らにしてみれば、女の子一人に１０人近くの喧嘩慣れした男が一方的に叩きのめされたんだから、そう思うのも仕方がないかもしれない。[KeyWait]
 [text]けれど、それは鬼斬姫の鬼と戦う力で、いまのボクは正真正銘素手なんだから仕方ない。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]へえ～、あくまでも持ってないって言い張るのかよ。じゃあ、どこに隠しているのか、こっちの方でじっくりと確かめさせてもらわないとなっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a1121" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]だからっ！　武器なんて、持っていないってば！！　ほらっ！[/v]」[KeyWait]
 [FaceOff]
 
 [text]あくまでも疑う男に両手を掲げて見せるが、彼はフンと小馬鹿にしたように笑う。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]そんなんじゃ、服の中とかに隠してたら分からねえだろが！！　脱げよ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a1122" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]え……？[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]着てるもん全部脱いで、何も持ってないってのを証明して見せろっつってんだよ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a1123" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――なっ！？[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a1124" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]服……を、こんなとこ、で……？[/v]）[KeyWait]
 [FaceOff]
 
@@ -177,22 +177,22 @@
 [FaceOff]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]とっとということ聞けよ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]素手なんだろ？　だったらそれを証明しろや！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【不良Ｅ】[CR]
+【Delinquent E】[CR]
 「[i]女の服には色々モノ隠すところありそうだからな。全部脱いで見せなきゃ信じないぜ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q041"]
-【不良Ｆ】[CR]
+【Delinquent F】[CR]
 「[i]もしかしたら、こっちの女どもも、物騒なもん隠してるかもしれないぜ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -200,12 +200,12 @@
 
 [Face storage="f_c024"]
 [Voice storage="c0093" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]なっ！？　持ってるわけないでしょ！　あったら、とっくに使ってるわよ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]じゃあ、持ってるのはこっちの女か！？[/i]」[KeyWait]
 [FaceOff]
 
@@ -213,7 +213,7 @@
 
 [Face storage="f_b018"]
 [Voice storage="b0109" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひぃいうっ！　ああっ、い、イヤぁあっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -228,23 +228,23 @@
 [text]途端にたっぷりなボリュームの乳房が、桜色のブラジャーをも弾き飛ばしそうな勢いで溢れ出た。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]ひゅ～♪　結女ちゃんのでっかい生乳房、ご登場だ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]それにしてもすげえデカさだなっ！　たっぷたぷに揺れてるぜ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]色も真っ白じゃねえか。むしろ、この乳そのものが武器じゃねえのかっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b017"]
 [Voice storage="b0110" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひぅうう……やだ……ぁ。見ちゃ、やだ……。ああああぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -253,18 +253,18 @@
 
 [Face storage="f_c013"]
 [Voice storage="c0094" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]や、やめなさいってばっ！　結女にそんなことするなんてっ！！　あ、あたしを先に調べればいいじゃないっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]いわれなくてもじっくりと調べてやるぜ。その貧乳じゃ、上半身は余り隠すとこなさそうだけどな。その分、下半身は念入りに、奥のそこまでたっぷり探ってやる……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c013"]
 [Voice storage="c0095" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]ふぇっ、下半……身……。そ、そんな……あ、あぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -272,7 +272,7 @@
 
 [Face storage="f_c013"]
 [Voice storage="c0096" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]ヒ……ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -288,13 +288,13 @@
 
 [Face storage="f_a058"]
 [Voice storage="a1125" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]脱ぐよっ！　脱いで、ボクが何も持ってないって証明すればいいんだろ！？　だからこれ以上、結女と希美乃に手を出すなっ[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a058"]
 [Voice storage="a1125_2" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]女の子たちをこんな目にあわせて恥ずかしがっている場合じゃない！　ボクは……っ、ボクは男なんだっ！　身体が女になっても！！　だから、男に裸見られたって、何も恥ずかしいことなんてないっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -305,19 +305,19 @@
 
 [Face storage="f_c013"]
 [Voice storage="c0097" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]は、はるか……！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b016"]
 [Voice storage="b0111" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]はるか……ちゃん……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1126" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ん…………[/v]」[KeyWait]
 [FaceOff]
 
@@ -331,24 +331,24 @@
 [text]途端に、粘り着くような視線が一斉に注がれて、総毛立つような気色の悪さを覚えた。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]ひゃはぁっ、でけえ乳っ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]もったいぶらねえで、さっさと全部脱げよ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1127" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く……ぅ……。な……なんでもないっ。こんなの……、全然どうってことない……っ[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1128" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ブラウス……いや、スカートを先にしよう……。裾でパンツ、少し隠れるし……[/v]）[KeyWait]
 [FaceOff]
 
@@ -361,18 +361,18 @@
 [text]初めて穿いた時には、ズボンに比べてずいぶん頼りないと思ったけれど、それでも十分に下半身を守っていてくれたことに気がつく。[KeyWait]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]うへへへぇ、たまんねえな！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【不良Ｅ】[CR]
+【Delinquent E】[CR]
 「[i]あんな短いスカート穿いてたんだ。はじめっから見せたくてたまんなかったんだろ！？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a1129" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]うう……、なんだか、パンツ丸出しで靴下穿いてるのって、変な感じ……。パンツも、やっぱりかなり見えちゃってるよな……[/v]）[KeyWait]
 [FaceOff]
 
@@ -380,12 +380,12 @@
 
 [Face storage="f_a059"]
 [Voice storage="a1130" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]股間、スースーする……。見えてるよな……お、お尻も……。やっぱり、こんなちっちゃい女物じゃ、収まりきらないって……。前より、お尻おっきくなってるんだしっ！！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q041"]
-【不良Ｆ】[CR]
+【Delinquent F】[CR]
 「[i]イイケツしてるじゃねえか。クーッ、むしゃぶりつきてえっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -393,36 +393,36 @@
 
 [Face storage="f_a068"]
 [Voice storage="a1131" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]お前らに褒められたって、ちっとも嬉しくないんだよ！[/v]）[KeyWait]
 [FaceOff]
 
 [text]気にしちゃダメだって思っても、恥ずかしさが込み上げてくる。[KeyWait]
 
 [Face storage="f_q051"]
-【不良Ｇ】[CR]
+【Delinquent G】[CR]
 「[i]ひゃはっ、スケベな盛りマン！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｈ】[CR]
+【Delinquent H】[CR]
 「[i]パンツちっちぇんじゃねえか？　そんなに食い込ませちゃってさあっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【不良Ｉ】[CR]
+【Delinquent I】[CR]
 「[i]こんなワレメくっきりさせたまんこスジ、初めて見たぜ～[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a1132" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ああ……、やっぱりこっちも、はっきり見えちゃってるぅ……。パンツ、ぴっちりしてるから……中の形、はっきり分かっちゃう……！　ここ……結構もっこり盛り上がってるから……。ちんこないのに、結構目立つし……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a1133" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]それに、女のここってワレメになってるのにっ、パンツぴっちりだから……すぐ、布が食い込んできちゃって……。スジ浮き立つし、布と中の敏感なとこが擦れると、変な刺激……だし、気になっちゃうんだから……[/v]）[KeyWait]
 [FaceOff]
 
@@ -430,7 +430,7 @@
 
 [Face storage="f_a066"]
 [Voice storage="a1134" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]うぅ……。男なんだから……ボクは、男なんだから、こんなの大丈夫……[/v]）[KeyWait]
 [FaceOff]
 
@@ -443,17 +443,17 @@
 [text]ブラジャーに収まりながらでも十分に圧倒的な存在感の美巨乳をさらけ出してしまった。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]乳ィ、マジでけえっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]ブラに収まりきってねェぞ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]なに食ったら、あんなでっかく育つんだ？[/i]」[KeyWait]
 [FaceOff]
 
@@ -462,26 +462,26 @@
 
 [Face storage="f_a045"]
 [Voice storage="a1135" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]っと、ヤバイ……！　こうすると、膨らみが[eruby str="拉" text="ひしゃ"]げて余計に谷間強調しちゃう！！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a1136" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]こ、これで、何も持ってないって分かっただろ？　だから……[/v]」[KeyWait]
 [FaceOff]
 
 [text]一刻も早く、こんなことを終わらせたい。けれど、[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]アアッ？　まだ全部脱いでないだろうが！　その無駄にでけえ乳の谷間の中とか、ケツの間とか、なんか隠してんだろ！？　何も持ってねえってんならきちんと見せてみなっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1137" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……っ、うう……ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -490,7 +490,7 @@
 
 [Face storage="f_a066"]
 [Voice storage="a1138" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く……そぉ……。こんな奴らに、見せるのかッ、ボクの……おっぱい……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -499,7 +499,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1139" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅ…………ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -510,17 +510,17 @@
 [text]ボクの、下着を外した生のおっぱい！[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]すげえ、揺れまくってるデカ乳ッ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]くるっと回ってこっち見せろっ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]おらっ、真っ直ぐ立てよ！　デカ乳よく見せやがれっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -528,7 +528,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1140" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ダメ……だ、意識、したら……、考えたら、もう、動けなくなる……[/v]）[KeyWait]
 [FaceOff]
 
@@ -536,7 +536,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1141" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ん……ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -544,23 +544,23 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1142" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こ……声、我慢しなくちゃ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【不良Ｅ】[CR]
+【Delinquent E】[CR]
 「[i]でけえケツ、もっと突き上げてくれよ！　オマンコ見えるくらいになっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q041"]
-【不良Ｆ】[CR]
+【Delinquent F】[CR]
 「[i]足ももっと開けよ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a039"]
 [Voice storage="a1143" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]そ、そっか……！　後ろからも、あそこ……見えちゃう！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -573,7 +573,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1144" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]裸を見られるの……恥ずかしい、けれど……。ふ、服脱いでるところ、誰かに見られてるのって……、それ以上に恥ずかしいっ[/v]）[KeyWait]
 [FaceOff]
 
@@ -586,7 +586,7 @@
 
 [Face storage="f_a066"]
 [Voice storage="a1145" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボクは、男だっ。男なんだから、こいつらに裸見られたって、恥ずかしくなんかないっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -594,12 +594,12 @@
 
 [Face storage="f_a066"]
 [Voice storage="a1146" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]これでいいんだろ！　ほら、武器なんかどこにも持ってないからっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]そのでけえケツと乳の谷間に隠してるかもしれねえなあ。中をきちんと見せてくれよ[/i]」[KeyWait]
 [FaceOff]
 
@@ -607,7 +607,7 @@
 
 [Face storage="f_a066"]
 [Voice storage="a1147" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -616,13 +616,13 @@
 
 [Face storage="f_a066"]
 [Voice storage="a1148" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]いやがっても、こいつらを余計に喜ばせるだけだ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1149" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほら、きちんと確かめろ！　何も、ないからっ[/v]」[KeyWait]
 [FaceOff]
 
@@ -633,7 +633,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1150" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……ふ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -642,12 +642,12 @@
 [text]危うく溜め息を漏らしそうになった。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]うほぉ、たっぷり汗かいてやがる……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]ぐへへ、あそこにちんぽ挟ませて目一杯扱きてえ……[/i]」[KeyWait]
 [FaceOff]
 
@@ -655,7 +655,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1151" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]んぅ……なん、だ……？　なんか……からかわれるより、ヤダ……。これ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -663,7 +663,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1152" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こ……れ、ダメ、だ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -671,27 +671,27 @@
 [text]男たちの低い興奮の息づかいを聞かされていると、お腹の奥がむずむずと疼き始める。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]確かに乳には何も隠してねえようだな～[/i]」[KeyWait]
 [FaceOff]
 
 [text]そんなのすぐに分かるだろうに、タップリとジロジロ見詰めてからようやく認める。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]じゃあ次はケツだ。こっち向いてしっかりと奥の方まで確認しやすいように、広げて見せろ！[/i]」[KeyWait]
 [FaceOff]
 
 [text]ホッとしたのも束の間、後ろを向いて尻を両手で左右に開いてみせる。けれど――。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]それじゃさっぱり見えねえだろ！　もっとケツを高く突き上げて、中の中までよ～く、俺に見えるようにしろっていってんだよ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b013"]
 [Voice storage="b0112" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひうっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -699,7 +699,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1153" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]わ、わかった……。いま、するから……[/v]」[KeyWait]
 [FaceOff]
 
@@ -714,7 +714,7 @@
 
 [Face storage="f_a049"]
 [Voice storage="a1154" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅ……ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -730,26 +730,26 @@
 
 [Face storage="f_a049"]
 [Voice storage="a1155" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]うぅ～～～～～～～～～っ[/v]」[KeyWait]
 [FaceOff]
 
 [text]屈辱と恥ずかしさに、隠しきれないほど顔が真っ赤に染まる。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]へえ、綺麗なケツアナしてるじゃねえか[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a049"]
 [Voice storage="a1156" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]そんなこと……知らないッ。こ、こんなところ……自分で見るなんてこと、したことないし！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a049"]
 [Voice storage="a1157" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]おまんこの方は……女になってから、鏡で見てみたり、弄ったりしたけど……し、尻……なんて……。そんなの、男の時にもあったし……。そんな汚いところ、見るなんて……[/v]）[KeyWait]
 [FaceOff]
 
@@ -757,23 +757,23 @@
 
 [Face storage="f_a046"]
 [Voice storage="a1158" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]……鏡……で、おまんこ見た時にも、一緒に映っちゃってたから……。本当は、見た……けど……。でも、あんなところ……。お尻の穴なんて……あぁ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]おいおい、ケツ穴いきなりもぞもぞ動き始めたぞ。俺らに見られて感じちゃったかあ？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]自分でエロいこと妄想して、興奮しちゃってんじゃねえの？　ぐっへっへっへっへ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1159" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――ふぇっ！！　ひう……っ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -782,18 +782,18 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1160" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]お腹の……奥が……あ、熱い……ッ。まずい……このまま、じゃ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]おまんこもピンク色であんまり弄ってねえな。処女なのか？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1161" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]だ、だから……見る時にいちいち、声に出して、いうなっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -802,18 +802,18 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1162" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あ、ああぁ……ヒクヒク、しちゃう……おまん……こぉ……。ビラビラも、入り口……も……。そ、それに……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【不良Ｅ】[CR]
+【Delinquent E】[CR]
 「[i]おいおい、もう早速濡れてきているぜ。俺らに見られて、[eruby str="犯" text="や"]られたくなっちまったか？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a058"]
 [Voice storage="a1163" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]そ、そんな、わけ……、あるかっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -822,7 +822,7 @@
 
 [Face storage="f_a066"]
 [Voice storage="a1164" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こんなヤツらにこんなことされて、その気になる女の子なんて、いるわけない！　ボクは、本当は男だけど……分かるから……。こんなの、ただの……身体の反応……だよッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -831,30 +831,30 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1165" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くうっ、しまった……。い、いまのも、見られた……。ああ、膣のなか、もう、かなりヌルヌルしちゃってるみたい……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]はっはぁ、図星かよ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]おマンコもおケツも寂しくてたまらねえみたいだな！？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1166" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　ち……が……うぅ……[/v]」[KeyWait]
 [FaceOff]
 
 [text]早速口々にからかってくる。反論の言葉を挟む暇すらない。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]もうおまんこのヒクヒク、止まらねえみたいだな。オレらもお前のイヤらしい裸見せられてすっかり硬くなっちまった。だから責任取ってそのお口で慰めてもらおうか！[/i]」[KeyWait]
 [FaceOff]
 
@@ -869,7 +869,7 @@
 
 [Face storage="f_a045"]
 [Voice storage="a1167" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]なっ！？　く、口って……！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -881,7 +881,7 @@
 
 [Face storage="f_a042"]
 [Voice storage="a1168" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひううっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -890,7 +890,7 @@
 
 [Face storage="f_a047"]
 [Voice storage="a1169" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あ、あぁ……こ、これ……。こいつの、ちん……こ……。なんだよ……すごく太いし、形もゴツゴツで……。それに、洗ってない……汚いッ。変な匂いしてるっ！！　……って、なにボクじっくり見ちゃってるんだよ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -898,7 +898,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1170" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]これを……、口で……って！？[/v]）[KeyWait]
 [FaceOff]
 
@@ -906,26 +906,26 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1171" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]じょ、冗談じゃ……ない……。そんな……もの。ぜ、絶対にッ！　ボ、ボクは……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a069"]
 [Voice storage="a1172" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]男……なんだから……。それなのに……ちんこ、口で咥えるなんて……ぜ、絶対いやだ！　出来るわけないっ！！　そんな……そ、そんな……ッ[/v]）[KeyWait]
 [FaceOff]
 
 [text]間近に見ただけで。魚が腐ったようなその匂いを嗅がされただけで、吐き気が込み上げているのに。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]いやなのか？　じゃあ仕方ねえな、こっちの二人に、代わりに奉仕してもらうとするか？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b012"]
 [Voice storage="b0113" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひうっ！　や……、な、なに……を……？[/v]」[KeyWait]
 [FaceOff]
 
@@ -937,7 +937,7 @@
 
 [Face storage="f_c013"]
 [Voice storage="c0098" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]ふぇ！　や、やだっ。やめろっ。そんなの、見せるな。こっちくるな、ってばあっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -946,13 +946,13 @@
 
 [Face storage="f_b020"]
 [Voice storage="b0114" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひいっ！　く、臭い……。や、やああっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c013"]
 [Voice storage="c0099" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]や、やめろぉっ！　そんな、の、い、イヤぁあああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -961,13 +961,13 @@
 
 [Face storage="f_b018"]
 [Voice storage="b0115" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ああ、ああぁ～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c014"]
 [Voice storage="c0100" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]うぐぅうう――っ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -977,7 +977,7 @@
 
 [Face storage="f_a045"]
 [Voice storage="a1173" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]わ……、わかったっ！　ボク、が……するからっ！！　お前たち、二人から離れろっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -985,13 +985,13 @@
 
 [Face storage="f_b016"]
 [Voice storage="b0116" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひぅうぅ……、はるか……ちゃん……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c013"]
 [Voice storage="c0101" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]あぁ……、は、はるか……ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -999,14 +999,14 @@
 
 [Face storage="f_a070"]
 [Voice storage="a1174" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]大丈夫……だから……[/v]」[KeyWait]
 [FaceOff]
 
 [text]安心させようと笑顔を浮かべるけれど、どうしても引きつった表情になってしまう。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]最初から素直に従っていれば、お友達を怖がらせないで済んだのになあ[/i]」[KeyWait]
 [FaceOff]
 
@@ -1022,18 +1022,18 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1175" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]うぐっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]さーて、たっぷりともてなしてもらおうか。きちんと満足させてくれねえと、またあの二人にお願いすることになるからな！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a069"]
 [Voice storage="a1176" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]これ……ボクのと、全然違う……。ボクのより、ずっと、太いし……長いし……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1042,7 +1042,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1177" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]汁が……いっぱい、溢れてきている……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1050,12 +1050,12 @@
 
 [Face storage="f_a046"]
 [Voice storage="a1178" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こんなの……お、大き、すぎる……。口になんて……、入る、のか……？[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]ほら、自分から咥えな。あんまりモタモタしてんじゃねえぜ[/i]」[KeyWait]
 [FaceOff]
 
@@ -1063,7 +1063,7 @@
 
 [Face storage="f_a021"]
 [Voice storage="a1179" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……そおっ！　はむ……ン[/v]」[KeyWait]
 [FaceOff]
 
@@ -1076,13 +1076,13 @@
 
 [Face storage="f_a021"]
 [Voice storage="a1180" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――！！　ンウッ！　うぐっ、むぅえぇえぇ……ッ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a021"]
 [Voice storage="a1181" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]な……んだ……、この……味ッ！　気持ち悪いッ、臭いッ、[eruby str="不味" text="まず"]いっ、変な……味ぃ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1092,13 +1092,13 @@
 [ExVoice1 storage="aex47"]
 [Face storage="f_a021"]
 [Voice storage="a1182" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぐうぅぅ……んぐぇ……むぐ、う、ぅんん……ふぐ、ふっ、んんぅ……んふっ、ぐっ、んむふぅぅ……んぐっ、むぇ、んんぅ、ふぐぐぅ……むっ、むはっ、はぐっ、んむむふぅぅ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a021"]
 [Voice storage="a1183" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]も、もう……吐きそう……。どろどろしたの……舌……に、こびりついて……くるっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1107,7 +1107,7 @@
 [ExVoice1 storage="aex47"]
 [Face storage="f_a021"]
 [Voice storage="a1184" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ン……んぐうっ！　ゴクンッ！！　んぐッ、んぐふッ！　――ぷぇええ～～～ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1116,7 +1116,7 @@
 [ExVoice1 storage="aex47"]
 [Face storage="f_a021"]
 [Voice storage="a1185" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く、ふぁっ！　フ、グゥ……ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -1124,7 +1124,7 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1186" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]お……男の……ちんこ、咥えちゃって……る……ボク……、お、男、なのにぃ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1132,19 +1132,19 @@
 
 [Face storage="f_a021"]
 [Voice storage="a1187" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く、口のなか……いっぱいだ……。くぅ……、熱い……し、なんだか、ピクピク、脈打ってるっ[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]くっはぁーっ！　たまんねえっ。こいつの口ん中、キッツキツでオレのちんぽ締め付けて来やがるぜ！！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex48"]
 [Face storage="f_a021"]
 [Voice storage="a1188" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ンムフゥッ！　ひやっ！！　うご、くにゃ……。あぶぶぶぅうっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1156,7 +1156,7 @@
 [ExVoice1 storage="aex48"]
 [Face storage="f_a021"]
 [Voice storage="a1189" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]うぐぅううっ！　お、あぁッ！！　ぐうぇ～～ッ！　んぅ、うぶぅ……っ！！　むはっ、んぐぶっ、んんっ、むぐふうっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1168,7 +1168,7 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1191" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こんな……口ィ、犯されてるっ！！　男にッ、男なのにボクっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1176,17 +1176,17 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1192" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]女、の……身体あ、だからっ……？　ち、違う……こんなことされて、か、感じてなんかっ！！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]へっ、この女、案外と淫乱だぜ。まんざらでもないツラしてやがる！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]マンコから汁垂れてきちまってるぜ。そのうち、自分から腰振って欲しがり始めるんじゃねえか！？[/i]」[KeyWait]
 [FaceOff]
 
@@ -1194,13 +1194,13 @@
 
 [Face storage="f_c013"]
 [Voice storage="c0102" buf=5]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]はるか……。あ、あたしたちの……代わりに……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b016"]
 [Voice storage="b0117" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]ごめん……ごめんね……、はるかちゃん……！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1208,7 +1208,7 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1193" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こんなの……、早く、終わらせないと……。これ以上、続けられたら……ボクも、おかしくなっちゃう……。早く、射精……させちゃわ、ないと……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1216,7 +1216,7 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1194" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]もう……こうなったら、開き直るしか……！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1227,21 +1227,21 @@
 [ExVoice1 storage="aex49"]
 [Face storage="f_a021"]
 [Voice storage="a1195" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んぐっ、はむん……んむ、ちゅぱ……、ぶちゅる、ちゅば、ぶちゅ……ふむちゅる、ぢゅっ、ちゅぱ……んぶっ、ぢゅぱ、ぢゅる……んむっ、くちゅくちゅ、れろろ……ちゅるる、はむはむはむんっ[/v]」[KeyWait]
 [FaceOff]
 
 [text]ボクの方から積極的にちんこに舌を這わせて、しゃぶりまくってやる。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]ふおっ！？　おっ、おおっ！　いいぞっ！！　はっはあっ、やれば出来るじゃねえか。気持ちいいぞ、うおっ、そこッ！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex50"]
 [Face storage="f_a021"]
 [Voice storage="a1196" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ちゅぱっ！　ちゅる、じゅるるっ！！　レロ、ちゅる。ぬじゅ、ぬちゃ……んむぐっ、ぢゅぱ、ぢゅるんっ……んぶっ、ぶちゅる、ちゅぱ、ぢゅるぅっ！　れろ、ちゅぷ、ぢゅぶる……ふむっ、んぢゅ、ぢゅるむぅ……！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1251,14 +1251,14 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1197" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボクがやられたら気持ち良さそうなこと……全部してやる！　だ、だから……とっとと、出せぇ……。ん、はぁ……[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex49"]
 [Face storage="f_a020"]
 [Voice storage="a1198" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]むじゅ～～っ！　じゅるじゅる、ずじゅぅうっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1267,19 +1267,19 @@
 ;「ぶちゅる、ちゅぱ、むっ、ちゅるふんっ！　んぢゅっ！　ぢゅる、ちゅぱ、んるるぅっ！　はぶっ、むっ、んむむっ、ぢゅぱっ！　むぐぅ、んぶっ、ふっ、ぢゅるふうっ！　んばっ、ぶっ、ぢゅるっ、むぐふふぅっ！」
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]ほぁああっ！！　すげ、気持ち、いいぜぇっ！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex50"]
 [Face storage="f_a021"]
 [Voice storage="a1200" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]きゅむっ、きゅむきゅむきゅむん、はむぅっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]おっ、おおおおおっ！！　ほぉお～～～～～ぅ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1291,22 +1291,22 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1202" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あと……、んぅ……、も、もう、一息……だ……。あふ……。あ、はぁ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]す、すげえ……っ。自分からしゃぶり始めたぜ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]やっぱりおちんぽ大好き女かよ！！　ツンとした顔しやがってるくせに！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]お、俺のちんぽも扱けよっ！　おらあっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1319,49 +1319,49 @@
 [ExVoice1 storage="aex82"]
 [Face storage="f_a020"]
 [Voice storage="a1203" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふっ！！　はう……むっ、んッ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1204" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]いいよ！　こいつらも……全員、射精させてやる！！　どうせ出さないと、終わらないんだからっ！[/v]）[KeyWait]
 [FaceOff]
 
 [text]フェラチオはそのままで、ボクは左右からのちんこを一本ずつ両手に握って扱き出してやった。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]んおっ！　す、スゲェ、イイッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]ほわっ！！　男のッ、チンポの扱い、知ってるッ、この女ぁっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1205" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ほら……、こ、ここ……気持ちいいんだろ！？　し、知ってるんだぞ、ボク、男……なんだからっ！！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1206" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]子宮が疼いちゃっていても、膣から愛液が垂れっぱなしになっていても……ボクは本当は男なんだ！[/v]）[KeyWait]
 [FaceOff]
 
 [text]親指で裏筋を擦りながらの手首を小気味にスナップさせるやり方に、ヤツらが歓喜に打ち震えた。[KeyWait]
 
 [Face storage="f_o011"]
-【不良Ｄ】[CR]
+【Delinquent D】[CR]
 「[i]うぉおお、ま、待ちきれねえっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【不良Ｅ】[CR]
+【Delinquent E】[CR]
 「[i]おほぉ～～、ス、スベスベだあっ！！　気持ちいいっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1369,14 +1369,14 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1207" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]そうだ！　お前たちも……ボクの身体で、イケぇっ！　早くッ出せっ！　出ろおっ！！　精子ドピュドピュ、発射させろぉっ！[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex82"]
 [Face storage="f_a020"]
 [Voice storage="a1208" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くちゅ、ちゅるちゅぷ、れろろろろろろ[hearts][/v]」[KeyWait]
 [FaceOff]
 
@@ -1385,21 +1385,21 @@
 [ExVoice1 storage="aex49"]
 [Face storage="f_a021"]
 [Voice storage="a1209" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はむぅんっ！　あふっ、んぐっ、あむっ[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex50"]
 [Face storage="f_a021"]
 [Voice storage="a1210" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ちゅぱちゅぱっ、ちゅ、ぢゅばっ、んぶふぅっ！　んぢゅるっ！　ふむっ、んぶっ、んんぅ！　ぢゅび、ぢゅる、れるんっ！　むちゅ、ちゅぱ、れる……んばっ、んぐっ、じゅるじゅるじゅるじゅるるっ！[/v]」[KeyWait]
 [FaceOff]
 
 [text]窄めた唇から音を立ててカウパーを飲み下し、根本から裏筋まで舐め上げる。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]おぉおおおおぉっ、はぁああああぁっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1408,19 +1408,19 @@
 [ExVoice1 storage="aex51"]
 [Face storage="f_a020"]
 [Voice storage="a1211" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んぁああ、ふ、あふっ、はふうっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1212" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]もう一息……だ。もう一息、なんだからぁ……。あんっ。ふぁああぁ……んぁはぁ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1213" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]それにしても……、肌……にぃ、塗られちゃってる、ちんぽ汁の……匂い、すごい……ぅうう、あふ……ちんぽ、いっぱい……気色悪い……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1428,18 +1428,18 @@
 [text]ずっと擦りつけられていると、熱くてむず痒くて……、腰が……くねっちゃう。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]なんだかんだいって、チンポ舐めるの大好きな単なる淫乱エロ女かよ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]そんな吸い付いて、精液全部吸い出すつもりだろ！　カウパーも飲みまくりだなっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1214" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あは……なんか、こいつらの罵り声ぇ……ボクを応援してくれてるみたいに聞こえちゃう……。よーし、頑張っちゃうぞ……♪[/v]）[KeyWait]
 [FaceOff]
 
@@ -1455,17 +1455,17 @@
 [ExVoice1 storage="aex84"]
 [Face storage="f_a021"]
 [Voice storage="a1215" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んむっ、んぼんぼんぼんんぅっ！　ぢゅばぢゅるぢゅるぶちゅんっ！　ズチュ、ぢゅるるるるるるふむぅっ！　んば、んばんばんばっ！　んぶふっぢゅばジュルんぶちゅうっ！　ぶちゅる、ジュバヂュルんぶふるるるぅっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]うぉおおっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]くはぁああっ、す、すげえ……！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1474,14 +1474,14 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1216" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]はああっ、出ろぉ……。おちんこぉ、精液出せぇ。――はうんっ！！[/v]）[KeyWait]
 [FaceOff]
 
 [text]じゅぽっ、じぷじゅぷちゅぷ、ぐちゅちゅ、ぎゅぷ、にゅじゅず――ッ！[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]う……お、おぉおっ！！　出る……ッ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1491,7 +1491,7 @@
 
 [Face storage="f_a021"]
 [Voice storage="a1217" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あひいっ！！　出りゅうっ！　ちんぽ汁ぅ、やっと……ッ、ふぇ～～～～！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1511,13 +1511,13 @@
 
 [Face storage="f_a021"]
 [Voice storage="a1218" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んぶふぅっ！　あぶうっ！！　んぶっ！　ごぶぶぶぶぶぶぁああはぁあぁ～～～っ[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a021"]
 [Voice storage="a1219" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ひぃっ！　あ、ああぁ……ボク……ぅっ！！　こんなの……口の中にぃっ！　汚いッ。れも……こりぇ……美味ひ……ふあっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1526,7 +1526,7 @@
 
 [Face storage="f_a021"]
 [Voice storage="a1220" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]口の……なかぁ、汚い……液ぃ、いっぱいぃ。生臭い……ぃ、苦い……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1534,7 +1534,7 @@
 
 [Face storage="f_a021"]
 [Voice storage="a1221" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ふえぇ……、気色、悪いぃ……。せーしぃ、口ん中ぁ、たっぷりぃ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1544,12 +1544,12 @@
 [text]そんなボクの痴態に、周りを取り巻く男たちが激しく身震いした。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]おああ、俺も、で、[eruby str="射精" text="で"]るっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]うおお、俺もだっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1563,7 +1563,7 @@
 
 [Face storage="f_a021"]
 [Voice storage="a1222" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひえっ！　ふぁあっ！！　あ、あ、あ、あぁああっ！　せいしっ、せーし……いっふぁい、きひゃぁああっ！！　ふあっ、あ、はぁああっ！　ンッ、ああっ、はぁあああぁ～～～っ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1571,7 +1571,7 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1223" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あは……あぁ……、髪の毛にも……かかってる……。べとべとどろどろの、精子が……。ふぁああぁ……、匂いが……強いッ。すっごく、濃いっ！　んふぉ、お、おおおおぉっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1579,7 +1579,7 @@
 
 [Face storage="f_a020"]
 [Voice storage="a1224" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]しゅご、しゅぎりゅ～、ふあ、こんにゃ、せーしたっぷり、かけられたらぁ……、おかしくなっちゃう……あたまぁ、おかしくされちゃうよお……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1589,7 +1589,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a1225" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ん……うぅ……ふぅ、んぁはっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1597,7 +1597,7 @@
 
 [Face storage="f_a039"]
 [Voice storage="a1226" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]か、からだぁ、うじゅく……。疼いちゃうぅ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1605,7 +1605,7 @@
 
 [Face storage="f_a039"]
 [Voice storage="a1227" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボク……、あぁ……男、なのに……こんな、こと、して……。感じてるぅ。うぅ……、こんな、の、気持ち悪い……のにぃ……。か……身体ぁ……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1614,37 +1614,37 @@
 [text]そのはずなのに……。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]よかったぜえ、舌使い。たっぷりゆっくりと味わわせてもらうつもりだったのに、あっという間に達しちまったぜ。――そのオレの精液だが、吐き出さずに全部飲み下してくれよ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a030"]
 [Voice storage="a1228" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇ……？[/v]」[KeyWait]
 [FaceOff]
 
 [text]おぞましい行為を命じられた。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]せっかく、お前のために出してやったんだからよっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a071"]
 [Voice storage="a1229" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んぶ……っ、ひぅ、ぷぁ……あぁ……ぅ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]もちろんもし吐き出したら、そっちの女に床から直接[eruby str="啜" text="すす"]らせるぜ。ぐっへっへっへ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b017"]
 [Voice storage="b0118" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひ、ひうっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1653,25 +1653,25 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1230" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]じょ、冗談……じゃ、ない。結女に……そんなこと、させられるかっ！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a071"]
 [Voice storage="a1231" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]う……ぐぅ……。あむ……ぅ。ん、んぐ、んぐんぐっ、んぐっ[/v]」[KeyWait]
 [FaceOff]
 
 [text]男としての嫌悪感を押しのけ、女体の発情に任せておぞましい濁液を飲み込む。[KeyWait]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]ぐびぐび美味そうに飲んでやがるぜ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]足りなくておかわり欲しがるんじゃねえか？[/i]」[KeyWait]
 [FaceOff]
 
@@ -1679,7 +1679,7 @@
 
 [Face storage="f_a071"]
 [Voice storage="a1232" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]うう……濃いから、喉に……絡むぅ。飲みにくいっ。あぁ、やっぱりやだぁ……これッ。き、気持ち悪いッ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1688,7 +1688,7 @@
 
 [Face storage="f_a071"]
 [Voice storage="a1233" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ごくんっ！　ん……ふ、ぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1696,13 +1696,13 @@
 
 [Face storage="f_a071"]
 [Voice storage="a1234" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]うぇ……えぅ……。げふ……。あ、あぁ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a071"]
 [Voice storage="a1235" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]飲み干したのに……気持ち悪さが、治まらない……っ。くぅ……うううぅ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1710,7 +1710,7 @@
 
 [Face storage="f_a071"]
 [Voice storage="a1236" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]い、息が……、精液の匂いしか、しない……。く、くそぉ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1727,7 +1727,7 @@
 
 [Face storage="f_a039"]
 [Voice storage="a1237" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]……これで、いいだろ……。ボクたちを、自由にしてくれ……。結女と、希美乃を放してやって……くれ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1735,13 +1735,13 @@
 [text]不良のリーダーに懇願すると、爬虫類顔がフンとせせら笑った。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]せっかくいい雰囲気になってきたんだ、もっと楽しもうぜ。ほら、お前だって、オレのチンコ舐めて精液たっぷり飲んだり、身体中にぶっかけられたりして、すっかりぐちょぐちょじゃねえか、オ、マ、ン、コ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a069"]
 [Voice storage="a1238" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]なっ！？　―――ンッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -1750,7 +1750,7 @@
 
 [Face storage="f_a045"]
 [Voice storage="a1239" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぃっ、あ、ああぁ……そん、な……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1759,7 +1759,7 @@
 
 [Face storage="f_a049"]
 [Voice storage="a1240" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はぁ……あああぁ……ン。んぅ……あぁ……。ひうっ、はぁうっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1767,7 +1767,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1241" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――はうっ！！　んうっ[/v]」[KeyWait]
 [FaceOff]
 
@@ -1776,12 +1776,12 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1242" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅ……ッ[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]ほらな、オマンコちょっと触っただけでも感じてるし、もう濡れ濡れだろ？[/i]」[KeyWait]
 [FaceOff]
 
@@ -1789,14 +1789,14 @@
 
 [Face storage="f_a042"]
 [Voice storage="a1243" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひっ！[/v]」[KeyWait]
 [FaceOff]
 
 [text]かあっ、と顔が熱くなった。慌てて自分の太腿になすりつけて拭い取った。[KeyWait]
 
 [Face storage="f_q011"]
-【不良Ａ】[CR]
+【Delinquent A】[CR]
 「[i]乳首だって、そんなコチコチに立ってるんだぜ。そんなの、オマンコにもちんぽ突っ込んで、ぐちゃぐちゃに犯してくれっていってるようなもんじゃねえか！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1806,12 +1806,12 @@
 [UpDate]
 
 [Face storage="f_q021"]
-【不良Ｂ】[CR]
+【Delinquent B】[CR]
 「[i]よお、どれから入れて欲しい？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
-【不良Ｃ】[CR]
+【Delinquent C】[CR]
 「[i]太いのも長いのも、選び放題だぜ！　嬉しいだろ、オチンポ大好き姉ちゃんっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1821,7 +1821,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1244" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅ……。く、そぉ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1832,13 +1832,13 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1245" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]う……うぅ……、入れ……たい……。イヤなのにぃ。ボク、男……なのにぃ……。ちんぽ、[eruby str="膣内" text="なか"]にいれ……たい……ッ[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1246" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]うぐ……。うぅ……。く、そ……ぉ。あぁ……。んう……。あ、はぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1855,7 +1855,7 @@
 
 [Face storage="f_c011"]
 [Voice storage="c0103" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]少し前までは男の子だったのに、遼ったらこんな淫乱な女の子になっちゃったのね[/v]」[KeyWait]
 [FaceOff]
 
@@ -1867,7 +1867,7 @@
 
 [Face storage="f_a046"]
 [Voice storage="a1247" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――き、希美……乃……？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1878,7 +1878,7 @@
 
 [Face storage="f_b032"]
 [Voice storage="b0119" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]き……希美乃……ちゃん……？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1886,7 +1886,7 @@
 
 [Face storage="f_c011"]
 [Voice storage="c0104" buf=2]
-【希美乃】[CR]
+【Kimino】[CR]
 「[v]んふ……[hearts][/v]」[KeyWait]
 [FaceOff]
 
@@ -1895,7 +1895,7 @@
 
 [Face storage="f_a059"]
 [Voice storage="a1248" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]希美乃……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1904,7 +1904,7 @@
 
 [Face storage="f_a043"]
 [Voice storage="a1249" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]希美乃……、いや、お前は……誰だ……？[/v]」[KeyWait]
 [FaceOff]
 
