@@ -127,94 +127,94 @@
 「[v]I don't have one! Get away from Yume and Kimino already![/v]」[KeyWait]
 [FaceOff]
 
-[text]彼らにしてみれば、女の子一人に１０人近くの喧嘩慣れした男が一方的に叩きのめされたんだから、そう思うのも仕方がないかもしれない。[KeyWait]
-[text]けれど、それは鬼斬姫の鬼と戦う力で、いまのボクは正真正銘素手なんだから仕方ない。[KeyWait]
+[text]From his perspective, having his group of ten or so guys get beat up by a single girl despite having experience fighting would naturally make him think that I had a weapon.[KeyWait]
+[text]But all I had was the Oni-Cutting Princess's strength, so I was telling him the truth when I said I was empty-handed.[KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]へえ～、あくまでも持ってないって言い張るのかよ。じゃあ、どこに隠しているのか、こっちの方でじっくりと確かめさせてもらわないとなっ！[/i]」[KeyWait]
+「[i]So you're gonna insist that you don't have one, huh. We're just gonna have to check you over real careful to see where it's hidden, then![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a1121" buf=2]
 【Haruka】[CR]
-「[v]だからっ！　武器なんて、持っていないってば！！　ほらっ！[/v]」[KeyWait]
+「[v]I'm telling you, I don't [ita]have[endita] a weapon! Look![/v]」[KeyWait]
 [FaceOff]
 
-[text]あくまでも疑う男に両手を掲げて見せるが、彼はフンと小馬鹿にしたように笑う。[KeyWait]
+[text]I showed the doubtful delinquent my empty hands, but he just scoffed at me.[KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]そんなんじゃ、服の中とかに隠してたら分からねえだろが！！　脱げよ[/i]」[KeyWait]
+「[i]That's not enough to tell if you've got somethin' hidden in your clothes! Go on, strip![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a1122" buf=2]
 【Haruka】[CR]
-「[v]え……？[/v]」[KeyWait]
+「[v]Huh...?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]着てるもん全部脱いで、何も持ってないってのを証明して見せろっつってんだよ！！[/i]」[KeyWait]
+「[i]I'm tellin' you to take off all your clothes and prove that you don't got anything![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a1123" buf=2]
 【Haruka】[CR]
-「[v]――なっ！？[/v]」[KeyWait]
+「[v]...Wha!?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a1124" buf=2]
 【Haruka】[CR]
-（[v]服……を、こんなとこ、で……？[/v]）[KeyWait]
+（[v]Take my clothes off... here...?[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q041"]
-【不良たち】[CR]
-「[i]ぐへへへへへへ……[/i]」[KeyWait]
+【Delinquents】[CR]
+「[i]Guhehehehehehe...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]
-「[i]とっとということ聞けよ！[/i]」[KeyWait]
+「[i]Hurry up and do as you're told![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
 【Delinquent C】[CR]
-「[i]素手なんだろ？　だったらそれを証明しろや！！[/i]」[KeyWait]
+「[i]You're sayin' you don't got a weapon, right? Then prove it![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Delinquent E】[CR]
-「[i]女の服には色々モノ隠すところありそうだからな。全部脱いで見せなきゃ信じないぜ[/i]」[KeyWait]
+「[i]There's lots of places for girls to hide stuff in their clothes, after all. We won't believe you unless you take'em all off.[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q041"]
 【Delinquent F】[CR]
-「[i]もしかしたら、こっちの女どもも、物騒なもん隠してるかもしれないぜ！[/i]」[KeyWait]
+「[i]These two might be hidin' somethin', too![/i]」[KeyWait]
 [FaceOff]
 
-[text]唐突に彼らが矛先を変えた。[KeyWait]
+[text]The delinquents suddenly changed their focus to Yume and Kimino.[KeyWait]
 
 [Face storage="f_c024"]
 [Voice storage="c0093" buf=2]
 【Kimino】[CR]
-「[v]なっ！？　持ってるわけないでしょ！　あったら、とっくに使ってるわよ！！[/v]」[KeyWait]
+「[v]Wha!? Of course we're not! If we had weapons, we would've used them ages ago![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]じゃあ、持ってるのはこっちの女か！？[/i]」[KeyWait]
+「[i]Then how about you!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]希美乃が気丈に言い返した途端、どう考えても武器なんかとは無縁な結女の胸ぐらへと、乱暴に掴み掛かった。[KeyWait]
+[text]After Kimino vehemently denied the accusation, a delinquent violently grabbed Yume's collar despite how ridiculous the idea of her having a weapon was.[KeyWait]
 
 [Face storage="f_b018"]
 [Voice storage="b0109" buf=2]
 【Yume】[CR]
-「[v]ひぃいうっ！　ああっ、い、イヤぁあっ！！[/v]」[KeyWait]
+「[v]Hyiiiuh! Aah, n-nooo![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se645" buf=0]
@@ -222,64 +222,64 @@
 [CgSet storage="EV500"]
 [UpDate]
 
-[text]ブチッ、ブチブチ、ブチチッ！[KeyWait]
+[text]Snap, snap, snap![KeyWait]
 
-[text]胸元を飾る赤いリボンが千切れて、ブラウスの前がボタンを飛ばしてはだける。[KeyWait]
-[text]途端にたっぷりなボリュームの乳房が、桜色のブラジャーをも弾き飛ばしそうな勢いで溢れ出た。[KeyWait]
+[text]The red ribbon on Yume's collar ripped and her blouse's buttons undid themselves, spreading her top open.[KeyWait]
+[text]Her plump breasts immediately spilled out, looking as if they were about ready to burst out of her cherry pink bra.[KeyWait]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]
-「[i]ひゅ～♪　結女ちゃんのでっかい生乳房、ご登場だ！[/i]」[KeyWait]
+「[i]Here we go, Yume-chan's bare tits finally make an appearance![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
 【Delinquent C】[CR]
-「[i]それにしてもすげえデカさだなっ！　たっぷたぷに揺れてるぜ！！[/i]」[KeyWait]
+「[i]Man, those things are huge! They jiggle like crazy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
 【Delinquent D】[CR]
-「[i]色も真っ白じゃねえか。むしろ、この乳そのものが武器じゃねえのかっ！[/i]」[KeyWait]
+「[i]Pure white, huh. You sure [ita]these[endita] things aren't your weapon!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b017"]
 [Voice storage="b0110" buf=2]
 【Yume】[CR]
-「[v]ひぅうう……やだ……ぁ。見ちゃ、やだ……。ああああぁ……[/v]」[KeyWait]
+「[v]Hyuuuh... No... Don't look... Aaaaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]口笛混じりに男たちが囃し立て、下劣な視線に乳白色の熟房が穢される。[KeyWait]
-[text]両手を後ろから抱きすくめる男に押さえられていて隠すことも出来ず、ただ栗色のツインテールを振りたくりながら啜り泣く。[KeyWait]
+[text]The guys whistled and poked fun at Yume as their perverted gazes dirtied her hot, white breasts.[KeyWait]
+[text]With a delinquent holding her tight from behind, she was unable to cver her chest, and could do nothing but sniffle and cry as she swung her chestnut-colored twintails around.[KeyWait]
 
 [Face storage="f_c013"]
 [Voice storage="c0094" buf=2]
 【Kimino】[CR]
-「[v]や、やめなさいってばっ！　結女にそんなことするなんてっ！！　あ、あたしを先に調べればいいじゃないっ！[/v]」[KeyWait]
+「[v]C-Cut it out already! Don't do that to Yume! Y-You can just investigate my body first![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]いわれなくてもじっくりと調べてやるぜ。その貧乳じゃ、上半身は余り隠すとこなさそうだけどな。その分、下半身は念入りに、奥のそこまでたっぷり探ってやる……[/i]」[KeyWait]
+「[i]We're gonna check you out anyway, don't worry. You probably aren't hidin' anything with those tiny tits of yours, though. So instead, I'll give your lower body a nice, [ita]deep[endita] search...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c013"]
 [Voice storage="c0095" buf=2]
 【Kimino】[CR]
-「[v]ふぇっ、下半……身……。そ、そんな……あ、あぁ……[/v]」[KeyWait]
+「[v]Huh? My... lower body... N-No way... A-Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]スカートを弄びながらの脅しに、さすがの希美乃も怯えて口籠もった。[KeyWait]
+[text]The delinquent's leader played with her skirt as he threatened Kimino. It was enough to make even her mumble in fear.[KeyWait]
 
 [Face storage="f_c013"]
 [Voice storage="c0096" buf=2]
 【Kimino】[CR]
-「[v]ヒ……ッ！[/v]」[KeyWait]
+「[v]Hyi...![/v]」[KeyWait]
 [FaceOff]
 
-[text]ニヤニヤ笑いで、スカートを捲り、その下へと指を忍び込ませる。[KeyWait]
-[text]希美乃が涙目となって、身を竦めた。[KeyWait]
+[text]He smirked, flipped up her skirt, and then began slipping his fingers under it.[KeyWait]
+[text]Kimino froze up, tears beginning to form in her eyes.[KeyWait]
 
-[text]見て……いられない……！[KeyWait]
+[text]I... couldn't stand to watch any longer...![KeyWait]
 
 ;背景：コンビニ倉庫
 [BgSet storage="bg091"]
@@ -289,36 +289,36 @@
 [Face storage="f_a058"]
 [Voice storage="a1125" buf=2]
 【Haruka】[CR]
-「[v]脱ぐよっ！　脱いで、ボクが何も持ってないって証明すればいいんだろ！？　だからこれ以上、結女と希美乃に手を出すなっ[/v]」[KeyWait]
+「[v]I'll strip! You'll be satisfied if I strip and prove I won't have a weapon, right!? So don't lay your hands on Yume and Kimino any further![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a058"]
 [Voice storage="a1125_2" buf=2]
 【Haruka】[CR]
-（[v]女の子たちをこんな目にあわせて恥ずかしがっている場合じゃない！　ボクは……っ、ボクは男なんだっ！　身体が女になっても！！　だから、男に裸見られたって、何も恥ずかしいことなんてないっ！[/v]）[KeyWait]
+（[v]I can't just watch them get humiliated like this! I... I'm a guy! Even in a girl's body, I'm still a guy! So being seen naked by other guys won't be embarrassing at all![/v]）[KeyWait]
 [FaceOff]
 
 ;SE：衣擦れの音
 [Sound storage="se617" buf=0]
 
-[text]紺のジャケットを脱ぎ捨て、胸元のリボンをほどく。[KeyWait]
+[text]I took off my dark blue jacket then undid the ribbon on my chest.[KeyWait]
 
 [Face storage="f_c013"]
 [Voice storage="c0097" buf=2]
 【Kimino】[CR]
-「[v]は、はるか……！[/v]」[KeyWait]
+「[v]H-Haruka...![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b016"]
 [Voice storage="b0111" buf=2]
 【Yume】[CR]
-「[v]はるか……ちゃん……[/v]」[KeyWait]
+「[v]Haruka... chan...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1126" buf=2]
 【Haruka】[CR]
-「[v]ん…………[/v]」[KeyWait]
+「[v]Nnh...[/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se608" buf=1]
@@ -326,30 +326,30 @@
 [ChrSet0 storage="b_a094"]
 [UpDate]
 
-[text]心配してくれる二人に、どうにか浮かべた笑顔を、大丈夫と答えるように向ける。[KeyWait]
-[text]戦いで汗の染みた白いブラウスに、ブラジャーを少し透けさせて、巨乳の膨らみが浮き立つ。[KeyWait]
-[text]途端に、粘り着くような視線が一斉に注がれて、総毛立つような気色の悪さを覚えた。[KeyWait]
+[text]I forced myself to smile at Yume and Kimino to ease their worries.[KeyWait]
+[text]My blouse was sweaty from fighting earlier, allowing everyone to see my bra through it a little bit, along with the shape of my large breasts.[KeyWait]
+[text]I immediately felt the guys' sticky gazes attach to me, making all of the hair on my body stand on end with disgust.[KeyWait]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]
-「[i]ひゃはぁっ、でけえ乳っ[/i]」[KeyWait]
+「[i]Hyahaah, they're huge![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
 【Delinquent C】[CR]
-「[i]もったいぶらねえで、さっさと全部脱げよ！！[/i]」[KeyWait]
+「[i]Stop tryin' to put on a show and just take it all off![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1127" buf=2]
 【Haruka】[CR]
-（[v]く……ぅ……。な……なんでもないっ。こんなの……、全然どうってことない……っ[/v]）[KeyWait]
+（[v]Kuuh... T-This is nothing. This... doesn't bother me at all...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1128" buf=2]
 【Haruka】[CR]
-（[v]ブラウス……いや、スカートを先にしよう……。裾でパンツ、少し隠れるし……[/v]）[KeyWait]
+（[v]My blouse... No, I'll do my skirt first... My blouse's hem will hide my panties a little...[/v]）[KeyWait]
 [FaceOff]
 
 ;SE:衣擦れの音
@@ -357,81 +357,81 @@
 [ChrSet0 storage="b_a084"]
 [UpDate]
 
-[text]それでも、苺色のタータンチェックの布地を脱ぎ降ろすと、途端に心許なくなった。[KeyWait]
-[text]初めて穿いた時には、ズボンに比べてずいぶん頼りないと思ったけれど、それでも十分に下半身を守っていてくれたことに気がつく。[KeyWait]
+[text]Yet, I felt uneasy as soon as I dropped my strawberry-colored plaid skirt.[KeyWait]
+[text]It had felt so unreliable compared to pants when I'd first put it on, but I now realized just how well it had protected my lower body.[KeyWait]
 
 [Face storage="f_o011"]
 【Delinquent D】[CR]
-「[i]うへへへぇ、たまんねえな！[/i]」[KeyWait]
+「[i]Uhehehehe, nice, nice![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Delinquent E】[CR]
-「[i]あんな短いスカート穿いてたんだ。はじめっから見せたくてたまんなかったんだろ！？[/i]」[KeyWait]
+「[i]You skirt was so shirt. You wanted to show off from the very beginning, didn't you!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a1129" buf=2]
 【Haruka】[CR]
-（[v]うう……、なんだか、パンツ丸出しで靴下穿いてるのって、変な感じ……。パンツも、やっぱりかなり見えちゃってるよな……[/v]）[KeyWait]
+（[v]Uuuh... Having my panties exposed in my socks feels kind of weird... My blouse isn't doing much to cover them up after all, huh...[/v]）[KeyWait]
 [FaceOff]
 
-[text]ブラウスの裾も頑張ってはいるのだけれど、所詮は上着だ。[KeyWait]
+[text]My blouse's hem was doing its best, but in the end, this wasn't its job.[KeyWait]
 
 [Face storage="f_a059"]
 [Voice storage="a1130" buf=2]
 【Haruka】[CR]
-（[v]股間、スースーする……。見えてるよな……お、お尻も……。やっぱり、こんなちっちゃい女物じゃ、収まりきらないって……。前より、お尻おっきくなってるんだしっ！！[/v]）[KeyWait]
+（[v]I feel a draft on my crotch... They can see it, can't they... A-And my butt... My panties are too small for it... It's so much bigger than when I was a guy![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_q041"]
 【Delinquent F】[CR]
-「[i]イイケツしてるじゃねえか。クーッ、むしゃぶりつきてえっ！！[/i]」[KeyWait]
+「[i]Hey, nice ass! Man, I really wanna dig into that![/i]」[KeyWait]
 [FaceOff]
 
-[text]胸の膨らみをはっきり拝めない背後の連中が騒ぎ立てる。[KeyWait]
+[text]The guys unable to see my chest because they were standing behind me began to get riled up.[KeyWait]
 
 [Face storage="f_a068"]
 [Voice storage="a1131" buf=2]
 【Haruka】[CR]
-（[v]お前らに褒められたって、ちっとも嬉しくないんだよ！[/v]）[KeyWait]
+（[v]I'm not happy in the slightest to get compliments from you guys![/v]）[KeyWait]
 [FaceOff]
 
-[text]気にしちゃダメだって思っても、恥ずかしさが込み上げてくる。[KeyWait]
+[text]I knew I had to keep my mind off of everything, but I couldn't help but get embarrassed.[KeyWait]
 
 [Face storage="f_q051"]
 【Delinquent G】[CR]
-「[i]ひゃはっ、スケベな盛りマン！！[/i]」[KeyWait]
+「[i]Hyahah, you've got one hell of a bulging pussy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
 【Delinquent H】[CR]
-「[i]パンツちっちぇんじゃねえか？　そんなに食い込ませちゃってさあっ！[/i]」[KeyWait]
+「[i]Are those panties too small? They're diggin' into you like crazy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
 【Delinquent I】[CR]
-「[i]こんなワレメくっきりさせたまんこスジ、初めて見たぜ～[/i]」[KeyWait]
+「[i]I've never seen a pair of pussy lips stick out like that before![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a1132" buf=2]
 【Haruka】[CR]
-（[v]ああ……、やっぱりこっちも、はっきり見えちゃってるぅ……。パンツ、ぴっちりしてるから……中の形、はっきり分かっちゃう……！　ここ……結構もっこり盛り上がってるから……。ちんこないのに、結構目立つし……[/v]）[KeyWait]
+（[v]Aah... They've got a clear view down there, too... My panties are so tight... They can see how I'm shaped right through it...! My crotch sticks out pretty far... It stands out even though I don't have a dick...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a1133" buf=2]
 【Haruka】[CR]
-（[v]それに、女のここってワレメになってるのにっ、パンツぴっちりだから……すぐ、布が食い込んできちゃって……。スジ浮き立つし、布と中の敏感なとこが擦れると、変な刺激……だし、気になっちゃうんだから……[/v]）[KeyWait]
+（[v]Plus, girls have a slit down there, and because my panties are so tight... They dig in really easily... You can see the lines, and it feels weirdly good when the fabric rubs me... It's so hard to ignore...[/v]）[KeyWait]
 [FaceOff]
 
-[text]男たちが野次を飛ばす度に、その部分に結女と希美乃の視線まで注がれているようで恥ずかしくてたまらない。[KeyWait]
+[text]I couldn't stop myself from feeling embarrassed from the delinquents' excited comments, along with Yume and Kimino's gazes.[KeyWait]
 
 [Face storage="f_a066"]
 [Voice storage="a1134" buf=2]
 【Haruka】[CR]
-（[v]うぅ……。男なんだから……ボクは、男なんだから、こんなの大丈夫……[/v]）[KeyWait]
+（[v]Uuuh... I'm a guy... I'm a guy, so this is totally fine...[/v]）[KeyWait]
 [FaceOff]
 
 ;SE：衣擦れ
@@ -439,17 +439,17 @@
 [ChrSet0 storage="b_a172"]
 [UpDate]
 
-[text]震える手でボタンを外し、ブラウスを脱ぐ。[KeyWait]
-[text]ブラジャーに収まりながらでも十分に圧倒的な存在感の美巨乳をさらけ出してしまった。[KeyWait]
+[text]I undid my buttons with my trembling hands and took my blouse off.[KeyWait]
+[text]My breasts were now out in the open. Even while held in my bra, they still had a striking presence.[KeyWait]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]
-「[i]乳ィ、マジでけえっ！[/i]」[KeyWait]
+「[i]Whoa, your tits are huge![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
 【Delinquent C】[CR]
-「[i]ブラに収まりきってねェぞ！！[/i]」[KeyWait]
+「[i]Your bra can't even hold'em![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
@@ -722,7 +722,7 @@
 [text]お尻の穴も、そしてその下の女陰も、ヤツらから丸見えになる。[KeyWait]
 
 [Face storage="f_q051"]
-【不良たち】[CR]
+【Delinquents】[CR]
 「[i]うっは～～～～～～～～ッ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1815,7 +1815,7 @@
 「[i]太いのも長いのも、選び放題だぜ！　嬉しいだろ、オチンポ大好き姉ちゃんっ！[/i]」[KeyWait]
 [FaceOff]
 
-【不良たち】[CR]
+【Delinquents】[CR]
 「[i]ギャハッハッハッハァ――――ッ！！[/i]」[KeyWait]
 [FaceOff]
 
