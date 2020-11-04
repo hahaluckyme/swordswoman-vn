@@ -1,6 +1,6 @@
 
 *scene5-02|
-[eval exp="f.chaptertitle='Getting Involved With Some Punks'"]
+[eval exp="f.chaptertitle='Getting Involved With Some Delinquents'"]
 
 ;場所：コンビニ前
 ;時間：放課後
