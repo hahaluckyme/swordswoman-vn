@@ -1350,105 +1350,105 @@
 [Face storage="f_a020"]
 [Voice storage="a1206" buf=3]
 【Haruka】[CR]
-（[v]子宮が疼いちゃっていても、膣から愛液が垂れっぱなしになっていても……ボクは本当は男なんだ！[/v]）[KeyWait]
+（[v]Even if my womb's aching and love juices are pouring out of my pussy... I'm still a guy![/v]）[KeyWait]
 [FaceOff]
 
-[text]親指で裏筋を擦りながらの手首を小気味にスナップさせるやり方に、ヤツらが歓喜に打ち震えた。[KeyWait]
+[text]I twisted my wrists and vibrated my thumbs against the underside of their dicks, making them response with shudders with joy.[KeyWait]
 
 [Face storage="f_o011"]
 【Delinquent D】[CR]
-「[i]うぉおお、ま、待ちきれねえっ！！[/i]」[KeyWait]
+「[i]Uwoooh, I-I can't wait![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Delinquent E】[CR]
-「[i]おほぉ～～、ス、スベスベだあっ！！　気持ちいいっ！[/i]」[KeyWait]
+「[i]Ohooooh, s-so smooth! This feels great![/i]」[KeyWait]
 [FaceOff]
 
-[text]順番を待つ他の連中が一斉に自分で怒張を扱きながら、ボクの肌へ亀頭を擦りつけてくる。[KeyWait]
+[text]The other guys waiting their turn began rubbing their cockheads on my skin as they stroked themselves.[KeyWait]
 
 [Face storage="f_a020"]
 [Voice storage="a1207" buf=3]
 【Haruka】[CR]
-（[v]そうだ！　お前たちも……ボクの身体で、イケぇっ！　早くッ出せっ！　出ろおっ！！　精子ドピュドピュ、発射させろぉっ！[/v]）[KeyWait]
+（[v]That's right! Use my body to cum! Hurry up! Cum already! C'mon, shoot your cum out![/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex82"]
 [Face storage="f_a020"]
 [Voice storage="a1208" buf=2]
 【Haruka】[CR]
-「[v]くちゅ、ちゅるちゅぷ、れろろろろろろ[hearts][/v]」[KeyWait]
+「[v]Suck, suck, lick lick lick![hearts][/v]」[KeyWait]
 [FaceOff]
 
-[text]両手で男根を扱きながら、口中ペニスの射精を促すように舌で鈴口を刺激する。[KeyWait]
+[text]I urged the dick in my mouth to ejaculate by licking its glans with my tongue as I continued stroking dicks with both hands.[KeyWait]
 
 [ExVoice1 storage="aex49"]
 [Face storage="f_a021"]
 [Voice storage="a1209" buf=2]
 【Haruka】[CR]
-「[v]はむぅんっ！　あふっ、んぐっ、あむっ[/v]」[KeyWait]
+「[v]Hamfh! Afh, mgh, ahm![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex50"]
 [Face storage="f_a021"]
 [Voice storage="a1210" buf=2]
 【Haruka】[CR]
-「[v]ちゅぱちゅぱっ、ちゅ、ぢゅばっ、んぶふぅっ！　んぢゅるっ！　ふむっ、んぶっ、んんぅ！　ぢゅび、ぢゅる、れるんっ！　むちゅ、ちゅぱ、れる……んばっ、んぐっ、じゅるじゅるじゅるじゅるるっ！[/v]」[KeyWait]
+「[v]Suck, suck, suck, nbhh! Shlurp! Fmh, mbh, mmmh! Shuck, shlurp, lick! Suck, suck, lick... Mbh, mgh, sluuuuurp![/v]」[KeyWait]
 [FaceOff]
 
-[text]窄めた唇から音を立ててカウパーを飲み下し、根本から裏筋まで舐め上げる。[KeyWait]
+[text]I loudly sucked down the leader's precum as I squeezed his dick between my pursed lips and ran my tongue all the way along the underside of it, from its base to its tip.[KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]おぉおおおおぉっ、はぁああああぁっ！！[/i]」[KeyWait]
+「[i]Oooooooh, haaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]太い幹がさらにむくっと膨らんだ。[KeyWait]
+[text]His thick rod swelled up and became even thicker.[KeyWait]
 
 [ExVoice1 storage="aex51"]
 [Face storage="f_a020"]
 [Voice storage="a1211" buf=2]
 【Haruka】[CR]
-「[v]んぁああ、ふ、あふっ、はふうっ！！[/v]」[KeyWait]
+「[v]Nhaaah, fuh, afuh, hafuuh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1212" buf=3]
 【Haruka】[CR]
-（[v]もう一息……だ。もう一息、なんだからぁ……。あんっ。ふぁああぁ……んぁはぁ……[/v]）[KeyWait]
+（[v]Just a little... more... Just a little more should be enough... Ahn... Fwaaaah... Nhahaah...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1213" buf=3]
 【Haruka】[CR]
-（[v]それにしても……、肌……にぃ、塗られちゃってる、ちんぽ汁の……匂い、すごい……ぅうう、あふ……ちんぽ、いっぱい……気色悪い……[/v]）[KeyWait]
+（[v]But, wow... T-They're rubbing their dick juice right into my skin... It smells so strong... Uuuuh, afuh... So many dicks... Gross...[/v]）[KeyWait]
 [FaceOff]
 
-[text]まとわりつく無数の亀頭が芋虫みたいだ。[KeyWait]
-[text]ずっと擦りつけられていると、熱くてむず痒くて……、腰が……くねっちゃう。[KeyWait]
+[text]The countless dicks rubbing themselves on me reminded me of caterpillars.[KeyWait]
+[text]Having them rub themselves on me made me feel so hot and itchy... My hips... They started to move.[KeyWait]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]
-「[i]なんだかんだいって、チンポ舐めるの大好きな単なる淫乱エロ女かよ！[/i]」[KeyWait]
+「[i]Even after all you said earlier, I guess you're still a slut that loves lickin' dick![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]そんな吸い付いて、精液全部吸い出すつもりだろ！　カウパーも飲みまくりだなっ！！[/i]」[KeyWait]
+「[i]You're tryin' to vacuum out all my cum by suckin' that hard, aren't you!? You're slurpin' down so much of my precum![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a020"]
 [Voice storage="a1214" buf=3]
 【Haruka】[CR]
-（[v]あは……なんか、こいつらの罵り声ぇ……ボクを応援してくれてるみたいに聞こえちゃう……。よーし、頑張っちゃうぞ……♪[/v]）[KeyWait]
+（[v]Ahah... Their mocking... I'm starting to hear it as cheering... Okay, I'm gonna work real hard... ♪[/v]）[KeyWait]
 [FaceOff]
 
-[text]ちんぽの味と匂いが、ボクに変な高揚をもたらしていた。[KeyWait]
-[text]このままだとボクの方が先に堕ちちゃいそうでまずい。急がないと……。[KeyWait]
+[text]The flavor and smell of their dicks served to heighten the strange arousal I was feeling.[KeyWait]
+[text]At this rate, I was at risk of succumbing before they did. I had to hurry...[KeyWait]
 
-[text]シュッ、シュ、シュコッ、ぬちゅシュッ！[KeyWait]
+[text]Suck, suck, suck, slurp![KeyWait]
 
-[text]舌使いに加えて、両手でちんぽを扱く勢いも激しくさせる。[KeyWait]
+[text]I picked up the pace with my tongue and began stroking the dicks in my hands faster.[KeyWait]
 
 ;a1215
 ;[ExVoice1 storage="aex51"]
@@ -1456,46 +1456,46 @@
 [Face storage="f_a021"]
 [Voice storage="a1215" buf=2]
 【Haruka】[CR]
-「[v]んむっ、んぼんぼんぼんんぅっ！　ぢゅばぢゅるぢゅるぶちゅんっ！　ズチュ、ぢゅるるるるるるふむぅっ！　んば、んばんばんばっ！　んぶふっぢゅばジュルんぶちゅうっ！　ぶちゅる、ジュバヂュルんぶふるるるぅっ！[/v]」[KeyWait]
+「[v]Mmh, mbhmbhmbh! Shluuuuurp! Suck, sluuuuuuurp! Mbh, mbhmbhmbh! Mbh, suck, slurp slurp! Slurp, suck, sluuuurp![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]
-「[i]うぉおおっ！！[/i]」[KeyWait]
+「[i]Uwoooh![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
 【Delinquent C】[CR]
-「[i]くはぁああっ、す、すげえ……！[/i]」[KeyWait]
+「[i]Kuhaaaah, w-whoa...![/i]」[KeyWait]
 [FaceOff]
 
-[text]下腹の奥の脈打ちが、もう無視出来ない。股間がジンジンと熱い。[KeyWait]
-[text]自分でも気付かぬうちに、全身から甘ったるい牝臭さが滲み出て表情が蕩けきっていた。[KeyWait]
+[text]I could no longer ignore the throbbing coming from within my abdomen. My crotch had become hot and tingly.[KeyWait]
+[text]Without even realizing it, I'd begun giving off a sweet feminine smell from all over, and my face had melted into a lazy one.[KeyWait]
 
 [Face storage="f_a020"]
 [Voice storage="a1216" buf=3]
 【Haruka】[CR]
-（[v]はああっ、出ろぉ……。おちんこぉ、精液出せぇ。――はうんっ！！[/v]）[KeyWait]
+（[v]Haaah, cum... Cum already, dicks... Hauhn![/v]）[KeyWait]
 [FaceOff]
 
-[text]じゅぽっ、じぷじゅぷちゅぷ、ぐちゅちゅ、ぎゅぷ、にゅじゅず――ッ！[KeyWait]
+[text]Shuck, shuck, shuck, suck, squelch, squelch![KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
-「[i]う……お、おぉおっ！！　出る……ッ！[/i]」[KeyWait]
+「[i]Uuh... O-Oooh! I'm cumming...![/i]」[KeyWait]
 [FaceOff]
 
-[text]ペニスが激しく打ち震え、さらに膨張した。[KeyWait]
+[text]The leader's cock throbbed harder as it swelled up once again.[KeyWait]
 
 [ExVoice1Stop]
 
 [Face storage="f_a021"]
 [Voice storage="a1217" buf=2]
 【Haruka】[CR]
-「[v]あひいっ！！　出りゅうっ！　ちんぽ汁ぅ、やっと……ッ、ふぇ～～～～！！[/v]」[KeyWait]
+「[v]Ahyii! Here it comes! Finally, your dick juice... Fweeeeeh![/v]」[KeyWait]
 [FaceOff]
 
-[text]よく知った射精の予兆に、胸が高鳴るなか―――、[KeyWait]
+[text]The familiar forewarning of ejaculation made my heart pound with excitement, and then-[KeyWait]
 
 [ExtasyM]
 [Sound storage="se142" buf=0]
@@ -1503,54 +1503,54 @@
 [CgSet storage="EV502d2"]
 [UpDate]
 
-[text]どびゅるゅ！　びゅるびゅるッ！！　どぴゅぴゅぴゅ――っ！[KeyWait]
+[text]Spurt! Spurt, spurt! Spuuuuurt![KeyWait]
 
 [ExtasyCount]
 
-[text]口いっぱいに夥しい量の精液がぶちまけられた。[KeyWait]
+[text]A rush of cum splashed against the walls of my mouth.[KeyWait]
 
 [Face storage="f_a021"]
 [Voice storage="a1218" buf=2]
 【Haruka】[CR]
-「[v]んぶふぅっ！　あぶうっ！！　んぶっ！　ごぶぶぶぶぶぶぁああはぁあぁ～～～っ[/v]」[KeyWait]
+「[v]Mbhhh! Abfh! Mbh! Gulp, gulp, aaahaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a021"]
 [Voice storage="a1219" buf=2]
 【Haruka】[CR]
-（[v]ひぃっ！　あ、ああぁ……ボク……ぅっ！！　こんなの……口の中にぃっ！　汚いッ。れも……こりぇ……美味ひ……ふあっ！！[/v]）[KeyWait]
+（[v]Hyi! A-Aaah... It's... filling up my mouth! It's sho filthy... B-But... It tastes good... Fwah![/v]）[KeyWait]
 [FaceOff]
 
-[text]壮絶な衝撃に惚けた脳裏を揺さぶられた。[KeyWait]
-[text]淫蕩な牝意識と男としての理性が拮抗する。[KeyWait]
+[text]The shock of his intense ejaculation shook my mushy brain.[KeyWait]
+[text]My perverted feminine consciousness was resisting the reason of my male one.[KeyWait]
 
 [Face storage="f_a021"]
 [Voice storage="a1220" buf=2]
 【Haruka】[CR]
-（[v]口の……なかぁ、汚い……液ぃ、いっぱいぃ。生臭い……ぃ、苦い……ッ[/v]）[KeyWait]
+（[v]His dirty stuff... It's filling up my mouth... It smells raw... and tastes bitter...[/v]）[KeyWait]
 [FaceOff]
 
-[text]舌にも歯にもねっとりと精液が粘り着いてきて、口をゆすいだ程度では取れそうにない。[KeyWait]
+[text]His semen stuck to my tongue and teeth. There was so much that even gargling with water probably wouldn't have cleaned me out.[KeyWait]
 
 [Face storage="f_a021"]
 [Voice storage="a1221" buf=2]
 【Haruka】[CR]
-（[v]ふえぇ……、気色、悪いぃ……。せーしぃ、口ん中ぁ、たっぷりぃ……[/v]）[KeyWait]
+（[v]Fweeh... Groooss... My mouth's so full of cum...[/v]）[KeyWait]
 [FaceOff]
 
-[text]吐き気が込み上げるほどのおぞましさだ。[KeyWait]
-[text]それなのに、苦くて生臭い風味を味わっていると、キュンキュンと下腹の奥が窄まって熱い火照りが膣内に滲み出る。[KeyWait]
-[text]ペニスを頬張った唇から大量のスペルマを溢れさせ、白目を剥いて惚ける。[KeyWait]
-[text]そんなボクの痴態に、周りを取り巻く男たちが激しく身震いした。[KeyWait]
+[text]It was disgusting enough to make me want to vomit.[KeyWait]
+[text]Yet, tasting the bitter liquid was making my abdomen tighten up. I could feel a flushed heat oozing into my pussy.[KeyWait]
+[text]Semen overflowed from my lips as I kept his dick stuffed into my mouth, and my eyes rolled back in my head.[KeyWait]
+[text]The guys surrounding me shuddered and shook at the sight of me in such a lewd state.[KeyWait]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]
-「[i]おああ、俺も、で、[eruby str="射精" text="で"]るっ！！[/i]」[KeyWait]
+「[i]Owaah, I'm c-cumming too![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_q031"]
 【Delinquent C】[CR]
-「[i]うおお、俺もだっ！[/i]」[KeyWait]
+「[i]Uwooh, me too![/i]」[KeyWait]
 [FaceOff]
 
 [ExtasyM]
@@ -1559,28 +1559,28 @@
 [CgSet storage="EV502e"]
 [UpDate]
 
-[text]どびゅっ！　ぴゅぶぶっ！！　どぴゅるっ、どぴゅどぴゅどぴゅっ！[KeyWait]
+[text]Spurt! Spurt, Spurt, spuuuuurt![KeyWait]
 
 [Face storage="f_a021"]
 [Voice storage="a1222" buf=2]
 【Haruka】[CR]
-「[v]ひえっ！　ふぁあっ！！　あ、あ、あ、あぁああっ！　せいしっ、せーし……いっふぁい、きひゃぁああっ！！　ふあっ、あ、はぁああっ！　ンッ、ああっ、はぁあああぁ～～～っ！！[/v]」[KeyWait]
+「[v]Hyeh! Fwaah! A-A-A-Aaaah! T-There's sho much cum... Cuuuum! Fwah, ah, haaaah! Mmh, aah, haaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]手に握った左右の男根も、肌に擦りつけられる幾本ものペニスも、一斉にスペルマをぶちまけ、ボクの裸身を白濁まみれに染め上げた。[KeyWait]
+[text]The dicks in my h ands, as well as the countless ones rubbing themselves on my skin, all shot out their semen at once, dying my entire nude form white.[KeyWait]
 
 [Face storage="f_a020"]
 [Voice storage="a1223" buf=2]
 【Haruka】[CR]
-（[v]あは……あぁ……、髪の毛にも……かかってる……。べとべとどろどろの、精子が……。ふぁああぁ……、匂いが……強いッ。すっごく、濃いっ！　んふぉ、お、おおおおぉっ！！[/v]）[KeyWait]
+（[v]Ahah... Aah... Their sticky, gloopy cum... It's... in my hair... Fwaaaah... It smells... so strong... It's so thick! Nfwoh, o-oooooh![/v]）[KeyWait]
 [FaceOff]
 
-[text]その不浄なカルキ臭を肺いっぱいに吸い込んで、くらくらと何度も目眩に見舞われる。[KeyWait]
+[text]I felt myself becoming dizzier and dizzier as I breathed the dirty, chalk-like odor into my lungs.[KeyWait]
 
 [Face storage="f_a020"]
 [Voice storage="a1224" buf=2]
 【Haruka】[CR]
-（[v]しゅご、しゅぎりゅ～、ふあ、こんにゃ、せーしたっぷり、かけられたらぁ……、おかしくなっちゃう……あたまぁ、おかしくされちゃうよお……[/v]）[KeyWait]
+（[v]W-Wow... Fwah, i-if they shoot [ita]this[endita] much cum onto me... I'm gonna... go totally crazy...[/v]）[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -1590,15 +1590,15 @@
 [Face storage="f_a017"]
 [Voice storage="a1225" buf=2]
 【Haruka】[CR]
-「[v]ん……うぅ……ふぅ、んぁはっ！[/v]」[KeyWait]
+「[v]Nnh... Uuuh... Fuuh, nhahah![/v]」[KeyWait]
 [FaceOff]
 
-[text]呻きながら四つん這いになると、顔面にへばり付いた塊の白濁がべちょっと床に垂れた。[KeyWait]
+[text]I moaned as I fell to all fours. The masses of white liquid dripped from my face onto the floor.[KeyWait]
 
 [Face storage="f_a039"]
 [Voice storage="a1226" buf=2]
 【Haruka】[CR]
-（[v]か、からだぁ、うじゅく……。疼いちゃうぅ……[/v]）[KeyWait]
+（[v]M-My body's throbbing... It's throbbing sho much...[/v]）[KeyWait]
 [FaceOff]
 
 [text]孕み液の洗礼に、牝としての反応が止まらない。[KeyWait]
