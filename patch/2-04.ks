@@ -1,6 +1,6 @@
 
 *scene2-04|
-[eval exp="f.chaptertitle='In the Nurse's Office'"]
+[eval exp="f.chaptertitle='In the Nurse\'s Office'"]
 
 ;”wŒiF•ÛŒ’º@’‹
 [BgSet storage="bg070"]
