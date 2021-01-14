@@ -1,5 +1,5 @@
 
-*scene6-01|Chapter 6: Rasetsu's Kishin
+*scene6-01|Chapter 6: Rasetsu the Kijin
 [eval exp="f.chaptertitle='Lawless Ruler Rasetsu'"]
 
 [BgSet storage="chapter06"]
@@ -26,80 +26,80 @@
 
 [Face storage="f_a026"]
 [Voice storage="a1250" buf=2]
-【はるか】[CR]
-「[v]希美乃……？　いや、だ、誰なんだ、お前は……！？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kimino...? No, wait, w-who are you...!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]目の前の現実を脳が理解しようとしない。[KeyWait]
-[text]いまボクの前で腕組みをして立ちはだかっているのは、見間違えようもない幼なじみ。[KeyWait]
-[text]でも……。[KeyWait]
+[text]My brain couldn't understand the reality sitting before my eyes.[KeyWait]
+[text]There was no mistaking my childhood friend, standing in front of me with her arms crossed and blocking my way.[KeyWait]
+[text]But...[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a1251" buf=2]
-【はるか】[CR]
-（[v]これじゃ、まるであいつらの親玉にしかみえない……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]The way she's standing there... It's almost like she's their leader...[/v]）[KeyWait]
 [FaceOff]
 
-[text]下品な言葉をわめき散らし、好き勝手の暴虐を繰り広げていた奴らが、大人しく縮こまって彼女の背後で跪いている。[KeyWait]
+[text]The curse-slinging abusive delinquents had politely fallen to their knees behind Kimino.[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a1252" buf=2]
-【はるか】[CR]
-（[v]幼い頃からボクと結女と彼女とで、まるで兄妹みたいに三人一緒だったのに……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]But... The three of us have been together since were kids... We were like siblings...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a1253" buf=2]
-【はるか】[CR]
-（[v]真っ直ぐで朗らかで、悪い噂なんか一度もたったことないのに……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]She was always so upfront and cheerful, and I never heard any bad rumors or anything...[/v]）[KeyWait]
 [FaceOff]
 
-[text]なのに、妖艶に微笑むその表情からは、禍々しい気配しか漂ってこない……。[KeyWait]
+[text]Yet, the bewitching grin on her face emanated an ominous aura...[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a1254" buf=2]
-【はるか】[CR]
-（[v]あんな連中と、いつから付き合ってたんだ……？　駅前で結女が絡まれたっていうのも……、希美乃が命じてやらせたのか……？[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]How long has she been associating with them...? When they messed with Yume in front of the station... Was that under Kimino's orders...?[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a1255" buf=2]
-【はるか】[CR]
-（[v]なんで結女を、そんな危険な目に……？　なんでボクに、こんなことを……？[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Why would she expose Yume to danger like this...? And why would she have them do all that to me...?[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a1256" buf=2]
-【はるか】[CR]
-（[v]どうして……。どうして、ボクが遼だって知ってる！？[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Why... Why does she know that I'm Ryou!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]結女にすら教えていない。[KeyWait]
-[text]両親と叔父叔母と、一条宗家に関わる人間しか、知らないことなのに。[KeyWait]
+[text]I hadn't even told Yume.[KeyWait]
+[text]Only my parents, aunt, uncle, and those associated with the Ichijou main family should have known.[KeyWait]
 
 [Face storage="f_c011"]
 [Voice storage="c0105" buf=2]
-【希美乃】[CR]
-「[v]不思議でしょ？　そんな顔してる[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]You're confused, right? I can see it on your face.[/v]」[KeyWait]
 [FaceOff]
 
-[text]思考を読んだように、希美乃が冷たい眼差しで微笑む。[KeyWait]
-[text]口の端だけを吊り上げる、酷薄な微笑み。[KeyWait]
+[text]Kimino smiled as her cold gaze landed upon me. It was almost like she'd read my thoughts.[KeyWait]
+[text]The edges of her mouth turned up, but nothing more, forming a cruel grin.[KeyWait]
 
 [Face storage="f_a051"]
 [Voice storage="a1257" buf=2]
-【はるか】[CR]
-（[v]希美乃は、こんな笑い方はしない！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Kimino doesn't smile like that![/v]）[KeyWait]
 [FaceOff]
 
-[text]どぎつい冗談を仕掛けられても、ついつい許してしまう愛嬌のある笑顔が魅力だった。[KeyWait]
-[text]でも、そっくりな姿をしていながら、こいつからは何一つ希美乃の匂いがしない。[KeyWait]
-[text]こいつは……、希美乃じゃない。[KeyWait]
+[text]After she'd prank me, Kimino's charming smile would always prompt me to forgive her.[KeyWait]
+[text]But even though she looked exactly the same, I wasn't sensing any part of Kimino from the girl standing before me.[KeyWait]
+[text]This... wasn't Kimino.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1258" buf=2]
-【はるか】[CR]
-「[v]誰だ、お前は。本物の希美乃はどうしたんだ！？　まさかっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Who are you? Where's the real Kimino!? Don't tell me that you...![/v]」[KeyWait]
 [FaceOff]
 
 [text]一瞬最悪の事態が脳裏をよぎる。[KeyWait]
@@ -109,37 +109,37 @@
 
 [Face storage="f_c002"]
 [Voice storage="c0106" buf=2]
-【希美乃】[CR]
-「[v]やだなあ、遼ったら。あたし本物の希美乃だってば[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]Geez, c'mon, Ryou. I [ita]am[endita] the real Kimino.[/v]」[KeyWait]
 [FaceOff]
 
-[text]けれど、瞬時にして冷酷な眼差しが快活な顔立ちとなった。[KeyWait]
-[text]妖艶な笑みが、ボクがよく知っているあっけらかんとした笑顔に変わる。[KeyWait]
+[text]Her cold gaze instantly morphed into a friendly one.[KeyWait]
+[text]Then, her bewitching smile turned into the casual one I knew.[KeyWait]
 
 [Face storage="f_a033"]
 [Voice storage="a1259" buf=2]
-【はるか】[CR]
-「[v]――――！？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]一瞬、悪質な冗談かと思った。だとしたら、いくら何でもやりすぎだ。そんなわけない。[KeyWait]
-[text]混乱するボクの目の前で、[KeyWait]
+[text]For a moment, I thought maybe this had just been an ill-natured joke. But it would have gone way too far if so. It just wasn't plausible.[KeyWait]
+[text]I stared at her, confused...[KeyWait]
 
 [ChrSet0 storage="b_c014"]
 [UpDate]
 
 [Face storage="f_c011"]
 [Voice storage="c0107" buf=2]
-【希美乃】[CR]
-「[v]でも、それと同時にもう一人のわたしでもある[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]But at the same time, I'm someone else as well.[/v]」[KeyWait]
 [FaceOff]
 
-[text]すぐにまた彼女の顔は、妖艶で禍々しい[eruby str="茨" text="いばら"]の[eruby str="棘" text="とげ"]の笑みに戻った。[KeyWait]
+[text]Her face quickly returned to the bewitching, foreboding, and thorny one from before.[KeyWait]
 
 [Face storage="f_c011"]
 [Voice storage="c0108" buf=2]
-【希美乃】[CR]
-「[v]保健室で憑依してきたちっぽけな駄鬼を遼が祓ってくれた時に、わたしは覚醒したの[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]When you exorcised that pathetic, little oni in the nurse's office, I awakened.[/v]」[KeyWait]
 [FaceOff]
 
 ;ＢＧＭ：ピンチ
@@ -154,24 +154,24 @@
 	[UpDate]
 [endif]
 
-[text]歩み来る。ゆっくりとした足取り。その姿が次第に変貌を遂げ行く。[KeyWait]
+[text]She began walking toward me. Her footsteps were slow. Gradually, her form changed.[KeyWait]
 
 [Face storage="f_a072"]
 [Voice storage="a1260" buf=2]
-【はるか】[CR]
-「[v]――――なっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]...What!?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b032"]
 [Voice storage="b0120" buf=2]
-【結女】[CR]
-「[v]あぁ……、希美乃……ちゃん……！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Aah... Kimono... chan...![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c011"]
 [Voice storage="c0109" buf=2]
-【希美乃】[CR]
-「[v]いまからずっと昔……。あなたたちの先祖の『鬼斬姫』に斬られて肉体を失った。それから長い時を経てこの時代に、わたしは坂谷希美乃として転生を果たしたの[/v]」[KeyWait]
+【Kimino】[CR]
+「[v]A long, long time ago... I was cut down by one of your ancestors, by another Oni-Cutting Princess, and lost my physical body. But after all this time, I've finally reincarnated as Sakatani Kimino.[/v]」[KeyWait]
 [FaceOff]
 
 [BgSet storage="bg091b"]
@@ -186,20 +186,20 @@
 	[UpDate]
 [endif]
 
-[text]身の丈が男どもよりも高くなり、鍛え上げられたしなやかな体つきが精悍さを増す。[KeyWait]
-[text]快活な顔立ちが大人びた妖艶さを備え、同時に少年めいた中性的な雰囲気を宿す。[KeyWait]
-[text]血のように、紅い瞳。綻んだ唇から鋭い牙が覗く。[KeyWait]
+[text]Her body grew taller than a man's, and her slender but fit body turned rougher.[KeyWait]
+[text]A bewitching, adult smile replaced her cheerful grin and she exuded an androgynous yet slightly boyish aura.[KeyWait]
+[text]Her eyes were red like blood. Sharp fangs peeked out from behind her pursed lips.[KeyWait]
 
 [Face storage="f_b006"]
 [Voice storage="b0121" buf=2]
-【結女】[CR]
-「[v]ひっ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyi![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a064"]
 [Voice storage="a1261" buf=2]
-【はるか】[CR]
-（[v]鬼……？　い、いや……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]An oni...? N-No...[/v]）[KeyWait]
 [FaceOff]
 
 [eval exp="f.status_c='羅刹'"]
@@ -209,26 +209,26 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0110" buf=2]
-【羅刹童子】[CR]
-「[v][eruby str="涅哩底王" text="ねいりちおう"][eruby str="羅刹" text="らせつ"]、それがわたしの名。鬼神、[eruby str="羅刹童子" text="らせつどうじ"]と名乗った方が、一条の[eruby str="鬼繰師" text="きくりし"]たちには通りがいいかしらね[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]I'm known as the Lawless Ruler, Rasetsu. However, maybe the kijin 'Rasetsu Douji' would sooner ring a bell to your family's Oni Masters.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a064"]
 [Voice storage="a1262" buf=2]
-【はるか】[CR]
-「[v]き……鬼神……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]A-A... kijin...[/v]」[KeyWait]
 [FaceOff]
 
-[text]希美乃の身体はさらに変わりゆき、頭に二本のツノを生やし、和服のような装束を纏った女鬼の姿となった。[KeyWait]
+[text]Kimino's body changed further. Two horns sprouted from her head as she transformed into a female oni wearing Japanese clothing.[KeyWait]
 
 [Face storage="f_a064"]
 [Voice storage="a1263" buf=2]
-【はるか】[CR]
-「[v]羅刹……童子……ッ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Rasetsu... Douji...[/v]」[KeyWait]
 [FaceOff]
 
-[text]これまで遭遇した鬼のような醜怪さが微塵もない。[KeyWait]
-[text]危険で艶やかな美しさに目を奪われていると……[KeyWait]
+[text]She didn't have a trace of the disgustingness the oni I'd encountered up until now had.[KeyWait]
+[text]I let my focus be stolen away by the beauty of her dangerous, alluring eyes, and then...[KeyWait]
 
 [ChrReset0]
 [UpDate]
@@ -238,195 +238,195 @@
 
 [Face storage="f_b018"]
 [Voice storage="b0122" buf=2]
-【結女】[CR]
-「[v]あ、ああっ！　いやぁあっ！！　助け……てっ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]A-Aah! Nooo! H-Help me...![/v]」[KeyWait]
 [FaceOff]
 
-[text]不良どもが結女を取り囲みながら、次々にグロテスクな鬼の姿へと変わっていった。[KeyWait]
+[text]The delinquents crowded around Yume began transforming into grotesque oni, one after one.[KeyWait]
 
 [Face storage="f_r001"]
-【雑魚鬼Ａ】[CR]
-「[i]グフフゥウウウウウゥッ！　ガハアアアァッ！！[/i]」[KeyWait]
+【Oni Grunt A】[CR]
+「[i]Gufufuuuuuuuuuh! Gahaaaaah![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【雑魚鬼Ｂ】[CR]
-「[i]ブォオオオオオォ！！[/i]」[KeyWait]
+【Oni Grunt B】[CR]
+「[i]Bwooooooh![/i]」[KeyWait]
 [FaceOff]
 
-[text]くぐもった呻き声を上げ、ヨダレを垂らしながら、濁った目で結女に迫る。[KeyWait]
+[text]They made muffled groans as they drooled and approached Yume with clouded eyes.[KeyWait]
 
 [Face storage="f_b018"]
 [Voice storage="b0123" buf=2]
-【結女】[CR]
-「[v]ひぃいいいいぃっ！　あ、ああぁ……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyiiiiiii! A-Aaah...[/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se211" buf=0]
 
-[text]余りのおぞましさに耐えきれず、可憐な従妹は気を失ってしまった。[KeyWait]
+[text]Unable to bear looking at their disgusting forms, my adorable cousin passed out.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1264" buf=2]
-【はるか】[CR]
-「[v]結女っ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Yume![/v]」[KeyWait]
 [FaceOff]
 
 [ChrReset0]
 [UpDate]
 
-[text]急いで駆け寄ろうとする。しかし……。[KeyWait]
+[text]I hurried tried to run to her side, but...[KeyWait]
 
 [ChrSet0 storage="b_c901"]
 [UpDate]
 
 [Face storage="f_c902"]
 [Voice storage="c0111" buf=2]
-【羅刹童子】[CR]
-「[v]うふふ、遼～♪　いえ、はるかって呼んだ方がいいのかな？　この姿では[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Ufufu, Ryou... ♪ No, maybe I should call you Haruka in that body?[/v]」[KeyWait]
 [FaceOff]
 
-[text]希美乃、いや羅刹童子に後ろから抱き締められてしまった。[KeyWait]
+[text]Kimino - rather, Rasetsu Douji - grabbed me from behind.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1265" buf=2]
-【はるか】[CR]
-「[v]くっ、放せっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kuh, let me go![/v]」[KeyWait]
 [FaceOff]
 
-[text]振り払おうとするが彼女の腕はびくともしない。[KeyWait]
+[text]I tried to shake her off, but her arms wouldn't budge.[KeyWait]
 
 [Face storage="f_a064"]
 [Voice storage="a1266" buf=2]
-【はるか】[CR]
-（[v]な、なんて力だっ！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]S-She's so strong![/v]）[KeyWait]
 [FaceOff]
 
-[text]いまのボクは鬼斬姫。鬼を叩きのめすほど強くなっているというのに、羅刹はさほど力を込めた様子でもないのに、ボクの動きを楽々封じてしまっていた。[KeyWait]
+[text]Right now, I was the Oni-Cutting Princess. Even though was powerful enough to defeat oni and Rasetsu didn't look strong in the slightest, she was managing to hold me still with absolute ease.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1267" buf=2]
-【はるか】[CR]
-「[v]お、鬼めっ！　また希美乃の身体に乗り移ったのかっ！！　くそッ、出て行け！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Y-You damn oni! How dare you take over Kimino's body again! Get out of her, damnit![/v]」[KeyWait]
 [FaceOff]
 
-[text]保健室で乗り移ったやつはボクが斬り倒したのに。[KeyWait]
+[text]Even though I'd defeated the oni that'd possessed her in the nurse's office, now...[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0112" buf=2]
-【羅刹童子】[CR]
-「[v]ああ、あれはありがとうね。馬鹿な餓鬼が何も知らないであたしの身体で顕現するんだもん。まいっちゃったわよ。あんな不細工な姿になっちゃうし[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Aah, thanks for that. That foolish gaki manifested in my body without any clue as to who I really was. Goodness, he made me into something so disgusting...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0113" buf=2]
-【羅刹童子】[CR]
-「[v]でもそれが切っ掛けでこうやって目覚めることが出来たんだから、よかったのかな？　ふふふ♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]But I awakened as a result of that, so perhaps I should be thankful? Fufufu. ♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a035"]
 [Voice storage="a1268" buf=2]
-【はるか】[CR]
-「[v]…………？？？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]...?[/v]」[KeyWait]
 [FaceOff]
 
-[text]容姿だけじゃなく、雰囲気から何から何までもが他の鬼とは全く違う。[KeyWait]
-[text]その鬼神のもの言い方がまるで希美乃本人みたいで気にかかった。[KeyWait]
+[text]It wasn't just her appearance. The aura she put out and everything else was totally unlike any other oni.[KeyWait]
+[text]It bothered me that from the way this kijin was wording things, it made it sound like she was Kimino herself.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0114" buf=2]
-【羅刹童子】[CR]
-「[v]んふ、何か勘違いしてるみたいだから教えてあげるわ。わたし羅刹童子は、坂谷希美乃の身体に乗り移ったわけじゃなく、最初から坂谷希美乃そのものだったのよ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Nfu, it seems like you don't get it, so I'll explain. I, Rasetsu Douji, am not possessing the body of Sakatani Kimino. Rather, I was Sakatani Kimino from the very beginning.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a003"]
 [Voice storage="a1269" buf=2]
-【はるか】[CR]
-「[v]…………？　なに……？　どういうこと？　それ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]...? What...? What are you talking about? That's just...[/v]」[KeyWait]
 [FaceOff]
 
-[text]ますます分からない。[KeyWait]
+[text]I understood even less after her explanation.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0115" buf=2]
-【羅刹童子】[CR]
-「[v]さっきもいったけれど、あたし……希美乃は、わたし――羅刹童子が人間の姿を借りて転生した姿[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]As I said earlier, I... rather, Kimino, is me - Rasetsu Douji, who borrowed a human form to reincarnate.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0116" buf=2]
-【羅刹童子】[CR]
-「[v]いままで前世の鬼神としての記憶や人格は、希美乃の意識の裏でずっとまどろんでいたけれど、乗り移ってきた餓鬼をはるかが鬼斬りの太刀で仕留めた衝撃で、こうして目覚めたってわけ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Up until now, my memories and personality as a kijin had been sleeping underneath Kimino's consciousness, but the shock of you defeating the gaki who possessed me earlier with the Oni-Cutting Blade caused me to awaken.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a072"]
 [Voice storage="a1270" buf=2]
-【はるか】[CR]
-「[v]転生……？　希美乃……が？　鬼神の……。ボ、ボクが、それを……目覚めさせたって……！？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Reincarnation...? Kimino... A kijin... I-I... made you awakene...!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]ようやく理解出来た。しかし、信じられない。幼い頃から一緒だった幼なじみが、そんな鬼の生まれ変わりだなんて。[KeyWait]
+[text]I finally understood, but I couldn't believe it. I couldn't believe that the childhood friend I'd been with for so long had really been the reincarnation of an oni.[KeyWait]
 
 [Face storage="f_a003"]
 [Voice storage="a1271" buf=2]
-【はるか】[CR]
-（[v]けれど……ボクだって……鬼斬姫……。男なのに、こんな力を持って、女になっちゃってる……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]But... I mean... I'm the Oni-Cutting Princess... Even though I'm a guy, I have this power that makes me into a girl...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0117" buf=2]
-【羅刹童子】[CR]
-「[v]でもねえ……目覚めさせてもらったのはよかったんだけど、あの物騒な鬼斬りの太刀のおかげで、本来混ざり合って一つになるはずだった羅刹童子と坂谷希美乃の人格が二つに切り分けられてね―――[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]But, you see... I'm glad that you awakened me and all, but that reckless Oni-Cutting Blade split our personalities, which were supposed to be merged into one, into two instead...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c908"]
 [Voice storage="c0118" buf=2]
-【羅刹童子】[CR]
-「[v]鬼神の力を存分に振るえる完全な姿となることが出来なくなってしまったのよ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]So as a result, I wasn't able to become complete, meaning I can't wield my full power as a kijin.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a1272" buf=2]
-【はるか】[CR]
-「[v]ひうっ！！　ちょ……っ、なにするっ、お、下ろせってばっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyuh! Wait... What are you doing!? P-Put me down, damnit![/v]」[KeyWait]
 [FaceOff]
 
-[text]男の時と同じ背丈のボクを、かなりの長身な鬼神は、ひょいとお姫様抱っこに抱え上げてしまった。[KeyWait]
+[text]The kijin, who was about as tall as I'd been back when I was a guy, effortlessly lifted me into her arms, princess style.[KeyWait]
 
 [Face storage="f_a042"]
 [Voice storage="a1273" buf=2]
-【はるか】[CR]
-「[v]そ、それより結女がっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]A-And Yume! Let her go![/v]」[KeyWait]
 [FaceOff]
 
-[text]ボク以上に、牡鬼どもに囲まれて気を失っている従妹が心配だ。[KeyWait]
+[text]More than myself, I was worried about my cousin, who was still unconscious and surrounded by male oni.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0119" buf=2]
-【羅刹童子】[CR]
-「[v]結女だったら大丈夫。あいつらには[eruby str="最後まで" text="・・・・"]はさせないから。結女はわたしにとっても大事な親友だし。でも、少しは餓鬼にも美味しい思いさせてあげないといけないから、ねっ♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Yume will be okay. They won't go all the way with her. She's a precious friend to me too, after all. But I've got to give my gaki something of a tasty experience, don't I? ♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
-「[i]ぐへへへぇ、鬼慰姫ぇ……ッ！[/i]」[KeyWait]
+【Oni A】[CR]
+「[i]Guhehehee, the Oni-Pleasing Princess...![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
-「[i]いい匂いだぜ～。ぐぅううう、羅刹様のご命令がなければ、いますぐにでもむしゃぶりつきてえ！！[/i]」[KeyWait]
+【Oni B】[CR]
+「[i]She smells great! Guuuuuh, if it weren't for Rasetsu-sama's orders, I'd devour her right here on the spot![/i]」[KeyWait]
 [FaceOff]
 
-[text]鬼どもは床に横たわる彼女へと群がり、服を捲り上げ、素肌を覗き込んでは不快な笑い声を上げていた。[KeyWait]
-[text]確かに手荒な扱いはされていないようだけれど、それでもだらだらとヨダレを垂れ流し、ギンギンに勃起したペニスを脈打たせながら荒く息を乱して物欲しげに結女を凝視している様に、心配が込み上げる。[KeyWait]
+[text]The oni crowded around Yume as she lay on the floor, then lifted up her clothes and laughed unpleasantly as they stared at her bare skin.[KeyWait]
+[text]Indeed, it seemed that they weren't going too far, but seeing them drooling and breathing heavily as they stared longingly at Yume with their erect, throbbing dicks out still had me worried.[KeyWait]
 
 [Face storage="f_a043"]
 [Voice storage="a1274" buf=2]
-【はるか】[CR]
-「[v]ふざけるな！　あいつらをどけろってば！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]That's enough! Get them off of her, damnit!![/v]」[KeyWait]
 [FaceOff]
 
-[text]ジタバタと足をばたつかせ、逃れようとする。[KeyWait]
+[text]I flailed my legs around in an attempt to get free.[KeyWait]
 
 ;ＢＧＭ：陵辱１
 [playbgm storage="bgm009"]
@@ -437,12 +437,12 @@
 [ChrReset0]
 [UpDate]
 
-[text]しかし羅刹は意に介さずボクを倉庫の隅に置かれた大きめの古いソファのところまで運んでゆくと、無造作にその上に投げ落とした。[KeyWait]
+[text]However, not bothered by my resistance in the least, Rasetsu carried me to a large, old couch in the storehouse's corner then casually tossed me onto it.[KeyWait]
 
 [Face storage="f_a032"]
 [Voice storage="a1275" buf=2]
-【はるか】[CR]
-「[v]くっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kuh![/v]」[KeyWait]
 [FaceOff]
 
 [ChrSet0 storage="b_c901l"]
@@ -450,116 +450,116 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0120" buf=2]
-【羅刹童子】[CR]
-「[v]うふ♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Ufu. ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]即座に飛び起きようとした。[KeyWait]
-[text]しかしそれよりも速く、羅刹はボクを馬乗りで押さえ付ける。[KeyWait]
-[text]小振りだが弾力的な尻でむっちり圧迫されるともう動けない。[KeyWait]
+[text]Immediately, I tried to get back up.[KeyWait]
+[text]But before I could, Rasetsu got on top of me and held me down.[KeyWait]
+[text]Her pressing her small, soft butt on me was enough to keep me from moving.[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0121" buf=2]
-【羅刹童子】[CR]
-「[v]なんだかそそるわね～。その悔しそうな顔、イイわよ～[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Mmh, you're kind of turning me on... I like that frustrated face of yours.[/v]」[KeyWait]
 [FaceOff]
 
-[text]舌なめずりする妖艶な美貌にドキっとするが、すぐに気を取り直して下から睨みつける。[KeyWait]
+[text]My heart throbbed as the alluring kijin licked her lips, but I quickly came to senses and glared daggers up at her.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1276" buf=2]
-【はるか】[CR]
-「[v]ボクの鬼斬りの太刀で、人格が希美乃のと、お前のとに切り分けられたっていってたな？　……そしていま、その身体に表れているのは、希美乃と違う別人だ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]You said that I split your personalities apart with the Oni-Cutting Blade, right? ...So right now, that means that the person represented in that body isn't Kimino, but someone else.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a1277" buf=2]
-【はるか】[CR]
-「[v]じゃあ、お前じゃない、希美乃の人格はどうなったんだ？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]But if that's the case, what happened to Kimino's personality?[/v]」[KeyWait]
 [FaceOff]
 
-[text]まさか消滅してしまったのではと、恐ろしい不安が胸をよぎる。だが、[KeyWait]
+[text]I was afraid of the possibility that she'd been erased. However...、[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0122" buf=2]
-【羅刹童子】[CR]
-「[v]眠っているわよ。わたしが表に現れている間は、この中に[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Kimino is sleeping. While I'm using this body, she's inside here.[/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹童子は控えめな膨らみの胸を指し示し、冷たい笑みを浮かべたままいった。[KeyWait]
+[text]Rasetsu Douji, still smiling coldly, pointed to her modest chest.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0123" buf=2]
-【羅刹童子】[CR]
-「[v]そして希美乃はわたしの、羅刹童子の存在を何も知らない。わたしは希美乃としてのすべての記憶が自分のものとしてあるのにね[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Furthermore, Kimino doesn't know anything about me. It's pretty unfair considering I have all of her memories inside me, isn't it?[/v]」[KeyWait]
 [FaceOff]
 
-[text]その希美乃の記憶の中から何かを思い出したのか、美貌の鬼神が恐ろしく残酷な笑みを浮かべた。[KeyWait]
+[text]A cruel smile formed on the kijin's beautiful face. I surmised that she'd recalled something from Kimino's memories.[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0124" buf=2]
-【羅刹童子】[CR]
-「[v]遼、ずっとちっちゃかった頃、あんたの家に結女とお泊まりした時、おねしょしたの実はあたしだったんだ～。あんまりあんたが熟睡して起きそうにないんで、そっちと布団取り替えちゃった♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Ryou, when we were all really small and Yume and I stayed over at your house, I was the one who wet the bed that night. You were out cold and it didn't seem like you'd wake up, so I just swapped my futon out with yours. ♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a1278" buf=2]
-【はるか】[CR]
-「[v]な……ん、だ……とおっ！？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]What... did you say!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]自分と結女と希美乃の三人。[KeyWait]
-[text]それとそれぞれの親たちしか知らない幼い頃のことが、新たな事実と共に鬼神の口から懐かしそうに告げられた。[KeyWait]
+[text]Yume, Kimino, and lastly, me.[KeyWait]
+[text]Only the three of us and our parents knew that story, but now, this kijin had told me a new fact, almost sounding like she was reminiscing as she spoke.[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0125" buf=2]
-【羅刹童子】[CR]
-「[v]それから三人で隠れん坊した時あんたが鬼でさ。面倒くさくなったんで結女と一緒に家帰っておままごとしてたら、あんた泣きながらあたしたちを探してたっけ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]And then there was the time when the three of us played hide and seek with you as the seeker. I got annoyed, so I went home and played house with Yume... And I believe you cried as you kept looking for us.[/v]」[KeyWait]
 [FaceOff]
 
-[text]身体を重ねて覆い被さってくる。[KeyWait]
+[text]Rasetsu leaned forward over me.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a1279" buf=2]
-【はるか】[CR]
-（[v]――！！　な、なんだよ……そんな、希美乃みたいな顔して……。鬼のくせに……女の子みたいな、柔らかい身体してっ！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]...! W-What the heck... Her face looks just like Kimino's... How can she have such a soft, feminine body even though she's an oni!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]顔立ちも体つきも全く似ていないのに、なぜか幼なじみを連想させる。[KeyWait]
+[text]Even though her face and body's physical appearance didn't actually resemble Kimino at all, they somehow reminded me of my childhood friend.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a1280" buf=2]
-【はるか】[CR]
-「[v]お、お前に……希美乃の心が残ってるなら、結女だけでも助けてやってくれ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]H-Hey... If you've still got Kimino's heart inside you, then at least help Yume![/v]」[KeyWait]
 [FaceOff]
 
-[text]群がる牡鬼どもにスカートを剥ぎ取られ、下半身はショーツ一枚にされている。[KeyWait]
-[text]はだけたブラウスから溢れ出た巨乳は、ブラジャーが外れ掛かり生乳だけにされるのも時間の問題だ。[KeyWait]
+[text]The swarming oni had ripped off Yume's skirt, exposing her panties.[KeyWait]
+[text]Her large breasts spilled forth from her open blouse, and it was only a matter of time before her loose bra would be taken off, leaving them totally bare.[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
-「[i]ぐふっ、がふっ、んごぉおおおぉッ！！[/i]」[KeyWait]
+【Oni A】[CR]
+「[i]Gufuh, gafuh, nghoooooh![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
-「[i]鬼ぃ……慰ぅ、姫ぇ――ッ！[/i]」[KeyWait]
+【Oni B】[CR]
+「[i]Oni... Pleasing... Princeeeess![/i]」[KeyWait]
 [FaceOff]
 
-[text]羅刹童子の餓鬼どもへの強制力がどれほど強いのか知らないが、無我夢中で愛撫するヤツらの興奮は高まりすぎていて、いつ一線を越えてしまうか分かったものじゃない。[KeyWait]
+[text]I didn't know how strong of a sense of self-control Rasetsu Douji's gaki possessed, but with how overexcitedly they were groping Yume, there was no telling when they'd cross the line.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1281" buf=2]
-【はるか】[CR]
-「[v]希美乃ッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kimino![/v]」[KeyWait]
 [FaceOff]
 
-[text]必死の思いで、ボクは鬼神の中の幼なじみに訴えかけた。けれど……、[KeyWait]
+[text]Desperate, I tried calling out to my childhood friend within the kijin. However...[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0126" buf=2]
-【羅刹童子】[CR]
-「[v]まったく……。いつも結女のことばかりなんだから……。――ん……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Oh, goodness... It's always Yume, Yume, Yume with you... Mmh...[/v]」[KeyWait]
 [FaceOff]
 
 ;黒画面
@@ -567,37 +567,37 @@
 [UpDate]
 [Sound storage="se182" buf=0]
 
-[text]ムチュッ！[KeyWait]
+[text]Kiss![KeyWait]
 
 [Face storage="f_a039"]
 [Voice storage="a1282" buf=2]
-【はるか】[CR]
-「[v]え？　――ンッ！　はぅ……ッ！？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Huh? Mmh! Hauh...!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]聞き取れないほどの小声で何か呟いたと思ったら、羅刹童子はいきなり熱烈な口づけをしてきた。[KeyWait]
+[text]Rasetsu mutered something so quiet I could hear it before kissing me passionately out of nowhere.[KeyWait]
 
 [Face storage="f_a039"]
 [Voice storage="a1283" buf=2]
-【はるか】[CR]
-（[v]な、なんで……、キス！？　あ、あああぁ……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]W-Why... is she kissing me!? A-Aaaah...[/v]）[KeyWait]
 [FaceOff]
 
-[text]唇がみっちりと重なり合い、熱い吐息が吹き込まれる。[KeyWait]
-[text]柔らかな感触に意識が惑う。[KeyWait]
+[text]She pressed her lips tight over mine and breathed hot breaths into my mouth.[KeyWait]
+[text]My mind became frazzled at the soft sensation being pressed upon me.[KeyWait]
 
 [Face storage="f_a049"]
 [Voice storage="a1284" buf=2]
-【はるか】[CR]
-（[v]う、うわ……っ、し……舌ッ、入れてきたぁっ！！　こ……こんな……、熱いのが……。ふああぁ……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]U-Uwah... S-She stuck her tongue iiin! I-It's... so hot... Fwaaah...[/v]）[KeyWait]
 [FaceOff]
 
-[text]唾液を絡ませて口腔を舐め回しながら、ボクの舌に絡みついてくる。浮き立つような心地よさに蕩けそうになった。[KeyWait]
+[text]Her saliva-covered tongue licked all over the inside of my mouth, then entangled itself around my own tongue. It felt exhilarating, yet comforting, making me space out.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0127" buf=2]
-【羅刹童子】[CR]
-「[v]悪いわね……、それは聞けない頼みよ。だって、結女は“[eruby str="鬼慰姫" text="オニナグサムヒメ"]”だもの[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Sorry... That's a request I can't honor. Yume is the Oni-Pleasing Princess, after all.[/v]」[KeyWait]
 [FaceOff]
 
 ;背景：コンビニ倉庫
@@ -605,93 +605,93 @@
 [ChrSet0 storage="b_c901l"]
 [UpDate]
 
-[text]ちゅぷっ。[KeyWait]
+[text]Drip...[KeyWait]
 
-[text]離された唇から唾液が滴る。[KeyWait]
-[text]赤い舌でそれを舐め啜り、鬼が恍惚の表情でいう。[KeyWait]
+[text]Saliva trickled from my lips as Rasetsu parted ways with them.[KeyWait]
+[text]She licked it up with her red tongue before she started speaking with an ecstatic expression on  her face.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0128" buf=2]
-【羅刹童子】[CR]
-「[v]あなたたちが受け継ぐ以前の“[eruby str="鬼斬姫" text="オニキリヒメ"]”と“[eruby str="鬼慰姫" text="オニナグサムヒメ"]”はとても強い絆で繋がれているの[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]The ones that you inherited the roles of Oni-Cutting Princess and Oni-Pleasing Princess from were entwined together by an incredibly strong bond.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0129" buf=2]
-【羅刹童子】[CR]
-「[v]“鬼慰姫”の危機にその守護者である“鬼斬姫”は“[eruby str="錬気" text="れんき"]”という霊力を発揮して鬼を圧倒した[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Whenever the Oni-Pleasing Princess was in danger from oni, the Oni-Cutting Princes would make use of a spiritual power called Renki to overpower them.[/v]」[KeyWait]
 [FaceOff]
 
-[text]口づけを終えたその瞬間より、鬼神羅刹童子から希美乃の面影が消え失せていた。[KeyWait]
-[text]恐らくは転生する以前に彼女が戦った、ボクたちより前の代の鬼慰姫と鬼斬姫のことを語る。[KeyWait]
+[text]The moment the kijin Rasetsu Douji stopped kissing me, every trace of Kimino disappeared from her face.[KeyWait]
+[text]She began talking about the Oni-Cutting Princess and Oni-Pleasing Princess of the previous generation, likely the ones she fought against before reincarnating.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0130" buf=2]
-【羅刹童子】[CR]
-「[v]そして“鬼斬姫”の方が陵辱の危機に陥った時には、“鬼慰姫”がその身から錬気を溢れさせてわたしたちの油断を誘う。鬼族に取って“鬼慰姫”の錬気は至高の甘露[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]And when the Oni-Cutting Princess herself was in danger of being raped, the Oni-Pleasing Princess would exude Renki from her body so we'd let our guards down. The Oni-Pleasing Princess's Renki is like a  the ultimate nectar for us oni.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a062"]
 [Voice storage="a1285" buf=2]
-【はるか】[CR]
-（[v]希美乃……、いや、もう……こいつは……鬼神！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Kimino... No, she's... she's a kijin now![/v]）[KeyWait]
 [FaceOff]
 
-[text]結女へと注ぐ眼差しは、不良どもが変化した牡鬼と同じ、欲望に濁る[eruby str="邪" text="よこしま"]な眼差しとなっていた。[KeyWait]
+[text]As Rasetsu looked at Yume, her eyes turned wicked and clouded with lust, just like the male oni surrounding her.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0131" buf=2]
-【羅刹童子】[CR]
-「[v]プールで水鬼を使ってはるかをエッチな目にあわせてみたら、結女の錬気が膨れあがったから、あなたたちも以前の二人と同じだってわかったわ。でも……おかげで、身体の疼きを抑えるのが大変になっちゃった♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]When I used  that water oni to mess with you in the pool, Haruka, Yume's Renki swelled up. That's what made me realize you two were just the same as them. But... Thanks to that, it became a little hard to stop my body from throbbing. ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]そんなことをいいながら、ボクの下腹部に股ぐらをぐりぐりと擦りつけてくる。[KeyWait]
+[text]Rasetsu began grinding her crotch on my lower body.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1286" buf=2]
-【はるか】[CR]
-「[v]あ、あの時の、お前だったのか……っ！　――って、や、やめろってばっ。へ……変なとこ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]S-So that was you...! Hey, s-stop that. D-Don't rub me there...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a1287" buf=2]
-【はるか】[CR]
-（[v]こっちは、みんなの前で最悪の痴態晒すとこだったのにッ！　それに、お、おしっこ……みんなが入ってるプールの中に、漏らしちゃったし……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]She's the one who humiliated me in front of everyone! I-I... even peed in the same people everyone was swimming in...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a1288" buf=2]
-【はるか】[CR]
-（[v]あの時はもう、希美乃……、羅刹童子の意識に切り替わっていたんだ……。それどころか、この前、保健室で希美乃に取り憑いた鬼を倒した後から、今日まで……ずっと。鬼神が、希美乃として振る舞ってたんだ……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]So back then... Kimino's mind had already been swapped out with Rasetsu Douji's... And not only that, but ever since I beat the  oni possessing her in the nurse's office, all the way until today... This kijin had been pretending to be Kimino...[/v]）[KeyWait]
 [FaceOff]
 
-[text]姉弟同然の幼なじみなのに全然気がつかなかった。[KeyWait]
-[text]全くの別人じゃなく、本来希美乃と一つになるはずだった人格だからとはいえ、ちょっとショックだ。[KeyWait]
+[text]Even though Kimino was my childhood friend - practically my older sister - I hadn't noticed at all.[KeyWait]
+[text]Even if it was true that she was apparently supposed to be part of Kimino rather than a completely different person, I was still shocked.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1289" buf=2]
-【はるか】[CR]
-（[v]そ、それにしても……、この、股間……ぐりぐりしてくるの……何か、変だよ……。んん……ッ。ボクが、裸だからなのかも……だけど……。みょ、妙に……、あふ……当たってくる……っていうか……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]B-But anyway... H-Having her rub her crotch on me... feels kinda weird... Nnnh... Maybe it's because I'm naked, but... S-She's somehow... Afuh... Hitting me just right... It's like...[/v]）[KeyWait]
 [FaceOff]
 
-[text]気持ちのいい部分がやたらと刺激されちゃう。だんだんと変な気持ちになってきてしまう。[KeyWait]
+[text]She was clearly stimulating my sensitive spots on purpose, making me feel stranger and stranger.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0132" buf=2]
-【羅刹童子】[CR]
-「[v]いまも、ほら、こうしてはるかのこと困らせてやってると、結女の錬気が膨れあがってくる……。それに、あの餓鬼どもが結女を弄んでいると、はるかの錬気もびっくりするくらい増してきている！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Look, even now, Yume's Renki is swelling up as I do this to you... And your Renki has swollen to its limits because those gaki are playing with Yume, too![/v]」[KeyWait]
 [FaceOff]
 
-[text]確かに身体に力が漲り、気分が高揚してきていた。[KeyWait]
+[text]She was right - I could feel power welling up in my body, and I felt feverish and excited.[KeyWait]
 
 [Face storage="f_a067"]
 [Voice storage="a1290" buf=2]
-【はるか】[CR]
-（[v]そういえば、初めてこの姿になって鬼を倒した時も、こんな感じだったかも……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Looking back, I think I felt like this when I defeated my first oni after turning into a girl, too...[/v]）[KeyWait]
 [FaceOff]
 
-[text]保健室でもそうだ。圧倒的な力で鬼を凌駕した。[KeyWait]
-[text]もしかしたらいまなら、羅刹のこの抱擁を振り払えるのでは？　そう思う中―――。[KeyWait]
+[text]It was the same in the nurse's office as well. I'd surpassed the oni with overwhelming power.[KeyWait]
+[text]Could it be that as I was now, I might be able to escape from Rasetsu's grasp? As I wondered...[KeyWait]
 
 [ChrReset0]
 [UpDate]
@@ -700,67 +700,67 @@
 [UpDate]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
-「[i]ぐぅううおおおお、すげえ錬気だぁああっ、た、たまんねええっ！[/i]」[KeyWait]
+【Oni A】[CR]
+「[i]Gwuuuooooh, this Renkiiii, I-I can't hold baaack![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
-「[i]喰いてえっ、お、鬼慰姫っ、喰らいてぇええっ！！[/i]」[KeyWait]
+【Oni B】[CR]
+「[i]I wanna eat her! I-I wanna eat the Oni-Pleasing Princeeeess![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
-「[i]も、もう、我慢、出来ねええええっ！[/i]」[KeyWait]
+【【Oni C】】[CR]
+「[i]I-I can't control myself anymooooore![/i]」[KeyWait]
 [FaceOff]
 
-[text]羅刹が餓鬼と呼ぶ、結女にまとわりつく牡鬼たちが、狂わんばかりにいきり立っていた。[KeyWait]
-[text]いますぐにでも鬼慰姫を犯して喰らいたいんだろうけれど、鬼神を名乗る羅刹童子の強制力は相当に強力らしい。[KeyWait]
-[text]はち切れそうなほど勃起したペニスから水鉄砲みたいなカウパーを続けざまに噴きこぼし、制服がはだけた結女の生乳房や生尻を、腹いせのように捏ね回していた。[KeyWait]
+[text]The oni surrounding Yume that Rasetsu referred to as 'gaki' were practically going mad with excitement.[KeyWait]
+[text]They clearly wanted to rape and devour the Oni-Pleasing Princess right away, but the kijin calling herself Rasetsu Douji was apparently quite the powerful leader.[KeyWait]
+[text]Precum continuusly dripped out of their swollen cocks like water guns as they frustratingly groped Yume's bare breasts and butt.[KeyWait]
 
 [Face storage="f_a058"]
 [Voice storage="a1291" buf=2]
-【はるか】[CR]
-「[v]あ、あいつらっ！　結女の身体に、あんなことをっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]N-No! How dare they touch Yume like that![/v]」[KeyWait]
 [FaceOff]
 
-[text]気を失ったまま、悪夢にうなされているかのように眉根を寄せて呻き、身を捩らせる。[KeyWait]
-[text]そんな結女を目にすると、また体内の灼熱が増大した。気分がやたらと高揚してくる。[KeyWait]
+[text]Yume, still unconscious, squirmed around and winced like she was having a nightmare.[KeyWait]
+[text]As I watched her, I felt the same burning heat as before grow in my body, and my feverish excitement became even stronger.[KeyWait]
 
 [Face storage="f_c904"]
 [Voice storage="c0133" buf=2]
-【羅刹童子】[CR]
-「[v]はるか……？　――くっ！　ちょっと、やめろってば餓鬼ども！　これ以上鬼斬姫に強くなられたら、抑えておけなくなっちゃうでしょ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Haruka...? Kuh! Hey, cut it out already, gaki! If the Oni-Cutting Princess gets any stronger, I won't be able to keep her under control![/v]」[KeyWait]
 [FaceOff]
 
-[text]その現象に気付き、羅刹が慌てて餓鬼を叱り飛ばす。[KeyWait]
+[text]Rasetsu noticed what was happening with me and hurriedly scolded the gaki.[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
-「[i]ひううっ！　く……うぅ……錬気ぃ……[/i]」[KeyWait]
+【Oni A】[CR]
+「[i]Hyuuuh! Kuh... Uuuh... Renkiii...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
-「[i]ぐぅううッ！！　美味そう……なのにぃ……[/i]」[KeyWait]
+【Oni B】[CR]
+「[i]Guuuuh! But, it... would taste so gooood...[/i]」[KeyWait]
 [FaceOff]
 
-[text]雷に打たれたように、牡鬼たちが素早く結女から飛び退く。[KeyWait]
+[text]The gaki swiftly backed away from Yume as if they'd been struck by lightning.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0134" buf=2]
-【羅刹童子】[CR]
-「[v]せっかくの美味しそうな『鬼慰姫』なのにおあずけ食らって不満かい？　“希美乃”と一緒のところをナンパさせた時からずいぶんご執心だったみたいだしね[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Do you have a problem with me saving my delicious Oni-Pleasing Princess for later? You certainly [ita]did[endita] seem rather stubborn when you hit on her when she was with 'Kimino'...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
-「[i]い、いえ……[/i]」[KeyWait]
+【Oni A】[CR]
+「[i]N-No...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
-「[i]鬼慰姫は、羅刹様の、ものですから……[/i]」[KeyWait]
+【Oni B】[CR]
+「[i]The Oni-Pleasing Princess is yours, Rasetsu-sama...[/i]」[KeyWait]
 [FaceOff]
 
 [text]どれほど欲望に猛り狂っていても主の命令には絶対服従を強いられているらしい。[KeyWait]
@@ -769,7 +769,7 @@
 
 [Face storage="f_a059"]
 [Voice storage="a1292" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]――！！　い、いまの……笑い方。希美乃そっくりだ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -779,7 +779,7 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0135" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]でも、お預けしっぱなしっていうのも可哀想だからぁ。結女の代わりに、はるかを。鬼斬姫をお前たちの好きにしていいわよ[/v]」[KeyWait]
 [FaceOff]
 
@@ -790,7 +790,7 @@
 
 [Face storage="f_a058"]
 [Voice storage="a1293" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]なっ！？　ボクを、って……こ、こいつらに……なにをさせる気だ……？[/v]」[KeyWait]
 [FaceOff]
 
@@ -802,13 +802,13 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0136" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]うふふ、な～んでもよ。でも、ほんとだったら……遼のことはずっと前から好きだったから、わたしが相手したいなって思ってたんだけどね～[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a012"]
 [Voice storage="a1294" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]……………………………………はあっ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -816,25 +816,25 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0137" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あ～～っ、その顔、全く信じてないでしょ？　まあ、でも、そう思われるのも仕方ないかあ。“あたし”ったら、照れくさくて遼のことイジメてばっかりだったし……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0138" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]でも、少しは何となく意識しなかった？　『こんなに絡んでくるなんて、こいつボクに気があるんじゃないか？』って[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a1295" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]そ、そういえば……！！　―――いや、全然ない……ッ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c909"]
 [Voice storage="c0139" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]うぇ…………[/v]」[KeyWait]
 [FaceOff]
 
@@ -843,13 +843,13 @@
 
 [Face storage="f_a059"]
 [Voice storage="a1296" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]それどころか、希美乃に嫌われているんじゃないかって、何度か本気で悩んだこともあったくらいだし……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_c909"]
 [Voice storage="c0140" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ったく、このっ！！　ほんと鈍感なんだからっ！　いや……、こ～んな鈍い男にあんなやり方で気持ちを伝えようとしてた“あたし”が間抜けなだけだったかぁ……。あ～あ[/v]」[KeyWait]
 [FaceOff]
 
@@ -857,7 +857,7 @@
 
 [Face storage="f_c910"]
 [Voice storage="c0141" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]まあ、それもどうでもいいわ……。いまは穢れなき[eruby str="芳醇" text="ほうじゅん"]な錬気を極限まで高められた『鬼慰姫』を喰らうのが先だから[/v]」[KeyWait]
 [FaceOff]
 
@@ -865,7 +865,7 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0142" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]そうすればわたしは一つに戻れる。鬼斬りの太刀に切り離された羅刹と希美乃の意識が一つに……。かつて都を魔都へと堕落させた鬼神、[eruby str="涅哩底王" text="ねいりちおう"]ッ、羅刹にっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -876,7 +876,7 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1297" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]待て……っ[/v]」[KeyWait]
 [FaceOff]
 
@@ -886,12 +886,12 @@
 [UpDate]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]ひゃっはあ、お許しが出たぜ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]噂に名高い鬼斬姫サマを、グッチョグチョに犯してっ、喰らってやるぜイィッ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -899,18 +899,18 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1298" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]このっ！　どけっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]ごぁあああああっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a030"]
 [Voice storage="a1299" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]うわっ！　あううっ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -928,13 +928,13 @@
 [UpDate]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i][eruby str="弱" text="よ"]ぇえ！　この鬼斬姫、激弱だっ！！　楽勝で犯せるぜ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a030"]
 [Voice storage="a1300" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くう……っ！　力が入らないっ！！　なんでだよっ！？[/v]）[KeyWait]
 [FaceOff]
 
@@ -943,13 +943,13 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0143" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]キス、美味しかったわよ、遼[hearts]　錬気もたっぷりといただいちゃったし[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a011"]
 [Voice storage="a1301" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あ、あのときにっ！？　く……っ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -957,13 +957,13 @@
 
 [Face storage="f_a011"]
 [Voice storage="a1302" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]それも分からないで、呑気にドキドキしていたのか、ボクは……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a011"]
 [Voice storage="a1303" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ぐぅうっ！　くそっ、放せ……ってばっ！！　ああぁっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -972,7 +972,7 @@
 
 [Face storage="f_c910"]
 [Voice storage="c0144" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]さあ、鬼斬姫さん。あなたのその身を以て、鬼慰姫に最上の錬気をもたらしてちょうだい[/v]」[KeyWait]
 [FaceOff]
 
@@ -980,28 +980,28 @@
 
 [Face storage="f_a030"]
 [Voice storage="a1304" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]結女ッ！　く、くそ……。ううぅっ！！　あぁ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]おいおい、それで押してるつもりか？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]なんだよ、そこら辺の女と大して力、変わんねえぜ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]さっきはずいぶんと手荒な真似してくれたじゃねえか。たっぷりと礼させてもらうぜ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a1305" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]力が、全然……出ないっ！　くうぅ、やだっ、こんなのっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1010,7 +1010,7 @@
 [text]これならまだ男である分、遼の姿の方が力が強い。[KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]散々暴れてくれた鬼斬姫様が、いまにも泣いちまいそうだぜ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1020,7 +1020,7 @@
 [FaceOff]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]ぐっへっへぇ、さっきの続きといこうぜぇ。ぐっしょり濡れたオマンコ、俺がたっぷり舐めてやるぜっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1033,7 +1033,7 @@
 
 [Face storage="f_a048"]
 [Voice storage="a1306" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]きゃうっ！　あぁっ、う、ううううぅ……ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1041,7 +1041,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1307" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く、うううぅ……。さっき、制服拾った時……パンツだけでも、穿いとけばよかった……！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1049,7 +1049,7 @@
 
 [Face storage="f_a048"]
 [Voice storage="a1308" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くぅ、あ、あぁ……。息、あ、当たってる。あそこ……に。生暖かい……。気色悪いッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1063,7 +1063,7 @@
 [ExVoice1 storage="aex12"]
 [Face storage="f_a048"]
 [Voice storage="a1309" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうぅううっ！　ふえっ、ほぁああああぁ――――――ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1072,7 +1072,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1310" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひゃわっ！！　あッ、イヤぁっ！　ふぇあぁあああああぁ――――ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1081,7 +1081,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1311" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボク、の、舐め……られ、あぁ……おま、んこ……男、にぃ……あ、あぁ、あ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1089,7 +1089,7 @@
 [text]なのに、悩ましい刺激をさらに求めるように両脚が勝手に開帳してしまう。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]ますます汁が溢れてきたぜっ。どれだけ淫乱なんだよ、このクソ牝っ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1100,7 +1100,7 @@
 [ExVoice1 storage="aex52"]
 [Face storage="f_a048"]
 [Voice storage="a1312" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇっ！！　ンッ！　ふぁあぁあぁ～～～～っ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1108,7 +1108,7 @@
 
 [Face storage="f_a048"]
 [Voice storage="a1313" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く……ぅ、子宮……、喜んで……暴れちゃってるッ。愛液ぃ……、勝手に、垂れちゃうッ。溢れちゃうぅっ！！　ああぁ、ふぁぁあ、んぁああっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1117,28 +1117,28 @@
 [ExVoice1 storage="aex53"]
 [Face storage="f_a048"]
 [Voice storage="a1314" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁっ！！　や、やあっ！　はああああぁ――ッッ！！　んふぉっ！[/v]」[KeyWait]
 [FaceOff]
 
 [text]舐められた部分から、股間が溶け崩れそうな甘美が止めどなく滲み出る。[KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]股ぐら舐められるのが好きでたまらねえって様子だな[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex21"]
 [Face storage="f_a050"]
 [Voice storage="a1315" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぅううっ、し、知らにゃいっ。―――ひわぁああっ！[/v]」[KeyWait]
 [FaceOff]
 
 [text]女になって日が浅いのだから当然だけど、こんなことされるのは初めてだ。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i][eruby str="美味" text="うめ"]えぜ、ここ……。こんな淫乱のくせに、使い込んでねえ綺麗なマンコしてやがる！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1149,7 +1149,7 @@
 [ExVoice1 storage="aex52"]
 [Face storage="f_a048"]
 [Voice storage="a1316" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くひっ、んあっ、は……うぅッ！　やっ、ぃやああっ！！　やめっ、ろ、おぉおおぉッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1161,14 +1161,14 @@
 [text]全身がガクガク震える中、足が時折、ビクンビクンと跳ね上がった。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]おいおい、感じまくりだな。この程度でそんなんじゃ、こことか弄られたらどうなっちまうんだ？[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a050"]
 [Voice storage="a1318" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひう……ッ、だ……って。だってぇ～～～！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1178,7 +1178,7 @@
 [ExVoice1 storage="aex53"]
 [Face storage="f_a018"]
 [Voice storage="a1319" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んほぉおっ！　ひぃいいっ！！　くっふ～～～～～～～ッ、ああぁはああああぁっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1190,7 +1190,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1321" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あたまぁ……飛ぶッ、くぅううぅ……、変……っ、なる……ぅ、ふぇあああっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1200,7 +1200,7 @@
 [ExVoice1 storage="aex22"]
 [Face storage="f_a017"]
 [Voice storage="a1322" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]へはっ！？　や、やぁあっ！　なにか、あ、あっ、はぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1214,14 +1214,14 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a018"]
 [Voice storage="a1323" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふあぁ、はひゃっ！　あっ、はぁ、んんんっ！　ああ、あっ、あああああぁ～～～～～っ！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]たまらず子宮が激震し、ぷじゅっ！　と膣穴から熱汁が飛び散った。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]もうイッちまったのか？　ずいぶんとぶちまけやがったなあ[/i]」[KeyWait]
 [FaceOff]
 
@@ -1230,7 +1230,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a1324" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く……う……だって、こんなとこ、変にされたら、誰だって……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1239,14 +1239,14 @@
 
 [Face storage="f_c910"]
 [Voice storage="c0145" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]遼ったらついこの前まで男の子だったのに、すっかり女の子の身体に馴染んじゃって[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex52"]
 [Face storage="f_a060"]
 [Voice storage="a1325" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……うぅ……。ち、違う……。んひゃぅ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1255,7 +1255,7 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0146" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]でもそのおかげでほら、結女の錬気がもうこんなに膨れあがってる。あぁ、美味しそう！　我慢するのが大変だわ♪[/v]」[KeyWait]
 [FaceOff]
 
@@ -1266,7 +1266,7 @@
 [ExVoice1 storage="aex52"]
 [Face storage="f_a060"]
 [Voice storage="a1326" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]―――！！　あ、あぁ……結……女[/v]」[KeyWait]
 [FaceOff]
 
@@ -1274,13 +1274,13 @@
 
 [Face storage="f_b034"]
 [Voice storage="b0124" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]……………………[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a039"]
 [Voice storage="a1327" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あ、あれが……結女の……、『鬼慰姫』の錬気……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1288,7 +1288,7 @@
 
 [Face storage="f_a039"]
 [Voice storage="a1328" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボ、ボクがこれ以上、エッチに……なっちゃうと……か、感じちゃったりすると……、あれが結女を満たすのか……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1300,7 +1300,7 @@
 
 [Face storage="f_a031"]
 [Voice storage="a1329" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く、う……が、我慢、しなく……ちゃ……。ん、あ、ああああぁ、だめ……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1312,20 +1312,20 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1330" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ああ、でもっ。声……出さないように、すると……、感覚が、鋭く、なっちゃった……ような……。なんか、余計に……感じちゃうッ！！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1331" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ああ、だめっ、これ……ッ[/v]）[KeyWait]
 [FaceOff]
 
 [text]女陰に舌を這わす餓鬼の首に両脚を絡めて、自分からねだるように腰が迫り上がってしまう。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]ぐふっ！　もっと、吸って欲しいか？[/i]」[KeyWait]
 [FaceOff]
 
@@ -1340,7 +1340,7 @@
 [ExVoice1 storage="aex23"]
 [Face storage="f_a048"]
 [Voice storage="a1332" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]おおっ！　ああぁああぁっ！！　くうっ、う、ふぅうううううっ！　んひぃっ、あひぃいっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1354,25 +1354,25 @@
 [ExVoice1 storage="aex33"]
 [Face storage="f_a048"]
 [Voice storage="a1333" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……………………ッッッ、はぁンン！　ああっ、だめっ、そこぉおおおっ、だ……、めぇッッ！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]クリトリスを執拗に舐められると、もう快感の歯止めが効かなくなる。[KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]元気なおっぱいだな。さっきから跳ね回って誘ってやがるぜ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]元々は男なんだってな。それなのに、男が触りたくなるほどおっぱい膨らませるなんて、ド変態もいいとこだ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1334" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]す、好きで、女になったわけじゃ……ない……。おっぱい、だって……そんな、クリ……しつこく、舐める……からあっ！　身体……跳ねちゃうッ。ひぃうううっ！！　や、やぁあああああっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1391,7 +1391,7 @@
 [ExVoice1 storage="aex34"]
 [Face storage="f_a050"]
 [Voice storage="a1335" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふぁあっ！　む、胸ぇ、勝手に……な、なめる……な……ッ！！　ふぉあああぁンッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1400,7 +1400,7 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a048"]
 [Voice storage="a1336" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]そんな、と……こ、ふぁ、や、や……ぁ。めぇえっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1417,7 +1417,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1338" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くぅ……っ、おっぱいの……ち、乳首の先ぃ……疼くうっ。勃ちすぎて、ジンジン……するぅ……っ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1425,12 +1425,12 @@
 [text]なのに……。[KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]はむん、くちゅぱっ！　ちゅむっ、ちゅるるー[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]かぷっ、れろ、ころ、れろろろろろろろんっ[/i]」[KeyWait]
 [FaceOff]
 
@@ -1439,21 +1439,21 @@
 [ExVoice1 storage="aex53"]
 [Face storage="f_a048"]
 [Voice storage="a1339" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぅううっ！ほ、お、ぁあああああああっ！！　んあっ、はわっ、や、やめ、やめろ……んっ！[/v]」[KeyWait]
 [FaceOff]
 
 [text]渦巻く歓喜を噛み殺して顔をしかめる。[KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]房ぁ、柔らはいのにぃ、ここっ、カチカチらぜぇっ！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex52"]
 [Face storage="f_a050"]
 [Voice storage="a1340" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んあっ！！　お、っぱいっ、舌でっ、こ、転がす、なっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1461,14 +1461,14 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1341" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ふぇえあぁっ……おっぱいぃ、指……ッ、めり込んで……、くふぁっ！　細胞、ばらばらになるぅ……。こ、こんな……の、ほぁあっ、はぁあああぁ～～～んんっ！！[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a050"]
 [Voice storage="a1342" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あひっ、んお……んくっ、んんっ、はぁああ～～ッ。んあっ、だめっ、あ……っ、や、ややや、やぁああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1487,7 +1487,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1343" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ど……どんな、表情、しちゃってるんだ……？　ボク……。ああっ、はぁああぁ……。おっぱいしゃぶられて、おまんこ舐められて……どんな顔、なってんの……ボク！？[/v]）[KeyWait]
 [FaceOff]
 
@@ -1496,7 +1496,7 @@
 [ExVoice1 storage="aex33"]
 [Face storage="f_a048"]
 [Voice storage="a1344" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あふぅっ！　んは、あ、あああぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1519,7 +1519,7 @@
 [ExVoice1 storage="aex52"]
 [Face storage="f_a050"]
 [Voice storage="a1345" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]は……ンッ！　ふぇ、あぁ……。気持ち……イ――！！　悪いっ、からあっ……は、あぁ、う……、や、やめ、ひうっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1528,7 +1528,7 @@
 [ExVoice1 storage="aex55"]
 [Face storage="f_a048"]
 [Voice storage="a1346" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あひっ……か、身体……ぁ、熱いぃっ！　お……おぉ、お腹ぁ、変ッ！！　んくうぅ……疼……くぅッ……ん……！　感じちゃったらぁ……気持ち良くなったらぁっ！！　あ、あぁ……結女がっ、危にゃいの、にぃ～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1540,7 +1540,7 @@
 
 [Face storage="f_c910"]
 [Voice storage="c0147" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あぁ……素敵……。結女……。わたしが喰らう、鬼慰姫～～[Hearts][/v]」[KeyWait]
 [FaceOff]
 
@@ -1548,7 +1548,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1348" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ひい、う、うぅううぅッ！！　結女……ッ。助けなく……ちゃ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1562,7 +1562,7 @@
 [ExVoice1 storage="aex42"]
 [Face storage="f_a048"]
 [Voice storage="a1349" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぃはぁあっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1571,7 +1571,7 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a048"]
 [Voice storage="a1350" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]かひぃいいっ！？　ひぎゅっ！！　ふおっ！　んはっ、はふぅううンっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1583,7 +1583,7 @@
 [text]失禁の様に軽い絶頂の潮が飛沫を散らす。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]くふっ！　またたっぷりと汁漏らしやがったぜッ。この淫乱女っ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1596,7 +1596,7 @@
 [ExVoice1 storage="aex43"]
 [Face storage="f_a048"]
 [Voice storage="a1351" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほあぁあっ！　んぁ、ら、めぇえっ！！　んふぁあんッッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1625,27 +1625,27 @@
 [ExVoice1 storage="aex55"]
 [Face storage="f_a048"]
 [Voice storage="a1352" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふえっ！　あひゅッ！！　はわぁああぁ……っ！[/v]」[KeyWait]
 [FaceOff]
 
 [text]すぐに、待ってましたと他のヤツがむしゃぶりついて、擽ったい舌を這わせてきた。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]すっかり開きっぱなしだな。もういくらでもチンポくわえ込めるんじゃないのか？　このオマンコ穴[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1353" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]そ、そう……。ふぁあ……熱く、ジンジン痺れて……蜜ぅ、垂れ流しになってて……。おまんこ、穴ぁ、弛み……っぱなしぃ。あ、ああぁ、舐め……られてる。また、あたま、飛んじゃう……[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex54"]
 [Face storage="f_a048"]
 [Voice storage="a1354" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ンヒィン！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1655,7 +1655,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1355" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]おほぁあっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1670,7 +1670,7 @@
 [ExVoice1 storage="aex24"]
 [Face storage="f_a050"]
 [Voice storage="a1356" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んお……？　あ、は……あぁ……？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1678,7 +1678,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1357" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]なに……？　いまの……。ん、あぁ……ふぁああ、お、奥ぅ……。膣の……ふぁああああぁ……お、奥、がぁ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1686,12 +1686,12 @@
 [text]懇願するような表情になってしまい、全身を微震させていると、いまボクの膣穴から溢れ出た濃厚な愛液を指先に絡めてぺちゃぺちゃしゃぶりながら、牡鬼が勝ち誇ったようにいう。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]ちょっと指さし込んだだけで、食いちぎりそうな勢いで締め付けてきたぜ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]男から女になったばかりで、こいつまだ処女なんだろ？　それなのに、オマンコはどうしようもない好き者女並とはなッ。鬼斬姫が聞いて呆れるぜっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1703,7 +1703,7 @@
 [ExVoice1 storage="aex57"]
 [Face storage="f_a060"]
 [Voice storage="a1358" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふえっ！？　ち、ちが……う、こんな、の……。あ、ああ、あ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1712,7 +1712,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1359" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くぅ……うううぅ、穴……ぁ。穴……の、中ぁッ……変……だよ。こ、この……欲しい感じ……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1724,19 +1724,19 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1361" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]はぁ……うぅ、あ、あんな大きく……勃っちゃってるぅ……。あれ、ボクに、勃起してるんだ……おんなの、ボクの、裸見て……。おんなのボクの身体ぁ、弄って……おっぱい、しゃぶって……おまんこ、しゃぶって……勃起したんだ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1362" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あれ……。ちんこ……変な味、なのに……あんなの、しゃぶらされた……。あんなの、イヤ……なのに……あんな大きく……勃起、して……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1363" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]入れるんだ……ボクの、に……ボ、ボクの……お、おまんこっ、に……。い、入れ……。あ、あああぁ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1745,13 +1745,13 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1364" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]指で……あんな、ちょっとで……き、気持ち、よかったのに……。あんなの、あんな太いの、入れられ……たら……。いや、あ、あんな、ふ、太いし……む、無理ッ！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1365" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]で、でも、あれ、全部、ボクの膣、目一杯入って、ずっと、入ったまま。されたらっ！！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1767,7 +1767,7 @@
 [ExVoice1 storage="aex11"]
 [Face storage="f_a048"]
 [Voice storage="a1366" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうぅうううっ！！　ふひぃっ、ふぁ、ふぁぁああああぁ……ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1782,19 +1782,19 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1367" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あ、あの、ちんこ……入れさせたら、射精されちゃう……。ボクの……[eruby str="膣内" text="なか"]にっ、ああ、しゃ、射精ッ！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1368" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]んく……ぅ、はあ、ああ、あ、はぁ……。膣内にぃ……だ、出されたら……出来ちゃう、のかなぁ……？　あ、赤ちゃん……。ボク、女になっちゃったし……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a048"]
 [Voice storage="a1369" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]犯されて……孕まされて……、赤ちゃん……産まされ……ちゃうッ！　そんなの……。そ、そんな……の、や、ヤダ……。あああぁ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1807,7 +1807,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a018"]
 [Voice storage="a1370" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]やっ、やめっ！　ひうっ！！　ふあっ！？　んっ、ンンッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1817,7 +1817,7 @@
 [ExVoice1 storage="aex57"]
 [Face storage="f_a017"]
 [Voice storage="a1371" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁああ、ボ、ボクう……。んあっ、お、あ、はぁぅううううううんッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1828,12 +1828,12 @@
 [text]抑えきれず熱い吐息が漏れ、目は潤み、視線が泳ぐ。[KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]たまんねえ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]そそるぜ……[/i]」[KeyWait]
 [FaceOff]
 
@@ -1841,14 +1841,14 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1373" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こ、こんな……の、臭い……、気持ち悪い……のに。どう……して？　ああ、どうして……？[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex52"]
 [Face storage="f_a048"]
 [Voice storage="a1374" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んひっ！　ふあっ！！　あふっ、ふぇはぁあああぁ～～～っ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1861,19 +1861,19 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a018"]
 [Voice storage="a1375" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほあっ！　やら、ああぁっ！！　あ、あ頭ぁっ……変ッッ、ひぇんなっひゃううゅ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a018"]
 [Voice storage="a1376" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]男が……気持ちいい、の……ほとんど、ちんこばかり、なのに……。おんなのからだぁ……どこも、全部……き、気持ち……いいっ！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a018"]
 [Voice storage="a1377" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く、ぅ、あぁ……だめ、だぁ……っ！　このまま、じゃ……い、いれ……入れられちゃうっ！！　入れて、もらえちゃうっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1883,7 +1883,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a1378" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あ……あぁ、男のちんぽ、入っちゃう身体に、なっちゃったんだ……。あれ、押し込まれたら、ボクの膣内……ちんこ、入っちゃうんだ……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -1892,7 +1892,7 @@
 [text]その反応に、餓鬼が興味を示した。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]やれやれ、こっちの穴も物欲しそうに口開き始めやがった。世話が焼けるぜ[/i]」[KeyWait]
 [FaceOff]
 
@@ -1901,7 +1901,7 @@
 [ExVoice1 storage="aex24"]
 [Face storage="f_a050"]
 [Voice storage="a1379" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇええっ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1915,7 +1915,7 @@
 [ExVoice1 storage="aex52"]
 [Face storage="f_a042"]
 [Voice storage="a1380" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほぉおおッ、あああぁっ！？　な、なぁああぁッ！！？？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1933,7 +1933,7 @@
 [ExVoice1 storage="aex53"]
 [Face storage="f_a018"]
 [Voice storage="a1381" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほぉぐっ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1943,7 +1943,7 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a017"]
 [Voice storage="a1382" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふえっ！　だ……メ、あぁ、やめ、ろ、はぁあっ！！　そんな、とこ、汚ひ。ンンンっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1951,14 +1951,14 @@
 [text]菊門の外へ、どうにか指を押し返す。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]まだ[eruby str="固" text="かて"]えな[/i]」[KeyWait]
 [FaceOff]
 
 [text]途端に、餓鬼が不愉快そうに顔をしかめた。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]こっちはもうとろとろだってのにな[/i]」[KeyWait]
 [FaceOff]
 
@@ -1967,7 +1967,7 @@
 [ExVoice1 storage="aex55"]
 [Face storage="f_a018"]
 [Voice storage="a1383" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]へうっ、だめっ！　――――ッッッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1982,7 +1982,7 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a018"]
 [Voice storage="a1384" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひあっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1992,7 +1992,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1385" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くぁ……あ……し、尻ぃ……。そん……な……[/v]）[KeyWait]
 [FaceOff]
 
@@ -2001,7 +2001,7 @@
 [ExVoice1 storage="aex53"]
 [Face storage="f_a018"]
 [Voice storage="a1386" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]うぬぅううううっ、はっ、うううっ！！　ふぇ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2010,7 +2010,7 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a017"]
 [Voice storage="a1387" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふあっ、は、ん、ああッ！！　そんなっ、しちゃ……あ、あ、あ……ひ、開くうぅっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2019,7 +2019,7 @@
 [text]ぬちゅ、ぐちゅ、ねちょちょ……。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]結構キツい、ケツ穴だぜ。さっきから締め付けっぱなしだ[/i]」[KeyWait]
 [FaceOff]
 
@@ -2029,7 +2029,7 @@
 [ExVoice1 storage="aex55"]
 [Face storage="f_a018"]
 [Voice storage="a1388" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　ああっ！！　なん、で？　尻ぃ、締めてる、のにイィイイィッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2038,19 +2038,19 @@
 [text]ズブッ！！　ヌブヌブヌブッ、ズブブッ！[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]おお、どんどん入っていくぜ。キツいけど、受け入れる気満々だ。さすが淫乱鬼斬姫のケツ穴ッ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]一度めり込んだら、どこまでも埋まっていっちまうぜっ！！　浅ましい肛門だなっ！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex54"]
 [Face storage="f_a018"]
 [Voice storage="a1389" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ぅあっ！　ふ……うっぅううっ！！　や、ああっ！　深ッ、あ……ぃっ、[eruby str="挿入" text="い"]れるなぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2060,7 +2060,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1391" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]指……の、節……がぁあっ、中ぁッ……[eruby str="刮" text="こそ"]げッるぅッ。くふっ、ああ……い、息……詰まるぅ……。刺激……つ、強すぎぃ。こ、これぇ……尻ン中の……感じィイイッ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -2080,20 +2080,20 @@
 [ExVoice1 storage="aex58"]
 [Face storage="f_a017"]
 [Voice storage="a1392" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く…………ッ、ふぅうううううっ！　はわああっ！！　ひッ！　ひぃやぁあああぁっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a1393" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あが、ああぁ、なん……だ、これ……ぇ。く、苦し……い。のにぃ、で、も、あ、あああぁ……[/v]）[KeyWait]
 [FaceOff]
 
 [text]焼けた棒を突っ込まれたような衝撃なのに、狂おしい甘美が渦巻いた。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]おいおい、ちょっとマン汁塗り込んだだけで、あっという間に根本まで埋まっちまったぜ！　こいつのケツ穴、実はマンコより締まりがねえんじゃないか！？[/i]」[KeyWait]
 [FaceOff]
 
@@ -2106,27 +2106,27 @@
 [ExVoice1 storage="aex21"]
 [Face storage="f_a018"]
 [Voice storage="a1394" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んっぐ、ひぃんっ！　ほぇはぁあぁっ！！　あぐっ！　んひっ！　くふっ、はっ、ふはっ！　はひゃあっ！　んぎっ、ひっ！　ふあ、あぶふぅうっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a018"]
 [Voice storage="a1395" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く……あ、お尻……なんかにッ！　ふぅ、あぁ、汚いところ、なのにッ……！？　こんな、ところ……からぁ……。こんな感じぃ……湧き上がる、なんて……ッ[/v]）[KeyWait]
 [FaceOff]
 
 [text]強烈な違和感が直腸内で膨れあがり、切迫した甘美を生み出す。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]気に入ったようだな！　まんざらでもないツラしてやがる[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex58"]
 [Face storage="f_a017"]
 [Voice storage="a1396" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　う、うるひゃ……いィ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2139,27 +2139,27 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a018"]
 [Voice storage="a1397" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほぁっ、ああぁンッ[hearts][/v]」[KeyWait]
 [FaceOff]
 
 [text]指先に腸壁を抉られて甘い喘ぎが溢れ出た。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]これじゃ、男の時にも、おホモだちに、ケツ掘られまくってよがってたんじゃないか？　いくらなんでも初めてで感じすぎだろ！？[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex58"]
 [Face storage="f_a017"]
 [Voice storage="a1398" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――！！　ち、ちが……う、う、う、うぁああはぁっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a1399" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]冗談じゃない―――ッ。身体が男でも女でも、ボクは女にしか興味ない。……ゆ、結女が、好きなんだからっ！　いまだって、こんな連中に、か、身体……好き勝手されて……き、気色悪くて……たまんないのにッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -2169,7 +2169,7 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0148" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]え、なになに！？　遼ってそういう趣味あったの？[/v]」[KeyWait]
 [FaceOff]
 
@@ -2178,20 +2178,20 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0149" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]相手は渡辺？　それとも薄井？　ま、まさか……浦辺……ってことはないわよね。あいつだったらちょっと、あたしも引くわ……[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex55"]
 [Face storage="f_a050"]
 [Voice storage="a1400" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]だ、誰でも、ないってばっ！　ボクは、お、男なんかっ、はぁあぁ～～～～んんッ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1401" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]き、希美乃の口調で尋ねてくるから、ついいつものように返しちゃったじゃないか……っ。こいつは幼なじみなんかじゃなくて、結女を喰らおうとしている邪悪な鬼神なのにっ[/v]）[KeyWait]
 [FaceOff]
 
@@ -2202,13 +2202,13 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0150" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ふ～ん、わたしは、男の子も女の子も、どちらでもいける口なんだけどなあ……。男の遼も、女のはるかも、好きよ……。でも、いま一番好きなのは、結、女[hearts][/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1402" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ゆ……結女……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2218,7 +2218,7 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0151" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]んふぅ……。あ、あぁ……。もう……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2226,7 +2226,7 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0152" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ああ、結女……ってばぁ……。このおっぱい、昔から羨ましかったなあ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2234,7 +2234,7 @@
 
 [Face storage="f_b035"]
 [Voice storage="b0125" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ん……ふぇ……、はぁ……あ、あああぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2243,7 +2243,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0153" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]結女……美味しそう……。素敵……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2258,7 +2258,7 @@
 [ExVoice1 storage="cex01"]
 [Face storage="f_c906"]
 [Voice storage="c0154" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ん…………、あふ……、はあぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2267,7 +2267,7 @@
 [ExVoice1 storage="cex02"]
 [Face storage="f_c906"]
 [Voice storage="c0155" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ふぁあ、柔らかくて……、甘い、唇……。ん……あふ……、はむ……ん……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2276,7 +2276,7 @@
 [ExVoice1 storage="cex01"]
 [Face storage="f_c906"]
 [Voice storage="c0156" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ああぁ、結女の……ヨダレ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2292,7 +2292,7 @@
 [ExVoice1 storage="cex07"]
 [Face storage="f_c906"]
 [Voice storage="c0158" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あ……あぁ……素……敵……。ンン……、ふぁ……は、あぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2306,7 +2306,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1403" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あぁ、し、舌……入れて……。結女と……希美乃……、いや、羅刹……[/v]）[KeyWait]
 [FaceOff]
 
@@ -2314,13 +2314,13 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1404" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]まだ……ボクだって、結女とキスしたことなんか……ないのに……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1405" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]羅刹の……キス……。ボクの唇を……奪った……[/v]）[KeyWait]
 [FaceOff]
 
@@ -2328,20 +2328,20 @@
 
 [Face storage="f_a060"]
 [Voice storage="a1406" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ち、違う……、ボクは、別に……一緒に、キス……したいわけじゃ、なくて……[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="cex08"]
 [Face storage="f_c906"]
 [Voice storage="c0160" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ん……あふ……。ふぁあ……。ん………………ッ。ふぁ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b035"]
 [Voice storage="b0126" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]あふ……、ふぁ…………、ん………………、ぷは………………[/v]」[KeyWait]
 [FaceOff]
 
@@ -2352,7 +2352,7 @@
 
 [Face storage="f_a039"]
 [Voice storage="a1407" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]お……女同士で、キス……なんてっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -2369,7 +2369,7 @@
 [UpDate]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]女同士の絡み見て興奮してんのかよ？　急に尻が指締め付けてきやがったぞ、とんだド変態だなっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2378,7 +2378,7 @@
 [ExVoice1 storage="aex61"]
 [Face storage="f_a050"]
 [Voice storage="a1408" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あ、うぅ……そ、んな……あ、ふあっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2386,24 +2386,24 @@
 
 [Face storage="f_a017"]
 [Voice storage="a1409" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]尻の、穴ぁ……指で……か、掻き回されてっ、気持ち良くて喘いじゃってるッ！[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a018"]
 [Voice storage="a1410" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふンンンンンンぅううっ！　はぁあっ！！　あひっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]こいつの錬気も、結構美味そうだっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]鬼斬姫なんて、クソみてえな味だろうって思ってたが……ッ。もっと、よがらせて錬気、絞り出してやるぜ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2418,7 +2418,7 @@
 [ExVoice1 storage="aex58"]
 [Face storage="f_a018"]
 [Voice storage="a1411" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひょへっ！？　ら、らめっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2427,7 +2427,7 @@
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a1412" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひあっ！！　ひ、広げるなあっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2438,7 +2438,7 @@
 [text]途端に膣口から、ぬめった蜜が溢れかえった。[KeyWait]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]汁ぅ～～～～～～～ッ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2456,27 +2456,27 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a018"]
 [Voice storage="a1413" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ンヒィイイイッ！　い、あ、はぁあああぁ――――ッ！！　あう、そんなっ、一度にィっ、ダメッ！　ふあああぁ……いっぱい、すぎる、はぅううううっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]膣穴へ代わる代わるに舌が埋まり込んで、膣口を弛まそうと舐め穿ってゆく。[KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]うへ～、すげえっ！　おまんこトロトロじゃねえか！！　なにか挿入して欲しくて、たまらねえって感じで蠢きまくってやがるっ[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex55"]
 [Face storage="f_a017"]
 [Voice storage="a1414" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あひっ！？　しょんにゃ、違……ふぇああああっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a1415" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]陰唇のひらひら……、い、弄られてるっ！　ひうっ、ああああぁ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -2484,28 +2484,28 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1416" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]くぅ～～、クリ……っ、剥かれちゃったっ！　感じ……すぎちゃうのにっ！！　舌ッ、たくさんで、転がされたら……ッッッ！[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex35"]
 [Face storage="f_a018"]
 [Voice storage="a1417" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁああっ、あっ、はぁひぃいいっ！　イッ、んぁああっ、だめっ、イッちゃ……ふッ、はぁあああぁ――――っ！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]理性が崩れるほどの快感が幾重にも押し寄せ続ける。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]こっちの穴もぐちょぐちょだぜ。うへ、ぽっかり肛門開きっぱなしで、中見えてやがる[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex54"]
 [Face storage="f_a018"]
 [Voice storage="a1418" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ンンッ！！　や、やぁあっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2520,12 +2520,12 @@
 [ExVoice1 storage="aex53"]
 [Face storage="f_a018"]
 [Voice storage="a1419" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぃいっ！　や……やだっ、ほぉおあぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]おいおい？　いまの変な音、もしかして屁でもこいたか？[/i]」[KeyWait]
 [FaceOff]
 
@@ -2534,7 +2534,7 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a017"]
 [Voice storage="a1420" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！！　ち、違う……ッ！　い、いまの……違うからっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2543,7 +2543,7 @@
 [text]それでいて心許ない緩み感が収まらず、うずうずと張りのある尻がくねって餓鬼どもの劣情を刺激する。[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]仕方ねえな、俺の指で栓してやるぞっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2559,7 +2559,7 @@
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a1421" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひんっ！？　ち、違う……ッ！　んっ、あ、やっ、ほあっ、うぉほぉおおおぁあああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2572,7 +2572,7 @@
 [ExVoice1 storage="aex55"]
 [Face storage="f_a017"]
 [Voice storage="a1423" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あふ……うぅううっ！　キツ……イィイッ、後ろ、穴ぁあああっ！！　……くあっ、太ッ！　だめ、え、爆ぜるッ！！　いぎっ！　んぅううううっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2585,7 +2585,7 @@
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a1424" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はひっ、だめ……こ、こんなのっ！　こんな、の……される、とおぉおおおおおおっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2596,12 +2596,12 @@
 [text]のたうつように子宮が脈打ち、水鉄砲のように愛液が飛沫を散らした。[KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]ケツ、入れられて、ますます感じてやがるっ、この鬼斬姫っ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]すげえなっ。次から次へと、汁、溢れかえってきやがるっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2610,7 +2610,7 @@
 [text]ぴちゃっ、じゅるじゅるずずずずずずっ、ずりゅ、ずりゅりゅ！！[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]お前らが汁啜ると、こっちがグイグイ締め付けてくるぜ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2621,18 +2621,18 @@
 [ExVoice1 storage="aex55"]
 [Face storage="f_a018"]
 [Voice storage="a1425" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぎっ！　あひっ！！　ん……ぐうっ！　ふぉああっ！！　ああ……お、尻ぃ……おまんこも、お、あ、イイィッ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]そうか、いいか！？　存分に楽しんでくれやっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a1426" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ふあ……違うっ、おなにーと、違うぅ……ッ！　もっと……あ、あ、あぁあ、奥ッ来てるぅっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -2648,14 +2648,14 @@
 [ExVoice1 storage="aex60"]
 [Face storage="f_a018"]
 [Voice storage="a1428" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ああ、こん……なっ、すごいっ！！　きもち、イイの、すご……ッッッィ。おんなぁ……おんなの、からだ……っ、うぁあああ、気持ちイイッ！　オ、オナニーなんか、比べものにならないくらい、き、気持ちイイッ！！[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a1429" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ああっ、子宮から……ク、クルッ！！　奥からぁ……な、なにか、大きいの……浮き上がってくるっ！　オナニーでっ、イクより……すごいの、来るっ……押し寄せるっ、来ちゃうッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2664,7 +2664,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a1430" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ひぅ……希美……乃ぉ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -2672,7 +2672,7 @@
 
 [Face storage="f_c910"]
 [Voice storage="c0161" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]うふ[Hearts][/v]」[KeyWait]
 [FaceOff]
 
@@ -2682,7 +2682,7 @@
 [ExVoice1 storage="aex55"]
 [Face storage="f_a060"]
 [Voice storage="a1431" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほあ……ッ！　ゆ……め、から、はにゃれ、ろぉ……。んひぅううっ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -2697,7 +2697,7 @@
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a1432" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぎっ！！　は、はわっ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -2705,7 +2705,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1433" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]な……？　や、あ、ああっ、これっ！　来るッ！　来ちゃうっ！！　ヒィッ、いっ、あああああぁッ、だぁあっ、ダメぇえええッ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -2716,7 +2716,7 @@
 [ExVoice1 storage="aex63"]
 [Face storage="f_a018"]
 [Voice storage="a1434" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]イッ、んんんぅ――ッ、ふぅあああああぁッ、イッッッッッ、クぅうッ、ハァアああぁ～～～～～ッッッッ！　ほぉおおおおおおあぁあああああああぁッッッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2726,12 +2726,12 @@
 [text]ぷじゅっ！　ぶじゅびゅううっ！！　びゅじゅじゅじゅっ！[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]うおおっ、イッたぞ、この男女ぁっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]しかも、ケツでイキまくってやがるっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2740,7 +2740,7 @@
 [ExVoice1 storage="aex05"]
 [Face storage="f_a018"]
 [Voice storage="a1435" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふ、う……、あ、はあッ、んあ、や……だめ、あ……も、漏れ……。ンンンンンッ、ハァアアッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2749,13 +2749,13 @@
 [text]じょろ～～～、じょぼっ、じょぼじょぼじょぼじょぼじょ――――っ！！[KeyWait]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]うひゃっ、こいつ、しょんべんまで漏らしやがったっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a1436" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]は……うぅ、おし、っこ……。んあぁっ、と、止まらないっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -2771,7 +2771,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1437" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボクに、だって……そのちんぽ……あれば、我慢……出来た……。ふぁああぁ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -2780,7 +2780,7 @@
 [ExVoice1 storage="aex06"]
 [Face storage="f_a018"]
 [Voice storage="a1438" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……ううっ！　ああ……ッ！！　んふぁあっ、あふっ、も、もぉ……。イキ……っぱなしで……、んはぁああっ！　くふ……うぅうううぅ……ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -2788,14 +2788,14 @@
 [text]情けなさに喘ぎながら、収まらぬ痙攣に乳房を弾ませる。その肢体へと、[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]小便よりもっと濃い汁、たっぷりくれてやるぜ！！　それっ、味わいなっ！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex33"]
 [Face storage="f_a017"]
 [Voice storage="a1439" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]いひぃいっ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -2815,7 +2815,7 @@
 [ExVoice1 storage="aex10"]
 [Face storage="f_a018"]
 [Voice storage="a1440" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぅううっ、はあっ、ああああああぁ――――ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2823,7 +2823,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a1441" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ひぅ……、こいつ……らぁ……。汚いの、こんなに、ぶ、ぶっかけ……て……[/v]）[KeyWait]
 [FaceOff]
 
@@ -2832,7 +2832,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a1442" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]く……ああ、イッちゃったあっ！　イッたら、だめ、なのにぃ。結女の、錬気……いっぱい、なっちゃ、う。結女……喰われ、ちゃう……[/v]）[KeyWait]
 [FaceOff]
 
@@ -2840,7 +2840,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a1443" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……ふ、ぁ、あ……結、女……ぇ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2852,7 +2852,7 @@
 [ExVoice1Stop]
 [Face storage="f_a039"]
 [Voice storage="a1444" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁっ！　あ、ああ……。はぁああああぁ……！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2875,13 +2875,13 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0162" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あぁ、なんて、素晴らしい……。こんなにも純粋で強力で濃密な錬気を溢れさせるなんて……。結女……あなたは、わたしがいままで出会ったどの鬼慰姫よりも素敵だわ[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1445" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]希……美乃……。いや、鬼……ッ。鬼神……、羅刹……童子……！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2890,19 +2890,19 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0163" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]遼にもお礼をいわなくちゃね。あんたが女の身体で、はしたなくイキまくってくれたおかげで、結女がこんなに美味しそうになった[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1446" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅ……ッ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
 [Voice storage="c0164" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]餓鬼たちには極上の快楽を与えたまま苦しませることなくあなたを喰らい尽くすように命じてあげるわ[/v]」[KeyWait]
 [FaceOff]
 
@@ -2915,7 +2915,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0165" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]さあ……、結女……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2927,7 +2927,7 @@
 
 [Face storage="f_a042"]
 [Voice storage="a1447" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]えっ！？　あ、ああああぁッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2939,7 +2939,7 @@
 
 [Face storage="f_a042"]
 [Voice storage="a1448" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]なっ、それ……、希美、乃……。なんで、そんな、ものっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2948,13 +2948,13 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0166" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]わたし、涅哩底王羅刹は鬼神。女であって男でもある存在だから[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a1449" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]お、おんな……で、お……おとこ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2963,13 +2963,13 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0167" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ごめんね～。遼が結女のこと好きなのは知ってたけど、わたしのこれで結女を犯しちゃう[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a1450" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]なっ！　そん……なっ。なにを……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2977,13 +2977,13 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0168" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]陰陽の交わりにて『鬼慰姫』を喰らい尽くすことこそが至上の愉悦。わたしを真の鬼神へと昇華させる儀式だから♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a1451" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]やめ……、やめろ……希美乃っ、お前結女と仲良かったのにっ！　そ……そんなので、結女を犯すなんてっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -2991,7 +2991,7 @@
 
 [Face storage="f_c910"]
 [Voice storage="c0169" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]“希美乃”はずっと遼のこと好きだったのに、遼ったら全然気付いてくれなくて、いつも結女のことばかり見てたから……[/v]」[KeyWait]
 [FaceOff]
 
@@ -2999,13 +2999,13 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0170" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]だ・か・ら、わたしが全部、壊してあげる♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a043"]
 [Voice storage="a1452" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]希美……、乃………………ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -3023,7 +3023,7 @@
 
 [Face storage="f_a045"]
 [Voice storage="a1453" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]やっ、やめろッ！　あ、ああああぁ…………ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -3031,7 +3031,7 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0171" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]んく……あふ、はぁ……結女の唇、カワイイ……。ああ、錬気、美味しそう……[/v]」[KeyWait]
 [FaceOff]
 
@@ -3040,7 +3040,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0172" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ん……はあ、気持ち、イイ……。これ、結女の中に、入れたら、すごく、イイだろうなぁ……。は、あん、あはぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -3050,7 +3050,7 @@
 
 [Face storage="f_b035"]
 [Voice storage="b0127" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]んふぅ……、ふぁ……は……あぁ……ん……[/v]」[KeyWait]
 [FaceOff]
 
@@ -3059,13 +3059,13 @@
 
 [Face storage="f_a069"]
 [Voice storage="a1454" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ボクのあそこには、ちんぽ、なくなっちゃったのに！　女の、あそこになっちゃったのにっ！！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a1455" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]なのに……、そのペニスで、結女を穢すだなんて、絶対にボクが許さないっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -3081,12 +3081,12 @@
 [UpDate]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]ぐふふ、鬼斬姫ぇ。俺らも楽しもうぜ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]絶頂のうちに喰らってやるぜ。せいぜい極上の錬気を生みだしなっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -3096,7 +3096,7 @@
 
 [Face storage="f_a043"]
 [Voice storage="a1456" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふざ、ける……なあっ！！　雑魚どもがぁああッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -3109,12 +3109,12 @@
 
 [Face storage="f_a058"]
 [Voice storage="a1457" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]どけぇえええっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【鬼Ｃ】[CR]
+【【Oni C】】[CR]
 「[i]ぐぉおおおおっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -3133,12 +3133,12 @@
 [UpDate]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
+【Oni B】[CR]
 「[i]このアマァああっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
+【Oni A】[CR]
 「[i]死に損ないのくせに錬気がっ！？　いいぜ、今度は俺様が腹一杯喰らってやるっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -3146,7 +3146,7 @@
 
 [Face storage="f_a058"]
 [Voice storage="a1458" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ハァアアッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -3174,13 +3174,13 @@
 
 [Face storage="f_a074"]
 [Voice storage="a1459" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]も、戻ったっ！　力が……。ボクの力だッ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a057"]
 [Voice storage="a1460" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]結女が危険だって思ったら……。結女を護らなくちゃって、思ったら……。頭、真っ白……なって……。すごい力が、身体の奥……からっ！[/v]）[KeyWait]
 [FaceOff]
 

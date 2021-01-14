@@ -72,7 +72,7 @@
 
 [Face storage="f_k002"]
 ÅyDadÅz[CR]
-Åu[i]T-They should be here soon, so just wait a little longer.Çª[/i]Åv[KeyWait]
+Åu[i]T-They should be here soon, so just wait a little longer.[/i]Åv[KeyWait]
 [FaceOff]
 
 [text]He sounded strangely stressed. His face looked tense, and he was unable to either look directly at or away his son, who had changed into a girl.[KeyWait]
