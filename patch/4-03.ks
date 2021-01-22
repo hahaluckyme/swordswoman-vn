@@ -1710,7 +1710,7 @@
 
 [text]I was relieved to see her wide, cheerful grin.[KeyWait]
 [text]But... Even though she was trying so hard to swim, she wasn't moving forward at all.[KeyWait]
-[text]She was in water so shallow she could stand, so it might have faster foer her to just walk over to me.[KeyWait]
+[text]She was in water so shallow she could stand, so it might have faster for her to just walk over to me.[KeyWait]
 
 
 ;šy•ªŠò2ziŒ‹—‚ğ‚Ç‚¤‚·‚é‚©j
