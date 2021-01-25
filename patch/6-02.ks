@@ -415,41 +415,41 @@
 [Face storage="f_a017"]
 [Voice storage="a1490" buf=2]
 【Haruka】[CR]
-「[v]んぐぅううっ、ふああっ、あ、お、おおおおっ！　こん、なっ。ぬ……抜けぇッ。抜い……てぇ。あああぁッ！！[/v]」[KeyWait]
+「[v]Nguuuuh, fwaah, ah, o-ooooh! N-No... P-Pull it out... Pull it... out! Aaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]抜いて欲しいんなら、何でこんなにケツ穴締め付けてきてんだよ！　錬気喰らうどころか、俺のちんこの方がお前のケツに喰われちまいそうだぜ！！[/i]」[KeyWait]
+「[i]If you want me to pull out, why are you squeezin' your asshole so tight!? I'm tryin' to devour your Renki, but at this rate, your asshole's gonna devour my dick![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a1491" buf=2]
 【Haruka】[CR]
-「[v]ひぃいううっ、だ、だってッ！　そんな……激し……く……ぅ、す、するからぁっ！！　も、もっと、優し……く……、お、あ、あ、あぁ、はぁ……ッ[/v]」[KeyWait]
+「[v]Hyiiiuuh, that's because... you're being... s-so rough! B-Be more... gentle... Oh, a-a-aah, haah...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]いちいち注文の多いクソ牝だなっ。ふんっ！[/i]」[KeyWait]
+「[i]You sure are a demanding slut, huh. Hmph![/i]」[KeyWait]
 [FaceOff]
 
 [SoundStop buf=7]
 [Sound storage="se185" buf=0]
 
-[text]ズッブンンンッ！！[KeyWait]
+[text]Squelch![KeyWait]
 
-[text]肛門ギリギリまで引き抜かれた極太を、叩き付けるような勢いで一気に根本までぶち込まれた。[KeyWait]
+[text]The oni pulled his thick member as close to being out as he could, then slammed it back in to the base all in one swift motion.[KeyWait]
 
 [ExVoice1 storage="aex62"]
 [Face storage="f_a018"]
 [Voice storage="a1492" buf=2]
 【Haruka】[CR]
-「[v]ぐっひっィイッ！！　ほぉおおおおぉうぅッ！[/v]」[KeyWait]
+「[v]Guhyiii! Hoooooouuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]強烈な擦れ感と、腸奥を殴打される衝撃が一塊になって襲ってきて、意識が弾き飛ばされた。[KeyWait]
+[text]The intense friction and the shock of his slamming his cock into my rectum attacked me both at once, sending my mind spinning.[KeyWait]
 
 [Sound storage="se113" buf=7 loop=true]
 
@@ -457,15 +457,15 @@
 [Face storage="f_a018"]
 [Voice storage="a1493" buf=2]
 【Haruka】[CR]
-「[v]ふぅ、う、うぅ……あああぁ、あぁ……、も、もお……。も……ぉ、だ、だめ……ぇ……[/v]」[KeyWait]
+「[v]Fuuh, u-uuh... Aaaah, aah... I-I can't... take... a-any mooore...[/v]」[KeyWait]
 [FaceOff]
 
-[text]灼熱に脳を焼かれ何も考えられず、白目を剥いて身を強張らせる。[KeyWait]
-[text]足がガクガクと震えてもう立っていられないのに、腰をしっかりと抱き締める鬼の腕が逃がしてくれない。[KeyWait]
+[text]My eyes were rolled back and all of my muscles held stiff. My mind was on fire and I couldn't focus on anything.[KeyWait]
+[text]Even though I wouldn't have been able to stand due to my shaky legs, the oni kept a firm grip on my hips to ensure I couldn't get away.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]ケツ突きまくられてすっかりメロメロだな。おかげでマンコの方もすっかり蕩けきってやがる。牝臭い匂いたっぷりさせてたまんねえぜ[/i]」[KeyWait]
+「[i]You're spacin' right out from havin' your asshole fucked. As a bonus, your pussy's totally loosened up, too. I can't get enough of that bitch scent comin' off of you![/i]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -476,87 +476,87 @@
 [Face storage="f_a042"]
 [Voice storage="a1494" buf=2]
 【Haruka】[CR]
-「[v]ふぇ……？　ん、あ、はうううっ！[/v]」[KeyWait]
+「[v]Fweh...? Nnh, ah, hauuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]腸奥を弾かれた衝撃に惚けていると、ボクの股間を覗き込みながら鬼がクンクンと匂いを嗅いでいた。[KeyWait]
-[text]弛みきった膣穴から愛液が止めどなく溢れ続けている。[KeyWait]
+[text]Another oni peeked at my crotch and took a whiff as I spaced out from having my rectum smashed.[KeyWait]
+[text]My wetness was still constantly flowing out of my fully-loosened pussy.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1495" buf=3]
 【Haruka】[CR]
-（[v]に、匂いって……ボクの、ココ……、そんな……臭くなってる……？[/v]）[KeyWait]
+（[v]S-Scent... Do I... really smell... that strongly down there...?[/v]）[KeyWait]
 [FaceOff]
 
-[text]自分では分からない。言いがかりかもしれない。けれども、恥ずかしくて狼狽えてしまう。[KeyWait]
+[text]I couldn't tell... but maybe that was just an excuse. The embarrassment was confusing me, making it hard to tell.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]ワレメがくっぱり開いちまって、おまけにビラビラがヒクヒクしっぱなしだぜ[/i]」[KeyWait]
+「[i]Your cunt's wide open, and your lips are twitchin' like crazy, too![/i]」[KeyWait]
 [FaceOff]
 
-[text]なのに鬼は、いちいちボクの女陰の状態を伝えてくる。[KeyWait]
+[text]Yet, the oni kept describing my genitals to me.[KeyWait]
 
 [ExVoice1 storage="aex37"]
 [Face storage="f_a018"]
 [Voice storage="a1496" buf=2]
 【Haruka】[CR]
-「[v]くぅ……うぅ～～～～～ッ！[/v]」[KeyWait]
+「[v]Kuuh... Uuuuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]意識すると余計に股間がジンジンと熱くなる。[KeyWait]
-[text]アナルに極太のペニスを挿入されているので、子宮が疼くのを堪えられない。[KeyWait]
+[text]Thinking about my crotch just made it even more hot and tingly.[KeyWait]
+[text]The extra-thick dick thrusting itself into my ass was making my womb's throbbing totally unbearable.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]辛そうだなあ！？　たっぷり気持ち良くしてもらったケツの穴が羨ましくてたまらねえんじゃないか？[/i]」[KeyWait]
+「[i]Your pussy doesn't seem very happy! Don't you think it's jealous of your ass for gettin' to feel so good?[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex36"]
 [Face storage="f_a018"]
 [Voice storage="a1497" buf=2]
 【Haruka】[CR]
-「[v]そん……なっ、そんなっ、ああっ、ち、違……ッ。んくぅ～～～～～～ッ！！[/v]」[KeyWait]
+「[v]No... way, aah, t-that's... Nkuuuuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a018"]
 [Voice storage="a1498" buf=3]
 【Haruka】[CR]
-（[v]耳を……貸しちゃ、だ、ダメ……だ。ああ、で、でも……[/v]）[KeyWait]
+（[v]I can't... listen to h-him... Aah, b-but...[/v]）[KeyWait]
 [FaceOff]
 
-[text]ズプズプと腸壁を摩擦する後ろの抽送が、思考を乱す。[KeyWait]
+[text]The rough thrusts into my rear hole were interrupting my thoughts.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a1499" buf=3]
 【Haruka】[CR]
-（[v]お、奥……ッ突かれる度……し、子宮が羨ましがってっ……膣壁、キュンと窄まっちゃうッ。ああ、ま、またっ。ンンぅううううぅ～～～ッ！[/v]）[KeyWait]
+（[v]E-Every time he thrusts deep... M-My womb gets jealous... and squeezes tight... Aah, n-not again... Nuuuuuuuuuh! [/v]）[KeyWait]
 [FaceOff]
 
-[text]その反応が全部表情に出ちゃっている。[KeyWait]
-[text]切なそうに顔をしかめるのを、鬼たちがちんぽ扱きながら、薄ら笑いを浮かべて見詰めていた。[KeyWait]
+[text]My reaction to the oni's thrusts was clearly visible on my face.[KeyWait]
+[text]I winced as I tried to endure the pleasure. The oni smirked at me as they stroked their dicks.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]困っているオンナノコ、ほっとくわけにはいかねえなあ。しょうがねえ。俺がこっちの牝穴も満足させてやるぜ！[/i]」[KeyWait]
+「[i]I can't just leave a troubled girl alone. Oh, well... Guess I'm just gonna have to satisfy this hole myself![/i]」[KeyWait]
 [FaceOff]
 
-[text]注がれる視線から逃れるように、こっちが固く目を閉ざして俯いていると、鬼が余計な申し出をしてきた。[KeyWait]
+[text]Upon seeing my squeeze my eyes shut to escape the gazes pouring onto me, the oni offered me his 'help.'[KeyWait]
 
 [ExVoice1 storage="aex61"]
 [Face storage="f_a017"]
 [Voice storage="a1500" buf=2]
 【Haruka】[CR]
-「[v]こ、困ってなんか……ない……からぁっ！　ほ、ほっといて……[/v]」[KeyWait]
+「[v]I-I'm not... troubled! L-Leave me alone...[/v]」[KeyWait]
 [FaceOff]
 
-[text]驚いて拒もうとすると、[KeyWait]
+[text]Taken aback, I tried to turn him down, but...[KeyWait]
 
 [SoundOut buf=7 time=500]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]そーらよっと！[/i]」[KeyWait]
+「[i]Here you go![/i]」[KeyWait]
 [FaceOff]
 
 ;ＣＧ１９(ev604)：鬼たちに輪姦されるはるか
@@ -568,34 +568,34 @@
 [Face storage="f_a018"]
 [Voice storage="a1501" buf=2]
 【Haruka】[CR]
-「[v]ふぁあああぁあああっ！[/v]」[KeyWait]
+「[v]Fwaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]背後の鬼に、アナルに挿入されたまま持ち上げられてしまった。[KeyWait]
-[text]しかも、両脚を後ろから抱えられて開帳させられた、子供におしっこさせるようなポーズで。[KeyWait]
+[text]The oni thrusting into my ass from behind lifted me up.[KeyWait]
+[text]Then, he spread both of my legs open. It was like the pose you put young children in when you're trying to make them pee.[KeyWait]
 
 [ExVoice1 storage="aex58"]
 [Face storage="f_a042"]
 [Voice storage="a1502" buf=2]
 【Haruka】[CR]
-「[v]ああっ、こんなっ……お、下ろせっ！！[/v]」[KeyWait]
+「[v]Aah, don't... P-Put me down![/v]」[KeyWait]
 [FaceOff]
 
-[text]これはいくら何でも恥ずかしすぎる。しかもこれだと、肛門に怒張が刺さっているところまで丸見えになっちゃう。[KeyWait]
-[text]案の定、鬼たちの視線がそこに集中した。[KeyWait]
+[text]This was way too embarrassing. They'd be able to see the oni's member stabbing into my ass like this.[KeyWait]
+[text]And just as expected, the oni all directed their gazes there.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a1503" buf=3]
 【Haruka】[CR]
-（[v]あああっ、み……見てるッ！　肛門、ちんぽにズップリされてるの、見られちゃってる。うぅぅ……おまんこからぁ……あ、愛液ぃ、また……溢れちゃうし……。あ、ああ……だめ、子宮、疼くぅッ！！　気分……変に、なる……ッ！[/v]）[KeyWait]
+（[v]Aaah, t-they're... looking! They're looking at me his dick sliding into my butt... Uuuuh... My j-juices are... leaking out of my pussy again, too... A-Aah... No, my womb's throbbing! I feel... so weird...![/v]）[KeyWait]
 [FaceOff]
 
-[text]身体がすぐに反応しちゃうのを、一切どうにも出来ない。[KeyWait]
-[text]一生懸命理性を保とうとしているのに、愛液まみれでヌメった花弁がくぱぁっと広がって、物欲しげに収縮を繰り返す膣口を丸見えにした。[KeyWait]
+[text]I could do absolutely nothing about how quickly my body reacted.[KeyWait]
+[text]Though I was desperately trying to keep hold of my sense of reason, my soaking wet folds spread themselves wide and lustfully contracted repeatedly, exposing the inside of my pussy for all to see.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]もう待ちきれないみたいだな。すぐ楽にさせてやるぜ！！[/i]」[KeyWait]
+「[i]Looks like you can't wait any longer. I'll make it all better, then![/i]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -606,20 +606,20 @@
 [Face storage="f_a017"]
 [Voice storage="a1504" buf=2]
 【Haruka】[CR]
-「[v]待ッ、て……こ、これ、違……ッ、ふぁああっ！[/v]」[KeyWait]
+「[v]W-Wait... N-No, this is... Fwaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]慌てて止めようとした。けれども間髪入れずに、鬼の怒張は飢えて蠢く膣口へ押し当てられてしまった。[KeyWait]
+[text]I immediately tried to do something to stop him, but within an instant, the oni had pressed his throbbing rod against my starving, wriggling entrance.[KeyWait]
 
 [ExVoice1 storage="aex64"]
 [Face storage="f_a018"]
 [Voice storage="a1505" buf=2]
 【Haruka】[CR]
-「[v]はぁああうっ！　んあっ、くぅ、ふぅううっ！！　ひんッ、おおああっ！！[/v]」[KeyWait]
+「[v]Haaaauh! Nhah, kuuh, fuuuuh! Hyihn, oowaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]理性も自制心も何の役にも立たなかった。[KeyWait]
-[text]亀頭がヌメった粘膜に触れた途端、甘美に身体も頭も染められて全身が激しい震えに見舞われた。[KeyWait]
+[text]My sense of reason and self-control were of no help.[KeyWait]
+[text]The instant the oni's cockhead touched my slippery membrane, my body and mind were dyed the color of sweet pleasure as I shook hard all over.[KeyWait]
 
 ;a1506
 ;[ExVoice1 storage="aex64"]
@@ -628,53 +628,53 @@
 [Face storage="f_a018"]
 [Voice storage="a1507" buf=3]
 【Haruka】[CR]
-（[v]ほぁあおおぁっ、これ……しゅご……ひぃ。さ、先っぽ、だけで……頭、飛んだぁああぁ……ッ[/v]）[KeyWait]
+（[v]Hwaaoowah... W-Wow... Just the tip... made my mind go blaaaaank...[/v]）[KeyWait]
 [FaceOff]
 
-[text]もっと奥へと膣全体で陰茎を大歓迎している。[KeyWait]
-[text]尻穴への刺激がすっかり女陰を羨ましがらせていた。子宮が待ちきれないと、激しく脈打つ。[KeyWait]
+[text]My entire pussy was happily welcoming the oni's phallus inside.[KeyWait]
+[text]The stimulation in my ass had made my pussy totally jealous. My womb throbbed intensely, unable to wait any longer.[KeyWait]
 
 [ExVoice1 storage="aex61"]
 [Face storage="f_a017"]
 [Voice storage="a1508" buf=2]
 【Haruka】[CR]
-「[v]くお、お、ほ……、お……ん、ぁああっ。く……ふぅうっ！[/v]」[KeyWait]
+「[v]Kwoh, oh, hoh... Oh... Nnh, aaah... Kuh... Fuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]自分から腰を迫り出すのだけは堪えたが、何のことはない。そうすると、アナルのペニスが抜けちゃうからだ。[KeyWait]
+[text]I was at least able to hold back from shaking my own hips if I wanted, but that did nothing for me. It made it feel like the cock in my ass was going to slip out, after all.[KeyWait]
 
 [ExVoice1 storage="aex61"]
 [Face storage="f_a050"]
 [Voice storage="a1509" buf=2]
 【Haruka】[CR]
-「[v]はぁあぁ～～、んあ、く……ふぁああ、ふぅうううっ、んくぅ……はう、あ、はぁあ、はぅ、あああぁ……[/v]」[KeyWait]
+「[v]Haaaaaah, nhah, kuh... Fwaaah, fuuuuuh, nkh... Hauh, ah, haaah, hauh, aaaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]どこまでも淫乱にされてしまった女体に抗えず、男の意識と快感への欲望の狭間で荒い息が弾む。[KeyWait]
+[text]My awareness of the oni and strong drive for pleasure made my breathing rough. I was unable to fight back against how dirty my body had become.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]先っぽだけで、もうイキそうだな。って、おい、お前、処女なのか！？　こんな、淫乱なくせに、まだ入れられたことないとはな[/i]」[KeyWait]
+「[i]Looks like just the tip's almost enough to make you cum... Hey, wait a sec, you're a virgin!? You've never had a dick in you even though you're this much of a slut!?[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex57"]
 [Face storage="f_a060"]
 [Voice storage="a1510" buf=2]
 【Haruka】[CR]
-「[v]んくっ！　そ、そう……ボク、まだ……。だ、だって、男、だから……なのに、鬼斬……姫、なっちゃった、から……。だか……ら、や、やめ……[/v]」[KeyWait]
+「[v]Nkh! T-That's right... I-I'm still... a-a guy, after all... I just turned into the Oni-Cutting... Princess... S-So... stop...[/v]」[KeyWait]
 [FaceOff]
 
-[text]奥まで押し込もうとする鬼だが、ペニスはすぐに処女膜に当たって止まった。[KeyWait]
-[text]初めてなのに感じまくりなのを呆れられて恥ずかしいけれど、男だったのをアピールすれば、萎えてくれるかもしれない。だけど――。[KeyWait]
+[text]The oni tried to push himself in deeper, but his penis came to a stop when it hit my hymen.[KeyWait]
+[text]The oni being surprised about how good I was feeling during my first time made me feel humiliated, but bringing up being a guy had a chance of making him go soft. But...[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]元のお前なんか知ったことじゃねえぜ。いまのお前は淫乱処女牝なうえに、鬼慰姫を護れなかった役立たずの鬼斬姫だ！[/i]」[KeyWait]
+「[i]I couldn't care less about the original you! Right now, not only are you a slutty virgin bitch, but you're an Oni-Cuttin' Princess who just failed to protect the Oni-Pleasin' Princess![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]残った錬気も全部俺らが喰らってやるから、せいぜい何度でもイッて、よがり狂いやがれっ！！　ふんっ！[/i]」[KeyWait]
+「[i]I'm gonna eat all the Renki you've got left, so go on, cum like crazy over and over again! Hmph![/i]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se159" buf=0]
@@ -682,27 +682,27 @@
 [CgSet storage="EV604c"]
 [UpDate]
 
-[text]ずっ、ぶ……ッ、ブヂィイッ！！[KeyWait]
+[text]Slide... Squelch![KeyWait]
 
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a1511" buf=2]
 【Haruka】[CR]
-「[v]ひぐぅっ！　く……ぅ、うううぅ、ハァアアァッ！！　ふぁああっ、ツぅううァああああぁっ！[/v]」[KeyWait]
+「[v]Hyiguuh! Kuh... U-Uuuuh, haaaaaah! Fwaaah, uuuwaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]無理矢理に怒張を突き込まれて、処女膜が乱暴にぶち破られた。[KeyWait]
+[text]The oni shoved his cock inside me and tore right through my hymen.[KeyWait]
 
 [Face storage="f_a018"]
 [Voice storage="a1512" buf=3]
 【Haruka】[CR]
-（[v]い、痛いィイッ！　こんな、痛い……なんてっ！！　これが……女の、初めて……ッ。処女……失った、痛み……ッ[/v]）[KeyWait]
+（[v]I-It huuurts! I can't believe... it hurts this much! So this is how it feels... for a girl to lose her virginity...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a018"]
 [Voice storage="a1513" buf=3]
 【Haruka】[CR]
-（[v]ああ、ボク、男……なのにッ！　処女、奪われた……。鬼に……乱暴に、犯されたッッッ！！　結女も……こんな、目に……ッ！？[/v]）[KeyWait]
+（[v]Aah, I had my my virginity taken... even though I'm a guy! I'm being raped... by an oni! Is this going to happen... to Yume, too...!?[/v]）[KeyWait]
 [FaceOff]
 
 [text]股間を撃ち抜かれたような激しい痛みに襲われ、アナルを犯された時とは大違いな、狂おしい喪失感に苛まれた。[KeyWait]
@@ -711,7 +711,7 @@
 
 [Sound storage="se160" buf=1]
 
-[text]ズブズブズブ、ヌブブズブズブッ、ズッブンンッ！[KeyWait]
+[text]Squelch, squelch, squelch![KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV604d"]
@@ -721,92 +721,92 @@
 [Face storage="f_a018"]
 [Voice storage="a1514" buf=2]
 【Haruka】[CR]
-「[v]ふぁああっ、あ、ああああぁッ！　来るッ、なか来るぅうっ……き、キタ、来ちゃった……！　あ、ふぁ、あああぁ、はぁあああああぁンンッ！！[/v]」[KeyWait]
+「[v]Fwaaah, a-aaaaah! It's going, it's going insiiide... H-Here it is...! Ah, fwah, aaaah, haaaaaaaahn![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se135" buf=0]
 
-[text]ぷじゅっ、びじゅっ、ぶじゅじゅじゅじゅぅ。[KeyWait]
+[text]Squelch, squelch, squeeelch...[KeyWait]
 
-[text]初めての挿入で破瓜の痛みもあるというのに、アナル以上に膣穴は易々と男根を受け入れてしまった。[KeyWait]
-[text]窄まる膣を押し広げて襞を刮げる固い感触に、震えが止まらない。[KeyWait]
-[text]奥底にたどり着いた切っ先にズンと突き上げられ、子宮が感極まって熱汁を吐きこぼす。[KeyWait]
+[text]Getting deflowered my have hurt, but my pussy had still welcomed a dick more easily than my ass had.[KeyWait]
+[text]I couldn't stop shaking from the sensation of the oni's hard cock stretching out and scraping against my walls as they squeezed in on it.[KeyWait]
+[text]The oni's dick reached the end of the road and its tip bumped against my womb, making it shudder with pleasure and spit out more of its hot juices.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a1515" buf=3]
 【Haruka】[CR]
-（[v]ひ、ぎぃ……ちんこ、入ってる……ぅ、ボク、おとこ……なのに、おとこの、ちんこ……入ってるぅ……。おとこ、なのに……おまんこに……ちんこ、入れられちゃったッ！[/v]）[KeyWait]
+（[v]Hyigii... There's a dick, inside me... I'm, a guy... but I've got, a guy's dick... inside me... I'm a guy... but I've got, a dick, in my pussy![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]すげえ締め付けだな。入れただけでこんなに歓迎してくれるなんて、よっぽど飢えてやがったんだな！！[/i]」[KeyWait]
+「[i]You sure are tight! Your pussy's givin' me one hell of a warm welcome, though! Just how starved were you!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]おおっ、ケツの方も締まりがますますすごくなったぞ。襞がちんぽに、絡みついてきやがる！[/i]」[KeyWait]
+「[i]Ooh, her ass just got tighter, too. It feels like its walls are wrapping right around my cock![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex58"]
 [Face storage="f_a018"]
 [Voice storage="a1516" buf=2]
 【Haruka】[CR]
-「[v]だ……ってぇ……。あ、穴ぁ……両方、ちんぽ……入れちゃう……からぁ……。もう……だめに、なっちゃう……からぁ……こ、こんなの……ふぅううっ！　んぁああっ！！[/v]」[KeyWait]
+「[v]T-That's because... you've got dicks... in both holes... I... can't beat this... It's too much... Fuuuuh! Nhaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se158" buf=1]
 
-[text]ぬじゅる、ぐちゅり[KeyWait]
+[text]Squelch, squelch![KeyWait]
 
 [ExVoice1 storage="aex63"]
 [Face storage="f_a018"]
 [Voice storage="a1517" buf=2]
 【Haruka】[CR]
-「[v]ひあっ、はっ、あ、あああぁッ[/v]」[KeyWait]
+「[v]Hyah, hah, a-aaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]一つだけでも存在感に理性が危うくされるのに、二ついっぺんになんて対抗出来るわけがない。[KeyWait]
-[text]もう早速、意識がふわりと希薄になって、勝手に腰がくねっと蠢いてしまった。[KeyWait]
+[text]Just one dick's presence was enough to endanger my sense of reason, but there was no way I could resist when faced with two at once.[KeyWait]
+[text]My mind had already become weak, resulting in my hips moving on their own.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]やる気満々じゃねえかっ！[/i]」[KeyWait]
+「[i]Look, you're [ita]totally[endita] into this![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]錬気が枯れ果てるまで、イキ狂わせてやるぜ！！[/i]」[KeyWait]
+「[i]I'm gonna make you cum like mad until your Renki's all dried up![/i]」[KeyWait]
 [FaceOff]
 
-[text]自分の動きで二穴が抉られ、また両方の怒張を締め付けてしまった。[KeyWait]
+[text]My own movements made the dicks scrape against both my holes' walls as they squeezed down on them.[KeyWait]
 
 [Sound storage="se167" buf=7 loop=true]
 
-[text]興奮に打ち震えながら、前後からボクを挟み込んで犯す鬼たちが、息を合わせて激しいストロークを繰り出してきた。[KeyWait]
+[text]I shuddered with excitement as the oni in front of and behind me quickly thrust in sync.[KeyWait]
 
-[text]ぬぶっ、ずぼっ、ずぶぶっ、ぬっじゅっ、ぐっじゅっ、ずぷんっ、ずぶっ！[KeyWait]
-[text]ずむっ、ぎちゅ、ぶずぶず、ずっぶんっ、ぬずぶずん、ずむずむ、ずぶっ！！[KeyWait]
+[text]Thwap, thwap, thwap, schwap, schwap, thwap, thwap![KeyWait]
+[text]Thwap, thwap, thwap, thwap, thwap, thwap, thwap![KeyWait]
 
 [ExVoice1 storage="aex64"]
 [Face storage="f_a018"]
 [Voice storage="a1518" buf=2]
 【Haruka】[CR]
-「[v]ほぉおっ、おぅ、あああ、ふぇあああっ、んぁひぃいっ、ふあっ、う……ッ、くぅうううぁあああはぁぁッ！！[/v]」[KeyWait]
+「[v]Hoooh, ouh, aaah, fweaaah, nhahyii, fwah, uuh... Kuuuuuaaaahaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]二つの穴へと同時に極太の勃起が入ってきて、激しく襞壁を擦り、子宮と腸奥を突き上げる。[KeyWait]
-[text]乳首をコチコチに充血させながら房肉はとろとろに柔らかくなったおっぱいを弾ませて、突かれる度に身体が仰け反りながら跳ね上がる。[KeyWait]
+[text]The two super-thick dicks scraped hard against my walls, pushing against both my womb and the back of my rectum.[KeyWait]
+[text]Every thrust made me arch my body backwards, making my soft, melted boobs and their stiff, swollen nipples jiggle.[KeyWait]
 
 [ExVoice1 storage="aex65"]
 [Face storage="f_a017"]
 [Voice storage="a1519" buf=2]
 【Haruka】[CR]
-「[v]はぁあああぁッ、おしりぃいっ！　ふぇえ、おまんこ……もぉお、こ……こんな、され……たら、変ッ、なっちゃうっ！！　狂ッ…………ちゃう、からあぁあっ！[/v]」[KeyWait]
+「[v]Haaaaaah, my buuutt! Fweeh, and my pussy... I'm... g-gonna go crazy! I'm really... gonna go crazyyyy![/v]」[KeyWait]
 [FaceOff]
 
-[text]膣と腸の間の壁越しに、二本のペニスがぶつかり合って、その衝撃に意識が何度も点滅した。[KeyWait]
-[text]ほんと、狂っちゃいそうだ。[KeyWait]
+[text]The two cocks bumped against each other through my walls, the shock of which was enough to my mind flicker on and off.[KeyWait]
+[text]I really did feel like I was about to go crazy.[KeyWait]
 
 [ExtasyF]
 
@@ -818,19 +818,19 @@
 [Face storage="f_a018"]
 [Voice storage="a1520" buf=2]
 【Haruka】[CR]
-「[v]ふあ、や、来ちゃうッ。こんなの、イクッ、ひぃいぅううっ、イッ、イクゥウウッ、あ、あ、んぁ、ああっ、～～～～～～～～～～ッ、ふぇあああああああぁ――――――――ッ！！[/v]」[KeyWait]
+「[v]Fwah, no, it's coming... I'm, I'm cumming, hyiiiuuuh, I-I'm cummiiiing, ah, ah, nhah, aaaaaaaaaaaah, fweaaaaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [ExtasyCount]
 [Sound storage="se135" buf=0]
 
-[text]ぷじゅっ、ぶじゅじゅうるるっ、ぷしゃぁああああぁッ！[KeyWait]
+[text]Squirt, squiiirt, squiiiiiirt![KeyWait]
 
-[text]あっという間に意識がはね上げられてしまった。達した衝撃にガクガクと打ち震えて、尿口から歓喜の潮汁をぶちまける。[KeyWait]
+[text]My consciousness had risen to the skies with an instant. My climax made my body shake and shudder as I sprayed my salty, happy juices out of my urethra.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]もう早速イキやがったぜ。さすが鬼淫乱姫だ！[/i]」[KeyWait]
+「[i]She came already! Yep, that's the Oni-Fuckin' Princess for you![/i]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -841,17 +841,17 @@
 [Face storage="f_a049"]
 [Voice storage="a1521" buf=2]
 【Haruka】[CR]
-「[v]くぅ……ううぅ……。あぁ……[/v]」[KeyWait]
+「[v]Kuh... Uuuuh... Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]変なあだ名を付けられて嘲られるけれど、言い返す言葉を纏めることも出来ず、ただ弱々しく呻く。[KeyWait]
+[text]All I could muster in response to the oni's mockery and weird nickname were feeble grunts.[KeyWait]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]こっちはまだまだ犯り足りねえんだ。何度イこうが、止めてやれねえぜ！！[/i]」[KeyWait]
+「[i]We haven't had enough fuckin' yet, though. We aren't stoppin' no matter how many times you cum![/i]」[KeyWait]
 [FaceOff]
 
-[text]その言葉通り、二人のストロークは勢いが緩む様子もない。[KeyWait]
+[text]Just as the oni said, their strokes showed no signs of slowing.[KeyWait]
 
 [Face storage="f_r003"]
 【Oni C】[CR]
