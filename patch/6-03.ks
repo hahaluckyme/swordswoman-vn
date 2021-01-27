@@ -8,11 +8,11 @@
 
 [Face storage="f_a007"]
 [Voice storage="a1549" buf=2]
-【はるか】[CR]
-「[v]はぁあああああっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Haaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]身体に満ちた膨大な錬気を、ボクは掌へと集中させた。[KeyWait]
+[text]I focused the enormous Renki filling my body into my fist.[KeyWait]
 
 [Sound storage="se009" buf=0]
 
@@ -21,40 +21,40 @@
 
 [Face storage="f_a026"]
 [Voice storage="a1550" buf=2]
-【はるか】[CR]
-「[v]おぉおおおおおっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Oooooooh![/v]」[KeyWait]
 [FaceOff]
 
-[text]目映ゆい錬気の輝きがボクの手の中で、血の色をした刃幅の広い大太刀となる。[KeyWait]
+[text]After a blinding flash of Renki, a large, wide-bladed, blood-red sword appeared in my hand.[KeyWait]
 
 [Sound storage="se219" buf=1]
 
-[text]その柄を握り締めると、ボクの頭の中に鬼と戦う術が流れ込んできた。[KeyWait]
+[text]The moment I gripped its hilt, the necessary skills to fight against oni flowed into my mind.[KeyWait]
 
 [Face storage="f_c904"]
 [Voice storage="c0177" buf=2]
-【羅刹童子】[CR]
-「[v]鬼斬りの太刀……、斬鐘……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]The Oni-Cutting Blade... Zanshou...[/v]」[KeyWait]
 [FaceOff]
 
-[text]さすがの鬼神も、妖しい瘴気を漂わせる禍々しい魔剣に緊張を高めた。[KeyWait]
+[text]Even the kijin seemed nervous when faced with my sword, which had an ominous miasma flowing out of it.[KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
-「[i]く、くそお……、何が、お、鬼斬りの太刀だっ！[/i]」[KeyWait]
+【Oni A】[CR]
+「[i]S-Shit... What the hell, i-it's the Oni-Cutting Blade![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
-「[i]そんなもの、恐くねえぜ！　とっとと俺のチンポしゃぶりやがれ！！[/i]」[KeyWait]
+【Oni B】[CR]
+「[i]I ain't scared of that! C'mon, hurry up and suck my dick![/i]」[KeyWait]
 [FaceOff]
 
-[text]一瞬怯みながらも、餓鬼どもは大声を張り上げながら襲いかかってくる。[KeyWait]
+[text]After looking worried for a second, the gaki all shouted and attacked me.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1551" buf=2]
-【はるか】[CR]
-「[v]結女を狙う鬼どもめ！　この斬鐘の刃がお前たちを斬り滅ぼすっ！！　覚悟ッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Foolish oni who dare to target Yume! I'll destroy you with Zanshou's blade! Prepare yourselves![/v]」[KeyWait]
 [FaceOff]
 
 ;★【分岐4】（羅刹へ攻撃？　雑魚鬼を攻撃？）
@@ -64,8 +64,8 @@
 ;Ｂ餓鬼を攻撃。【6-6 正規ルートへ】[CR]
 
 [SelectStart option=2]
-[SelectOption target=*選択肢１ａ num=1 text="『羅刹童子を攻撃する』"]
-[SelectOption target=*選択肢１ｂ num=2 text="『餓鬼を攻撃する』"]
+[SelectOption target=*選択肢１ａ num=1 text="Attack Rasetsu Douji"]
+[SelectOption target=*選択肢１ｂ num=2 text="Attack the gaki"]
 [SelectEnd]
 
 *選択肢１ａ
