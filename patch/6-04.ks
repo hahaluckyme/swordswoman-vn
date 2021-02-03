@@ -1588,108 +1588,108 @@
 ;b0208
 ;「んぶふっ！　ふぐっ　んあおおおおぉっ！　はむんっ！　んぐっ！　ふっ！　んむぐうぅ！　んごほっ！　ほふっ！　んぐっ！　ふっ！　ふううぅんぐっ！　はふうぅん！　おごほおおっ！　ふむぐっ！　ふごほおおおっ！」
 
-[text]腸壁を刮げられる激感に顔を強張らせながら、必死にペニスを口から吐き出さないように堪える。[KeyWait]
-[text]その間にも、膣を犯す極太は結女の悦楽を頂点へと押し上げるように子宮を弾き続ける。[KeyWait]
+[text]Yume desperately tried to not spit the oni's cock out of her mouth as her face tightened up from the extreme stimulation of having her rectum scraped at.[KeyWait]
+[text]At the same time, the massive shaft violating her pussy was continuously smacking against her womb, pushing her closer toward climax.[KeyWait]
 
 [Sound storage="se130" buf=0]
 [QuakeScreen time=500 vmax=5 hmax=5]
 
-[text]ズブンッ！[KeyWait]
+[text]Squelch![KeyWait]
 
 [ExVoice1 storage="bex12"]
 [Face storage="f_b023"]
 [Voice storage="b0209" buf=2]
 【Yume】[CR]
-「[v]ふごぉ、おぁ、ああああぁッ！！　い、いや……ああぁ……。お、お尻ぃにもぉ……ッ。くふぁ、あ、あぁ……りょ、両方、入っひゃっへるぅ……。おひんひん……、わらしの、なかぁ……ああぁ……[/v]」[KeyWait]
+「[v]Fugooh, owah, aaaaah! N-No... Aaah... M-My butt... Kufwah, a-aah... There's one, in both holes... Dicksh... Inshide meee... Aaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]二穴を完全に満たされた衝撃に、結女が白目を剥いて打ち震えた。[KeyWait]
+[text]Yume's eyes went white as she shuddered at the sheer impact of having both her holes filled.[KeyWait]
 
 [Face storage="f_r003"]
 【Oni C】[CR]
-「[i]こいつ、ケツ穴も初めてだろ！？　あっさりとくわえ込んじまったし早速絡みついてきたし、そうとは思えねえケツ穴名器っぷりだぜ。くそお、漲るぜっ！[/i]」[KeyWait]
+「[i]It's her first time takin' it in her ass too, right!? You wouldn't think so with how easy it went and and how tight she's squeezin'! I'm gettin' turned on, damnit![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex36"]
 [Face storage="f_b022"]
 [Voice storage="b0210" buf=2]
 【Yume】[CR]
-「[v]ら、らめ、もう……変、なっひゃう……。りょ、遼ひゃん、見ふぇるのにぃ……。ああ、も、もお…………ンクウウッ！！[/v]」[KeyWait]
+「[v]N-No... I feel weird... R-Ryou-chan's watching... Aah, I-I... Nhkuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]ずぷっ！　にゅぷ、ぬぶぶっ、ぬじぃ！[KeyWait]
+[text]Schwap! Schwap, schwap, schwap![KeyWait]
 
 [ExVoice1 storage="bex37"]
 [Face storage="f_b023"]
 [Voice storage="b0211" buf=2]
 【Yume】[CR]
-「[v]ふぁあああ、らめえっ！　ちゅぱぁ♪　う、動くの……れろろ……、ら、らめえっ！！　はぐうっ！　んぶふっ！　ふむぅっ！　むぐふううぅっ！[/v]」[KeyWait]
+「[v]Fwaaaah, nooo! Suck! ♪ S-Stop... Lick... M-Moviiing! Haguuh! Mbh! Fmh! Mgfuuuuh![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex12"]
 [Face storage="f_b023"]
 [Voice storage="b0212" buf=2]
 【Yume】[CR]
-「[v]ひあっ、ふっ、はぁんっ……お、お尻ぃッ！　んく、じゅるるっ……んくっ、んくっ、ぷはぁ。ひうっ、お尻ぃ、変、なっちゃふッ、おあ、あ、ちゅぱっ、ちゅるるぅ――ッ。はんっ！　ああああっ！！[/v]」[KeyWait]
+「[v]Hyah, fuh, haahn... M-My butt! Mkh, slurp... Mkh, mkh, pwaah... Hyuh, my butt feels weird, owah, ah, suck, sluuurp... Hahn! Aaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]鬼どもに寄ってたかって淫靡なことをされまくったからなのに、それを罵りながら直腸への激しいストロークが開始される。[KeyWait]
-[text]その途端、まるで鬼の言い分が正しいと証明するかのように、結女が艶めかしい喘ぎをこぼして悶え狂った。[KeyWait]
+[text]The gang of gaki had already done so much lewd things to Yume, but now the one behind her began roughly thrusting into her rectum as it slung insults at her.[KeyWait]
+[text][KeyWait]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]うおっ！　こいつ、ケツ穴、突き込まれた途端、締め付け、すごく……なりやがったっ！！[/i]」[KeyWait]
+「[i]Uwoh! The second you thrust into her ass, she got... really fuckin' tight![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]俺のチンポも、この女、食っちまいそうな勢いで吸い付いてやがるっ！[/i]」[KeyWait]
+「[i]She's suckin' on my dick like she's gonna eat it, too![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex36"]
 [Face storage="f_b023"]
 [Voice storage="b0213" buf=2]
 【Yume】[CR]
-「[v]ひうっ！　ち、違ふ……ッ。ら、らっへ、変に、なるふぁらっ。身体ぁ、変になっへ、きひゃうからぁっ！！　んっ、あああっ、や、やら……ッ。いや、なのにぃ……んあ、あお……ふぉんなのぉ！　はぐぅ、んくぁあああっ！！[/v]」[KeyWait]
+「[v]Hyuh! Y-You're wrong... I-I just, feel weird. My body, feeling really weird! Nnh, aaah, n-no... I hate this, but... Nhah, awoh... But... Haguuh, nkwaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex37"]
 [Face storage="f_b023"]
 [Voice storage="b0214" buf=2]
 【Yume】[CR]
-「[v]んほあああぁっ！　ンンンンンッ、うぅッ、はぁああああああぁ～～～～～～～～ッ！！[/v]」[KeyWait]
+「[v]Nhwaaaah! Nnnnnnh, uuuh, haaaaaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]ぬぶっ、じゅぷっ、ぬぶっ、じゅぷっ！！　ずぼっ、ズボッ、ズッポォオッ！[KeyWait]
+[text]Schwap, schwap, schwap, schwap! Schwap, schwap, schwap![KeyWait]
 
-[text]結女がどれだけ堪えようとしても、二穴を弄ばれる快感が身体を淫らに突き動かしてしまう。[KeyWait]
-[text]ボクを庇うために仕方がなく口に咥えているペニスも、ドスケベなチンポ好き女が嬉しがってしゃぶっているようにしか見えない。[KeyWait]
+[text]No matter ho hard she tried to resist, Yume couldn't help but thrust her hips in response to both of her holes being pleasured.[KeyWait]
+[text]Even as she sucked on an oni's dick to protect me, I couldn't help but see her as a cock-loving slut who was enjoying herself.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1587" buf=3]
 【Haruka】[CR]
-（[v]テレビのキスシーン見ただけで、顔真っ赤になっちゃうような子、なのに……ッ[/v]）[KeyWait]
+（[v]And to think that she was the kind of girl to blush from watching a couple kiss on TV...[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex12"]
 [Face storage="f_b023"]
 [Voice storage="b0215" buf=2]
 【Yume】[CR]
-「[v]ひうううっ、いやぁあああっ！　んふぁああっ、ら、らめぇえっ！！　んくっ、ちゅぱっ、ちゅぱちゅぱぢゅるるるるちゅぱっ！　くひっ！！　んくぅううううっ、はぁああああああぅッ！[/v]」[KeyWait]
+「[v]Hyuuuh, nooooo! Nfwaaah, d-dooon't! Mkh, suck, suck suck sluuuuurp suck! Kuhyi! Mkuuuuuh, haaaaaaaauh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r004"]
 【Oni D】[CR]
-「[i]す、すげえ。牝穴両方突きまくられてエロエロじゃねえか、この鬼慰姫！！[/i]」[KeyWait]
+「[i]W-Whoa... The Oni-Pleasin' Princess turned into a total slut from havin' both holes fucked![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
 【Oni E】[CR]
-「[i]ぶっといの咥えながら、身体中から錬気溢れさせてるし！！　た、たまんねえなっ！[/i]」[KeyWait]
+「[i]Renki's overflowin' from her body while she's suckin' on that dick! I-I can't take this any longer![/i]」[KeyWait]
 [FaceOff]
 
-[text]悶える結女の全身から、桜色に輝くオーラのようなものがゆらゆらと立ち上っていた。[KeyWait]
-[text]取り囲む鬼たちの陰茎がたちどころに反応して一段と硬くそそり立ち、それを扱きながら息を荒くして迫り来る。[KeyWait]
+[text]A shining aura of pink was gently floating around Yume as she squirmed about.[KeyWait]
+[text]The oni surrounding approaching further, breathing heavily as they stroked their dicks, which were even harder and bigger than before.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV606g"]
@@ -1699,26 +1699,26 @@
 [Face storage="f_b022"]
 [Voice storage="b0216" buf=2]
 【Yume】[CR]
-「[v]あぁあああっ、ま、また……ッ！！　や、やらああっ！　へ、変なの、かけないれ……ッ。んくぅ、はぁあああっ！！[/v]」[KeyWait]
+「[v]Aaaaah, n-not again...! N-Nooo! D-Don't get that weird stuff, all over me... Nkuh, haaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]射精を浴びせられたおぞましさを思い返し、結女が怯え震える。[KeyWait]
-[text]小動物めいた容姿でのその仕草が、ますます鬼どもの興奮を煽り立て牡臭を濃厚にさせた。[KeyWait]
+[text]Yume trembled with fear as she remembered how disgusting it felt to get covered in cum.[KeyWait]
+[text]Her small animal-like appearance and actions only served to further excite the oni, whose male stench grew even stronger.[KeyWait]
 
 [ExVoice1 storage="bex12"]
 [Face storage="f_b022"]
 [Voice storage="b0217" buf=2]
 【Yume】[CR]
-「[v]くぅううっ、なん……で……、らめ……なの、にぃ！　あふうっ、ちゅぱくちゅ[hearts]　私、の……お、お腹ぁ……。んぁああ、変、なの……もう、もうこれっ！！　くうっ、くぅうううっ！[/v]」[KeyWait]
+「[v]Kuuuuh, w-why... I... need to... Afuuh, suck! [hearts] My... b-belly... Nhaaah, it feels, weird... I-I can't take this! Kuuh, kuuuuuh![hearts][/v]」[KeyWait]
 [FaceOff]
 
-[text]ズポズポズポ、グチュグチュグチュン！　ヌッブ、ヌズヌズヌズッ、ブッズンブズンッ！！[KeyWait]
+[text]Thwap thwap thwap, suck suck suck! Schwap, schwap schwap schwap, schwap schwap![KeyWait]
 
 [ExVoice1 storage="bex37"]
 [Face storage="f_b023"]
 [Voice storage="b0218" buf=2]
 【Yume】[CR]
-「[v]奥ぅう、ああああっ！　らめっ、当たって……ッ、当たっふぇ、りゅ～～～～ッ。んぁはあ、ちゅるるる、レロレロン。奥……ッ、らめ……なの、にぃ、く……る……、きひゃう……ッ！！[/v]」[KeyWait]
+「[v]It's hitting, aaaah! No, so deep... So deeeeeep! Nhahaah, slurp, lick lick... Deep... is bad, but... I feel it... It's coming![/v]」[KeyWait]
 [FaceOff]
 
 ;b0219
@@ -1727,52 +1727,52 @@
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]おぁああ、締め付けッ！！　この、オマンコっ。良すぎる……だろっ！[/i]」[KeyWait]
+「[i]Owaaah, your pussy got tight! That feels... way too good, damnit![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]ケツ穴もすげえ、うねうね動いて、絡みついてきやがる！！　マジでケツ名器だぞ！　この女のケツぅうっ！！[/i]」[KeyWait]
+「[i]She's squeezin' around me like crazy, too! Seriously, she's got one hell of an asshole, this girl![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex12"]
 [Face storage="f_b023"]
 [Voice storage="b0220" buf=2]
 【Yume】[CR]
-「[v]ふぇええっ、わ、わらひ、ふぉんなんじゃ、ない、れすぅうっ！　あああっ、れもっ！！　れもぉおおっ！　んあっ、はっ、はううっ、レロレロレロぉ、ちゅるちゅるじゅるるるるるぅ――――――ッ！[/v]」[KeyWait]
+「[v]Fweeeh, I-I'm not, like thaaat! Aaah, but! Buuuut! Nhah, hah, hauuh, lick lick lick, sluuuuuuuuuuuurp![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
 【Oni C】[CR]
-「[i]うぉおおああっ！　しゃぶり、すぎ……だろおっ！！　どれだけチンポ、好きなんだっ！？　くふうっ！！[/i]」[KeyWait]
+「[i]Uwooaah! You're sucking... too hard! Just how much do you love dick, huh!? Kufuuh![/i]」[KeyWait]
 [FaceOff]
 
-[text]心が無垢だからこそ、肉体の衝動に真っ直ぐに突き動かされてしまう。[KeyWait]
-[text]困惑に目を白黒させながら、淫らな行為で鬼たちを圧倒しながら、結女はもういつ達してもいい程に官能を昂らせていた。[KeyWait]
+[text]Yume's pure heart actually made her more easily swayed by her body's impulses.[KeyWait]
+[text]As she overwhelmed the oni with her lewd acts, her eyes showed her bewilderment at the situation. She was already excited enough to cum anytime.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1588" buf=3]
 【Haruka】[CR]
-「[v]ゆ……結、女……ッ[/v]」[KeyWait]
+「[v]Y-Yume...[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex13"]
 [Face storage="f_b022"]
 [Voice storage="b0221" buf=2]
 【Yume】[CR]
-「[v]――――っ！！　ひうっ！　あ、あああっ！！　遼……ちゃんっ。遼ちゃんに、ふぉんな……ふぉんなとこぉ、見られてるのにぃ……ぶちゅ、んぶぢゅるるるるぅっ[/v]」[KeyWait]
+「[v]...! Hyuh! A-Aaah! Ryou... chan... Ryou-chan's watching, but... Suck, sluuuuurp![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex12"]
 [Face storage="f_b022"]
 [Voice storage="b0222" buf=2]
 【Yume】[CR]
-「[v]あ、あああぁ……わ、わらしぃの、こ、こんにゃ、はじゅかしい……、らめ、な……とこぉ……。んはぁあああっ！[/v]」[KeyWait]
+「[v]A-Aaaah... I-I look so shameful... and naughty... Nhaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]いまさらなのだけれど、激しく乱れ行くうちに結女はボクからの視線を意識の外へと追いやっていたようだ。[KeyWait]
-[text]当然だ。ボクだって、自分が最悪の辱めを受ける姿を一番大好きな人に見られているなんて、忘れてしまいたい。[KeyWait]
-[text]なのに、ボクの不用意な呼びかけが、結女を耐え難い羞恥に叩き込んでしまった。[KeyWait]
+[text]She was way past that point. From my eyes, the way Yume shook around like wild practically made it look like she'd gone out of her mind.[KeyWait]
+[text]But that was only natural. If the person I loved the most saw me humiliating myself in the worst way possible, I'd want to forget it, too.[KeyWait]
+[text]However, Yume carelessly calling my name had caused an unbearable shame to fall upon her.[KeyWait]
 
 [ExtasyF]
 ;イベント絵表示
@@ -1783,43 +1783,43 @@
 [Face storage="f_b023"]
 [Voice storage="b0223" buf=2]
 【Yume】[CR]
-「[v]こんな……の、い、いやぁああああぁ――――――ッ！　ふぁああっ、ああっ、はぁあああああんっ！！　あはぁあああっ！　あっ、アッ、アアッ、ひぃいいうううぁああああぁ～～～～～～～～～～～～～ッ！！[/v]」[KeyWait]
+「[v]No... N-Nooooooooooooo! Fwaaah, aah, haaaaaaahn! Ahaaaaah! Ah, ah, aah, hyiiiuuuaaaaaaaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]ギリギリの状態で持ちこたえていた理性が、被虐的な歓喜に突き上げられ一気に絶頂へと達した。[KeyWait]
+[text]The last bit of self-control that Yume had managed to hold onto was thrust aside by the masochistic joy of her situation, plunging her straight into a climax.[KeyWait]
 
 [Sound storage="se120" buf=1]
 
-[text]ぷじゅぅううううっ！　ぶしゅぶしゅぶしゅ、ぷじゃじゃぁあああぁ――――――――ッ！！[KeyWait]
+[text]Squiiiiirt! Squirt squirt squirt, squiiiiiiiiiiiirt![KeyWait]
 
-[text]失禁なのか、絶頂の潮噴きなのか、どちらにしても激しすぎる飛沫を溢れさせて、巨乳の肉体が激しく痙攣に見舞われた。[KeyWait]
-[text]途端に充ち満ちた錬気を鬼たち目掛けて一気に放出しながら、結女は、窄まる膣穴とアナルがくわえ込んだ極太を勢いよく締め付け、口に咥えた男根に禁じられた歯を食い込ませて吸い上げた。[KeyWait]
+[text]I couldn't tell whether she'd wet herself or was just squirting - but either way, there was way too much. Yume's breasts shook as intense spasms visited upon her whole body.[KeyWait]
+[text]As her stored Renki released and headed toward the oni, Yume's pussy and asshole clenched down tight and she sucked hard on the cock in her mouth, even biting down like she was told not to.[KeyWait]
 
 [Sound storage="se115" buf=7 loop=true]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]くぉおおおっ！　あああっ、たまんねええっ！！[/i]」[KeyWait]
+「[i]Kwooooh! Aaah, this is amazin'![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
-「[i]おぁああああっ！！　漲……るぅううっ！[/i]」[KeyWait]
+「[i]Owaaaaah! There's... so muuuuch![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
 【Oni C】[CR]
-「[i]つぅうううううっ！　これが、鬼慰姫の、錬気かぁああああっ！！[/i]」[KeyWait]
+「[i]Uuuuuuh! This is the Oni-Pleasin' Princess's Renkiiiiii![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r004"]
 【Oni D】[CR]
-「[i]お、俺たちにもッ[/i]」[KeyWait]
+「[i]L-Let us have some, too![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
 【Oni E】[CR]
-「[i]ち、力がぁあああああああぁッ！[/i]」[KeyWait]
+「[i]T-The poweeeeeeeeeeer![/i]」[KeyWait]
 [FaceOff]
 
 [ExtasyM]
@@ -1830,88 +1830,88 @@
 [CgSet storage="EV606h"]
 [UpDate]
 
-[text]どびゅううっ、どぴゅどぴゅ、どびゅるるるるるッ！！　ぶびゅぅううっ！　ぴゅるっ、どびゅびゅびゅ――――ッ！！[KeyWait]
+[text]Spuuurt, spurt spurt, spuuuuuurt! Spuuurt! spurt, spuuuuurt![KeyWait]
 
-[text]結女からの絶頂の錬気を喰らい、鬼どもが恍惚の雄叫びを上げながら一斉に精液をぶちまけた。[KeyWait]
+[text]The oni yelled and shot their loads all over Yume as they entered a state of ecstasy from devouring the Renki produced from her climax.[KeyWait]
 
 [Face storage="f_b023"]
 [Voice storage="b0224" buf=2]
 【Yume】[CR]
-「[v]はひぃいっ！　ぷぁあああっ、ら、らめぇッ……！　んあぁああっ、な、中にぃ……出、出しちゃッ！！　らめッ！　ああっ……遼ひゃん、じゃ、ない……のっ、ひぃいいうううっ！！　出され……ちゃ……ッ、ああああっ！[/v]」[KeyWait]
+「[v]Hahyiii! Pwaaaah, n-nooo...! Nhaaaah, d-don't... c-cum inside! Don't! Aah... You're not... Ryou-chaaan, uuuuh! You can't... cum... inside, aaaah![/v]」[KeyWait]
 [FaceOff]
 
 ;b0225
 ;「んふううぅっ！　ひあぁぁっ……んくぅっ、ふぅんっ、んぶふううっ……！　んふぁあああぁっ、はっ、はひゃあ、ふぐふぅぅっ！　んぐっ、ふむっ、はぅっ、ぅふうううぅぅっ！」
 
-[text]全身に降り注ぐ生臭い飛沫に戦く最中、狭穴を押し広げて肥大する怒張からも激しい勢いのスペルマが放たれて、子宮と腸奥を打ちのめされながら二穴をいっぱいに満たされる。[KeyWait]
+[text]As Yume trembled from the raw-smelling fluid spraying all over her, the two dicks inside her tight holes expanded and shot out their cum, filling up both her womb and rectum.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1589" buf=3]
 【Haruka】[CR]
-（[v]くぅううっ、あ、あいつら……ッ！　結女の中に……射精、してるっ！！　ボクの結女を……ッ、は、孕ませようと、してるぅううっ！　く、くそぉおおおっ！！[/v]）[KeyWait]
+（[v]Kuuuuh, t-those oni...! They're cumming... inside Yume! They're trying to get my Yume pregnaaaant! D-Damniiiit![/v]）[KeyWait]
 [FaceOff]
 
-[text]彼女の純潔を横取りされただけでも耐え難いのに、決して犯してはいけない聖域を土足で踏みにじるような中出しに、悔しさと怒りが胸を焦がす。[KeyWait]
-[text]けれどもいまのボクには、それを止めることすら出来ない。[KeyWait]
-[text]穢された結女のヴァギナにボクのペニスを入れて、ボクの精液で清めてやることも出来ない。[KeyWait]
-[text]それどころか、ボク自身が鬼どものペニスに膣を犯され、子宮を孕まされてしまう恐れすらある。[KeyWait]
+[text]Just seeing her purity be stolen away was hard enough, but cumming inside her was like dirtying a holy sanctuary with muddy feet. My chest burned with frustration and anger.[KeyWait]
+[text]However, as I was, I couldn't do anything to stop them.[KeyWait]
+[text]Nor could I stick my own penis into Yume's dirtied vagina to cleanse her with my semen.[KeyWait]
+[text]Far from it - I'd been violated by the oni's dicks as well, and was also at risk of getting pregnant.[KeyWait]
 
 [ExVoice1Stop]
 
 [Face storage="f_b023"]
 [Voice storage="b0226" buf=2]
 【Yume】[CR]
-「[v]出して、いい……の、遼ひゃん、らけ……なの、にぃッ！！　赤ひゃん……。変な、赤ひゃん……れきひゃううっ！　遼ひゃんの、じゃない……変な、赤ひゃん……産まれひゃう、はらぁあああッ！　い、いやぁああああぁッ！！[/v]」[KeyWait]
+「[v]The only one... who can cum inside me... is Ryou-chan! I'm gonna... get pregnant... with weird babies! I'm gonna give birth... to weird babies... that aren't Ryou-chaaaaaan's! N-Nooooooo![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]中出しされてそんなに嬉しいか！？　そんなにケツ振らなくたって、タップリ注いでやるぜ！！　そらっ！[/i]」[KeyWait]
+「[i]You're really that happy to be creampied!? You don't need to shake your ass like that, I'll gladly give you some more! Here![/i]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se142" buf=0]
 
-[text]ぶりゅりゅっ、ぶびゅっ！　どぴゅどぴゅどびゅびゅ～～～～ッ！！[KeyWait]
+[text]Spurt, spurt! Spurt spurt spuuuuurt![KeyWait]
 
 [Face storage="f_b023"]
 [Voice storage="b0227" buf=2]
 【Yume】[CR]
-「[v]ひぅううっ！！　い、いやぁあああっ！　ち、違ふのぉおっ！　あぁああああぁッ[/v]」[KeyWait]
+「[v]Hyuuuh! N-Nooooo! T-That'sh not iiit! Aaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]ボク以外のスペルマを拒もうと、必死に尻をくねらせ男根を払い退けようとする結女だけれど、根本まで深々と埋まって亀頭を子宮に密着させた陰茎はどうにもならず、むしろ射精を勢いづかせる刺激を与えてしまう。[KeyWait]
+[text]Yume shook her butt to try to get the oni's cocks out of her in order to refuse someone else's sperm, but they were buried too deep and wouldn't budge. In fact, her squirming only stimulated the gaki further.[KeyWait]
 
 [Face storage="f_b023"]
 [Voice storage="b0228" buf=2]
 【Yume】[CR]
-「[v]くふぁああっ！！　や、らめぇ、お、お、お、おおお尻ッ！　ックゥウウウウウウウゥ！！　ひうっ、うを、ぼ、うぼぉおおおぁああああっ！[/v]」[KeyWait]
+「[v]Kufwaaah! No, don't, my b-b-b-butt! Kuuuuuuuuuuuh! Hyuh, ooh, boh, ubooooowaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]子宮だけじゃなく直腸内も精液に圧迫されて、結女の表情が切羽詰まる。[KeyWait]
-[text]さらにとどめとばかりに、口腔を占める怒張からも濃厚な味わいの精液を噴射され、結女はあどけない顔を狂乱させながら、白濁まみれに堕ちていった。[KeyWait]
+[text]Yume looked like she was totally driven up against the wall from the overwhelming amount of cum in not just her womb, but her rectum, too.[KeyWait]
+[text]As if to finish her off, the dick monopolozing her mouth erupted with thick cum, making Yume's cherubic face go mad as it got drowned in the white liquid.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1590" buf=2]
 【Haruka】[CR]
-「[v]あぁ……、ゆ、ゆめ……。ゆ……めぇえ……[/v]」[KeyWait]
+「[v]Aah... Y-Yume... Yumeee...[/v]」[KeyWait]
 [FaceOff]
 
-[text]そんな様を見せつけられながら、ボクは何の役にも立てずにゴミのように転がっているだけだ。[KeyWait]
+[text]All I could do was roll around on the floor like useless trash as I watched.[KeyWait]
 
 [Face storage="f_b016"]
 [Voice storage="b0229" buf=2]
 【Yume】[CR]
-「[v]ひ……うぅ……遼……ちゃ……ん、もう……だ……め……。あ、ああああっ、はぁああああああっ！[/v]」[KeyWait]
+「[v]Hyi... Uuuh... Ryou... chan... I... c-can't... A-Aaaah, haaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r004"]
 【Oni D】[CR]
-「[i]今度は俺がマンコにぶち込ませてもらうぜ！　美味え錬気、直接喰らってやる[/i]」[KeyWait]
+「[i]I'm shovin' my dick into your pussy next! I'm gonna take some of that delicious Renki straight from the source![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
 【Oni E】[CR]
-「[i]俺は断然ケツだぜ。マンコより絶品のケツ名器味わいながら、極上の錬気も堪能だ！！[/i]」[KeyWait]
+「[i]I'm definitely takin' her ass, that thing beats her pussy by far! I'll get some really fuckin' great Renki, too![/i]」[KeyWait]
 [FaceOff]
 
 ;暗転
@@ -1919,7 +1919,7 @@
 [BgSet storage="_black"]
 [UpDate]
 
-[text]弱々しく呼び合うボクらを見下ろしながら、鬼どもは鬼慰姫の錬気を喰らい尽くそうと入れ替わり立ち替わり結女を犯し続けた……………………。[KeyWait]
+[text]The oni looked down on us as we feebly called each other's names, then continued raping Yume in turn in order to devour every last bit of her Renki...[KeyWait]
 
 [eval exp="sf.kaisouOpenFlag['15']=1"]
 
