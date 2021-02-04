@@ -678,7 +678,7 @@
 ;êŠGƒRƒ“ƒrƒj“X“à
 
 [Face storage="f_o011"]
-yStore Clerkz[CR]
+yAttendantz[CR]
 u[i]Yo, had some trouble, huh?[/i]v[KeyWait]
 [FaceOff]
 
