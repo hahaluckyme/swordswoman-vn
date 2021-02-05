@@ -551,6 +551,7 @@
 [Sound storage="se141" buf=0]
 
 [text]Suck![KeyWait]
+[text]Smack![KeyWait]
 [text]Lick, suck![KeyWait]
 
 [ExVoice1 storage="aex33"]

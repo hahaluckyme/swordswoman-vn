@@ -477,6 +477,8 @@
 Åu[v]Nffh! Fweaah! Haah! Ah, haaaah! Nnh, no... N-No mooore, aah! [/v]Åv[KeyWait]
 [FaceOff]
 
+[text]Every thrust made my sensitive nipples rub hard against the inside of my outfit, addling an itchy throb to the mixture of sensations I was feeling.[KeyWait]
+
 [Face storage="f_a018"]
 [Voice storage="a0438" buf=3]
 ÅyRyouÅz[CR]

@@ -1253,7 +1253,6 @@
 
 [HSceneEnd]
 [BgmFadeOut time=2000]
-[eval exp="f.chaptertitle='Another Incident'"]
 
 [Sound storage="se879" buf=0]
 ;背景：プールの中　昼

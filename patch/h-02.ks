@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='Attacked in the Infirmary'"]
+[eval exp="f.chaptertitle='Attacked in the Nurse's Office'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -111,7 +111,6 @@
 [Sound storage="se204" buf=1]
 [QuakeScreen time=500 vmax=10 hmax=0]
 
-[eval exp="f.chaptertitle='Assaulted by the Transformed Kimino'"]
 [HSceneStart]
 
 ;イベント絵表示
@@ -962,7 +961,6 @@
 
 [ExVoice1Stop]
 [HSceneEnd]
-[eval exp="sf.kaisouOpenFlag['02']=1"]
 
 ;ＢＧＭ：ピンチ
 [playbgm storage="bgm007"]

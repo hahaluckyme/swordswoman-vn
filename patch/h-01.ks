@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='Time Masturbating After Becoming a Girl'"]
+[eval exp="f.chaptertitle='First Time Masturbating After Becoming a Girl'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -52,8 +52,6 @@
 [Sound storage="se651" buf=0]
 
 [text]I closed the curtains tight just in case then returned to my bed.[KeyWait]
-
-;●【ＣＧ４(ev104)：はるか、初めての女の子姿でオナニー】[CR]
 
 [HSceneStart]
 

@@ -21,8 +21,6 @@
 Åu[v]The competition has concluded! The winners are Ichijou Haruka's team![/v]Åv[KeyWait]
 [FaceOff]
 
-;[text][KeyWait]
-
 [Sound storage="se732" buf=1]
 
 ÅyStudentsÅz[CR]
