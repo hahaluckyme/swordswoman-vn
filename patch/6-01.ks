@@ -996,7 +996,7 @@
 
 [Face storage="f_r003"]
 【Oni C】[CR]
-「[i]さっきはずいぶんと手荒な真似してくれたじゃねえか。たっぷりと礼させてもらうぜ[/i]」[KeyWait]
+「[i]You were pretty rough with us earlier, huh? We're gonna repay you for that![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
@@ -1731,7 +1731,7 @@
 [Face storage="f_a050"]
 [Voice storage="a1362" buf=3]
 【Haruka】[CR]
-（[v]Huh...? But their dicks tasted... so weird... They made me suck them... I hated it... but... They're so big and hard...[/v]）[KeyWait]
+（[v]Huh...? But their dicks tasted... so weird... They made me suck on one earlier... I hated it... but... They're so big and hard...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
@@ -2611,7 +2611,7 @@
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]when you suck her juices up, she gets tighter over here![/i]」[KeyWait]
+「[i]When you suck her juices up, she gets tighter over here![/i]」[KeyWait]
 [FaceOff]
 
 [text]The gaki's tongues licked my pussy, waging war over who got to lap up my juices, and the two fingers continued roughly stirring up my wriggling rectum.[KeyWait]
