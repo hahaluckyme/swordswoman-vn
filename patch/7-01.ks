@@ -1498,116 +1498,116 @@
 [Face storage="f_a050"]
 [Voice storage="a1721" buf=2]
 【Haruka】[CR]
-「[v]Hyi! Ah, d-don't... grop me... there![/v]」[KeyWait]
+「[v]Hyi! Ah, d-don't... grope me... there![/v]」[KeyWait]
 [FaceOff]
 
-[text]一人が乳房に指先をめり込ませると、我も我もとスケベな手が殺到した。[KeyWait]
+[text]A boy sunk his fingers into my breasts, and then the rest quickly swarmed me, racing to do the same.[KeyWait]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]うは、でもっ、こんな見事なおっぱい、も、揉むなってのが無理だってばっ！[/i]」[KeyWait]
+「[i]Uhah, b-but I can't resist groping these amazing boobs of yours![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]くは――ッ、たまんねえっ！　こんな柔らかいんだっ、おっぱいっ！！[/i]」[KeyWait]
+「[i]Kuhaaah, they're irresistible! So [ita]this[endita] is how soft boobs feel![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1722" buf=3]
 【Haruka】[CR]
-（[v]ううっ……おっぱい、たくさんの手で包まれちゃってる！　も、揉みほぐされちゃう！！[/v]）[KeyWait]
+（[v]Ugh... There's so many hands on my boobs! T-They're groping them so roughly![/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex52"]
 [Face storage="f_a060"]
 [Voice storage="a1723" buf=2]
 【Haruka】[CR]
-「[v]離れ……ろっ、触るな、変な、とこっ！！　ん……ううっ！[/v]」[KeyWait]
+「[v]Get off... Stop touching me there! Nnh... Uuuh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1724" buf=3]
 【Haruka】[CR]
-（[v]おっぱい肉……、掻き混ぜられると、奥から、疼きが……湧き起こって来ちゃうっ！[/v]）[KeyWait]
+（[v]My boobs... When they squeeze them like that, it's like... they throb from deep within![/v]）[KeyWait]
 [FaceOff]
 
-[text]全身が気怠い悦美に染まってゆく。[KeyWait]
+[text]A languid bliss overtook my whole body.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1725" buf=3]
 【Haruka】[CR]
-（[v]なんで、こう……いちいち敏感、なんだよ……おんなの、身体……ッ。はああぁぁ～ッ、あぁ、あッ！[/v]）[KeyWait]
+（[v]Why... do girls' bodies... have to be so sensitive... Haaaaaah, aah, ah![/v]）[KeyWait]
 [FaceOff]
 
-[text]身体の力が抜けていっちゃう。足を投げ出してぺったんとへたり込んでいる身体をみんなに支えられ、愛撫で弄ばれる。[KeyWait]
+[text]The strength drained from my body. I stuck my legs out and went limp, leaning my weight on everyone as they caressed me.[KeyWait]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a016"]
 [Voice storage="a1726" buf=2]
 【Haruka】[CR]
-「[v]ふぁあぁ……あ、あぁ……[/v]」[KeyWait]
+「[v]Fwaaah... A-Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]後ろに倒れそうになるとその背中を誰かの胸板に受け止められ背後から腰に腕を絡められた。[KeyWait]
+[text]Before I could fall backwards, someone caught me in their chest and wrapped their arms around me from behind.[KeyWait]
 
 [Face storage="f_a039"]
 [Voice storage="a1727" buf=3]
 【Haruka】[CR]
-（[v]男の……腕、太い……。ってなに、ドキドキしてんだ、ボクはっ！！[/v]）[KeyWait]
+（[v]Guys' arms... are so thick... Wait, why is that making my heart pound!?[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a039"]
 [Voice storage="a1728" buf=3]
 【Haruka】[CR]
-（[v]男の時より……身体、華奢になったから……他の男が大きく見えてるだけ、だし……ッ。ボクの肌とか、柔らかくすべやかになったから……運動部の男とか……逞しく、感じるだけ……だから……[/v]）[KeyWait]
+（[v]My body's more frail... than it was when I was a guy, so... other guys just look bigger now... My skin's smoother now, so... guys from sports clubs and stuff... just look m ore buff...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a048"]
 [Voice storage="a1729" buf=3]
 【Haruka】[CR]
-（[v]ああ、もうっ！　首筋に、い、息……吹きかけるな……ってばあっ。生暖かくて……、なんか、落ち着かない……から……ッ[/v]）[KeyWait]
+（[v]Aah, geez! S-Stop... breathing on my neck... already... It's warm... and it's putting me on edge...[/v]）[KeyWait]
 [FaceOff]
 
-[text]気をしっかり保とうとしていても、甘い刺激が走るとすぐに蕩けた気分になってしまう。[KeyWait]
+[text]I tried to regain my composure, but every bit of stimulation melted my mind even further.[KeyWait]
 
 [Face storage="f_p013"]
 【Female Student A】[CR]
-「[i]はるかちゃん、乳首勃ってきちゃった。――うわ、結構硬いッ、コチコチっ！[/i]」[KeyWait]
+「[i]Your nipples are erect, Haruka-chan. Wow, they're really hard![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex05"]
 [Face storage="f_a048"]
 [Voice storage="a1730" buf=2]
 【Haruka】[CR]
-「[v]はひっ！？　ふあっ、触るなっ、ああッ！　ん、はぁあああぁ――っ！！[/v]」[KeyWait]
+「[v]Hahyah!? Fwah, don't touch them, aah! Nnh, haaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]女の子にまで、体操着に浮き出た小粒を弄られて感じちゃった。[KeyWait]
-[text]指先で勃起乳首を強めに摘まれて、息が詰まる。[KeyWait]
+[text]Now a girl had begun playing with the nubs sticking out through my gym clothes, making them feel good.[KeyWait]
+[text]I lost my breath as she pinched my erect nipples tight between her fingertips.[KeyWait]
 
 [Face storage="f_a048"]
 [Voice storage="a1731" buf=3]
 【Haruka】[CR]
-（[v]ッ――あぁ、ヤバいっ、胸ッ、おっぱいィッ、ぐにょぐにょされてんのに、頭飛んじゃうッ、乳首ぃっ、敏感ッッッ、く――――ッ！[/v]）[KeyWait]
+（[v]Aah, crap, they're just, squeezing my boobs, but my head's gonna go blank, my nipples, they're so sensitive, kuuuuuuh![/v]）[KeyWait]
 [FaceOff]
 
-[text]もう身体、自分で支えてられない。みんなにしなだれかかって悶えちゃう。[KeyWait]
+[text]No longer able to support my own body, I leaned on everyone as I squirmed about.[KeyWait]
 
-[text]くりくりくりくり。[KeyWait]
+[text]Rub, rub, rub, rub...[KeyWait]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1732" buf=2]
 【Haruka】[CR]
-「[v]―――！！　くうっ、う、あ、あああぁ……痛ッ！　ひゃぅん、気持ち……イイッ[/v]」[KeyWait]
+「[v]...! Kuuh, uuh, a-aaaah... Ow! Hyauhn, that feels... good![/v]」[KeyWait]
 [FaceOff]
 
-[text]疼痛を感じる強さで摘まれたまま乳首を転がされると、その指に操られているみたいに身体が蠢いた。[KeyWait]
+[text]The pain of having my nipples pinched and rolled around made my body wriggle around as if manipulated by those fingers.[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]おほっ、こっちも、乳首ぴんぴんだっ！！　はぶん、はむ、ちゅむぅ[/i]」[KeyWait]
+「[i]Ohoh, her nipples are hard! Hbh, hahm, suck![/i]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -1618,87 +1618,87 @@
 [Face storage="f_a048"]
 [Voice storage="a1733" buf=2]
 【Haruka】[CR]
-「[v]か――――ッ、ひッ、ああああぁふッッッ！！　だめッ、へはぁ～～、やめろぉっ！　んっ！！　んうっ、ふぁあぁあぁ～～～～っ！[/v]」[KeyWait]
+「[v]Kaaaaah, hyi, aaaaafh! No, hyeaaah, stooop! Nnh, fwaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1734" buf=3]
 【Haruka】[CR]
-（[v]くぅうぅ～ッ、結女の体操着にっ。男の、汚い……ヨダレ、染み、ちゃってッ！　く、うぅううっ、乳首、生暖かいッッ！！[/v]）[KeyWait]
+（[v]Kuuuuuh, he's gonna stain, Yume's gym clothes... with his dirty spit! Kuh, uuuuuh, it feels so warm, on my nipples![/v]）[KeyWait]
 [FaceOff]
 
-[text]布地との密着が高まりぬるりと潤滑した擦れ具合に腰が浮き上がった途端、[KeyWait]
+[text]My hips thrust forward at the sensation of having the fabric around my nipples tighten, causing them to rub against it even harder, and then...[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]ちゅぱ、れろんれろんれろれろれろろんっ！[/i]」[KeyWait]
+「[i]Suck, lick lick lick lick lick![/i]」[KeyWait]
 [FaceOff]
 
-[text]舌先が体操服ごと充血突起を舐め転がしてくる。[KeyWait]
+[text]A tongue began licking and rolling around my nipples through my shirt.[KeyWait]
 
 [ExVoice1 storage="aex05"]
 [Face storage="f_a017"]
 [Voice storage="a1735" buf=2]
 【Haruka】[CR]
-「[v]ひぃふぁあああっ！　おっ、ふぉおっ、はぁああぁ――――――ッ！！[/v]」[KeyWait]
+「[v]Hyifwaaaah! Oh, fwooh, haaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a017"]
 [Voice storage="a1736" buf=2]
 【Haruka】[CR]
-「[v]ああっ！　疼くッ。おっぱいぃっ、ツゥウウウウゥ――――ッ！！[/v]」[KeyWait]
+「[v]Aah! They're throbbing... My boobs, uuuuuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]上擦った喘ぎを迸らせ身体を捩ると、指が深くまで乳房にずっぷり埋まり込む。[KeyWait]
+[text]I let out a shrill shriek and twisted my body around, causing the fingers on my boobs to sink in even further.[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]んふぉっ！　口ん中れ、ましゅましゅ硬ふなっへきはっ！！　編入生の乳首ひっ！[/i]」[KeyWait]
+「[i]Nfwoh! The transhfer shtudent's nipples got even harder inshiide my moufh![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex06"]
 [Face storage="f_a018"]
 [Voice storage="a1737" buf=2]
 【Haruka】[CR]
-「[v]ふぁあああはっ、しゃべりながらあっ、舌ッ、動かすなああっ！！[/v]」[KeyWait]
+「[v]Fwaaaahah, stop moving your tongue, while you suuuck![/v]」[KeyWait]
 [FaceOff]
 
-[text]声の振動も柔房を震わせる。れろん、れろれろ、と左右上下に勢いよく転がされて息が詰まる。[KeyWait]
-[text]悦撃が乳房の頂上で弾けたと思うと、舌先が微かに掠る程度の微細さで擽られ、もどかしさの余り啜り泣くような呻きを絞り出す。[KeyWait]
+[text]Even his voice was making my breasts shake. My breathe stopped short as he sucked on my nipples, pulling them in all different directions.[KeyWait]
+[text]Just when I thought my pleasure was about to reach its peak and explode, his tongue started moving slower, slurping every so slightly and making me groan in frustration.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a1738" buf=3]
 【Haruka】[CR]
-（[v]や、あああぁッ、おんなぁ、身体……おんなだからぁ、おっぱいきもちイィッ。おとこだったらぁ、こんなのぉっ[/v]）[KeyWait]
+（[v]No, aaaah, because I've got, a girl's body... My boobs feel good! If I were a guy, this wouldn't, be a big deal at all...[/v]）[KeyWait]
 [FaceOff]
 
-[text]感度というか感覚の質が根本的に違う。[KeyWait]
-[text]男の時だとたとえ射精の瞬間にでも頭の隅にどこか冷静な部分を残しているというのに、女の身体はさほど強くない快楽にでも、理性を危うくさせられた。[KeyWait]
+[text]Speaking of being sensitive, pleasure felt fundamentally different as a girl.[KeyWait]
+[text]To explain, when I was a guy, the moment I came, it'd leave behind a calm feeling in the corner of my mind. But as a girl, even stimulation that wasn't all that strong put me at risk of losing my mind.[KeyWait]
 
 ;a1739
 [ExVoice1 storage="aex66"]
 [Face storage="f_a018"]
 [Voice storage="a1739" buf=2]
 【Haruka】[CR]
-「[v]はひゃうぅ……んあぁ、はぅ、くぅん……んん……はぅ……んっ、はっ、あひゃあ……、あふっ、んっ、んくううぅ……んはっ、はぁっ、あああっ……ん……くふうぅ、ふぅ、んっ、んはぅううぅ……[/v]」[KeyWait]
+「[v]Hahyauuh... Nhaah, hauh, kuuhn... Nnnh... Hauh... Nnh, hah, ahyaah... Afuh, nnh, nkuuuuh... Nhah, haah, aaah... Nnh... Kufuuuh, fuuh, nnh, nhauuuuh...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a018"]
 [Voice storage="a1740" buf=3]
 【Haruka】[CR]
-（[v]これ以上……気持ち良く……させ、られたら、な、何……しでかしちゃうか……わ、わからないぃッ[/v]）[KeyWait]
+（[v]If they... make me feel... any better than this, I-I... don't know what... I-I'll end up doing...![/v]）[KeyWait]
 [FaceOff]
 
-[text]いや、もう散々おっぱいを気持ち良くされて、はしたない様を晒している。[KeyWait]
+[text]At this point, I'd already humiliated myself pretty badly from having my boobs pleasured.[KeyWait]
 
 [Face storage="f_a017"]
 [Voice storage="a1741" buf=3]
 【Haruka】[CR]
-（[v]うぅ……こんな姿、結女に……見られちゃってる……[/v]）[KeyWait]
+（[v]Ugh... Yume's... seeing me like this...[/v]）[KeyWait]
 [FaceOff]
 
-[text]恥ずかしいけれど、結女の姿を求めて顔を上げる。[KeyWait]
+[text]I was embarrassed, but I raised my head, wanting to see her.[KeyWait]
 
 [HSceneEnd]
 
@@ -1713,45 +1713,45 @@
 [Face storage="f_b016"]
 [Voice storage="b0248" buf=2]
 【Yume】[CR]
-「[v]ふあ～、はるかちゃん……。たすけ……て……。鬼の、ひとが……ぁ[/v]」[KeyWait]
+「[v]Fwaah, Haruka-chan... H-Help me... The oni, she's...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a1742" buf=2]
 【Haruka】[CR]
-「[v]――あ、は……あぁ。結女……ぇ[/v]」[KeyWait]
+「[v]...Ah, hah... Aah... Yume...[/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹童子の手が結女のはだけた胸元に潜り込んで、ボク以上に豊かな乳房を弄んでいた。[KeyWait]
+[text]Rasetsu Douji had snuck her hand into Yume's open blouse and begun groping her large chest.[KeyWait]
 
 [Face storage="f_b035"]
 [Voice storage="b0249" buf=2]
 【Yume】[CR]
-「[v]ひぅううっ！　ふぅ…………ンンッ！！　ふへぁあっ！　あ、はぁ……あ、んくっ、あはっ！！　んああっ！　はぅっ、くっ、んんぅ……！！[/v]」[KeyWait]
+「[v]Hyuuuh! Fuuh... Nnnh! Fehyeaah! Ah, haah... Ah, nkh, ahah! Nhaah! Hauh, kuh, nnnh...![/v]」[KeyWait]
 [FaceOff]
 
-[text]大胆に覗く白桃の柔肉がむにゅむにゅと揉まれて撓む度に、悩ましい吐息をこぼしてぽっちゃりした小柄な肢体が打ち震える。[KeyWait]
-[text]涙に潤んだ瞳で顔を紅潮させながら、救いを求めるようボクを見ている。[KeyWait]
+[text]Every time she squeezed the pinkish-white flesh boldly sticking out from Yume's clothes, her short, plump body would quiver and she'd let out a sensual moan.[KeyWait]
+[text]Her eyes were wet from tears and her cheeks were flushed red as she looked at me like she was calling for help.[KeyWait]
 
 [Face storage="f_c906"]
 [Voice storage="c0247" buf=2]
 【Rasetsu Douji】[CR]
-「[v]んふ……結女、ったら……はむ、はるかがえっちにされた途端、すごい錬気、溢れて来たぁ……ん、はっ……んく……。移動の間、減っちゃってたのに、もうさっきよりたっぷり……[/v]」[KeyWait]
+「[v]Nfu... Goodness, Yume... Hahm, you started just [ita]overflowing[endita] with Renki as soon as they did dirty things to Haruka... Nnh, hah... Nkh... Your Renki faded while we moved here, but now there's even more than before...[/v]」[KeyWait]
 [FaceOff]
 
-[text]顔を仰け反らせた色白のうなじに舌を這わせ、時に結女の唇を奪いながら羅刹童子は溢れこぼれる錬気を啜っている。[KeyWait]
+[text]Rasetsu Douji slurped up Yume's overflowing Renki, kissing her pale neck as she leaned her head back, and sometimes stealing a kiss.[KeyWait]
 
 [Face storage="f_c908"]
 [Voice storage="c0248" buf=2]
 【Rasetsu Douji】[CR]
-「[v]現れなさい、わたしの忠実なしもべどもよ！！　わたしを真の鬼神へと復活させる宴の準備をなさい！[/v]」[KeyWait]
+「[v]Come out, my faithful servants!  Prepare a banquet to aid in reviving me into a true kijin![/v]」[KeyWait]
 [FaceOff]
 
-[text]結女を弄びながら命じると―――。[KeyWait]
+[text]Rasetsu gave an order while fondling Yume, and then...[KeyWait]
 
 [Face storage="f_r001"]
-【餓鬼たち】[CR]
-「[i]ギィイイイッ。キキキィ[/i]」[KeyWait]
+【Gaki】[CR]
+「[i]Gyiiiiii! Kikikii![/i]」[KeyWait]
 [FaceOff]
 
 [HSceneStart]
@@ -1761,35 +1761,35 @@
 [CgSet storage="EV703"]
 [UpDate]
 
-[text]校庭のど真ん中に、低級な餓鬼が三匹、四つん這いの体勢で現れ出た。[KeyWait]
-[text]結女を抱いたまま、羅刹はその餓鬼の背中へと腰を下ろす。[KeyWait]
-[text]男勝りに大胆に足を開くと、その股間から両性具有のペニスが抜き身の刀剣のように美麗に反り返る。[KeyWait]
+[text]Three low-class gaki appeared on all fours in the middle of the school grounds.[KeyWait]
+[text]Rasetsu sat down on their backs, still holding Yume.[KeyWait]
+[text]Then, she boldly spread her legs to reveal a dick bent back cleanly like the blade of an unsheathed sword.[KeyWait]
 
 [Face storage="f_p013"]
 [Voice storage="e0018" buf=2]
 【Female Student 1】[CR]
-「[v]――！！　あ、ああぁ……、おちん……ちん……！！[/v]」[KeyWait]
+「[v]...! A-Aaah... A-A dick...![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p023"]
 [Voice storage="f0013" buf=2]
 【Female Student 2】[CR]
-「[v]男の、変な汚いのと違って……き、綺麗……[/v]」[KeyWait]
+「[v]It's not like the gross ones guys have... I-It's pretty...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p033"]
 [Voice storage="g0012" buf=2]
 【Female Student 3】[CR]
-「[v]な……なんだか、じっと見てると、身体が……疼……いて……。我慢出来ない！[/v]」[KeyWait]
+「[v]S-Staring at it... is making my body throb... I can't hold back![/v]」[KeyWait]
 [FaceOff]
 
-[text]あっという間に女生徒たちが魅了され、我先にと羅刹の股間へ殺到した。[KeyWait]
+[text]The girls were immediately charmed by Rasetsu's member and rushed to her crotch.[KeyWait]
 
 [ExVoice1 storage="eex01"]
 [Face storage="f_p014"]
 [Voice storage="e0019" buf=2]
 【Female Student 1】[CR]
-「[v]はむんっ！　ああ、くちゅ、ちゅぱ……ちゅる、ちゅぱ、んちゅぅ……れろ、ちゅぱ、ちゅぷちゅぅ……[/v]」[KeyWait]
+「[v]Hamhn! Aah, suck, suck... Slurp, suck, suck... Lick, suck, suck...[/v]」[KeyWait]
 [FaceOff]
 
 ;e0020
@@ -1799,7 +1799,7 @@
 [Face storage="f_p024"]
 [Voice storage="f0014" buf=5]
 【Female Student 2】[CR]
-「[v]素敵な、あ、味ぃ。だめ……え、舐めてるだけ、で、イ、イッちゃう……ッ、ふぁああっ！！[/v]」[KeyWait]
+「[v]W-What a fantastic taste... Oh, no... I-I'm gonna cum just from licking it... Fwaaah![/v]」[KeyWait]
 [FaceOff]
 
 ;f0015
@@ -1809,32 +1809,32 @@
 [Face storage="f_p034"]
 [Voice storage="g0013" buf=2]
 【Female Student 3】[CR]
-「[v]ああぁ、おちんちん、なんて、初めて……なのに、舐めるの……止まらない。ひぅう、素敵ぃ。おちんちん、素敵ぃ～～～ッ！[/v]」[KeyWait]
+「[v]Aaah, even though this is my first dick... I can't stop... licking it... Hyuuh, it's so great... This dick is so greaaaat![/v]」[KeyWait]
 [FaceOff]
 
 ;g0014
 ;「んぶっ！　ぢゅる！　んぢゅぢゅぅっ！　れろっ、んぷっ、んぼああっ！　ぢゅる、ぢゅぷ、んぢゅるるるぅっ！　ぢゅぷっ、んぢゅるっ、んぶふうっ！　んっ、んぢゅる、ぢゅぱ、ぶちゅるるぅんっ！」
 
-[text]奪い合うように鋭角的な亀頭を口に含み、つるんとした桃紅色の幹に舌を這わせていた。[KeyWait]
+[text]The girls fought over who got to put Rasetsu's angular cockhead into their mouth and ran their tongues along her smooth, pinkish-red shaft.[KeyWait]
 
 [ExVoice2 storage="eex01"]
 [Face storage="f_p014"]
 [Voice storage="e0021" buf=5]
 【Female Student 1】[CR]
-「[v]んくっ、んぐ、う……ぅ、あふ、羅刹童子さま～。おちんぽ汁、美味しいですぅ[/v]」[KeyWait]
+「[v]Nkh, ngh, uuh... Afuh, Rasetsu Douji-sama... Your dick juice tastes so good![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="eex02"]
 [Face storage="f_p024"]
 [Voice storage="f0016" buf=2]
 【Female Student 2】[CR]
-「[v]はぁ～、なんて綺麗なおちんぽぉ。羅刹童子さまのをしゃぶったら、野蛮な男のものなんか、もう見るのもイヤです～[/v]」[KeyWait]
+「[v]Haah, what a pretty dick! I never want to see a savage [ita]guy's[endita] dick after sucking on yours, Rasetsu Douji-sama![/v]」[KeyWait]
 [FaceOff]
 
 ;e0022
 ;「ぢゅぼっ、ぢゅぱっ、んぢゅるうんっ！　んぼっ！　ぶちゅる、ちゅぶっ、んぢゅうっ！　ぢゅぱ、ぶちゅる、ちゅぱ、んぶはぁっ！　ぶちゅる、ちゅば、ちゅぶ、ぶちゅるんっ！　んぼっ！　れるれろ、んっ、ぢゅぱ！　んぶううんっ！」
 
-[text]賞賛の声を弾ませ熱心に舌奉仕を続ける。[KeyWait]
+[text]The girls showered Rasetsu wit praise as they enthusiastically serviced her cock.[KeyWait]
 
 [ExVoice1Stop time=4000]
 [ExVoice2Stop time=4000]
@@ -1842,40 +1842,40 @@
 [Face storage="f_c906"]
 [Voice storage="c0249" buf=3]
 【Rasetsu Douji】[CR]
-「[v]ああ、結女ぇ……。結女の錬気が、もっと充ち満ちたら、わたしのこれ……、結女の中に、い、入れちゃうからぁ！[/v]」[KeyWait]
+「[v]Aah, Yume... Once your Renki has filled me up further, I'll take this... a-and put it inside you![/v]」[KeyWait]
 [FaceOff]
 
-[text]しかし羅刹童子は女生徒たちに目もくれず、錬気を溢れさせる鬼慰姫にひたすら執着していた。[KeyWait]
+[text]But Rasetsu Douji paid no attention to the girls. She was fixated entirely on the Oni-Pleasing Princess, who was dripping with Renki.[KeyWait]
 
 [Face storage="f_b043"]
 [Voice storage="b0250" buf=3]
 【Yume】[CR]
-「[v]ふぇええぇ……。な、なにか……当たって……るぅ……。これ……、あ、あぁ……[/v]」[KeyWait]
+「[v]Fweeeeh... S-Something's... hitting... against me... A-Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]勃起したまま結女を膝に乗せているため、男根が腿に挟まれる形で結女の股間に密着して屹立していた。[KeyWait]
+[text]She sat Yume down on her lap in such a way that her cock stuck up betwen her thighs.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a1743" buf=2]
 【Haruka】[CR]
-（[v]あ、あぁ……結女の、股から……ちんぽ、生えてるみたいだ……。なんか、結女が……女生徒たちに、ちんこ、しゃぶらせているみたいに……見える……[/v]）[KeyWait]
+（[v]A-Aah... It's like Yume... grew a dick... It almost looks like... the other girls are sucking on [ita]Yume's[endita] dick...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a1744" buf=2]
 【Haruka】[CR]
-（[v]もし、ボクがこの身体のままで、結女が男になっちゃったとしたら……[/v]）[KeyWait]
+（[v]If I stayed in this body, and Yume turned into a guy instead, then...[/v]）[KeyWait]
 [FaceOff]
 
-[text]快感で朦朧とした中で、変な妄想が頭に浮かぶ。[KeyWait]
+[text]I started imagining weird things in my mind, which was foggy from pleasure.[KeyWait]
 
 [Face storage="f_a070"]
 [Voice storage="a1745" buf=2]
 【Haruka】[CR]
-（[v]結女から、ちんちん生えてたら……ボク、結女に挿入れられちゃう……！？　結女に……お、犯され……ちゃう……[/v]）[KeyWait]
+（[v]If Yume grew a dick... Would she put it inside me...!? I'd get... v-violated... by Yume...[/v]）[KeyWait]
 [FaceOff]
 
-[text]蕩けるような笑みを浮かべた結女が自分にのし掛かり、充血してそそり立った肉竿をむずむずと疼く女陰に突き込んでくる。[KeyWait]
+[text]I imagined Yume getting on top of me with a lazy smile on her face plunging her swollen, towering cock into my twitching, aching pussy.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV701b"]
@@ -1885,134 +1885,134 @@
 [Face storage="f_a050"]
 [Voice storage="a1746" buf=2]
 【Haruka】[CR]
-「[v]はああっ、あ、ああああぁ……ッ[/v]」[KeyWait]
+「[v]Haaah, a-aaaaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]男たちに乳房を弄り回される官能の中で、倒錯した妄想が思い浮かび、思わず身を打ち震わせて悩ましい喘ぎを漏らした。[KeyWait]
+[text]I moaned and my body shuddered as I imagined perverse things while the guys continued to torment my breasts.[KeyWait]
 
 [ExVoice1 storage="aex04"]
 [Face storage="f_a048"]
 [Voice storage="a1747" buf=2]
 【Haruka】[CR]
-「[v]ン………………ッ！！　あう……[/v]」[KeyWait]
+「[v]Nnh...! Auh...![/v]」[KeyWait]
 [FaceOff]
 
-[text]途端に子宮がびゅくびゅくっと激しく打ち震える。[KeyWait]
+[text]My womb immediately started throbbing hard.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1748" buf=3]
 【Haruka】[CR]
-（[v]んく……ぁ、あぁ……、じゅん……って、出ちゃった……。エッチの汁……。ち、膣の中……、濡れちゃった……。ふぁ、漏れる！？[/v]）[KeyWait]
+（[v]Nkh... A-Aah... I felt it just now... My lewd juices... c-came out of my womb... Fwah, it's coming out!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]反射的に括約筋を引き締めるが、膣襞を熱く染める感触には敵わない。[KeyWait]
+[text]I reflexively squeezed my sphincter, but it wasn't enough to fight against the sensation of my inner walls heating up.[KeyWait]
 
 [ExVoice1 storage="aex36"]
 [Face storage="f_a050"]
 [Voice storage="a1749" buf=2]
 【Haruka】[CR]
-「[v]くぅ……ン、は……あぁッ！！[/v]」[KeyWait]
+「[v]Kuuh... Nnh, hah... Aah![/v]」[KeyWait]
 [FaceOff]
 
-[text]ぷちゅ……、にゅる、ちゅるる……。[KeyWait]
+[text]Squelch... Drip, drip...[KeyWait]
 
-[text]ショーツはもちろん、ブルマの生地にまで濃厚な液汁が染みこんだ。[KeyWait]
+[text]My thick wetness seeped through not only my panties, but the bloomers I had on as well.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1750" buf=3]
 【Haruka】[CR]
-（[v]ひうっ！　外……に、まで……も、漏れ……ちゃったぁ……っ！？[/v]）[KeyWait]
+（[v]Hyuh! It... even leaked... o-outside...!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]うっすらと、股ぐらの表面に染みを浮き立たせる。[KeyWait]
+[text]A faint stain began forming on my crotch.[KeyWait]
 
 [Face storage="f_o013"]
 【Male Student A】[CR]
-「[i]んん――？　なんかものすごく牝臭い匂いがしてきたぞ！？[/i]」[KeyWait]
+「[i]Hmm? I'm smelling a strong female scent all of a sudden![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex57"]
 [Face storage="f_a069"]
 [Voice storage="a1751" buf=2]
 【Haruka】[CR]
-「[v]ひうっ！！[/v]」[KeyWait]
+「[v]Hyuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]それを見逃す男たちではなかった。[KeyWait]
+[text]The guys didn't let it go unnoticed.[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]ここ……から……だなっ！[/i]」[KeyWait]
+「[i]It's... coming... from here, isn't it!?[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1752" buf=2]
 【Haruka】[CR]
-「[v]ひううっ、だ、ダメッ。――ああっ！！[/v]」[KeyWait]
+「[v]Hyuuh, d-don't... Aah![/v]」[KeyWait]
 [FaceOff]
 
-[text]クンクンと匂いを嗅ぐ男が、あっという間に淫らな部分を探り当てた。[KeyWait]
-[text]ぐいと強引に脚を押し開かれる。[KeyWait]
-[text]蕩けた身体に力が入らない。[KeyWait]
-[text]途端に、開帳させられた股ぐらから、ムンと濃密な香気が立ち上る。[KeyWait]
+[text]The guys sniffed around and quickly found the dirty spot they were looking for.[KeyWait]
+[text]They forcefully spread my legs open.[KeyWait]
+[text]My body was weak and melted with pleasure, and I couldn't resist them.[KeyWait]
+[text]A thick aroma immediately wafted out from between my open legs.[KeyWait]
 
 [Face storage="f_o031"]
 【Male Student C】[CR]
-「[i]うはぁ、本当だ。スケベな匂いぷんぷんしてくる！[/i]」[KeyWait]
+「[i]Uhaah, you're right! It smells really perverted and strong![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
 【Male Student D】[CR]
-「[i]やべえ、ちんこますます勃っちまう。こんなの嗅がされたらっ[/i]」[KeyWait]
+「[i]Crap, smelling this is gonna make my dick even harder![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a1753" buf=3]
 【Haruka】[CR]
-（[v]く……うぅ、ほ、ほんと、えっちな匂いだよお……。股から漏らした汁……こんな匂いッ[/v]）[KeyWait]
+（[v]Kuh... Ugh, i-it really does smell perverted... I can't believe the stuff dripping out from my crotch... smells like this...[/v]）[KeyWait]
 [FaceOff]
 
-[text]甘く少し発酵したような芳しい淫臭は、ボク自身の鼻孔にもなだれ込んできた。[KeyWait]
+[text]It was a sweet, rich, lewd smell, almost like something had fermented. It reached so far that it traveled directly into my own nostrils.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1754" buf=3]
 【Haruka】[CR]
-（[v]もし男の身体のままで、こ、こんなの嗅がされ……たら……、一発でおかしくなってたかも！　きっと、男のボクで、女のボクを、襲っちゃってた！！[/v]）[KeyWait]
+（[v]I-If I'd smelled this back when I was a guy... I would have gone crazy in an instant! I would have definitely assaulted myself![/v]）[KeyWait]
 [FaceOff]
 
-[text]だから当然、男子生徒もボクに、襲いかかってくる。[KeyWait]
+[text]Following that, it was only natural that the male students were attacking me right now.[KeyWait]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]あ、ああああっ！[/i]」[KeyWait]
+「[i]A-Aaaah![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]ふぉおおおっ！！[/i]」[KeyWait]
+「[i]Fwooooh![/i]」[KeyWait]
 [FaceOff]
 
-[text]尋常ではない様子で、顔を火照らせ目を血走らせ、言葉にならない呻きを上げて愛撫の手を激しくさせる。[KeyWait]
+[text]There was clearly something abnormal about the boys - their faces were flushed and their eyes were bloodshot. They groaned wordlessly as their hands started groping me harder.[KeyWait]
 
 [ExVoice1 storage="aex38"]
 [Face storage="f_a050"]
 [Voice storage="a1755" buf=2]
 【Haruka】[CR]
-「[v]んんっ！　んふぅうっ、ふぁあっ、あ、はぁああっ！！[/v]」[KeyWait]
+「[v]Nnnh! Nfuuuh, fwaah, ah, haaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]躍動的に引き締まった太腿が、あっという間に彼らの手に覆われた。[KeyWait]
+[text]Within a moment's notice, their hands had reached my firm, fit thighs.[KeyWait]
 
-[text]ぬちゃ、ぬぺぬぺぬぺ、すりすり、すべすべすべ、ぬら、ぬら。[KeyWait]
+[text]Squelch, squelch, slide, rub, squelch, squelch...[KeyWait]
 
-[text]汗の滲んだ掌が、べっとりとそのヌメりを塗りたくりながら、きめ細かな肌を捏ね返す。[KeyWait]
+[text]They rubbed their palms on me and caressed my smooth skin, getting their slippery sweat all over me.[KeyWait]
 
 [ExVoice1 storage="aex67"]
 [Face storage="f_a060"]
 [Voice storage="a1756" buf=2]
 【Haruka】[CR]
-「[v]ひうっ、気色、悪いッ！！　変な、撫で方されると……ますます……ンンッ[/v]」[KeyWait]
+「[v]Hyuh, g-gross! They're rubbing me... so weird... It's making me... Nnnh![/v]」[KeyWait]
 [FaceOff]
 
 ;a1757
@@ -2021,7 +2021,7 @@
 [Face storage="f_a060"]
 [Voice storage="a1758" buf=3]
 【Haruka】[CR]
-（[v]愛液も……、溢れるの、止まらない……し。パンツも、ブルマも、ぬ、濡れて……ぐちょぐちょ……。あ、あああっ！[/v]）[KeyWait]
+（[v]My love juices... won't stop... My panties, and my bloomers, are both w-wet... They're soaked... A-Aaah![/v]）[KeyWait]
 [FaceOff]
 
 [text]一度漏れた愛液は刺激が強まるにつれて量を増し、ちゅぷちゅぷと膣口から垂れ流され続ける。[KeyWait]
