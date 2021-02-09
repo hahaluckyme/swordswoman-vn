@@ -2024,94 +2024,94 @@
 （[v]My love juices... won't stop... My panties, and my bloomers, are both w-wet... They're soaked... A-Aaah![/v]）[KeyWait]
 [FaceOff]
 
-[text]一度漏れた愛液は刺激が強まるにつれて量を増し、ちゅぷちゅぷと膣口から垂れ流され続ける。[KeyWait]
-[text]下着とブルマが湿って股間に張り付き、困惑の感触をもたらしていた。[KeyWait]
-[text]その液染みに誘われるかのように、次第に男たちの愛撫が、太腿からブルマの下腹部に移り来る。[KeyWait]
+[text]As if a stopper had been undone, my juices began continuously dripping out of my pussy as the stimulation got stronger. [KeyWait]
+[text]My damp panties and bloomers stuck to my crotch, making me feel uncomfortable.[KeyWait]
+[text]The boys' caressing gradually started moving from my thighs to the top of my bloomers, is if tempted by the stains forming on them.[KeyWait]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]あははあ、はるかちゃんのお腹、すべすべだあ。鍛えてるの？　引き締まってるねえ[/i]」[KeyWait]
+「[i]Ahah, your stomach's so smooth, Haruka-chan. Do you work out? You're pretty toned.[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex66"]
 [Face storage="f_a050"]
 [Voice storage="a1759" buf=2]
 【Haruka】[CR]
-「[v]さ……触るな……ってば……。ひうっ！[/v]」[KeyWait]
+「[v]D-Don't... touch me... Hyuh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]なんか……ブルマ濡れちゃってる。お、お漏らし？　おしっこ漏らしちゃった！？[/i]」[KeyWait]
+「[i]Your bloomers... They're kinda wet. I-Is this pee? Did you wet yourself!?[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex57"]
 [Face storage="f_a050"]
 [Voice storage="a1760" buf=2]
 【Haruka】[CR]
-「[v]ち、違……ッ。あ……あぁ……[/v]」[KeyWait]
+「[v]N-No... Ah... Aah...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Male Student C】[CR]
-「[i]いや、小便にしちゃ、なんか、ねとねと、ぬるぬるして……すげえ、エロい。この汁[/i]」[KeyWait]
+「[i]No, this is too sticky and slimy for pee... Wow, this stuff's erotic...[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex66"]
 [Face storage="f_a048"]
 [Voice storage="a1761" buf=2]
 【Haruka】[CR]
-「[v]ひうっ！　く……うぅ～～～～～～ッ[/v]」[KeyWait]
+「[v]Hyuh! Kuh... Uuuuuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]彼らの指先が恥丘のもっこりを興味深げになぞってゆく。[KeyWait]
+[text]They curiously ran their fingers along my mons pubis.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1762" buf=3]
 【Haruka】[CR]
-（[v]うう……、あと少し……し、下に、来られたら……。クリトリス、さ、触られちゃう！！[/v]）[KeyWait]
+（[v]Ugh... If they go... j-just a little lower... T-They're gonna touch my clitoris![/v]）[KeyWait]
 [FaceOff]
 
-[text]その時の衝撃を想像して、たまらず身震いが走った。[KeyWait]
+[text]I shuddered as I imagined how it'd feel.[KeyWait]
 
 [ExVoice1 storage="aex67"]
 [Face storage="f_a060"]
 [Voice storage="a1763" buf=2]
 【Haruka】[CR]
-「[v]くぅ～～～、やめ……。触る、んぅっ、なあ……っ[/v]」[KeyWait]
+「[v]Kuuuuuh, stop... Don't, nnh, touch me...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]た、たまんねえ……。悶えると、巨乳がたぷんたぷん、揺れまくるっ！[/i]」[KeyWait]
+「[i]I-I just can't get enough of this... Every time she squirms, her huge boobs jiggle and shake all over![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]うひっ！　ぬちょぬちょの触り心地、たまんねえっ！！[/i]」[KeyWait]
+「[i]Uhyi! I love how wet and sticky this feels![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex66"]
 [Face storage="f_a045"]
 [Voice storage="a1764" buf=2]
 【Haruka】[CR]
-「[v]ふぇっ！？　や、やめ……ろぉっ！[/v]」[KeyWait]
+「[v]Fweh!? S-Stop... that![/v]」[KeyWait]
 [FaceOff]
 
-[text]愛液をたっぷり含んだ布地の感触に興奮した男が、乱暴にブルマを引っ張る。[KeyWait]
+[text]A boy excited by my damp bloomers yanked on their fabric.[KeyWait]
 
 [Face storage="f_o031"]
 【Male Student C】[CR]
-「[i]うほっ、本当だ。気色イイッ[/i]」[KeyWait]
+「[i]Uhoh, you're right. This feels great![/i]」[KeyWait]
 [FaceOff]
 
-[text]他の連中までもが、奪い合って布地を握り締めてくる。[KeyWait]
+[text]The others began grabbing and pulling on my bloomers as well, as if competing with each other.[KeyWait]
 
 [ExVoice1 storage="aex38"]
 [Face storage="f_a017"]
 [Voice storage="a1765" buf=2]
 【Haruka】[CR]
-「[v]はわっ、だ、だめッ！！　ああああぁっ！[/v]」[KeyWait]
+「[v]Hawah, n-no! Aaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se618" buf=0]
@@ -2120,156 +2120,156 @@
 [CgSet storage="EV701c"]
 [UpDate]
 
-[text]ビリッ！　ビリリリッ！！[KeyWait]
+[text]Rip! Riiip![KeyWait]
 
-[text]たまらず、濃紺の厚手の生地がその下のショーツごと裂けた。[KeyWait]
+[text]Unable to bear the strain, the deep blue fabric tore along with my panties underneath.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1766" buf=3]
 【Haruka】[CR]
-（[v]結女の、ブルマが……ッ！！　こいつら、勝手に破きやがって……ッ！[/v]）[KeyWait]
+（[v]Yume's bloomers...! They ripped them...![/v]）[KeyWait]
 [FaceOff]
 
-[text]大切な従妹の体操着を乱暴にされて腹が立つ。[KeyWait]
-[text]けれども、それどころじゃない状態に気付いて、ボクはギョッとなった。[KeyWait]
+[text]I was angry over my precious cousin's gym clothes being handled so roughly.[KeyWait]
+[text]However, I quickly realized that wasn't what I needed to be worried about right now.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1767" buf=3]
 【Haruka】[CR]
-（[v]うわっ、こ……これって……ッ！[/v]）[KeyWait]
+（[v]Uwah... W-Wait a second...![/v]）[KeyWait]
 [FaceOff]
 
-[text]破かれた裂け目から、股間が露わとなってしまっていた。[KeyWait]
-[text]愛液で湿った秘花弁に外気が触れ、冷たさに息を飲む。[KeyWait]
+[text]My crotch had been exposed through the tear in my bottoms.[KeyWait]
+[text]I gasped as cold air swept over my moist flower petals.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1768" buf=3]
 【Haruka】[CR]
-（[v]う、うわ……、あ、こいつら、見てる……っ。ボクの、あそこっ。み……見られちゃってるッ！！[/v]）[KeyWait]
+（[v]U-Uwah... Ah, they're looking... at me down there... T-They're looking at it![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]すげえっ、マンコ！[/i]」[KeyWait]
+「[i]Wow, her pussy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]転校生のオマンコっ！！[/i]」[KeyWait]
+「[i]The transfer student's pussy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Male Student C】[CR]
-「[i]女のオマンコ、こんななってんだ……っ、エロいっ！[/i]」[KeyWait]
+「[i]So this is what girls' pussies are like... Hot![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
 【Male Student D】[CR]
-「[i]一条はるかの、オマンコ！！[/i]」[KeyWait]
+「[i]Ichoujou Haruka's pussy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o051"]
 【Male Student E】[CR]
-「[i]オマンコ丸出しだっ、転校生！[/i]」[KeyWait]
+「[i]The transfer student's pussy's out in the open![/i]」[KeyWait]
 [FaceOff]
 
-[text]一斉に、おまんこの大合唱が湧き上がった。[KeyWait]
+[text]The boys all erupted into a choir of the word 'pussy.'[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1769" buf=3]
 【Haruka】[CR]
-（[v]う、うぅ……ッ！　好きで、おまんこ、付けてるわけじゃないのに……ッ[/v]）[KeyWait]
+（[v]U-Ugh...! It's not like I [ita]want[endita] to have a pussy...[/v]）[KeyWait]
 [FaceOff]
 
-[text]連呼されると、自分の存在そのものが女性器として扱われているような気になってくる。[KeyWait]
+[text]Hearing the word repeated made me concerned that I was being treated as just a pussy.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1770" buf=3]
 【Haruka】[CR]
-（[v]男なのにっ！！　一条遼、なのにっ！　ボクにだって、ちんぽあったんだぞっ！！　そんな、巨根とか、そういうのじゃなかったけれど……、きちんと勃起してたし！[/v]）[KeyWait]
+（[v]I'm a guy! I'm Ichijou Ryou! I had a dick before! It wasn't huge or anything, but... It got hard like it was supposed to![/v]）[KeyWait]
 [FaceOff]
 
-[text]けれどそのペニスも、いまではちっぽけな小粒に成り果てて、虚勢を張るように包皮の中から赤く充血して小刻みに震えている。[KeyWait]
-[text]その下では陰嚢のあった部分がくっぱりと割れた悩ましい秘裂になり、愛液まみれでぬらぬらの粘膜と肉ビラをさらけ出す。[KeyWait]
-[text]下端の奥でひゅくひゅく痙攣しながら、ヨダレを溢れさせる穴が開ききっていた。[KeyWait]
+[text]But now, that penis had been replaced with a tiny, red, swollen bump which was shuddering underneath its hood as if to emphasize my loss.[KeyWait]
+[text]And underneath that where my scrotum used to be, I had an exposed slit that allowed you to see my slippery, love juice-soaked membrane and folds underneath.[KeyWait]
+[text]And even further down was a convulsing, drooling, wide-open hole.[KeyWait]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]う～～、たまんねっ！！　ぶち込みたいっ、一条はるかの膣ぅっ！[/i]」[KeyWait]
+「[i]Uuuh, I can't take it! I wanna stick my dick in Ichoujou Haruka's pussy![/i]」[KeyWait]
 [FaceOff]
 
-[text]ブルマの裂け目から、ボクのエロいおまんこ覗きながら、彼らはこれ見よがしにちんこを扱き始めた。[KeyWait]
+[text]The guys stared at my lewd pussy through the hole in my bloomers and started boldly jerking themselves off.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1771" buf=3]
 【Haruka】[CR]
-（[v]く、クソ……ッ。なんだよ……、気持ち良さそうに、ちんぽ、シコりやがってっ！　ボ、ボクの、濡れまんこ……見て、そんな……勃起、しやがって……ッ[/v]）[KeyWait]
+（[v]D-Damnit... what the hell... They're stroking their dicks so happily! T-They got so hard... from seeing... m-my wet pussy... [/v]）[KeyWait]
 [FaceOff]
 
-[text]悔しいのに、変な興奮が湧き上がってきてしまう。[KeyWait]
+[text]I was frustrated, but at the same time, a strange arousal was building up within me.[KeyWait]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]そんなエロいマンコ見せられたら、辛抱出来ないよ！！　そ、そんなに、濡れてるしっ！[/i]」[KeyWait]
+「[i]There's no way I'd be able to hold back after seeing such a sexy pussy! I-It's so wet, too![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1772" buf=3]
 【Haruka】[CR]
-（[v]う、うわ……、ち……近寄られる……と、匂い……がっ！！　こ、こいつら、きちんと、ちんこ、洗ってるのかよ！？　こ、こんな……匂いッ。臭い……からっ！[/v]）[KeyWait]
+（[v]U-Uwah... W-When they get close like this... I-I can smell them...! D-Do these guys wash even wash their dicks!? T-They stink... so bad![/v]）[KeyWait]
 [FaceOff]
 
-[text]一扱きごとに、むさ苦しい牡の饐えたペニス臭が押し寄せる。[KeyWait]
-[text]しかも、ボクの濡れた穴から匂い立つ、甘い蜜の香りと混ざり合って、頭がくらくらするほどの淫靡な匂いを醸し出す。[KeyWait]
-[text]その芳香にますます彼らは興奮して、ペニスをボクへと迫り出してくる。[KeyWait]
+[text]Every stroke sent another whiff of their filthy, rotten male scents toward me.[KeyWait]
+[text]Their smells mixed together with the sweet smell of honey coming from my moist hole, creating a lewd odor that made my head spin.[KeyWait]
+[text]Having been aroused even further by the aroma, the guys brought their dicks closer to me.[KeyWait]
 
 [ExVoice1 storage="aex67"]
 [Face storage="f_a032"]
 [Voice storage="a1773" buf=2]
 【Haruka】[CR]
-「[v]ひぁ……ああ、き、汚い……から、よ、寄るな……ってばっ！　や、やめろっ、ふぁあっ！！[/v]」[KeyWait]
+「[v]Hyah... Aah, k-keep those gross things... a-away from me! S-Stop it, fwaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]おっぱいを揉み弄られちゃってるので、避けられない。[KeyWait]
+[text]My boobs were still being groped, so I couldn't escape.[KeyWait]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a1774" buf=2]
 【Haruka】[CR]
-「[v]ひうっ！！　あ、ああああああぁッ！[/v]」[KeyWait]
+「[v]Hyuh! A-Aaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a048"]
 [Voice storage="a1775" buf=3]
 【Haruka】[CR]
-（[v]ち、ちんこ、押しつけられた！　か……身体中にッ！！　うぁ、ああぁ、肌、擦ってるッ。ぬるぬるの、亀頭で、ボクの肌……愛撫してるぅっ！　き、気持ち……わる……ひぅ……。ふぇ……、ふぁ、あ、あ、あああぁ……っ！！[/v]）[KeyWait]
+（[v]T-They're pressing their dicks against me! Uwah, aaah, they're rubbing them, on my skin... Their slippery heads... T-They feel so gross... Hyuh... Fweh... Fwah, a-a-aaaah...![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]うおっ！　ち、ちんぽで触ると、柔らけえっ、女の子の身体あっ[/i]」[KeyWait]
+「[i]Uwoh! H-Her skin feels so soft on my dick![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]おお、亀頭に……、体操着がッ擦れてッ。くっ、もうっ、出ちゃいそうっ！[/i]」[KeyWait]
+「[i]Ooh, the way it feels to rub my cockhead on her gym clothes... I could cum already![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
 【Male Student C】[CR]
-「[i]ブ、ブルマの感触も、たまんねえ！　押し込むと、スケベな液、ジュって滲んでくる！！[/i]」[KeyWait]
+「[i]H-Her bloomers feel amazing, too! That dirty smell gets stronger whenever I push against them![/i]」[KeyWait]
 [FaceOff]
 
-[text]あっという間に吸水性のいい布地にカウパーが染みこんで、ぬめぬめの独特な潤滑がその下の素肌にまで粘り着く。[KeyWait]
+[text]In an instant, the guys' precum had soaked into my absorbent bloomers, resulting in their special lubricant reaching my bare skin.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a1776" buf=3]
 【Haruka】[CR]
-（[v]あうう……結女の体操着、なのにっ……そん……な、汚いので、よ……汚してッ！！[/v]）[KeyWait]
+（[v]Auuh... These are Yume's gym clothes... B-But... they're getting them... s-o dirty![/v]）[KeyWait]
 [FaceOff]
 
-[text]罪悪感に、その結女の方をうかがい見る。[KeyWait]
-[text]けれども、ボクの最愛の従妹は、それどころではない様子で羅刹の愛撫に翻弄されていた……。[KeyWait]
+[text]The guilt made me look over at Yume.[KeyWait]
+[text]But thanks to Rasetsu's caress, my beloved cousin wasn't in any state to care...[KeyWait]
 
 [ExVoice1Stop]
 
@@ -2281,35 +2281,35 @@
 [Face storage="f_b016"]
 [Voice storage="b0251" buf=5]
 【Yume】[CR]
-「[v]ああ……ん、やだ……。あぁ、そんなに、お乳……、されたら、へ、変……、なっちゃうよ……っ！[/v]」[KeyWait]
+「[v]Aah... Nnh, no... Aah, if you keep playing with my boobs... I-I'm gonna... feel weird...![/v]」[KeyWait]
 [FaceOff]
 
 ;b0252
 ;「はぁぅうん……んっ、ふああ……んくっ、ふぅん、ぅううん……んぁ……はっ、んはぁ、はぁぅ……あはぁ……はっ、んん……はぅ……んっ、くぅん……ん、はぁ、ぁああん……あはああぁ、あふ、ううん……」
 
-[text]結女が悶えると股ぐらに挟まされた鬼女のペニスがひょこひょこ揺れて、群がる女生徒を誘惑する。[KeyWait]
+[text]Every time Yume squirmed, the cock sticking up between h er thighs would shake around, seducing the girls swarming her and Rasetsu.[KeyWait]
 
-[text]くちゅ、ちゅぱ、ちゅるる……れろ、ちゅぷちゅぷ。[KeyWait]
+[text]Suck, suck, slurp... Lick, suck suck...[KeyWait]
 
 [Face storage="f_p014"]
 [Voice storage="e0023" buf=3]
 【Female Student 1】[CR]
-「[v]んふぁ……おちん、ちん……[/v]」[KeyWait]
+「[v]Nfwah... D-Dick...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p024"]
 [Voice storage="f0017" buf=3]
 【Female Student 2】[CR]
-「[v]はぁあああぁ～、もう、だめぇ……。頭、くらくら、しゅる～[/v]」[KeyWait]
+「[v]Haaaaaaah, I can't take any more... My head's spinning...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c906"]
 [Voice storage="c0250" buf=3]
 【Rasetsu Douji】[CR]
-「[v]ふぁ……ああぁ……。素敵、だわ……。気持ち……いぃ……[/v]」[KeyWait]
+「[v]Fwah... Aaah... You're so wonderful... This feels... so good...[/v]」[KeyWait]
 [FaceOff]
 
-[text]その女生徒たちの舌使いと、結女から啜り込む錬気の味わいに羅刹童子が喜悦に瞳を蕩けさせていた。[KeyWait]
+[text]Rasetsu Douji's eyes melted with joy at the sensation of the girls' tongues and the taste of Yume's Renki.[KeyWait]
 
 [ExVoice2Stop time=2000]
 
@@ -2325,69 +2325,69 @@
 [Face storage="f_a060"]
 [Voice storage="a1777" buf=3]
 【Haruka】[CR]
-（[v]うぅ……。な、なんだよ……結女も……希美……ら、羅刹も、気持ち良さそう……に……[/v]）[KeyWait]
+（[v]Ugh... W-What the hell... Yume... and Kimino... I mean, Rasetsu... both look like they feel so good...[/v]）[KeyWait]
 [FaceOff]
 
-[text]女生徒をまとわりつかせて絡み合う二人の様子が、ボクの男の心情を揺さぶって、女の身体を疼かせた。[KeyWait]
+[text]Seeing the two swarmed with girls shook my male heart and made my female body shudder.[KeyWait]
 
 [Sound storage="se106" buf=0]
 
-[text]ぬちゅ、ぐちゅ、にゅるにゅる、べちゅ、ぬらぬらぬら、にちゅ、ずりゅ。[KeyWait]
+[text]Squelch, squelch, slick, squelch, slick, squelch, squelch...[KeyWait]
 
-[text]ますます敏感度を増す肌に、幾本もの勃起から滲み出したカウパーがなすりつけられる。[KeyWait]
+[text]The guys continued rubbing their precum-dripping cocks on my increasingly-sensitive skin.[KeyWait]
 
 [ExVoice1 storage="aex66"]
 [Face storage="f_a060"]
 [Voice storage="a1778" buf=2]
 【Haruka】[CR]
-「[v]んふ……、ふぁ……あ、はぁ……あ……ああぁ……。ちん、ぽ……汚い……ちんぽ……ぉ……[/v]」[KeyWait]
+「[v]Nfh... Fwah... Ah, haah... Ah... Aaah... Dicks... Dirty... dicks...[/v]」[KeyWait]
 [FaceOff]
 
-[text]一本一本から分泌される量は少なくても、これだけペニスの本数が増えるとただ事じゃない。[KeyWait]
+[text]Even if each dick wasn't letting out that much, with this many of them, it still meant there was a lot.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1779" buf=3]
 【Haruka】[CR]
-（[v]もう、髪の毛も、変な汁で……べたべた……だよ……。はぁ、ああああぁ……。男の……濃い……匂いが、しちゃってる……し……[/v]）[KeyWait]
+（[v]My hair's... all sticky from it... Haah, aaaaah... It smells... so strong... and manly...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]く……ッ、たまんないっ！！　もう、入れてもいいだろ！？[/i]」[KeyWait]
+「[i]Kuh... I can't take this! I can put it in, right!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
 【Male Student B】[CR]
-「[i]ま、まてっ！　それなら俺だって入れたいからっ！！　はるかちゃんの膣内ッ[/i]」[KeyWait]
+「[i]W-Wait! I wanna put it in, too! I wanna put my dick in Haruka-chan's pussy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a1780" buf=3]
 【Haruka】[CR]
-（[v]ひうっ！？　こ、こいつら……入れる……つもり……？　ボクの、膣内……に、そ、その……ちんこ、挿入……する、つもりっ！？[/v]）[KeyWait]
+（[v]Hyuh!? They... wanna put it in...? They're wanna put their d-dicks... into my pussy!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]ペニスの突き込みを誘うように、弛んで開いたボクの女陰からは蜜がこぽこぽと湧き出ている。[KeyWait]
-[text]我慢の限界になった一人が勃起を迫り出そうとするが、他の連中も俺だって入れたいとボクの股穴に割り込もうとする。[KeyWait]
+[text]Honey gushed out of my loose, open lips as if to invite a cock inside.[KeyWait]
+[text]One of the guys, having reached his limit, brought his erection closer to my crotch, but the others tried to insert themselves at the same time.[KeyWait]
 
 [ExVoice1 storage="aex66"]
 [Face storage="f_a069"]
 [Voice storage="a1781" buf=2]
 【Haruka】[CR]
-「[v]ど……どっちも、イヤ……だからっ！　さっさとボクの脚の間から、どけッ、てばあっ！！[/v]」[KeyWait]
+「[v]I-I... don't want any of you inside me! Get away from my crotch already, damnit![/v]」[KeyWait]
 [FaceOff]
 
-[text]強引に来られたら拒む力はない。簡単に犯されちゃう。[KeyWait]
-[text]それでも、拒絶の言葉を振り絞り、逃れようと身体をくねらせる。[KeyWait]
+[text]If it came to strength, I wouldn't be able to fight them off. They'd rape me with ease.[KeyWait]
+[text]But at the very least, I refused them with my words and squirmed around in an attempt to escape.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1782" buf=3]
 【Haruka】[CR]
-（[v]こ、こいつら……、争っている時……くらい、愛撫……やめろってば……。ち、力……入らない、からぁ……。ふぁ……あああぁ……[/v]）[KeyWait]
+（[v]C-Come on... At least stop groping me... while you're fighting with each other... I-I can't do anything like this... Fwah... Aaaah...[/v]）[KeyWait]
 [FaceOff]
 
-[text]自分の挿入権を主張しながら、どいつもこいつも、ボクのおっぱい揉んだり肌すりすり撫でるのやめないんだから困っちゃう。[KeyWait]
-[text]その時……。[KeyWait]
+[text]I was at a loss with all of them groping my boobs and rubbing their cocks on my skin as if to insist that it was [ita]their[endita] right to do me.[KeyWait]
+[text]Just then...[KeyWait]
 
 [eval exp="sf.kaisouOpenFlag['17']=1"]
 
@@ -2399,25 +2399,25 @@
 [UpDate]
 
 [Face storage="f_g001"]
-【渡辺】[CR]
-「[i]あ～、腹減ったあ。帰りにラーメン食っていこうぜ～！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Aah, I'm starving. Let's grab some ramen on the way home![/i]」[KeyWait]
 [FaceOff]
 
-[text]今日は空手部の練習だったらしい。道着姿の悪友、渡辺綱吉が武道場の方から仲間と一緒にやってきた。[KeyWait]
+[text]It seemed that the karate club had practice today. Watanabe Tsunayoshi came walking from the direction of their training area, still wearing his karate uniform.[KeyWait]
 
 [Face storage="f_g005"]
-【渡辺】[CR]
-「[i]あれ？　あいつら、なにやってんだ？[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Huh? What's going on over there?[/i]」[KeyWait]
 [FaceOff]
 
 ;[text]早速校庭の人だかりに注目し、[KeyWait]
 
 [Face storage="f_g006"]
-【渡辺】[CR]
-「[i]ん？　んん？　――――――んぁあああっ！！！！？？？？[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Hm? Hmmm? ...Whaaaat!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]早速校庭の人だかりの中で男たちに愛撫され、ちんぽを擦りつけられているボクの姿に気がついた。[KeyWait]
+[text]He quickly noticed the crowd of guys groping me and rubbing their dicks on me in the middle of the grounds.[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV701c"]
@@ -2426,163 +2426,163 @@
 [Face storage="f_a069"]
 [Voice storage="a1783" buf=2]
 【Haruka】[CR]
-「[v]わ、渡辺……。み、見るなぁ……。見ないで……ってば……[/v]」[KeyWait]
+「[v]W-Watanabe... D-Don't look... Really... Don't look...[/v]」[KeyWait]
 [FaceOff]
 
-[text]得体の知れない恥ずかしさが溢れかえった。[KeyWait]
-[text]正体を知られていないとはいえ、男の時、一番仲が良かったヤツに、こんな痴態を見られている。[KeyWait]
-[text]失望されただろうか？　[KeyWait]
-[text]不安げに顔を曇らせると―――、[KeyWait]
+[text]An embarrassment I didn't understand welled up inside me.[KeyWait]
+[text]Even if he didn't know I was Ryou, the guy I'd been closest to back when I was also a guy was seeing me like this.[KeyWait]
+[text]Was he disappointed in me?[KeyWait]
+[text]My face clouded over with worry, and then...[KeyWait]
 
 [Face storage="f_g008"]
-【渡辺】[CR]
-「[i]うお、お、おお、おぁああああああああああぁッ！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Uwoh, o-ooh, owaaaaaaaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]渡辺は、信じられない速さで一目散にこっちへ向かってきた。[KeyWait]
+[text]Watanabe sprinted toward me at an unbelievable speed.[KeyWait]
 
 [Face storage="f_g008"]
-【渡辺】[CR]
-「[i]一条ぉおおおおおおおっ、はるか、さんっッッッ！！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Ichijou Haruka-saaaaaaaaan![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a1784" buf=2]
 【Haruka】[CR]
-「[v]ひゃ、ひゃい！[/v]」[KeyWait]
+「[v]Y-Yes!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]目の前に来るなり大声で名を呼ばれ、ボクは思わず間抜けな返事をしてしまった。[KeyWait]
+[text]I absentmindedly responded to his loud shout.[KeyWait]
 ;[text]余りの剣幕に他の連中が気圧され後ずさる中、[KeyWait]
 
 [Face storage="f_g008"]
-【渡辺】[CR]
-「[i]お、俺の嫁になる女が、こんなとこでなにやってんだよ！？　――挿入させていただきます[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]What do you think you're doing to my future wife!? Move over and let [ita]me[endita] gonna put it in![/i]」[KeyWait]
 [FaceOff]
 
-[text]余りの剣幕に他の連中が気圧され後ずさる中、ショックに打ちのめされた表情から、一転してキリっとした顔付きになってきっぱり告げると、そそくさと制服のズボンごとトランクスを脱ぎ下ろした。[KeyWait]
+[text]The other guys backed away, scared by Watanabe's threatening cries. The shock quickly left his face and he regained his composure before he pulled both his pants and boxers down.[KeyWait]
 
 [Face storage="f_a042"]
 [Voice storage="a1785" buf=2]
 【Haruka】[CR]
-「[v]ひいっ！！　う、あ、あぁああぁ――ッ！[/v]」[KeyWait]
+「[v]Hyii! Uuh, a-aaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a1786" buf=3]
 【Haruka】[CR]
-（[v]こ、こいつ……で、でかいっ！！[/v]）[KeyWait]
+（[v]H-He's... h-huge![/v]）[KeyWait]
 [FaceOff]
 
-[text]べろんと弾け出た極太な逸物に、たまらず悲鳴を上げてしまった。[KeyWait]
+[text]I reflexively shrieked at Watanabe's massive member as it bounced out of his underwear.[KeyWait]
 
 [Face storage="f_o012"]
 【Male Student A】[CR]
-「[i]お、おいっ！　後から来て、わ、割り込んできてんじゃないよっ！！[/i]」[KeyWait]
+「[i]H-Hey! Don't butt in, y-you just got here![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o022"]
 【Male Student B】[CR]
-「[i]はるかちゃんに、さ、最初に挿入するのは、お、俺だしっ[/i]」[KeyWait]
+「[i]I-I'm gonna be the f-first one to stick it in Haruka-chan![/i]」[KeyWait]
 [FaceOff]
 
-[text]いきなりの乱入に、気圧されていた連中が勇気を振り絞って立ちふさがる。[KeyWait]
+[text]The guys mustered up their courage and tried to stop the sudden intruder.[KeyWait]
 
 [Face storage="f_g008"]
-【渡辺】[CR]
-「[i]邪魔だっ、はあっ、とうっ！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Get outta the way! Hoo, hiyah![/i]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se204" buf=0]
 
 [Face storage="f_o012"]
 【Male Student A】[CR]
-「[i]ぎゃあっ！！[/i]」[KeyWait]
+「[i]Gyaah![/i]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se206" buf=1]
 
 [Face storage="f_o022"]
 【Male Student B】[CR]
-「[i]ぐぇええっ！[/i]」[KeyWait]
+「[i]Gweeeeh![/i]」[KeyWait]
 [FaceOff]
 
-[text]当然だけど、いくつもの格闘技部を掛け持ちする武闘派スケベに敵うはずがなく、あっさりと倒される。[KeyWait]
+[text]Obviously, with Watanabe taking several martial arts classes at once, the pervert was easily able to push me down.[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
-「[i]は、はるかさん。まさか、俺がいない間に、こんなことになっているとは！　こうなった以上、俺が責任持って孕ませますから！！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]H-Haruka-san! I'd have never thought this would would happen while I was gone! Now that it's come to this, I'll take responsibility and get you pregnant![/i]」[KeyWait]
 [FaceOff]
 
-[text]他の連中も怯えて手出しが出来なくなる中、へたり込んだボクへと渡辺がちんこ丸出しで迫ってくる。[KeyWait]
+[text]The other guys cowered, unable to interfere as Watanabe brought his dick closer to my exposed pussy as I lie there, exhausted.[KeyWait]
 
 [Face storage="f_a042"]
 [Voice storage="a1787" buf=2]
 【Haruka】[CR]
-「[v]責任……って、お、お前、関係ないだろ！　それに孕ませる……ってなんだよ！！　ああ、もうっ……み、見るなってばっ。変なとこっ！　お……お前も、変なもの、見せるなあっ！！[/v]」[KeyWait]
+「[v]Responsibility... Y-You've got nothing to do with this! And what the hell do you mean... you'll get me pregnant!? Aah, geez... Stop looking at me down there! A-And don't show me that freaky thing![/v]」[KeyWait]
 [FaceOff]
 
-[text]散々愛撫されたおかげですっかり濡れて弛んだ股間を、じーっと凝視している。[KeyWait]
-[text]ボクも、赤紫色に怒張したカリ高な渡辺のちんこに、つい目が行っちゃう。[KeyWait]
+[text]He was staring right at my crotch, which had gotten wet and loosened up from being played with so much.[KeyWait]
+[text]My own eyes couldn't help but be drawn to his throbbing, big-headed, reddish-purple, member as well.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1788" buf=3]
 【Haruka】[CR]
-（[v]うう……、愛液、またこぷこぷ湧き出して……きた。こんなデカい、ちんこ見せるから……子宮、疼いてくる……し……。身体……女、だから、デカいちんこに……発情しちゃう……[/v]）[KeyWait]
+（[v]Ugh... My love juices are coming out again... My womb's throbbing... because he's showing me his huge dick... Since I've got a girl's body... Big dicks turn me on...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a1789" buf=2]
 【Haruka】[CR]
-「[v]も……もう……っ。――はうっ！！　は、放せっ[/v]」[KeyWait]
+「[v]L-Let go... Hauh! L-Let go of me already![/v]」[KeyWait]
 [FaceOff]
 
-[text]慌てて脚を窄めようとしたけれど、それより早く渡辺に膝頭を押さえられ、こじ開けられてしまった。[KeyWait]
+[text]I hurriedly tried to shut my legs, but Watanabe stuck a knee between them before I could, then pried them back open.[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
-「[i]俺、絶対にはるかさんを幸せにします！　一発で受精させますから、元気な俺の子をいっぱい産んでください[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]I'm gonna make you happy for sure, Haruka-san! I'll get you pregnant in one shot, so please give birth to a lot of healthy kids![/i]」[KeyWait]
 [FaceOff]
 
-[text]へたり込んだまま身動き取れないボクに、のし掛かってくる。[KeyWait]
+[text]Still unable to resist because of my exhaustion, he got on top of me.[KeyWait]
 
 [Face storage="f_a058"]
 [Voice storage="a1790" buf=2]
 【Haruka】[CR]
-「[v]――ば、ばかあっ！　ボク……だっ、ボクは遼だッ、一条遼！！　身体、おんなになっちゃったけど、本当は男なんだからっ、こ、こんなこと……や、やめ……て……っ！[/v]」[KeyWait]
+「[v]Y-You dumbass! I... I'm Ryou! Ichijou Ryou! I've got a girl's body, but I"m actually a guy, so s-stop... S-Stop it...![/v]」[KeyWait]
 [FaceOff]
 
-[text]もう隠してる場合じゃない。[KeyWait]
-[text]いくら何でも、初体験が女の身体でだなんて最悪だ。[KeyWait]
-[text]しかも相手がよりによって親友の渡辺だなんて、最悪にも程がある。[KeyWait]
-[text]一番知られたくない結女にまで聞こえちゃうかもしれないけれど、必死に声を張り上げる。[KeyWait]
-[text]けれど―――、[KeyWait]
+[text]This wasn't the time to keep hiding it.[KeyWait]
+[text]Female body or not, I really didn't want my first time to happen like this.[KeyWait]
+[text]The fact that it was my best friend Watanabe made it even worse.[KeyWait]
+[text]I knew that Yume - the person I didn't want to know the most - could have heard me, but I still frantically told Watanabe my secret.[KeyWait]
+[text]However...[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
-「[i]遼……だって？　ははは、ご冗談を。あなたはどこからどう見ても女の子じゃないか。俺の嫁のはるかさんっ！！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]You're... Ryou? Hahaha, that's a funny joke. You're clearly a girl no matter where I look. You're my wife, Haruka-san![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a069"]
 [Voice storage="a1791" buf=2]
 【Haruka】[CR]
-「[v]ひいっ！[/v]」[KeyWait]
+「[v]Hyii![/v]」[KeyWait]
 [FaceOff]
 
-[text]全く信じてくれない。[KeyWait]
+[text]He didn't believe me at all.[KeyWait]
 
 [Face storage="f_a069"]
 [Voice storage="a1792" buf=2]
 【Haruka】[CR]
-「[v]か、身体は女でも、心の中身は男だからっ！！　一条遼なんだからっ！[/v]」[KeyWait]
+「[v]I-I've got a girl's body, but I still have a guy's heart! I'm Ichijou Ryou![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
-「[i]そんな双子の弟のふりして照れなくても！　さあ……、はるかさん、[eruby str="挿入" text="いれ"]ますよ[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]You don't need to pretend to be your twin brother just because you're embarassed! Now, then... I'm putting it in, Haruka-san![/i]」[KeyWait]
 [FaceOff]
 
-[text]渡辺は止まらない。ボクの細腰を抱き寄せて股間を重ねてくる。[KeyWait]
+[text]Watanabe didn't stop. He pulled my slender waist toward his crotch.[KeyWait]
 
 [eval exp="f.chaptertitle='Haruka Raped by Watanabe'"]
 
@@ -2593,28 +2593,28 @@
 [CgSet storage="EV702a"]
 [UpDate]
 
-[text]ぬじゅ、ぬぶっ、ずぶぶッ。[KeyWait]
+[text]Squelch, squelch, squelch...[KeyWait]
 
 [ExVoice1 storage="aex33"]
 [Face storage="f_a048"]
 [Voice storage="a1793" buf=2]
 【Haruka】[CR]
-「[v]ま、ま……て、だめッッ。ひぁぃああはっ！　入れッ、るな……ってば……。ふぁああああっ！！　ああっ、だめ。はま……って。ボクの、穴……あぁ、んんっ、ふぅうううぅっ！[/v]」[KeyWait]
+「[v]W-Wait... No! Hyaaaah! Don't... put it in, damnit... Fwaaaaah! Aah, no, it's... going in... Aah, nnnh, fuuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex21"]
 [Face storage="f_a048"]
 [Voice storage="a1794" buf=2]
 【Haruka】[CR]
-「[v]だ……めっ。入って……んぅうう、ふぇえっ！　お……あああっ、ああ、めり……込ん、で……ッ。くぅううっ、んはぁああんっ！！　あぅうっ！　ふぉおおおぁああっ！[/v]」[KeyWait]
+「[v]N-No... It's... Nhuuuh, fweeh! Oh... Aaah, aah, going in... Kuuuuh, nhaaaahn! Auuh! Fwooooaaah! [/v]」[KeyWait]
 [FaceOff]
 
-[text]亀頭が熟穴にめり込んだ。途端に灼熱が牝穴で渦巻いて下腹を揺るがす。[KeyWait]
+[text]His cockhead slid into my hot hole. Instantly, I felt my pussy coil around it, making my abdomen quake.[KeyWait]
 
 [Face storage="f_a048"]
 [Voice storage="a1795" buf=3]
 【Haruka】[CR]
-（[v]はい……って……、ああ、嘘ッ、男のがあっ、渡辺のちんぽが、ボクの膣、入ってきた。あ、あああぁ、ひぃあッ！[/v]）[KeyWait]
+（[v]It's... inside me... Aah, no way, a guy's dick, Watanabe's dick, it's inside my pussy... A-Aaaah, hyiah![/v]）[KeyWait]
 [FaceOff]
 
 [text]理性が易々と股ぐらの穴感触に魅了されていた。[KeyWait]
@@ -2640,7 +2640,7 @@
 [FaceOff]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]は、はるか……さんっ！　んぉおっ！！　ふんっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2658,7 +2658,7 @@
 [FaceOff]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]あぁあっ、はるかさんっ！　俺、はるかさんに、入れますッッ！！　はるかさん処女ですか？　処女ですよね？　はるかさんの処女、頂きま――す！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2687,7 +2687,7 @@
 [FaceOff]
 
 [Face storage="f_g004"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]うおおっ、入ってる！　俺の、ちんぽっ！！　はるかさんの、膣内にっ、入ってるッ！　くううっ、狭くて、柔らかくて、ぬるぬるでっ、き、気持ち……いいっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2731,7 +2731,7 @@
 [text]情けない。惨めだ。けれど倒錯した事実を意識するほど、キュンキュンと膣襞が窄まって、押し入ってくる硬肉を締め付ける。[KeyWait]
 
 [Face storage="f_g004"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]くふぉっ、はるかさんの膣内っ、気持ちいいっすっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -2755,7 +2755,7 @@
 [text]ペニスを締め付ける膣の収縮と、ボクの狂おしい嬌声が、渡辺の肉欲を猛らせた。[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]くおおおっ！　一条はるかぁあっ！！　孕ませるッ！　孕ませますからぁああっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -3234,7 +3234,7 @@
 [text]変な心配が胸をよぎるから、変な興奮が湧き上がって膣が窄まっちゃう。[KeyWait]
 
 [Face storage="f_g003"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]うおっ、また締め付けてきたっ！　エッチなんだなあ、はるかさんのオマンコは[/i]」[KeyWait]
 [FaceOff]
 
@@ -3348,7 +3348,7 @@
 [text]膣襞が急激に窄まり、激しく抽送する怒張幹を締め付けた。[KeyWait]
 
 [Face storage="f_g004"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]くふっ！！　す……ご、ああ、もう、出るっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -3539,7 +3539,7 @@
 [text]胸いっぱいに吸い込んでみたら、じゅん、と膣が濡れた。[KeyWait]
 
 [Face storage="f_g004"]
-【渡辺】[CR]
+【Watanabe】[CR]
 「[i]はぁ……あ、あぁ……。た、たまんねえ……。はるか、さんの、中ぁ……。最高……だ……[/i]」[KeyWait]
 [FaceOff]
 
