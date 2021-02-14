@@ -1181,8 +1181,8 @@
 ;‚a—É‚¾By8-4 ŠoÁ‚µ‚È‚¢ƒ‹[ƒg‚Öz[CR]
 
 [SelectStart option=2]
-[SelectOption target=*‘I‘ğˆ‚P‚ num=1 text="'Haruka.'"]
-[SelectOption target=*‘I‘ğˆ‚P‚‚ num=2 text="'Ryou.'"]
+[SelectOption target=*‘I‘ğˆ‚P‚ num=1 text="'I'm Haruka.'"]
+[SelectOption target=*‘I‘ğˆ‚P‚‚ num=2 text="'I'm Ryou.'"]
 [SelectEnd]
 
 

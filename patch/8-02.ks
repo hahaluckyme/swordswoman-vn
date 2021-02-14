@@ -9,51 +9,51 @@
 
 [Face storage="f_a070"]
 [Voice storage="a1924" buf=2]
-【はるか】[CR]
-「[v]はるかだよ、結女。そして、君を鬼から護るために宗家から来た鬼斬姫！　ボクと遼は、一緒に暮らすことを禁じられた双子。けれど、結女に危機が迫っているのを見過ごせなかったから、遼に病気を装って入れ替わってもらったんだ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I'm Haruka, Yume. The family head sent me, the Oni-Cutting Princess, to protect you! I'm Ryou's twin sister, but I was forbidden from living with him. But I couldn't overlook you being in danger, so I had Ryou fake being sick so I could switch places with him![/v]」[KeyWait]
 [FaceOff]
 
-[text]とっさに思いついた嘘だけど、多分[eruby str="辻褄" text="つじつま"]は合っていると思う。[KeyWait]
-[text]これ以上結女を騙すのは心苦しかったけれど、本当のことをいえば彼女は恐らく自分のせいでボクの性別が変わったことに負い目を感じただろう。[KeyWait]
+[text]Though I came up with my lie on the spot, but I think it probably fit pretty well.[KeyWait]
+[text]I felt bad about continuing to deceive Yume, but she'd probably feel guilt over me turning into a girl if she knew the truth.[KeyWait]
 
 [Face storage="f_a067"]
 [Voice storage="a1925" buf=2]
-【はるか】[CR]
-（[v]だから、これからもずっと、騙し続ける！　それに、やっぱり……男なのに身体が女になっちゃったなんて、好きな子に知られるの……恥ずかしいし……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]I don't want her to feel bad, so I'm going to keep deceiving her! Plus... Having my crush know I turned into a girl... would be embarrassing...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_b038"]
 [Voice storage="b0275" buf=2]
-【結女】[CR]
-「[v]そ、そうなんだ……。はるかちゃん……私を、護るために……。そ、それに……遼ちゃん、病気じゃ、なかったんだっ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]O-Oh, okay... You're here to protect me... Haruka-chan... A-And... Ryou-chan isn't sick![/v]」[KeyWait]
 [FaceOff]
 
-[text]結女の表情が、明るく晴れ渡った。[KeyWait]
-[text]どうやら、病気ということになっていた“遼”のことを、かなり心配してくれていたらしい。[KeyWait]
+[text]Yume's expression became cheerful and clear.[KeyWait]
+[text]It seemed that she'd been pretty worried about 'Ryou' being sick.[KeyWait]
 
 [Face storage="f_a059"]
 [Voice storage="a1926" buf=2]
-【はるか】[CR]
-（[v]こ、こんなことなら、始めからこういう言い訳にしておけば良かったかも……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]M-Maybe I should have just went with this from the start...[/v]）[KeyWait]
 [FaceOff]
 
-[text]でもその時は思いつかなかったのだし、鬼に狙われていることを結女に打ち明けて怯えさせたくなかったのだから仕方がない。[KeyWait]
+[text]But I hadn't thought of it at the time, and I was afraid of scaring Yume by telling her she was being targeted by oni.[KeyWait]
 
 [Face storage="f_b038"]
 [Voice storage="b0276" buf=2]
-【結女】[CR]
-「[v]はるかちゃん……、ありがとう。私の力……受け取って……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Haruka-chan... Thanks... Here... Take my power...[/v]」[KeyWait]
 [FaceOff]
 
-[text]穏やかに笑みを浮かべると、結女は胸の前に組んだ両手を解き、掌を前にボクへと向ける。[KeyWait]
+[text]Yume gave me a gentle smile as she unclasped her hands from in front of her chest and directed her palms toward me.[KeyWait]
 
 [Face storage="f_c903"]
 [Voice storage="c0291" buf=2]
-【羅刹童子】[CR]
-「[v]ま……待って……、や、やめろぉおおおっ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]W-Wait... S-Stooooop![/v]」[KeyWait]
 [FaceOff]
 
-[text]神々しい輝きを湛える結女の姿を呆然と眺めていた羅刹童子が、我に返って慌てふためく。[KeyWait]
+[text]Rasetsu Douji, who had been spacing out and staring at Yume's divine, shining form, came back to her senses and began to panic.[KeyWait]
 
 [BgmFadeOut time=1000]
 
@@ -63,16 +63,16 @@
 [BgSet storage="_white"]
 [UpDate]
 
-[text]その刹那、結女の掌から目映ゆい輝きが光の束となって放たれ、一直線にボクの身体へと注ぎ込まれた。[KeyWait]
+[text]Tightly-packed, blinding beams of light shot out of Yume's hands and poured straight into my body.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1927" buf=2]
-【はるか】[CR]
-「[v]はうっ！　あ、ああ、はぁああぁ――――ッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hauh! A-Aah, haaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]熱くはち切れるような衝撃に、全身が激震した。[KeyWait]
-[text]たまらず身を仰け反らせて喘ぐ。だが苦しくはない。[KeyWait]
+[text]The shock of receiving the hot burst of energy made my entire body shudder hard.[KeyWait]
+[text]I couldn't help but bend backwards and moan, but it didn't hurt.[KeyWait]
 
 ;ＢＧＭ：逆転
 ;[playbgm storage="bgm008"]
@@ -84,38 +84,38 @@
 
 [Face storage="f_a027"]
 [Voice storage="a1928" buf=2]
-【はるか】[CR]
-（[v]すご……い、これ……、ああ、力が、満ちてゆくっ！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Wow... I... Aah, I'm being filled with power![/v]）[KeyWait]
 [FaceOff]
 
-[text]むしろ、身体の内側を煮えたぎる灼熱が満たしてゆく感触に喜悦が込み上げた。[KeyWait]
+[text]In fact, the boiling hot sensation filling my body made me feel ecstatic.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1929" buf=2]
-【はるか】[CR]
-「[v]これで、結女を……護れるっ！！　結女を喰らおうとする鬼神を、討滅出来る！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]With this... I can protect Yume! I can eliminate the kijin trying to devour her![/v]」[KeyWait]
 [FaceOff]
 
-[text]鬼慰姫を守護する鬼斬姫としての使命を全う出来る喜びに、身体が昂り震えた。[KeyWait]
+[text]The joy of being able to fulfill my duty as the Oni-Cutting Princess and protect the Oni-Pleasing Princess made my body quiver with excitement.[KeyWait]
 
 [ChrSet0 storage="b_c902"]
 [UpDate]
 
 [Face storage="f_c903"]
 [Voice storage="c0292" buf=2]
-【羅刹童子】[CR]
-「[v]そん……なっ！　鬼慰姫の、錬気で……鬼斬姫の錬気を……お、補ってる！？　わ、わたしが、喰らうはずだった……、せっかく導き出させた、鬼慰姫の……、錬気をっ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]No way...! The Oni-Pleasing Princess's Renki... is compensating for yours!? I-I was supposed to devour that... I went to so much trouble to draw that Renki out...![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se301" buf=0]
 
 [Face storage="f_c912"]
 [Voice storage="c0293" buf=2]
-【羅刹童子】[CR]
-「[v]そ……それは、わたしのだっ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]T-That Renki is [ita]mine[endita]![/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクの身体を満たしてゆく莫大な錬気を取り返そうと、羅刹童子が飛びかかってきた。[KeyWait]
+[text]Rasetsu Douji charged at me in order to take back the mass of Renki inside my body.[KeyWait]
 
 [Sound storage="se877" buf=0]
 
@@ -124,127 +124,127 @@
 
 [Face storage="f_c903"]
 [Voice storage="c0294" buf=2]
-【羅刹童子】[CR]
-「[v]ぎゃううっ！　くぁっ、ああああぁッ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Gyauuh! KWah, aaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]だが、ボクの身体に触れる前に、鞭のような錬気の放電に弾き返されもんどり打った。[KeyWait]
+[text]But before she could even touch me, a whip-like jolt of Renki repelled her and sent her flipping backwards.[KeyWait]
 
 [Face storage="f_a035"]
 [Voice storage="a1930" buf=2]
-【はるか】[CR]
-（[v]あいつらに……。男たちに陵辱された身体の穢れが、浄化されてゆく……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]The impurities in my body from when they raped me earlier... They're being cleansed...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_g004"]
-【渡辺】[CR]
-「[i]ああ……はるかさん、もう一発、おチンポぶち込ませてくれ……。膣内に俺の精子、今日中に孕んで出産しちゃうくらいに、どばどばぶちまけさせてくれ……ッ！！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Aah... Haruka-san, let me stick my dick in you agin... Let me shoot so much cum into your pussy that you get pregnant...![/i]」[KeyWait]
 [FaceOff]
 
-[text]状況をさっぱり理解せず、渡辺が性懲りもなく抱きついてこようとしてくる。[KeyWait]
+[text]Watanabe, not having any idea what was going on, stubbornly tried to embrace me.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1931" buf=2]
-【はるか】[CR]
-「[v]――はああっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Haaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_g002"]
-【渡辺】[CR]
-「[i]ぐはぁああっ！[/i]」[KeyWait]
+【Watanabe】[CR]
+「[i]Guhaaaah![/i]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se211" buf=1]
 
-[text]気合い一発で、ボクは手を触れることもなくヤツを吹っ飛ばし、しかも無傷のまま気を失わせた。[KeyWait]
+[text]I shouted and blew him away without even laying a hand on him, knocking him unconscious without any injury.[KeyWait]
 
 [Face storage="f_o012"]
-【男子生徒Ａ】[CR]
-「[i]ひいっ！[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Hyii![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o022"]
-【男子生徒Ｂ】[CR]
-「[i]うわああっ！！[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]Uwaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]それを見た他の生徒たちが、恐れ戦いたように慌てて逃げ出してゆく。[KeyWait]
+[text]The other students quickly retreated in fear upon seeing me repel Watanabe.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1932" buf=2]
-【はるか】[CR]
-（[v]よし……。これで、戦いに集中出来る！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Good... Now I can focus on our battle![/v]）[KeyWait]
 [FaceOff]
 
-[text]浄化されて汚れの落ちたブルマを引き上げ下半身を隠す。[KeyWait]
+[text]I pulled up Yume's cleansed bloomers to hide my lower body.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a1933" buf=2]
-【はるか】[CR]
-（[v]うう……、やっぱり、お尻……はみ出ちゃう……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Ugh... My butt still sticks out of these...[/v]）[KeyWait]
 [FaceOff]
 
-[text]ちょっと集中出来ないかも……。[KeyWait]
-[text]指先で、はみ出た部分を布地の中に押し込んだ。[KeyWait]
-[text]丈の短い結女の体操着で、括れた腰が丸見えのヘソ出し姿だけど気にしちゃダメだ。[KeyWait]
+[text]Focusing might have been a little difficult...[KeyWait]
+[text]I pushed the part of my butt that stuck out back under the fabric.[KeyWait]
+[text]My belly button was still sticking out thanks to Yume's small gym clothes, but I couldn't afford to worry about that.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1934" buf=2]
-【はるか】[CR]
-（[v]胸……、動くとやっぱり揺れちゃうな……。う～、ブラジャー着けたい。なんでこんな大きいんだよ、ボクのおっぱい[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]My chest... is gonna shake when I move... Ugh, I want a bra. Why do my boobs have to be so big...[/v]）[KeyWait]
 [FaceOff]
 
-[text]乱れた青い髪をポニーテールに纏め直した。[KeyWait]
+[text]I fixed my blue hair up into a ponytail.[KeyWait]
 
 [Face storage="f_a035"]
 [Voice storage="a1935" buf=2]
-【はるか】[CR]
-（[v]全身に力が漲っている。いままでと比べものにならないくらい。身体の中を錬気が駆け巡っているのが、はっきりと分かるし！！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Power is welling up within my body, more than I've ever felt before. I can clearly feel the Renki flowing around inside me![/v]）[KeyWait]
 [FaceOff]
 
-[text]手を目前にかざす。念を込める。[KeyWait]
+[text]I held my hand out and focused.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1936" buf=2]
-【はるか】[CR]
-「[v]顕現せよ、鬼斬りの太刀っ！　号は“斬鐘”！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Show yourself, Oni-Cutting Blade! Your name is Zanshou![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se009" buf=0]
 [ChrSet0 storage="b_a251"]
 [UpDate]
 
-[text]命じた刹那、手の中に現れ出でた。[KeyWait]
+[text]Zanshou appeared in my hand the moment I ordered it.[KeyWait]
 
 [Sound storage="se219" buf=1]
 
-[text]以前に召喚した時よりも刃渡りも刃幅も広く、剣呑な重厚感を備えた姿となった、鬼を断ち切る大太刀が。[KeyWait]
+[text]Its blade was wider than when I'd last summoned it, making it look more dangerous and heavy.[KeyWait]
 
 [Face storage="f_a027"]
 [Voice storage="a1937" buf=2]
-【はるか】[CR]
-「[v]結女から貰った錬気に応じて、大きさを増した？　す、すごい……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]It got bigger because of Yume's Renki? W-Wow...[/v]」[KeyWait]
 [FaceOff]
 
-[text]片手でその巨剣を横薙ぎに払った。[KeyWait]
+[text]I swung the massive sword with one hand.[KeyWait]
 
 [Sound storage="se218" buf=0]
 [ChrReset0]
 [UpDate]
 
-[text]ブォオオオンッ！[KeyWait]
+[text]Whoooosh![KeyWait]
 
 [Face storage="f_r001"]
-【餓鬼たち】[CR]
-「[i]ぐぁああああっ！！[/i]」[KeyWait]
+【Gaki】[CR]
+「[i]Gwaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]途端に、激しい風圧が生じて餓鬼どもをよろけさせた。[KeyWait]
+[text]An intense wind blew forth from it, immediately staggering the gaki.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1938" buf=2]
-【はるか】[CR]
-「[v]羅刹ッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Rasetsu![/v]」[KeyWait]
 [FaceOff]
 
 [ChrSet0 storage="b_c902"]
@@ -252,253 +252,253 @@
 
 [Face storage="f_c903"]
 [Voice storage="c0295" buf=2]
-【羅刹童子】[CR]
-「[v]くう……っ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Kuuh...![/v]」[KeyWait]
 [FaceOff]
 
-[text]切っ先を突き付けると、美貌の鬼神が忌々しげに呻いた。[KeyWait]
+[text]The kijin groaned angrily as I pointed Zanshou's blade at her face.[KeyWait]
 
 [Face storage="f_c912"]
 [Voice storage="c0296" buf=2]
-【羅刹童子】[CR]
-「[v]よくも……わたしが喰らうはずの錬気を横取りしたわね。いいわ、あんたを喰らって、その力わたしのものにさせてもらう！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]How dare you... You snatched away the Renki I was going to devour. Fine, I'll just devour you to reclaim my power instead![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se232" buf=0]
 
-[text]シャキュン！！[KeyWait]
+[text]Zwip![KeyWait]
 
-[text]両手の爪が長く伸び、刃のように尖った。[KeyWait]
-[text]猫科の猛獣のように身を撓め、ボクへとその切っ先を狙い定めた。[KeyWait]
+[text]The claws on both her hands grew longer, becoming as sharp as knives.[KeyWait]
+[text]She relaxed her body like a wild cat and pointed her claws at me.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1939" buf=2]
-【はるか】[CR]
-「[v]結女を喰らおうなんて絶対に許さない！　結女に酷いことするヤツはボクが滅する！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I absolutely won't allow you to devour Yume! I'll destroy anyone who does horrible things to her![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b004"]
 [Voice storage="b0277" buf=2]
-【結女】[CR]
-「[v]はるか……ちゃん……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Haruka... chan...[/v]」[KeyWait]
 [FaceOff]
 
-[text]突撃の構えを取って身を低くするボクに、結女が心配そうな眼差しを向けてくる。[KeyWait]
-[text]ボクにタップリと注ぎ込んでもまだ膨大な錬気を湛え、桜色の淡い輝きに戻った光の羽衣を身に纏わせ、いまはボクの傍らで宙に浮かぶ。[KeyWait]
+[text]I lowered my body, ready to charge at her. Yume looked at me with worry in her eyes.[KeyWait]
+[text]Renki had filled her body once again even after giving me so much earlier. She floated next to me, once again wrapped in a pink robe of light.[KeyWait]
 
 [Face storage="f_c912"]
 [Voice storage="c0297" buf=2]
-【羅刹童子】[CR]
-「[v]はぁああああああああっ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Haaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a1940" buf=2]
-【はるか】[CR]
-「[v]せいいいぃ――ッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hiyaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]その彼女に笑いかけて安心させてやる余裕もない。[KeyWait]
-[text]少しでも気を抜けば、即座にお終いだ。[KeyWait]
-[text]怒気と怒気をぶつけ合わせ、視線に火花を散らすと、[KeyWait]
+[text]I didn't have time to smile at Yume to ease her fears.[KeyWait]
+[text]If I let my guard down even just a little, I'd be ended in an instant.[KeyWait]
+[text]Our fury toward one another clashed, making sparks appear in our vision, and then...[KeyWait]
 
 [Sound storage="se240" buf=0]
 [Flash]
 
-[text]ガギィン！！[KeyWait]
+[text]Clang![KeyWait]
 
-[text]ボクと羅刹は一瞬で間合いを詰め、全力で攻撃を繰り出し合った。[KeyWait]
+[text]Rasetsu and I instantly closed the gap between ourselves to go for an for all-out attack.[KeyWait]
 
 [Face storage="f_a064"]
 [Voice storage="a1941" buf=2]
-【はるか】[CR]
-「[v]ぬぉおっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Nhuooh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c903"]
 [Voice storage="c0298" buf=2]
-【羅刹童子】[CR]
-「[v]つぅうああぁっ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Uwaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]金属的な音色が弾けて、刃と爪が衝突した。[KeyWait]
-[text]間髪入れずすぐに二撃目を繰り出すが、[KeyWait]
+[text]A metallic sound rang out as my blade collided with her claws.[KeyWait]
+[text]We immediately went in for our own follow-up attacks, but...[KeyWait]
 
 [Sound storage="se259" buf=1]
 [Flash]
 
-[text]ギィイインッ！[KeyWait]
+[text]Clang![KeyWait]
 
-[text]やはり、互いの得物で攻撃を受け合い、弾かれ合う。[KeyWait]
+[text]As expected, we both blocked with the weapons we were skilled with.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1942" buf=2]
-【はるか】[CR]
-「[v]ふんっ！　はぁああああぁ――――ッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hmph! Haaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]常人では持ち上げることすら不可能な分厚く巨大な刃を苦もなく軽々と操り、羅刹の両手をはね上げる。[KeyWait]
-[text]振り上げた上段からそのまま脳天に叩き付けようと力を込めた。[KeyWait]
+[text]I effortlessly lifted my sword as she blocked, which was so heavy that a normal person couldn't have even lifted it, sending Rasetsu's hands upwards.[KeyWait]
+[text]With my hands now above me, I landed a powerful, blunt blow to the top of her head.[KeyWait]
 
 [Sound storage="se218" buf=0]
 
-[text]ゴォオオオッ！[KeyWait]
+[text]Bam![KeyWait]
 
 [Face storage="f_c912"]
 [Voice storage="c0299" buf=2]
-【羅刹童子】[CR]
-「[v]くっ、このおっ！　はあっ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Kuh, damn you! Haah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se206" buf=1]
 [QuakeScreen time=500 vmax=10 hmax=10]
 
-[text]ドゴァアッ！[KeyWait]
+[text]Crash![KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a1943" buf=2]
-【はるか】[CR]
-「[v]ああぐううっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Aaguuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]だがガラ空きになった腹部目掛けて羅刹の蹴りが容赦なくめり込む。[KeyWait]
+[text]But Rasetsu countered with a merciless kick to my exposed stomach.[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a1944" buf=2]
-【はるか】[CR]
-「[v]く……っ、そおおっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]D-Damniiit![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a029"]
 [Voice storage="a1945" buf=2]
-【はるか】[CR]
-（[v]いままでだったら、こんな攻撃食らったら、もうぶっ倒れてたな……。速すぎて、どんな攻撃されたのかも、分からなかったかも。―――でも、ボクには結女がくれた錬気があるからっ！！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]If I'd been as weak as before, I would have fallen to that attack... It was so fast I might have not seen it. But now I've got the Renki that Yume gave me![/v]）[KeyWait]
 [FaceOff]
 
-[text]そうボクは、結女と二人で戦っているんだ。[KeyWait]
-[text]わずかによろけただけで、強烈な蹴りを耐えきり、[KeyWait]
+[text]That's right - I was fighting together with Yume.[KeyWait]
+[text]Rasetsu's fierce kick had staggered me just a little, but I endured it, and then...[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1946" buf=2]
-【はるか】[CR]
-「[v]やぁああああぁ――――ッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hiyaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]すぐに全力の突きを放つ。[KeyWait]
+[text]I stabbed my blade into her as hard as I could.[KeyWait]
 
 [Sound storage="se208" buf=0]
 [Flash]
 
 [Face storage="f_c903"]
 [Voice storage="c0300" buf=2]
-【羅刹童子】[CR]
-「[v]がぁああっ！！　ツぁああぁッ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Gaaaah! Aaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]その切っ先が、羅刹の肩に深い傷を穿った。[KeyWait]
-[text]鬼神の美貌が苦痛に歪む。[KeyWait]
-[text]ほんの一瞬だけれど、動きが止まった。[KeyWait]
+[text]Zanshou's tip sunk deep into Rasetsu's shoulder.[KeyWait]
+[text]The kijin's face twisted in agony.[KeyWait]
+[text]For just a short moment, her movements stopped.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1947" buf=2]
-【はるか】[CR]
-「[v]――！！　だぁああああぁ――――ッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]...! Hiyaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクは風車のように全身を回転させた遠心力で重たい刃を加速させると、羅刹の首筋目掛けて一撃を叩き込んだ。[KeyWait]
+[text]I twisted my body like a windmill, using centrifugal force to carry my heavy blade into the side of Rasetsu's neck.[KeyWait]
 
-[text]鋭いが細い爪はもちろん、腕だろうが脚だろうが微塵に打ち砕いて、羅刹童子の首を撥ね飛ばす。[KeyWait]
-[text]たとえ幾重にも錬気を織りなして強化しようとも、その錬気の盾ごと粉砕する一撃。[KeyWait]
+[text]I wanted to crush Rasetsu's sharp but fragile claws as well as her limbs, then lop off her head.[KeyWait]
+[text]I went for a single powerful attack, so strong that it would pierce her Renki shield no matter how many layers it had.[KeyWait]
 
 [Face storage="f_c903"]
 [Voice storage="c0301" buf=2]
-【羅刹童子】[CR]
-「[v]――ッ！！　はああっ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]...! Haaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]しかし羅刹は必死の形相で、間一髪ボクの渾身の一撃を飛び退きかわしていた。[KeyWait]
+[text]With a desperate look on her face, Rasetsu avoided my full-force attack by just a hair's breadth.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1948" buf=2]
-【はるか】[CR]
-「[v]ぐううっ！　逃がす……かぁああッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Guuuh! I won't let you... get awaaaay![/v]」[KeyWait]
 [FaceOff]
 
-[text]遠心力の軌道を無理矢理ねじ曲げた。ボクの両腕に尋常じゃない負荷がかかり、筋肉と関節がミシミシ悲鳴を上げる。[KeyWait]
+[text]I forcefully changed the path of my blade as it flew toward her, my muscles and joints screaming in pain from the burden.[KeyWait]
 
 [Sound storage="se257" buf=1]
 [ChrSet0 storage="b_c902b"]
 [UpDate]
 
-[text]ゴギィイッ！[KeyWait]
+[text]Clang![KeyWait]
 
 [Face storage="f_c914"]
 [Voice storage="c0302" buf=2]
-【羅刹童子】[CR]
-「[v]ぎゃうっ！　ああっ、ああああああぁッ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Gyauh! Aah, aaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]追いかける切っ先が、羅刹のツノを一本、叩き折った。[KeyWait]
-[text]もんどり打って吹っ飛ぶ鬼神が、耳をつんざくような悲鳴を張り上げる。[KeyWait]
+[text]Zanshou's blade caught up to her, chopping off one of her horns.[KeyWait]
+[text]The kijin let out an ear-piercing scream as she got sent flipping backwards.[KeyWait]
 
 [Sound storage="se213" buf=0]
 
 [ChrReset0]
 [UpDate]
 
-[text]ドッゴォオオオオオオオオオオァアアアアアアンンン！[KeyWait]
+[text]Craaaaaaaaaaaaaaaaaaaash![KeyWait]
 
-[text]校庭を何度もバウンドして、羅刹のしなやかな肢体が背中から校舎に激突した。[KeyWait]
-[text]重々しい衝突音を奏で、巨大な窪みが壁面に穿たれる。[KeyWait]
-[text]人間の能力を大きく超えた戦いの衝撃に自分自身で驚きながらも、ボクはすぐに太刀を構え羅刹を追撃した。[KeyWait]
+[text]Rasetsu's flexible body bounced across the school grounds before she slammed backwards into the school itself.[KeyWait]
+[text]Her impact made a heavy crash sound as a big hole opened in the wall.[KeyWait]
+[text]Surprised at my superhuman strength, I prepared my sword and thrust it toward her neck.[KeyWait]
 
 [ChrSet0 storage="b_c902bl"]
 [UpDate]
 
 [Face storage="f_c915"]
 [Voice storage="c0303" buf=2]
-【羅刹童子】[CR]
-「[v]く……うぅ……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Kuh... Uuuh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]校舎にもたれてへたり込み、血の雫が滴る唇で苦しげに呻く。[KeyWait]
-[text]その喉元に刃を突き付けると、かなりのダメージを負ったらしい、弱々しい眼差しでボクを仰ぎ見る。[KeyWait]
+[text]She groaned in pain with blood trickling down her lips as she lay collapsed in the school.[KeyWait]
+[text]My stab to her neck had apparently done quite a lot of damage. She looked up at me weakly.[KeyWait]
 
 [Face storage="f_c916"]
 [Voice storage="c0304" buf=2]
-【羅刹童子】[CR]
-「[v]ひ、酷い……わね。遼ったら、あたしの首……狙う……なんて。し……死んじゃうじゃない……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Y-You're cruel, Ryou... Aiming for my neck... N-Now I'm going to die...[/v]」[KeyWait]
 [FaceOff]
 
-[text]息も絶え絶えな希美乃の声で油断を誘ってくる。[KeyWait]
+[text]Kimino's feeble voice called out to me, inviting me to let my guard down.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1949" buf=2]
-【はるか】[CR]
-「[v]“斬鍾”は鬼斬りの太刀、ボクがそう念じれば人を傷つけずに鬼を斬ることが出来る[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]If I will it to, Zanshou can cut through oni without harming humans.[/v]」[KeyWait]
 [FaceOff]
 
-[text]だから保健室で、希美乃の身体が雑魚鬼に乗り移られた時、助けることが出来た。[KeyWait]
-[text]その結果が鬼神を甦らせる結果となったのだが……。[KeyWait]
+[text]That's why I'd been able to spare Kimino's body back when a weak oni had possessed her in the nurse's office.[KeyWait]
+[text]Though as a result, I ended up awakening the kijin...[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1950" buf=2]
-【はるか】[CR]
-「[v]これで首を刎ねられるのは羅刹童子、お前だけだ。魂が融合される前のいまなら……、お前だけを斬り滅ぼして、希美乃を助けられる！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]You're the only one who's going to lose their head, Rasetsu Douji. Your souls haven't merged yet... If I cut you down now, I can save Kimino![/v]」[KeyWait]
 [FaceOff]
 
-[text]斬鐘に錬気を注ぎ込む。鬼神だけを屠れと、刃に念を込める。だが、[KeyWait]
+[text]I poured my Renki into Zanshou and ordered it to only slaughter the kijin. However...[KeyWait]
 
 [Face storage="f_c915"]
 [Voice storage="c0305" buf=2]
-【羅刹童子】[CR]
-「[v]ちぇ、やっぱりお見通しか～。鬼斬姫として覚醒しつつあるってわけね。――はっ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Tch, of course you'd see through me. You really [ita]have[endita] awakened as the Oni-Cutting Princess... Hah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a006"]
 [Voice storage="a1951" buf=2]
-【はるか】[CR]
-「[v]――くッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]...Kuh![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se302" buf=0]
@@ -506,153 +506,153 @@
 [ChrReset0]
 [UpDate]
 
-[text]情に訴えた揺さぶりにボクが乗らないと見るや、羅刹童子は刃の前から素早く飛び退いた。[KeyWait]
+[text]As soon as she saw that I wasn't going to fall for her plea for pity, Rasetsu swiftly leapt away from my blade.[KeyWait]
 
 [ChrSet0 storage="b_c902b"]
 [UpDate]
 
 [Face storage="f_c915"]
 [Voice storage="c0306" buf=2]
-【羅刹童子】[CR]
-「[v]よくもわたしの自慢のツノを折ってくれたわねっ！　代償は、高くつくわよ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]How dare you break one of my horns! You'll pay a hefty price for that![/v]」[KeyWait]
 [FaceOff]
 
-[text]まさに鬼の形相でボクを[eruby str="睨" text="ね"]め付けると、羅刹童子は校庭にうずくまる人影にその視線を移した。[KeyWait]
-[text]生徒のほとんどは、突如始まった超常の戦いに驚き逃げ出していた。[KeyWait]
-[text]けれど、その切っ掛けとなったボクの一撃。錬気を乗せた気合いの波動に失神した少年が、いまもその場に残ったままだった。[KeyWait]
+[text]She glared at me with the countenance of an oni before moving her eyes toward a figure out on the school grounds.[KeyWait]
+[text]Most of the students had been surprised by the sudden battle and had run away.[KeyWait]
+[text]However, thanks to my attack earlier, my wave of Renki... One unconscious boy had remained.[KeyWait]
 
 [ChrReset0]
 [UpDate]
 
 [Face storage="f_a026"]
 [Voice storage="a1952" buf=2]
-【はるか】[CR]
-「[v]わ、渡辺ッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]W-Watanabe![/v]」[KeyWait]
 [FaceOff]
 
-[text]男の姿の時の悪友である、その少年の名を叫ぶ。[KeyWait]
-[text]その彼目掛けて、羅刹童子が全力で襲いかかっていた。[KeyWait]
+[text]I yelled to my best friend from back when I was a guy.[KeyWait]
+[text]Rasetsu Douji moved toward him at full speed to attack him.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1953" buf=2]
-【はるか】[CR]
-「[v]に……逃げろぉおっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]R-Ruuun![/v]」[KeyWait]
 [FaceOff]
 
-[text]叫ぶが親友は気を失ったまま動かない。[KeyWait]
-[text]たとえ息を吹き返しても普通の人間の足では、鬼から逃れるのは無理だ。[KeyWait]
+[text]I yelled to him again, but Watanabe was still unconscious and unmoving.[KeyWait]
+[text]Even if he woke up, there was no way a regular human could escape an oni.[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1954" buf=2]
-【はるか】[CR]
-「[v]くそおっ！！　は、速いッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Shit! S-She's fast![/v]」[KeyWait]
 [FaceOff]
 
-[text]ツノをへし折られ、剣撃に吹っ飛ばされたダメージがありながら、鬼神の速度は尋常じゃなかった。[KeyWait]
-[text]当然こちらに襲いかかってくるだろうと身構えた分だけ、追撃が出遅れた。[KeyWait]
-[text]間に合わない。[KeyWait]
+[text]Despite having her horn broken and having been sent flying by my sword, the kijin still possessed abnormal speed.[KeyWait]
+[text]Naturally, since I'd prepared forr her to attack me, I was late to follow after her.[KeyWait]
+[text]I wasn't going to make it in time.[KeyWait]
 
 [Face storage="f_c915"]
 [Voice storage="c0307" buf=2]
-【羅刹童子】[CR]
-「[v]あんたの仲良しを殺してあげる！　永久に後悔しなさい！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]I'll kill your friend! Regret angering me for all eternity![/v]」[KeyWait]
 [FaceOff]
 
-[text]鋭い爪が、無謀に身体を投げ出す渡辺へと迫った。[KeyWait]
+[text]Her sharp claws drew nearer to the defenseless Watanabe.[KeyWait]
 
 [Face storage="f_a038"]
 [Voice storage="a1955" buf=2]
-【はるか】[CR]
-「[v]やぁあっ、めろぉおおおっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Stoooooop![/v]」[KeyWait]
 [FaceOff]
 
-[text]あとわずか届かない。その間に、羅刹の爪は渡辺を切り刻もうと迫る。[KeyWait]
-[text]間に合わない……。[KeyWait]
-[text]しかしその刹那――。[KeyWait]
+[text]I'd barely covered any ground, but during that time, Rasetsu's claws had approached Watanabe even closer and were going to slice him up.[KeyWait]
+[text]I wasn't going to make it in time...[KeyWait]
+[text]But, just then...[KeyWait]
 
 [Face storage="f_b049"]
 [Voice storage="b0278" buf=2]
-【結女】[CR]
-「[v]だめ。やめなさい。彼を、傷つけてはいけない[/v]」[KeyWait]
+【Yume】[CR]
+「[v]No, stop. You mustn't hurt him.[/v]」[KeyWait]
 [FaceOff]
 
-[text]舌っ足らずの可憐な声が、奇妙な迫力と威厳を宿して響き渡った。[KeyWait]
+[text]Strangely, Yume's clumsy, pure voice had dignity and force behind it.[KeyWait]
 
 [ChrSet0 storage="b_c902b"]
 [UpDate]
 
 [Face storage="f_c914"]
 [Voice storage="c0308" buf=2]
-【羅刹童子】[CR]
-「[v]くうっ！？[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Kuuh!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]その途端、羅刹童子の身体が、見えない糸に操られているかのように急停止した。[KeyWait]
-[text]渡辺の首筋すれすれに鋭い爪を迫らせた腕をだらりと垂らし、棒立ちになる。[KeyWait]
-[text]何が起こったのか理解出来ず、愕然と立ち尽くす。[KeyWait]
+[text]Rasetsu came to an immediate halt, almost like she'd been controlled by invisible strings.[KeyWait]
+[text]Her sharp claws harmlessly grazed Watanabe's neck as her arm went limp then stiffly stood up straight.[KeyWait]
+[text]I stood there in total silence, shocked and having no idea what was happening.[KeyWait]
 
 [Face storage="f_c915"]
 [Voice storage="c0309" buf=2]
-【羅刹童子】[CR]
-「[v]な、なんなの！？　はぁああっ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]W-What's going on!? Haaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]もう一度、爪刃を振り上げ、渡辺に斬り付けようとする。だが――。[KeyWait]
+[text]She raised her clawed hand once more and went to cut Watanabe's neck. However...[KeyWait]
 
 [ChrSet0 storage="b_b211l"]
 [UpDate]
 
 [Face storage="f_b049"]
 [Voice storage="b0279" buf=2]
-【結女】[CR]
-「[v]いけません！　危ない爪を、しまいなさいっ[/v]」[KeyWait]
+【Yume】[CR]
+「[v]No, you mustn't! Put away those dangerous claws![/v]」[KeyWait]
 [FaceOff]
 
-[text]結女に命じられると、羅刹童子は素直に手を下ろし、鋭い爪を指の中に納めてしまった。[KeyWait]
+[text]Rasetsu lowered her hand and retracted her claws upon Yume's orders.[KeyWait]
 
 [Face storage="f_c914"]
 [Voice storage="c0310" buf=2]
-【羅刹童子】[CR]
-「[v]なっ？？？？　そんな……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]What!? Impossible...[/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹が呆然と結女を見る。[KeyWait]
+[text]Rasetsu looked at Yume with disbelief.[KeyWait]
 
 [Face storage="f_a035"]
 [Voice storage="a1956" buf=2]
-【はるか】[CR]
-（[v]なんだ……？　なにが、どうなってるんだ！？[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]What...? What's going on!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]ボクも。呆気に取られて羅刹と結女を交互に見比べてしまう。[KeyWait]
-[text]羅刹の意志を無視して、彼女自身の身体が、結女の命令に忠実に従っているように見える。[KeyWait]
+[text]I didn't understand, either. I looked back and forth between Rasetsu and Yume, totally confused.[KeyWait]
+[text]It looked like her body was acting against her will and obediently obeying Yume's orders.[KeyWait]
 
 [Face storage="f_c914"]
 [Voice storage="c0311" buf=2]
-【羅刹童子】[CR]
-「[v]まさか、結女の錬気をっ！？　味見……したから……？[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]No, don't tell me... Is this because I had a taste of Yume's Renki...?[/v]」[KeyWait]
 [FaceOff]
 
-[text]原因に思い当たったらしく、羅刹が驚きに目を見開く。[KeyWait]
+[text]Rasetsu opened her eyes wide in surprise, apparently having hit upon the reason this was happening.[KeyWait]
 
 [Face storage="f_b049"]
 [Voice storage="b0280" buf=2]
-【結女】[CR]
-「[v]そう……。あなたは、誘惑に負けて何度も私の錬気をつまみ食いした。どうせ喰らうなら、喰らい尽くすべきだったのに。私の命まで、すべて一息に[/v]」[KeyWait]
+【Yume】[CR]
+「[v]That's right... You gave into temptation and tasted on my Renki several times. If you were going to devour me, you shouldn't have left anything behind. You should have taken my whole life then and there.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a035"]
 [Voice storage="a1957" buf=2]
-【はるか】[CR]
-「[v]ゆ……結女……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Y-Yume...[/v]」[KeyWait]
 [FaceOff]
 
-[text]結女であって結女ではない、例えるなら希美乃と羅刹童子の差異に似た声が、光の羽衣を纏う従妹の口から発せられる。[KeyWait]
+[text]She was Yume, but she wasn't. If I had to describe it, her voice reminded me of the difference between Kimino and Rasetsu's voices.[KeyWait]
 
 [Face storage="f_b049"]
 [Voice storage="b0281" buf=2]
-【結女】[CR]
-「[v]私は鬼を使役する一族、一条の鬼慰姫。私の錬気を受けたあなたの身体は、私を主と認めた。だから、もう、あなたは私の命令に抗えない[/v]」[KeyWait]
+【Yume】[CR]
+「[v]I'm the Oni-Pleasing Princess, part of the oni-enslaving Ichijou clan. By taking my Renki, your body has acknowledged me as its master. You're no longer able to defy my orders.[/v]」[KeyWait]
 [FaceOff]
 
 [ChrReset0]
@@ -662,16 +662,16 @@
 
 [Face storage="f_c914"]
 [Voice storage="c0312" buf=2]
-【羅刹童子】[CR]
-「[v]――！！　そん、な……。わたしは、結女に……ッ、鬼慰姫に……、錬気を与えられ、慰められた……鬼？　鬼操る一族の姫に、慰められ……、主従の契りを、結んでしまった……と、いうの……！？[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]...! Impossible... Yume, your Renki... The Oni-Pleasing Princess's Renki... 'pleased' me...? You're saying I've been 'pleased' by the the oni-enslaving family's princess... and formed a contract with her as her servant...!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]渡辺を屠ることも、結女を襲うことも、ボクに立ち向かうことも、そしてこの場から逃げ出すことも出来ず、ただ無防備に立ち尽くす。膨らみの乏しいその胸へと―――[KeyWait]
+[text]Rasetsu stood stock still, defenseless and unable to slaughter Watanabe, attack Yume, stand up against me, or even run away. I aimed toward her meager chest, and...[KeyWait]
 
 [Face storage="f_a026"]
 [Voice storage="a1958" buf=2]
-【はるか】[CR]
-「[v]はぁあああああああああああぁ――――――――――ッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Haaaaaaaaaaaaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se208" buf=0]
@@ -679,7 +679,7 @@
 [BgSet storage="_black"]
 [UpDate]
 
-[text]鬼斬りの太刀、斬鐘を突き込んだ。[KeyWait]
+[text]I plunged the Oni-Cutting Blade, Zanshou, into it.[KeyWait]
 
 ;ＣＧ２８(ev802)：はるか、逆転シーン
 ;イベント絵表示
@@ -688,84 +688,84 @@
 
 [Face storage="f_c914"]
 [Voice storage="c0313" buf=2]
-【羅刹童子】[CR]
-「[v]――ごふっ！　あぁ……、ぐうぅ、あ、あああぁ……ッ！！　そん、な……やだ……。わたしは……滅びたく……ない……。やっと……やっと、転生を果たした、のにっ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Gfh! Aah... Guuuh, a-aaaah...! N-No... No way... I don't... want to perish... I... I waited so long to reincarnate![/v]」[KeyWait]
 [FaceOff]
 
-[text]避けることも許されず、ただ漫然と赤い刃に貫かれ苦悶の表情を浮かべる。[KeyWait]
+[text]Anguish spread across her face as she was unable to dodge the red blade's stab.[KeyWait]
 
 [Face storage="f_c916"]
 [Voice storage="c0314" buf=2]
-【羅刹童子】[CR]
-「[v]結女……、遼……、い、いや……、助けて……。わたしを、滅ぼさない……で……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Yume... Ryou... N-No... Save me... Don't kill me...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a056"]
 [Voice storage="a1959" buf=2]
-【はるか】[CR]
-「[v]き、希美……乃……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]K-Kimino...[/v]」[KeyWait]
 [FaceOff]
 
-[text]幼なじみの声で命を請われ、太刀を握る手が緩みかける。[KeyWait]
+[text]Hearing my childhood friend beg for her life nearly made me loosen my grip on Zanshou's hilt.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1960" buf=2]
-【はるか】[CR]
-「[v]ち、違う……。お前は、希美乃じゃないっ！　お前を、羅刹童子を倒さなくちゃ希美乃は戻ってこないんだっ！！　だからっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]N-No... You're not Kimino! Kimino won't come back unless I defeat you![/v]」[KeyWait]
 [FaceOff]
 
-[text]ありったけの錬気を注ぎ込み、鬼神の存在だけを切り刻もうとした。だが―――。[KeyWait]
+[text]I gathered all of my Renki and went to cut just the kijin, leaving Kimino unharmed. However...[KeyWait]
 
 [Face storage="f_b014"]
 [Voice storage="b0282" buf=2]
-【結女】[CR]
-「[v]だめ……。人の肉体に憑依した鬼と違って、希美乃ちゃんは羅刹童子が転生した存在。二人は、決して切り離すことが出来ない、一人の存在だから……。滅ぼしては……だめ……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]No... Unlike an oni possessing a human body, Kimino-chan is Rasetsu Douji reincarnated. They're one in the same, you can't cut them apart... You mustn't destroy her...[/v]」[KeyWait]
 [FaceOff]
 
-[text]結女が、鬼慰姫の言葉でボクを制する。[KeyWait]
+[text]Yume, speaking as the Oni-Pleasing Princess, stopped me.[KeyWait]
 
 [Face storage="f_a035"]
 [Voice storage="a1961" buf=2]
-【はるか】[CR]
-「[v]結女……ッ。じゃ、じゃあ……。――はうっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Yume... T-Then... Hauh![/v]」[KeyWait]
 [FaceOff]
 
-[text]どうすればいいのかと尋ねようとするボクの背中に、撓わな胸を押し当てて抱きついてくる。[KeyWait]
-[text]腰に回された彼女の腕から、意志を持った錬気が流れ込み、ボクの手を通じて鬼斬りの太刀に注ぎ込まれる。[KeyWait]
+[text]I was about to ask what to do when Yume pressed her soft chest against my back, embracing me.[KeyWait]
+[text]I felt intent-packed Renki flow into me as she wrapped her arms around my waist, passing through my hand and into Zanshou's blade.[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a1962" buf=2]
-【はるか】[CR]
-（[v]そ、そうか……。滅ぼしてはいけないなら……ッ！！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]I-I see... If we can't destroy her, then...![/v]）[KeyWait]
 [FaceOff]
 
-[text]この斬鐘によって二つに切り離された魂が、羅刹の胸の中で切っ先に触れている。[KeyWait]
-[text]幼い頃から一緒だった希美乃の波動を感じさせる。[KeyWait]
-[text]深い眠りに就いているように静かに脈打つその魂を、取り込み融合しようと膨れあがったもう片方へと―――、[KeyWait]
+[text]I could feel their two severed souls inside Rasetsu's chest with my sword's tip.[KeyWait]
+[text]I felt ripples from Kimino, who had been together with me since we were kids.[KeyWait]
+[text]Her soul pulsed quietly like it was in a deep sleep. I targeted the other soul, which had been grown in size and was trying to fuse with her...[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1963" buf=2]
-【はるか】[CR]
-「[v]はあああああああぁ――――――――ッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Haaaaaaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクは結女から送られた錬気を放った。[KeyWait]
+[text]Then, I released the Renki Yume had given me.[KeyWait]
 
 [Face storage="f_c914"]
 [Voice storage="c0315" buf=2]
-【羅刹童子】[CR]
-「[v]い、いやぁあああああぁ――――――――ッ！！　ああっ、だ、だめっ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]N-Noooooooooooooooo! Aah, d-don't![/v]」[KeyWait]
 [FaceOff]
 
-[text]錬気の奔流が羅刹童子の魂を完全に覆い尽くし、希美乃の魂から引き離すと、急激な収縮を始める。[KeyWait]
+[text]My torrent of Renki totally enveloped Rasetsu Douji's soul. I yanked it away from Kimino's soul, and it quickly began to shrink.[KeyWait]
 
 [Face storage="f_c914"]
 [Voice storage="c0316" buf=2]
-【羅刹童子】[CR]
-「[v]そん……なっ、あ、ああっ！！　消えるッ！　わたしがっ！！　あぁああっ、だ、め……あ、ああぁ……。はぁあああああぁッ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Mo way... A-Aah! I-I'm disappearing! Aaaah, n-no... A-Aaah... Haaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]滅ぼすのではなく、羅刹童子の鬼神の魂だけを限りなく無の存在へと封印した。[KeyWait]
+[text]Rather than destroying her, I sealed Rasetsu Douji's soul, consigning it to an eternity of nothingness.[KeyWait]
 
 [Sound storage="se030" buf=0]
 [BgmFadeOut time=2000]
@@ -783,26 +783,26 @@
 
 [Face storage="f_c914"]
 [Voice storage="c0317" buf=2]
-【羅刹童子】[CR]
-「[v]ああっ！　や、やぁああああああぁ――――ッ！！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Aah! No, nooooooooooooo![/v]」[KeyWait]
 [FaceOff]
 
-[text]切ない悲鳴を迸らせて、羅刹童子の姿が目映ゆい光に飲み込まれた。[KeyWait]
+[text]Rasetsu Douji screamed in pain as she was swallowed up in a blinding light.[KeyWait]
 
 ;背景：校庭　夕方
 [BgSet storage="bg061"]
 [UpDate]
 [eval exp="f.status_c='希美乃'"]
 
-[text]その輝きの中から、躍動的な体つきをしたボーイッシュな少女が現れ、糸の切れた操り人形のように倒れ込む。[KeyWait]
+[text]From that light, an active-looking, boyish girl appeared, collapsing forward like a puppet whose strings had been cut.[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a1964" buf=2]
-【はるか】[CR]
-「[v]――希美乃っ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kimino![/v]」[KeyWait]
 [FaceOff]
 
-[text]鬼斬りの太刀を引いて、片腕で幼なじみを抱き留める。[KeyWait]
+[text]I pulled the Oni-Cutting Blade out and caught my childhood friend with my other arm.[KeyWait]
 
 ;ＢＧＭ：Ｈ２
 [playbgm storage="bgm012"]
@@ -812,11 +812,11 @@
 
 [Face storage="f_a034"]
 [Voice storage="a1965" buf=2]
-【はるか】[CR]
-「[v]無……無事か……。羅刹……封印出来たんだ。希美乃に、戻ったんだ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I-Is she okay...? I... managed to seal Rasetsu. She went back to being Kimino...[/v]」[KeyWait]
 [FaceOff]
 
-[text]顔を覗き込むと、彼女は血の気の通った顔で、穏やかな寝息を立てて眠りに就いていた。[KeyWait]
+[text]I looked at Kimino's face. She didn't look pale at all, and was breathing quietly as she slept.[KeyWait]
 
 [jump storage="8-03.ks"]
 
