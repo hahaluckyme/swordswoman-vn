@@ -735,7 +735,7 @@
 Åu[v]A-Aah...[/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I couldn't help but stare at Yume as she folded her hands in front of her chest like she was praying. She remained silent with her eyes kept open... She looked divine.[KeyWait]
+[text]I couldn't help but stare at Yume as she folded her hands in front of her chest like she was praying. She remained silent with her eyes kept closed... She looked divine. But, after a moment...[KeyWait]
 
 [Face storage="f_b014"]
 [Voice storage="b0273" buf=2]

@@ -138,7 +138,7 @@
 
 [Face storage="f_g004"]
 ÅyWatanabeÅz[CR]
-Åu[i]Aah... Haruka-san, let me stick my dick in you agin... Let me shoot so much cum into your pussy that you get pregnant...![/i]Åv[KeyWait]
+Åu[i]Aah... Haruka-san, let me stick my dick in you again... Let me shoot so much cum into your pussy that you get pregnant...![/i]Åv[KeyWait]
 [FaceOff]
 
 [text]Watanabe, not having any idea what was going on, stubbornly tried to embrace me.[KeyWait]
@@ -549,7 +549,7 @@
 [FaceOff]
 
 [text]Despite having her horn broken and having been sent flying by my sword, the kijin still possessed abnormal speed.[KeyWait]
-[text]Naturally, since I'd prepared forr her to attack me, I was late to follow after her.[KeyWait]
+[text]Naturally, since I'd prepared for her to attack me, I was late to follow after her.[KeyWait]
 [text]I wasn't going to make it in time.[KeyWait]
 
 [Face storage="f_c915"]
