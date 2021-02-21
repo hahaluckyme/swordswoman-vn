@@ -1007,140 +1007,140 @@
 「[v]Fwaaah! Ryou... chan![hearts] Nhoh, ah, haaaahn![/v]」[KeyWait]
 [FaceOff]
 
-[text]すぐに、亀頭がヌメッとした灼熱の潤みに飲み込まれた。[KeyWait]
-[text]その瞬間から膣口がギュッとしがみつくように締め付けてくる。[KeyWait]
+[text]My cockhead was immediately swallowed up by her burning-hot wetness.[KeyWait]
+[text]Instantly, her pussy began to squeeze tight around me.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2035" buf=2]
 【Ryou】[CR]
-（[v]あう、こんなに……結女ッ[/v]）[KeyWait]
+（[v]Auh, Yume... Her pussy is so wet and tight...[/v]）[KeyWait]
 [FaceOff]
 
-[text]女体化した経験から、膣口がこんな状態になることが、どれだけ切なく狂おしいかが分かった。[KeyWait]
+[text]Since I'd experienced being a girl, I knew exactly how maddening it was to have your pussy be like this.[KeyWait]
 
 [Sound storage="se158" buf=1]
 
-[text]ずぷっ、ずぶぶっ。[KeyWait]
+[text]Squelch, squelch.[KeyWait]
 
 [ExVoice2 storage="bex23"]
 [Face storage="f_b052"]
 [Voice storage="b0330" buf=5]
 【Yume】[CR]
-「[v]あふっ！　はぁっ、ああっ！！[/v]」[KeyWait]
+「[v]Afuh! Haah, aah![/v]」[KeyWait]
 [FaceOff]
 
-[text]そのままさらにめり込ませると、それだけで感極まったように腰が跳ねて、奥から熱い雫が溢れてくる。[KeyWait]
+[text]The simple motion of me pushing myself in further made Yume's hips jump with pleasure as more of her hit wetness trickled out from deep within.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2036" buf=2]
 【Ryou】[CR]
-（[v]エ、エッチな……顔に、なってる……ッ。結女……[/v]）[KeyWait]
+（[v]H-her face is so lewd... Yume...[/v]）[KeyWait]
 [FaceOff]
 
-[text]巨乳で肉感的な体つきをしている癖に、子供のようにあどけない彼女がまるで淫乱女のような有様だ。[KeyWait]
-[text]興奮を覚えるなか埋まりゆく男根が、すぐに隔たりに突き当たった。[KeyWait]
+[text]Yume's combination of an innocent, childlike face and a chubby, large-breasted body made her look really lewd.[KeyWait]
+[text]Feeling pleasure, I pushed my manhood deeper inside her, but quickly hit a wall.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2037" buf=2]
 【Ryou】[CR]
-（[v]しょ、処女……膜……。結女の……処女膜……ッ[/v]）[KeyWait]
+（[v]H-Her hymen... Yume's... hymen...[/v]）[KeyWait]
 [FaceOff]
 
-[text]この先を越えれば、もう取り返しが付かない。そして大好きな少女をボクのものに出来る。[KeyWait]
-[text]歓喜と責任感に[eruby str="戦慄" text="わなな"]きながら、ボクは結女を抱く手に力を込めた。[KeyWait]
+[text]There'd be no going back if I went any further. The girl I loved would become become mine.[KeyWait]
+[text]I shuddered from both the happiness and the sense of responsibility, then squeezed the hands holding Yume harder.[KeyWait]
 
 [Face storage="f_a916"]
 [Voice storage="a2038" buf=2]
 【Ryou】[CR]
-「[v]痛いと思うけど、ごめんっ！！[/v]」[KeyWait]
+「[v]Sorry, this'll probably hurt![/v]」[KeyWait]
 [FaceOff]
 
-[text]自分で味わった破瓜の痛みを思い返し、詫びる。[KeyWait]
+[text]I apologized, remembering the pain of getting deflowered.[KeyWait]
 
 [ExVoice2 storage="bex26"]
 [Face storage="f_b016"]
 [Voice storage="b0331" buf=5]
 【Yume】[CR]
-「[v]う……ん、大丈夫、だから……。遼ちゃんに、痛く……されるなら……[/v]」[KeyWait]
+「[v]N-No... It's okay... since it's you making it hurt... Ryou-chan...[/v]」[KeyWait]
 [FaceOff]
 
-[text]しがみついてくる結女へと―――。[KeyWait]
+[text]Yume clung to me tight, and I...[KeyWait]
 
 [Sound storage="se159" buf=0]
 
-[text]ずっ、ぶつんっ！！[KeyWait]
+[text]Squelch![KeyWait]
 
 [ExVoice2 storage="bex23"]
 [Face storage="f_b052"]
 [Voice storage="b0332" buf=5]
 【Yume】[CR]
-「[v]ひあああぁッ！[/v]」[KeyWait]
+「[v]Hyaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]一気に突き込んだ。[KeyWait]
+[text]I pushed forward all at once.[KeyWait]
 
 [Sound storage="se160" buf=1]
 
-[text]ぬぶぶっ、ずぶっ、ずっ、ずぶ、ズブズブズブズブッ。[KeyWait]
+[text]Squelch, squelch, squelch, squelch![KeyWait]
 
 [ExVoice2 storage="bex26"]
 [Face storage="f_b052"]
 [Voice storage="b0333" buf=5]
 【Yume】[CR]
-「[v]く…………ぅッ！　ああっ、ぐ……あ、は、はぅううううぅッ！！[/v]」[KeyWait]
+「[v]Kuh...! Aah, guh... Ah, hah, hauuuuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]痛みに身を強張らせ小さく震える結女の膣穴へと、そのまま根本まで一気にペニスを押し入れる。[KeyWait]
+[text]Yume's body stiffened up as she shuddered from the pain. I continued pushing my penis in all the way to its base.[KeyWait]
 
 [Sound storage="se130" buf=0]
 
-[text]ずむんっ。[KeyWait]
+[text]Squelch.[KeyWait]
 
 [ExVoice2 storage="bex23"]
 [Face storage="f_b052"]
 [Voice storage="b0334" buf=5]
 【Yume】[CR]
-「[v]ふぅえぇえええぇ……、ふぁああああぁ～～～[/v]」[KeyWait]
+「[v]Fweeeeeeh... Fwaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]奥へと達し、子宮を小突かれる刺激に上擦った声を漏らして小柄な肢体が打ち震える。[KeyWait]
+[text]Yume shrieked as her small body shuddered from the stimulation of me bumping against her womb.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2039" buf=2]
 【Ryou】[CR]
-（[v]ああ……入った……。ボクの……が、結女の……中に……[/v]）[KeyWait]
+（[v]Aah... It's in... I'm inside... Yume...[/v]）[KeyWait]
 [FaceOff]
 
-[text]湧き上がる至福の感動に胸が高鳴る。[KeyWait]
+[text]My heartbeat quickened as bliss welled up inside me.[KeyWait]
 
 [ExVoice2 storage="bex22"]
 [Face storage="f_b047"]
 [Voice storage="b0335" buf=5]
 【Yume】[CR]
-「[v]あ、あぁ……、は、入って……る……。おちん、ちん……遼、ちゃん……の……。私……の、なか……あ……[/v]」[KeyWait]
+「[v]A-Aah... I-It's inside me... Ryou-chan's... dick... is inside me...[/v]」[KeyWait]
 [FaceOff]
 
-[text]そして結女もまた、ボクのものが膣内を満たしている感慨に、大きく見開いた目を涙でいっぱいにしてわななき震えていた。[KeyWait]
+[text]Yume trembled once again at the overwhelming feeling of having me inside her, her wide-open eyes tearing up.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2040" buf=2]
 【Ryou】[CR]
-「[v]結女……[/v]」[KeyWait]
+「[v]Yume...[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex22"]
 [Face storage="f_b016"]
 [Voice storage="b0336" buf=5]
 【Yume】[CR]
-「[v]ふぁ……。あ、あふぅ……[/v]」[KeyWait]
+「[v]Fwah... A-Afuuh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]そっと髪を撫でると、ゆっくりと溜め息を漏らして緊張を緩める。[KeyWait]
+[text]Yume sighed and relaxed as I stroked her hair.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2041" buf=2]
 【Ryou】[CR]
-「[v]大丈夫……？　結女[/v]」[KeyWait]
+「[v]Are you okay, Yume...?[/v]」[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -1151,10 +1151,10 @@
 [Face storage="f_b016"]
 [Voice storage="b0337" buf=5]
 【Yume】[CR]
-「[v]うん……、い、痛かった、けど……すぐに、気持ち良く、なって……。あ、あぁ、はいって、る……これ……遼ちゃんの……。りょうちゃんの、お……おちんちん、あ、あぁ、入ってるうっ！[/v]」[KeyWait]
+「[v]Yeah... I-It hurt, but... It started feeling good right away... A-Aah,, it's in... This is... Ryou-chan's d-dick... Aah, it's inside me![/v]」[KeyWait]
 [FaceOff]
 
-[text]次第に声が震えていく。自分の言葉に興奮したかのように。[KeyWait]
+[text]Her voice gradually shuddered. It seemed that she'd gotten excited from her own words.[KeyWait]
 
 ;b0338
 ;「あひゃあ……んっ……ふあ、はぁん……ひゃうっ、んくっ、んん……はぅ、はあん、はひゃあ、はうん……んっ……あふうっ、んうっ、はああぁん……あああぅ……ん、んふううぅ……んはっ、ひゃ、はああぁん」
@@ -1162,69 +1162,69 @@
 [Face storage="f_a916"]
 [Voice storage="a2042" buf=2]
 【Ryou】[CR]
-（[v]ああ、締め付けて……きてる。結女の……あそこ、ボクのに……キュンキュン、絡みついて……る！！[/v]）[KeyWait]
+（[v]Aah, she's... squeezing me... Yume's squeezing me so tight down there...![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a910"]
 [Voice storage="a2043" buf=2]
 【Ryou】[CR]
-「[v]はあぅ！　ゆ、結女……ッ！！　ボクも、もう。う……動くからっ！！　結女の中で、いっぱい動かすからっ！[/v]」[KeyWait]
+「[v]Haah! Y-Yume...! I... I'm going to start moving! I'm going to thrust a bunch inside you![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex23"]
 [Face storage="f_b047"]
 [Voice storage="b0339" buf=5]
 【Yume】[CR]
-「[v]ふあぁああっ！！　遼ちゃんっ！　大好きぃっ！！　あああ、わたしぃ、遼ちゃんとえっちしちゃってるぅっ！　う、嬉しひッ！！[/v]」[KeyWait]
+「[v]Fwaaaah! Ryou-chan! I love you! Aaah, I'm having sex with you, Ryou-chan! I-I'm so happy![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se113" buf=7 loop=true]
 
-[text]ぬぶっ！　ずぶずぶずぶっ！！　ずぽっ、ぬぷぬぷぬぷ、ずぷぷっ！[KeyWait]
+[text]Squelch! Squelch squelch squelch! Squelch, squelch squelch squelch, squelch![KeyWait]
 
-[text]天にも昇るような喜悦に打ち震えて、互いに求め合い腰を繰り出し合う。[KeyWait]
+[text]Yume quivered from the pleasure, practically about to ascend to heaven as we both repeatedly moved our hips, wanting to feel more of each other.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2044" buf=2]
 【Ryou】[CR]
-（[v]ああ、結女の……なかっ。こんな、ぐちょぐちょに濡れてる……のにっ。締まり……っぱなし、だよ！　ふあああっ、き、気持ち……いいッ！！[/v]）[KeyWait]
+（[v]Aah, Yume's insides... They're so wet, but... they're so tight! Fwaaah, t-they feel so good![/v]）[KeyWait]
 [FaceOff]
 
-[text]ぬぶっ！　ぐぢゅんっ！！　ぬぽぬぽぬぽっ！　ぶぢゅっ！！　ぶびゅびゅっ！[KeyWait]
+[text]Squelch! Schwap! Squelch squelch squelch! Thwap! Thwap![KeyWait]
 
 [ExVoice2 storage="bex28"]
 [Face storage="f_b047"]
 [Voice storage="b0340" buf=5]
 【Yume】[CR]
-「[v]ああっ、エ……エッチな、音……しちゃってるぅッ！　ふぁあああぁっ！！　私……は、初めてなのにぃ。こんな……、ひうっ！　はぁあぅ！！　ああぁンッ！　こんな、気持ち良く、なっちゃってるッ！！[/v]」[KeyWait]
+「[v]Aah, you're making... dirty sounds! Fwaaaaah! Even though it's... m-my first time... Hyuh! Haaauh! Aaahn! It feels so good![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a910"]
 [Voice storage="a2045" buf=2]
 【Ryou】[CR]
-「[v]ボク……だって！　くううっ！！　気持ちイイの、止まらないッ。結女の、中、気持ちよすぎるぅッ！[/v]」[KeyWait]
+「[v]Me... too! Kuuuh! I can't stop feeling good... Your insides are too great, Yume![/v]」[KeyWait]
 [FaceOff]
 
-[text]初めて同士で初々しいはずのカップルなのに、狂ったように淫乱極まりない液音をぶちまけながら、無我夢中のストロークを激化させる。[KeyWait]
+[text]Despite it being our first time, I was entranced and thrusting intensely and Yume's lewd juices were squirting everywhere like crazy.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2046" buf=2]
 【Ryou】[CR]
-（[v]はぁああっ！　すご……いっ！！　こんな、なんだっ、膣に入れるって！[/v]）[KeyWait]
+（[v]Haaaah! W-Wow...! So this is how it feels to be inside ap ussy![/v]）[KeyWait]
 [FaceOff]
 
-[text]鬼斬姫となって女体化したせいで、男なのに、挿入される感触の方を先に知ってしまった。[KeyWait]
+[text]Thanks to turning into the Oni-Cutting Princess, despite being a guy, I'd learned how it felt to be on the receiving end first.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2047" buf=2]
 【Ryou】[CR]
-（[v]単純に……快感だけなら……女の方がずっと強烈、だけど……この……、ちんこが膣に、包まれて……締め付けられる感触……たまんない！[/v]）[KeyWait]
+（[v]When it comes to just the pleasure... Girls feel way more, but... This feeling of her pussy wrapping and squeezing around my dick... I can't get enough of it![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a910"]
 [Voice storage="a2048" buf=2]
 【Ryou】[CR]
-（[v]それに、結女の身体……柔らかくて、いい匂いで、ちっちゃくて……。男の身体で、女の子抱くって……こんな、いい気持ち……なんだ……ッ[/v]）[KeyWait]
+（[v]Plus, Yume's body... It's so small and soft, and it smells so good... I never knew it felt so good to hold a girl... as a guy...[/v]）[KeyWait]
 [FaceOff]
 
 ;イベント絵表示
@@ -1235,56 +1235,56 @@
 [Face storage="f_b052"]
 [Voice storage="b0341" buf=5]
 【Yume】[CR]
-「[v]ふぁあああっ！　ああぅっ！！　んぁああ、遼ちゃん、の、奥ッ、あ、当たって……るっ！　ふぇえええ……、ああっ、気持ち……いい……ッ。気持ちイイよぉ～～～～[/v]」[KeyWait]
+「[v]Fwaaaah! Aauh! Nhaaah, Ryou-chan, you're hitting, so deep...! Fweeeeh... Aah, it feels... so good... It feels so goooooood![/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクの突き込みで大好きな女の子が歓喜の悲鳴を張り上げて乱れる。[KeyWait]
-[text]その姿に、男としての喜びが満たされる。[KeyWait]
+[text]My beloved Yume shrieked like wild at my thrusts.[KeyWait]
+[text]Seeing her like that made me become filled with unique male joy.[KeyWait]
 
 [ExVoice2 storage="bex28"]
 [Face storage="f_b052"]
 [Voice storage="b0342" buf=5]
 【Yume】[CR]
-「[v]ふああっ！　いっ、ああぁ、気持ち、いひぃいっ！！　は、初めてなのにぃ、はんっ！　遼ちゃん、だからぁっ！！　遼ちゃんに、して、もらってるから、あああぁ、はぁああうっ！[/v]」[KeyWait]
+「[v]Fwaaah! Hyi, aaah, it feels, so goooood! E-Even though it's my first time, hahn! Because it's you, Ryou-chan! Because, it's you, doing it, Ryou-chan, aaaah, haaaauh![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex40"]
 [Face storage="f_b047"]
 [Voice storage="b0343" buf=5]
 【Yume】[CR]
-「[v]んちゅっ、ちゅぷっ、んちゅむうっ……！　んはっ、ちゅ、むちゅ、ぴちゅう……んっ、ちゅぷ、んちゅう、んむふぅ[hearts]　はぁ……ん……ちゅぱ、ちゅぷ、んちゅう……ちゅぷ、ちゅる、ちゅむうんっ♪[/v]」[KeyWait]
+「[v]Kiss, smack, kiss...! Nhah, kiss, kiss, smack... Mmh, kiss, kiss, mmfh![hearts] Haah... Mmh... Smack, kiss, kiss... Kiss, slurp, kiss! ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクの腰に脚を絡みつかせて、結女は歓喜の声を弾ませながら何度もキスをしてくる。[KeyWait]
+[text]Yume wrapped her legs around my waist as she moaned blissfully and kissed me over and over again.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2049" buf=2]
 【Ryou】[CR]
-「[v]ああっ、結女ッ！　可愛すぎる……ってば！！　結女が、そんな……だから、ボク、お、おかしくなる……からっ！！[/v]」[KeyWait]
+「[v]Aah, Yume! You're way... too cute! You're gonna... make me go crazy![/v]」[KeyWait]
 [FaceOff]
 
-[text]ヌブブブッ！　ズブッ！！　ズポズポズポッ！　ズブンッ、ズプッ、ズパズパズパンッ！！[KeyWait]
+[text]Thwap! Thwap! Thwap thwap thwap! THwap, thwap, thwap thwap thwap![KeyWait]
 
 [ExVoice2 storage="bex32"]
 [Face storage="f_b052"]
 [Voice storage="b0344" buf=5]
 【Yume】[CR]
-「[v]ふぇええぁっ！　はぁああううっ！！　ふあっ、す、すご……い、ああっ、遼ちゃんッ！　遼ちゃンンンッ！！[/v]」[KeyWait]
+「[v]Fweeeah! Haaaauuh! Fwah, w-wow... Aah, Ryou-chan! Ryou-chaaan![/v]」[KeyWait]
 [FaceOff]
 
-[text]結女の可憐さにボクの自制心がぶっ壊れた。[KeyWait]
-[text]膣口の上へペニスを擦りつけるようにクリトリスを刺激しながら、緩急を織り交ぜ挿入する。[KeyWait]
-[text]根本まで深くめり込ませ、十分に子宮を弾き上げて苛めながら、時折浅い挿入で抜き出す。[KeyWait]
+[text]Yume's cuteness had made my self-restraint shattered entirely.[KeyWait]
+[text]I rubbed my dick against the top of her pussy, stimulating her clitoris, interweaving both fast and slow motions.[KeyWait]
+[text]I thrust in deep, teasing her womb by pushing against it, occasionally pulling out a bit for a shallow stroke instead.[KeyWait]
 
-[text]ぷじゅっ！　ぬちゅ、ぶじゅじゅっ！！　びちゅ、べちゅ！[KeyWait]
+[text]Squirt! Squelch, squirt! Squelch, squelch![KeyWait]
 
-[text]結女の膣に、ボクのペニスを教え込ませるようなストロークに、膣襞が急激に窄まり奥壺から熱蜜が溢れ来た。[KeyWait]
+[text]Yume's folds tightened up and honey leaked out from her womb as I thrust into her like I was teaching her pussy how my dick felt.[KeyWait]
 
 [ExVoice2 storage="bex29"]
 [Face storage="f_b052"]
 [Voice storage="b0345" buf=5]
 【Yume】[CR]
-「[v]ふぇっ！　んやぁああっ！！　遼……ちゃん、わたひ、変、なっひゃうっ！　ああっ、なにか……変ッ、来る……う、ふああっ！！　奥、からぁ。なに……ぃ、これぇ……[/v]」[KeyWait]
+「[v]Fweh! Nhaaaah! Ryou... chan, I'm gonna go crazy! Aah, something weird... is coming... Fwaah! From deep... inside me...[/v]」[KeyWait]
 [FaceOff]
 
 ;b0346
@@ -1293,65 +1293,65 @@
 [Face storage="f_a910"]
 [Voice storage="a2050" buf=2]
 【Ryou】[CR]
-（[v]女の……身体で、ボク、ここ……気持ち良かった……からっ！[/v]）[KeyWait]
+（[v]This spot... felt good... when I was a girl![/v]）[KeyWait]
 [FaceOff]
 
-[text]そこを攻めてやると、あっという間にうぶな童顔娘が切羽詰まった。[KeyWait]
-[text]込み上げ来る得体の知れない予兆に、結女は涙眼で不安がりながらも疼く膣穴を窄めてペニスに食らいついてくる。[KeyWait]
+[text]The spot I was going for had the child-faced Yume at her wits' end in an instant.[KeyWait]
+[text]The forewarning of something unknown rising up inside her had Yume teary-eyed and worried, but her throbbing womb kept nibbling at my dick regardless.[KeyWait]
 
 [Face storage="f_a915"]
 [Voice storage="a2051" buf=2]
 【Ryou】[CR]
-「[v]大、丈夫……。怖くない、から……それ。逆らわない、で、それに……身を任せてッ[/v]」[KeyWait]
+「[v]I-It's okay... There's nothing, to be afraid of... Don't, resist it, just let it... take over...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a915"]
 [Voice storage="a2052" buf=2]
 【Ryou】[CR]
-（[v]うう、ボ、ボクも、もう……出そう……だ……。ゆ、結女の、膣内に、出ちゃいそうだっ！！[/v]）[KeyWait]
+（[v]Uuh, I'm... close, too... I-I'm close to cumming in Yume's pussy![/v]）[KeyWait]
 [FaceOff]
 
-[text]尿道が熱い疼きを覚え、充血の強まった幹竿がさらに直径を増して膣穴を押し広げる。[KeyWait]
+[text]My urethra got hot and started throbbing, and my swollen shaft grew larger, stretching out Yume's pussy further.[KeyWait]
 
 [Sound storage="se115" buf=7 loop=true]
 
-[text]ぬぼっ！　ぬぶんっ！！　ズプッズプッ、ズブプッ！　ぶじゅっ！！　ずむんっ！[KeyWait]
+[text]Schwap! Schwap! Thwap thwap, thwap! Schwap! Thwap![KeyWait]
 
-[text]ストロークの勢いを強め、正常位で無我夢中に膣奥を乱打しまくった。[KeyWait]
+[text]I started thrusting harder, going into a trance as I slammed deep into Yume's pussy in the missionary position.[KeyWait]
 
 [ExVoice2 storage="bex09"]
 [Face storage="f_b052"]
 [Voice storage="b0347" buf=5]
 【Yume】[CR]
-「[v]ふぇああああっ！　当たってるうっ！！　遼ちゃんの、奥ぅっ！　あ、ああっ、ひぁぁああっ！！[/v]」[KeyWait]
+「[v]Fweaaaah! It's hitting so deep! A-Aah, hyaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]一突きごとに痙攣に見舞われ、巨柔乳房が暴れるように跳ね回る。[KeyWait]
+[text]Yume's large breasts shook like wild as she convulsed with every thrust.[KeyWait]
 
 [Face storage="f_a910"]
 [Voice storage="a2053" buf=2]
 【Ryou】[CR]
-「[v]はむっ、ん……、ちゅぱっ！[/v]」[KeyWait]
+「[v]Hahm, mmh... Kiss![/v]」[KeyWait]
 [FaceOff]
 
-[text]上体を丸めるようにしてその乳首を唇で捕らえてしゃぶる。[KeyWait]
+[text]Yume hunched forward and I took one of her nipples into my mouth.[KeyWait]
 
 [ExVoice2 storage="bex29"]
 [Face storage="f_b052"]
 [Voice storage="b0348" buf=5]
 【Yume】[CR]
-「[v]ふぅへええっ！！　はうっ！　んふぅうッ、はぁあああっ！！[/v]」[KeyWait]
+「[v]Fweeeh! Hauh! Nfuuuh, haaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]痙攣する結女へと、勢いを増した抽送で、むっちり肉付いた尻が浮き上がるほど、思い切り子宮壺を突き上げまくった。[KeyWait]
+[text]I started thrusting faster as Yume convulsed. The more her plump butt rose off the bed, the harder I hit against her womb.[KeyWait]
 
-[text]ズポズポズポズポッ、ズブンズブズブズブブブンッ！！　ズパンズパンッパンパンパンッパンンッ！[KeyWait]
+[text]Thwap thwap thwap thwap, thwap thwap thwap thwap! Thwap thwap thwap thwap thwap thwap![KeyWait]
 
 [ExVoice2 storage="bex09"]
 [Face storage="f_b052"]
 [Voice storage="b0349" buf=5]
 【Yume】[CR]
-「[v]ひぁああっ！　あ、ああっ、ひっ、うわはっ、来るぅッ！！[/v]」[KeyWait]
+「[v]Hyaaah! A-Aah, hyi, uwaah, it's coming![/v]」[KeyWait]
 [FaceOff]
 
 ;b0350
@@ -1359,16 +1359,16 @@
 [Face storage="f_b052"]
 [Voice storage="b0350" buf=5]
 【Yume】[CR]
-「[v]んひいぃぃっ！　はひゃうっ！　んっ、はあああぁぁっ！　はうんっ！　んはっ、んお、おふうっ、んんうっ！　んはっ！　ひゃぐっ、ぅんっ、んくっ、ひゃううぅんっ！　はひゃ、ひゃうっ、んはああぁぁぁあっ！[/v]」[KeyWait]
+「[v]Nhyiiii! Hahyauh! Nnh, haaaaaah! Hauhn! Nhah, nhoh, ofuuh, nnnh! Nhah! Hgh, nnh, nkh, hyauuuhn! Hahyah, hyauh, nhaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]歓喜の限界を突き抜け、小柄な肢体が弓なりに撓む。[KeyWait]
+[text]Yume's small body arched back as her bliss surpassed its limit.[KeyWait]
 
 [ExVoice2 storage="bex30"]
 [Face storage="f_b052"]
 [Voice storage="b0351" buf=5]
 【Yume】[CR]
-「[v]お、あ、あ、はあっ、りょ、うちゃ……くりゅ、ん……あ、ああっ、はぁっ、来ちゃうッ！　ひゃあっ！　はひゃ、ひゃうううぅうんっ！[/v]」[KeyWait]
+「[v]Oh, a-ah, haah, Ryou-chan... It's coming, nnh... A-Aah, haah, it's coming! Hyaah! Hahyah, hyauuuuuhn![/v]」[KeyWait]
 [FaceOff]
 
 [ExtasyF]
@@ -1377,36 +1377,36 @@
 [Face storage="f_b052"]
 [Voice storage="b0352" buf=5 fade=true]
 【Yume】[CR]
-「[v]んひぃいいいいっ！！　ふあっ！　い、いい、イッ、イク。イッちゃ……ふぁあああぁ――――――――ッ！！[/v]」[KeyWait]
+「[v]Nhyiiiiii! Fwah! I-I-I-I'm cumming... I'm cumming... Fwaaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se135" buf=0]
 
-[text]ぷじゅううっ！　ぷしゅっ！！　じょぼぉおっ！　べじゅ！！　ぴしゅぷしゃぁ～～～っ！[KeyWait]
+[text]Squirt! Squirt! Squirt! Squirt! Squirt, squuuuirt![KeyWait]
 
-[text]込み上げてくる衝動を堪えようと唇を噛むがあっという間に結女は、夥しい絶頂の蜜汁をぶちまけてあられもない悲鳴を張り上げた。[KeyWait]
+[text]As Yume bit her lip to endure the sensation welling up inside her, she shrieked uncontrollably and sprayed her climax juices everywhere.[KeyWait]
 
 [Face storage="f_a909"]
 [Voice storage="a2054" buf=2 fade=true]
 【Ryou】[CR]
-（[v]あああっ、イッてる！　結女が、ボクの、ちんこで、絶頂、してる！！[/v]）[KeyWait]
+（[v]Aaah, she's cumming! Yume's having an orgasm from my dick![/v]）[KeyWait]
 [FaceOff]
 
-[text]抱擁の腕の中で打ち震える愛くるしい姿に、歓喜と快感がはち切れる。[KeyWait]
+[text]Yume quivered adorably in my arms as she exploded with pleasure and bliss.[KeyWait]
 
 [Face storage="f_a911"]
 [Voice storage="a2055" buf=2]
 【Ryou】[CR]
-「[v]く、ふぉあ、ボク……も、出……る……ッ！　んううっ！！　はぁああああぁ――ッ！[/v]」[KeyWait]
+「[v]Kuh, fwah, I... I'm going to cum, too...! Nhuuh! Haaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b047"]
 [Voice storage="b0353" buf=5]
 【Yume】[CR]
-「[v]はうぅん……来てえぇ……っ！　出してぇっ！　遼ちゃんので……私の中ぁ……いっぱいにしてぇ……！[/v]」[KeyWait]
+「[v]Hauuhn... Go on...! Cum! Fill me up inside... Ryou-chan...![/v]」[KeyWait]
 [FaceOff]
 
-[text]官能に疼きまくった牝壺でぐつぐつ煮込まれた熱蜜の直撃を受け、ボクの勃起もこらえを失った。[KeyWait]
+[text]My erection got hit with a direct attack from the simmering-hot honey coming out of Yume's throbbing womb, making me lose control over it.[KeyWait]
 
 [ExtasyM]
 
@@ -1418,48 +1418,48 @@
 [CgSet storage="EV805c"]
 [UpDate]
 
-[text]どびゅうぅ！　ぴゅぶぶ、びゅっば――ッ！！　ぶじゅっ、どぷどぷどぼ――ッ！[KeyWait]
+[text]Spurt! Spurt, spuuurt! Spurt, spurt spuuurt![KeyWait]
 
-[text]疼く尿道が灼熱に見舞われ脳裏が瞬いた。[KeyWait]
-[text]その狭筒を押し開いて溢れ来た奔流が、結女の膣内に容赦なく噴射され、イったばかりの敏感子宮を打ち据える。[KeyWait]
+[text]A burning heat came upon my throbbing urethra as my mind flickered.[KeyWait]
+[text]Its tight mouth opened wide, launching a geyser of semen into Yume's pussy. Having her just came a moment ago, her sensitive womb convulsed hard.[KeyWait]
 
 [Face storage="f_b052"]
 [Voice storage="b0354" buf=5]
 【Yume】[CR]
-「[v]ひッ、ん――ッ！　ふ、あっ、ふぁああぁっ！！[/v]」[KeyWait]
+「[v]Hyi, nnnnh! Fuh, ah, fwaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]ぶじゅじゅっ！！　びゅじゅるるるッ！[KeyWait]
+[text]Squirt! Squuuirt![KeyWait]
 
-[text]続けざまに絶頂した膣穴が窄まり、白濁と入り混じった牝汁が溢れかえって甘臭い淫香を振りまく。[KeyWait]
+[text]Yume's continuously climaxing pussy squeezed tight, causing a sweet-smelling mixture of my semen and her wetness to overflow out.[KeyWait]
 
 [Face storage="f_a915"]
 [Voice storage="a2056" buf=2]
 【Ryou】[CR]
-（[v]ふ……あ、あぁ……。出しちゃった……結女の、なかぁ……[/v]）[KeyWait]
+（[v]Fuh... A-Aah... I came... inside Yume...[/v]）[KeyWait]
 [FaceOff]
 
-[text]射精後の気怠さに吐息をこぼしながら、彼女の身体に己の証を穿った悦びに心が沸き立つ。[KeyWait]
+[text]I let out the typical tired breathes you'd let out after ejaculating as my heart danced with joy at leaving my mark on Yume.[KeyWait]
 
 [Face storage="f_b045"]
 [Voice storage="b0355" buf=2]
 【Yume】[CR]
-「[v]あ、あはぁ……遼ちゃん……の……、わたしの中に……、いっぱい、入ってる……。あぁ……し……しあわせぇ……[/v]」[KeyWait]
+「[v]A-Ahaah... There's so much... of your stuff inside me... Ryou-chan... Aah... I... I'm so happy...[/v]」[KeyWait]
 [FaceOff]
 
-[text]結女の方も、膣内射精されたことを喜ぶように、子宮の上辺りを掌で撫でながら満足げな溜め息をこぼした。[KeyWait]
-[text]まだ挿入したままのペニスを絞るように襞壁が間断なく窄まり続けている。[KeyWait]
+[text]Yume, seemingly also happy at being ejaculated inside of, sighed contently as she rubbed the spot where her womb was.[KeyWait]
+[text]Her inner walls continued constantly squeezing around my penis as it remained inside her.[KeyWait]
 
 [Face storage="f_b045"]
 [Voice storage="b0356" buf=2]
 【Yume】[CR]
-「[v]遼ちゃん……[/v]」[KeyWait]
+「[v]Ryou-chan...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a909"]
 [Voice storage="a2057" buf=2]
 【Ryou】[CR]
-「[v]結女……っ[/v]」[KeyWait]
+「[v]Yume...[/v]」[KeyWait]
 [FaceOff]
 
 [WindowOff time=200 cond="sf.windowAutoMove==1 && f.windowTopNow==1"]
@@ -1477,8 +1477,8 @@
 
 [WindowOnBottom time=200 cond="sf.windowAutoMove=1 && f.windowTopNow==1"]
 
-[text]夕暮れが闇へと移りゆく学園。[KeyWait]
-[text]薬品の匂い漂う保健室で、ボクと結女は見詰め合いながらどちらからともなく柔らかく綻んだ唇を重ね合った。[KeyWait]
+[text]The sky outside the school changed from dusk to night.[KeyWait]
+[text]The smell of medicine wafted throughout the nurse's office as Yume and I stared into each others' eyes and shared a soft kiss between our smiling mouths.[KeyWait]
 
 
 [eval exp="sf.kaisouOpenFlag['20']=1"]
