@@ -9,28 +9,28 @@
 
 [Face storage="f_a059"]
 [Voice storage="a2058" buf=2]
-【はるか】[CR]
-「[v]遼……なんだ……。ごめん、結女……、騙していて……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I'm... Ryou... I'm sorry for tricking you, Yume...[/v]」[KeyWait]
 [FaceOff]
 
-[text]意を決して打ち明けると、結女は驚きに目を見開いた。[KeyWait]
+[text]I resolved myself and told the truth. Yume opened her eyes with in surprise.[KeyWait]
 
 [Face storage="f_b026"]
 [Voice storage="b0357" buf=2]
-【結女】[CR]
-「[v]遼……ちゃん……？　で、でも、なんで……、お……女の子……に[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Ryou... chan...? B-But why... are you a girl...?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a2059" buf=2]
-【はるか】[CR]
-「[v]そ……それは。結女を、護る……ため。本当は宗家の人が選ばれるはずの鬼慰姫に結女が選ばれちゃったから……、鬼から護るために、ボクも鬼斬姫になって、身体が女に変わって……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I-It's... to protect you, Yume. Normally, someone from the main family gets picked as the Oni-Pleasing Princess, but you got picked instead... My body turned into a girl's so I could become the Oni-Cutting Princess and protect you...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a2060" buf=2]
-【はるか】[CR]
-「[v]そ、その……結女に知られるの、恥ずかしかった……から……いままで嘘ついてたんだ……ごめん[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]A-And, um... I was embarrassed to have you find out... So I've been lying this whole time... I'm sorry...[/v]」[KeyWait]
 [FaceOff]
 
 [text]じっと見詰められるといまも恥ずかしくてたまらない。[KeyWait]
@@ -38,47 +38,47 @@
 
 [Face storage="f_b004"]
 [Voice storage="b0358" buf=2]
-【結女】[CR]
-「[v]そ……そんな……、私の、せいで……。遼ちゃん、そんなことに……。私を、護るために、女の子にされて、戦って……。あ、ああっ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]N-No way... Because of me... You were turned into a girl to fight to protect me... A-Aah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2061" buf=2]
-【はるか】[CR]
-「[v]いいんだってば！　結女ッ。ボクは、結女のために戦えるの、嬉しいんだからっ！！　それに……この身体も、ちょっとは慣れて……来たし……。だ、だから、気にするなってばっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]It's fine, Yume! I'm happy that I can fight for you! Plus... I've gotten a little used to this body anyway... S-so don't worry about it![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b004"]
 [Voice storage="b0359" buf=2]
-【結女】[CR]
-「[v]で、でも、私のせいで、遼ちゃん、酷い目にあっちゃってる。なのに、私、何も知らないで……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]B-But, such awful things happened to you because of me, Ryou-chan. But I didn't know anything, so I...[/v]」[KeyWait]
 [FaceOff]
 
-[text]結女に事実を教えなかったもう一つの理由。[KeyWait]
-[text]ボクが鬼斬姫になった原因が自分にあると知れば、彼女は責任を感じてしまう。[KeyWait]
+[text]There was another reason I hadn't told Yume the truth...[KeyWait]
+[text]She'd feel responsible if she learned that she was the reason I became the Oni-Cutting Princess.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a2062" buf=2]
-【はるか】[CR]
-（[v]やっぱり、すぐに打ち明けておいた方が良かったのかも……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Maybe I really [ita]should[endita] have told her right away...[/v]）[KeyWait]
 [FaceOff]
 
-[text]ボクが平然と構えて余裕の態度を見せてやれば、結女もあんなに自分を責めなかったかもしれない。[KeyWait]
-[text]けれども、好きな彼女に女になっちゃったことを知られるのが恥ずかしくて、どうしてもいえなかった。[KeyWait]
+[text]If I'd just acted calm like it was no big deal, maybe Yume wouldn't have been as upset with herself.[KeyWait]
+[text]But I was afraid of having my crush know that I turned into a girl and just couldn't bring myself to say it.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a2063" buf=2]
-【はるか】[CR]
-（[v]ボクの臆病が招いた結果が、この有様だ……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]This happened because I was a coward...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_b004"]
 [Voice storage="b0360" buf=2]
-【結女】[CR]
-「[v]遼ちゃんに、いつも迷惑かけてるのに……。こんな大変な目にまであわせちゃった……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]I'm always troubling you, Ryou-chan... And now you had to go through [ita]this[endita] because of me...[/v]」[KeyWait]
 [FaceOff]
 
-[text]自分を責める結女の、輝きを纏った身体がゆっくりと宙から降りてくる。[KeyWait]
+[text]Yume's shining body gently descended as she criticized herself.[KeyWait]
 
 ;背景：校庭　夕方
 [BgSet storage="bg061"]
@@ -87,72 +87,72 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0318" buf=2]
-【羅刹童子】[CR]
-「[v]そうね、結女ったら、子供の頃からドジで遼に世話焼かせてばっかりだったわよね～。まあ、遼も大概へたれだったから、結局あたしが解決しちゃってたんだけど[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]That's right, you've always been a burden to Ryou ever since you were a clumsy child, haven't you? Well, Ryou was pretty incompetent too, so I usually ended up being the one to resolve things... [/v]」[KeyWait]
 [FaceOff]
 
-[text]餓鬼どもの肉ベッドの上に降り立って、自己嫌悪にへたり込む結女へと、羅刹が懐かしそうな口調で口を挟んだ。[KeyWait]
+[text]Rasetsu spoke familiarly to Yume as she sat collapsed on the bed of Gaki, ridiculing herself.[KeyWait]
 
 [Face storage="f_b005"]
 [Voice storage="b0361" buf=2]
-【結女】[CR]
-「[v]ふぇ！？　な、なんで……？　希美乃……ちゃん……？[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Fweh!? W-Why...? Kimino... chan...?[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2064" buf=2]
-【はるか】[CR]
-「[v]黙れっ！　羅刹童子っ！！　――結女っ、そんな鬼のいうことなんか、聞くなッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Shut up, Rasetsu Douji! Yume, don't listen to that oni![/v]」[KeyWait]
 [FaceOff]
 
-[text]必死に聞かせまいとするけれど、鬼神は悪戯めいた笑みをボクに向けると、不安げに顔を強張らせる結女へと言葉を続けた。[KeyWait]
+[text]I desperately tried to tell Yume to not listen to her, but the kijin flashed a devilish smile at me before resuming talking to the worried-looking girl.[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0319" buf=2]
-【羅刹童子】[CR]
-「[v]そうよ、あたし希美乃よ……結女。こんな姿でビックリでしょ。でもこれがあたしの本当の姿。いままで坂谷希美乃として過ごしてきた姿は、あたしが現世に転生を果たした人間としての姿[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]That's right, Yume... I'm Kimino. I'm sure you're surprised to see me like this, but this is my true form. The body I used when I spent time with you as Sakatani Kimino was the human form I reincarnated into.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0320" buf=2]
-【羅刹童子】[CR]
-「[v]でも、結女が一条の鬼慰姫になったから。遼があなたを護る鬼斬姫になって、あたしに憑依した他の鬼を祓ったから……、わたしは鬼神、羅刹童子としてこの真の姿に戻ることが出来たの[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]But, since you become the Ichijou Oni-Pleasing Princess, Ryou became the Oni-Cutting Princess to protect you, resulting in him exorcising another oni possessing my body... Thanks to that, I was able to return to my true form as Rasetsu Douji.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b004"]
 [Voice storage="b0362" buf=2]
-【結女】[CR]
-「[v]希美……乃……ちゃん……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Kimino... chan...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0321" buf=2]
-【羅刹童子】[CR]
-「[v]あなたたちの幼なじみとして一緒に過ごした日々は楽しかったわ。でも、結女……。あなたが鬼慰姫として目覚めたから、わたしは、あなたを喰らう鬼神として目覚めたの[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Spending my childhood with you was fun. But, Yume... Because you awakened as the Oni-Pleasing Princess, I've awakened as a kijin who will devour you.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b004"]
 [Voice storage="b0363" buf=2]
-【結女】[CR]
-「[v]そ……そんな……いや……。私……が……？　希美乃ちゃん、まで……。ああっ、あぁああああああぁッ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]N-No way... No... I have...? And Kimino-chan, you... Aah, aaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a058"]
 [Voice storage="a2065" buf=2]
-【はるか】[CR]
-「[v]結女ぇえっ！　そんなの、お前のせいじゃないからっ！！　――羅刹ッ、貴様ぁあああっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Yumeee! It's not your fault! Damnit, Rasetsuuuuu![/v]」[KeyWait]
 [FaceOff]
 
-[text]真実であるだけに説得力は抜群だ。けれどもそれがまるで結女のせいであるかのような、羅刹童子の言い方に、怒りが込み上げる。[KeyWait]
-[text]飛びかかろうとしたけれど―――。[KeyWait]
+[text]It was convincing because it was the truth. But the way that Rasetsu Douji made it sound like it was totally Yume's fault made me furious.[KeyWait]
+[text]However, just when I was about to run over to her...[KeyWait]
 
 ;ＢＧＭ：陵辱２
 [playbgm storage="bgm010"]
 
 ;ev202使い回し？
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]ぐふふ～、どこ行くんだい？　はるかちゃん。もっともっと俺たちと、楽しもう……ぜぃッ！！[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Gufufu, where do you think you're going, Haruka-chan? Stick around and have some more fun with us...![/i]」[KeyWait]
 [FaceOff]
 
 [HSceneStart]
@@ -163,51 +163,51 @@
 [CgSet storage="EV806a"]
 [UpDate]
 
-[text]ぬずぶずぶずぶぶっ！[KeyWait]
+[text]Squelch![KeyWait]
 
-[text]男子生徒たちにしがみつかれ、まだゆるゆるに開いたままの濡れまんこに、ペニスを突き込まれてしまった。[KeyWait]
+[text]The male students from before clung to me, one of them sticking their dick into my still wet and loose pussy.[KeyWait]
 
 [ExVoice1 storage="aex61"]
 [Face storage="f_a017"]
 [Voice storage="a2066" buf=2]
-【はるか】[CR]
-「[v]ふぁあっ、お、お前、たちッ。その、姿ぁ、ああああぁッ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Fwaah, y-you guys... What happened to you, aaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]しかも群がり来る彼らは、頭に二本の尖ったツノが突き出し、体つきもゴツゴツと筋肉質に盛り上がりつつあった。[KeyWait]
+[text]But now, they had two sharp horns growing out of their heads, and their bodies were more rough and muscled.[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0322" buf=5]
-【羅刹童子】[CR]
-「[v]たっぷり増えた結女の錬気に惹かれて集まって来た鬼の霊体が、そいつらの身体に憑依して実体化したのね。結女の錬気、とても濃厚ないい匂いするから、もっとたくさん来ちゃうかもよ～[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]The oni spirits drawn here by Yume's overflowing Renki materialized into physical beings by possessing them. Yume's Renki smells so nice and rich that it might attract a lot more visitors, too...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b043"]
 [Voice storage="b0364" buf=5]
-【結女】[CR]
-「[v]あぁ……、私のせいで、遼ちゃんが酷い目に……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Aah... Horrible things are happening to Ryou because of me...[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex68"]
 [Face storage="f_a060"]
 [Voice storage="a2067" buf=2]
-【はるか】[CR]
-「[v]ち……が……、結女……、ふぁあぁッ。わ、悪く……、はぁんッ、な、ない……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]N-No... yume... Fwaaah... T-This isn't... haah, your f-fault...[/v]」[KeyWait]
 
-[text]またしても結女が悪いかのような言い方で、無垢な心を追い詰める。[KeyWait]
-[text]庇ってやりたいのに、膣内の怒張が男子生徒の鬼化と共に太さを増して、ただでさえキツい膣壁を無理矢理押し広げる。[KeyWait]
+[text]Rasetsu's way of explaining things once again put pressure on Yume's pure heart.[KeyWait]
+[text]I wanted to protect her, but the cock in my pussy had gotten thicker due to its owner transforming into an oni, causing it to push against my already-cramped walls even more.[KeyWait]
 
 [Face storage="f_r001"]
-【男子生徒Ａ】[CR]
-「[i]おおお……締め付け、キツくなった。あんだけ犯されまくって、まだ足りねえんなら……今度はもっとタップリ、満足させてやるぜ！[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Ooh... You tightened up just now. If you haven't had enough even after gettin' raped that much... then I'm gonna satisfy you for sure this time![/i]」[KeyWait]
 [FaceOff]
 
-[text]そっちのチンポがいきなりサイズ増すから締まっただけなのに。[KeyWait]
-[text]人を淫乱呼ばわりしながら、鬼と化した生徒が腰を繰り出す。[KeyWait]
+[text]I'd only gotten tighter because his dick had suddenly grown in size.[KeyWait]
+[text]The oni-transformed student started thrusting his hips as he called me slutty.[KeyWait]
 
 [Sound storage="se113" buf=7 loop=true]
 
-[text]ぬぶっ、ずぽ、じゅぽじゅぽじゅぽっ！[KeyWait]
+[text]Squelch, squelch, squelch squelch squelch![KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV806b"]
@@ -216,11 +216,11 @@
 [ExVoice1 storage="aex61"]
 [Face storage="f_a018"]
 [Voice storage="a2068" buf=2]
-【はるか】[CR]
-「[v]ひゃぐううっ！　ふぁああっ、はぁあんッ、は、放……せぇ。ふあっ、ああっ、ひうっ、やめ……あ、あああぁ、はぁああっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyaguuuh! Fwaah, haaahn, l-let... me go! Fwah, aah, hyuh, stop... A-Aaaah, haaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]いままで散々犯されまくった膣穴は、極太に満たされ少し抽送されただけで甘美が湧き起こる。[KeyWait]
+[text]Just a few thrusts were enough to make sweet pleasure arise from my pussy, wh ich had been raped thoroughly up until this point.[KeyWait]
 
 [HSceneEnd]
 [ExVoice1Stop time=2000]
@@ -234,8 +234,8 @@
 
 [Face storage="f_b033"]
 [Voice storage="b0365" buf=2]
-【結女】[CR]
-「[v]ああっ！　やめてっ！！　遼ちゃんに、酷いことしないでっ！　き、希美乃ちゃんッ！！　私たち、お友達でしょ！？　た、助けてッ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Aah! Stop! Don't do terrible things to Ryou-chan! K-Kimino-chan! You're his friend, aren't you!? H-Help him![/v]」[KeyWait]
 [FaceOff]
 
 [ChrSet0 storage="b_c911"]
@@ -243,57 +243,57 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0323" buf=2]
-【羅刹童子】[CR]
-「[v]そうねえ、だったら、結女。わたしのこれ、結女の膣内にいれさせてくれれば、遼のこと助けてあげるわ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]I suppose you're right. In that case, Yume, if you'll let me put this inside you, then I'll save Ryou.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b012"]
 [Voice storage="b0366" buf=2]
-【結女】[CR]
-「[v]ひいっ！！　あ、ああ、それ……。希美乃、ちゃん……。男の子、の……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyii! A-Aah, Kimino-chan... That's... a guy's...[/v]」[KeyWait]
 [FaceOff]
 
-[text]懇願する結女に、羅刹童子は勃起した両性具有ペニスを突き付けて答えた。[KeyWait]
+[text]Rasetsu Douji stuck her erect penis toward Yume as she pleaded, proposing a deal to her.[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0324" buf=2]
-【羅刹童子】[CR]
-「[v]結女がわたしとエッチして、その錬気をすべてわたしにくれるなら、あなたも遼も、殺さないであげる。結女の錬気を喰らい尽くした後も、二人ともわたしと一緒に、楽しく暮らさせてあげる。いままで通り、幼なじみの親友として……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]If you'll have sex with me and give me all of y our Renki, then I won't kill you or Ryou. I'll let you two live with me and give you a good time after I've finished devouring your Renki. We can remain friends, just like before...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
 [Voice storage="c0325" buf=2]
-【羅刹童子】[CR]
-「[v]だから、わたしに抱かれなさい、結女[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]So let me embrace you, Yume![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2069" buf=2]
-【はるか】[CR]
-「[v]だ……め、だ……、くひぃいっ、結女……、そいつに……はぁああっ……錬気、与え、ちゃ、ふぁああううっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]N-No... Kuhyiii, Yume... Don't give her... Haaaah... Your Renki, fwaaauuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]言葉が、喘ぎで乱れる。すごく太いの、ゴリゴリ膣襞擦って、奥、ズシンズシンぶつかって、頭、何回も飛びかける。[KeyWait]
+[text]Moans disrupted my words. The thick, rough dick rubbing against my inner walls and smacking against my womb made my mind soar throughout the again and again.[KeyWait]
 
 [Face storage="f_b012"]
 [Voice storage="b0367" buf=2]
-【結女】[CR]
-「[v]わ、私、希美乃ちゃんに、抱かれる……からっ。いうこと、何でも聞くから。だから、遼ちゃん、助けて！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]I-I'll let you do it, Kimino-chan... I'll do whatever you say. So help Ryou-chan![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2070" buf=2]
-【はるか】[CR]
-「[v]くあ、ああぁンッ！　結女ぇえっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kwah, aaahn! Yumeee![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c911"]
 [Voice storage="c0326" buf=2]
-【羅刹童子】[CR]
-「[v]ああ……、結女[Hearts][/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Aah... Yume...[Hearts][/v]」[KeyWait]
 [FaceOff]
 
-[text]彼女に拒めるわけなかった。もし命を差し出せといわれても、結女はためらいなく身を差し出しただろう。[KeyWait]
+[text]There was no way she'd be able to turn her down. Even if Rasetsu told her to give up her life, Yume would probably do it without hesitation.[KeyWait]
 
 [HSceneStart]
 
@@ -303,80 +303,80 @@
 
 [Face storage="f_b047"]
 [Voice storage="b0368" buf=2]
-【結女】[CR]
-「[v]ふぁああぁ……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Fwaaaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]歓喜に打ち震える羅刹に押し倒されるままに、ぽっちゃりと魅惑的な身体を肉寝台の上に仰向けとなる。[KeyWait]
+[text]Rasetsu quivered with joy as she pushed Yume down. Her plump, alluring body landed face-up atop the bed of gaki.[KeyWait]
 
 [Face storage="f_c911"]
 [Voice storage="c0327" buf=2]
-【羅刹童子】[CR]
-「[v]ああ、可愛らしいわね、結女ったら。これじゃ、遼も可愛げのないあたしになんか目もくれないであんたにぞっこんになるのも、仕方ないわね～[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Aah, goodness, you're so adorable, Yume. I'm not cute like you, so I guess it's to be expected that Ryou fell for you and never looked at me.[/v]」[KeyWait]
 [FaceOff]
 
-[text]怯えて震える結女の様子に舌なめずりしながらいう。しかも、誰にも教えてないはずの、ボクの結女への気持ちまで、暴露しやがった。[KeyWait]
+[text]She licked her lips upon seeing Yume tremble with fear. Then, she revealed my feelings toward Yume, which I'd never told anyone.[KeyWait]
 
 [Face storage="f_b012"]
 [Voice storage="b0369" buf=2]
-【結女】[CR]
-「[v]ふえっ！？　りょ、遼ちゃん……？[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Fweh!? R-Ryou-chan...?[/v]」[KeyWait]
 [FaceOff]
 
-[text]驚いた顔で結女がボクを見る。[KeyWait]
-[text]もし安易に告白して振られたら、従兄妹同士なだけに気まずくなるし、そもそも彼女からは従兄妹以上には思われてないような気がして、いえなかった。けれども……、[KeyWait]
+[text]Yume looked at me, surprised.[KeyWait]
+[text]I couldn't tell her before because if she'd turned me down, things would have gotten awkward between us. Plus, I'd gotten the feeling she hadn't thought of me as more than a cousin. But...[KeyWait]
 
 [Face storage="f_a069"]
 [Voice storage="a2071" buf=3]
-【はるか】[CR]
-（[v]女になったことまで、知られて、こ、こんな……男に犯されてる、みっともない姿まで、見られちゃった……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]She learned about me turning into a girl... and saw me being pathetically raped by guys...[/v]）[KeyWait]
 [FaceOff]
 
-[text]だからもう、恥ずかしいことなんかない。[KeyWait]
+[text]At this point, there was no shame in telling her everything.[KeyWait]
 
 [Face storage="f_a050"]
 [Voice storage="a2072" buf=2]
-【はるか】[CR]
-「[v]そ、そうだよっ！　ボク、は……あんっ！！　ゆ、結女が……、ふあっ、ひゃうッ、ンンン……ッ、結女が、ずっと前から、す、好きだッ！　ふぁっ、はあっ、んはぁああああぁ～～～～っ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]T-That's right! I... Ahn! I-I've always... Fwah, hyauh, nnnnh... I've always loved you, Yume! Fwah, haah, nhaaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]せっかくの告白の時くらい、おまんこ突くのやめてくれればいいのに、奥をコンコンと弾いてくるので、無様な嬌声が溢れこぼれる。[KeyWait]
+[text]It would have been nice if my rapist's dick stopped during my confession, but he kept pounding against my womb, making pitiful moans leak out from my lips.[KeyWait]
 
 [Face storage="f_b012"]
 [Voice storage="b0370" buf=2]
-【結女】[CR]
-「[v]あ、ああっ。私、も、遼ちゃんのこと、ちっちゃい頃から、好きだもん！　でも、遼ちゃん、希美乃ちゃんと仲、いいし、お似合いだし……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]A-Aah... I've loved you since we were little too, Ryou-chan! But you were always so close to Kimino, and you two suited each other...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b012"]
 [Voice storage="b0371" buf=2]
-【結女】[CR]
-「[v]なのに、私……、鈍いし、でぶだし、いつもダメダメだから……、いえなくて……。でも、遼ちゃんのこと、好き！　だから……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]But I... I'm dense, fat, and totally useless... So I could never say anything... But I love you, Ryou! So...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2073" buf=2]
-【はるか】[CR]
-「[v]ゆ……結女……ッ。ひうっ、ふぁ、ああっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Y-Yume... Hyuh, fwah, aah![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c911"]
 [Voice storage="c0328" buf=2]
-【羅刹童子】[CR]
-「[v]あ～らあら、二人とも両思いだったんだ。だったらさっさとどっちかが告白して付き合っちゃってれば良かったのにねぇ～[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Oh my, so your feelings were mutual. I guess one of you should have confessed sooner so you could have started going out.[/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹の表情が一瞬悲しげに曇り、そしてすぐに意地の悪い笑みへと変わった。[KeyWait]
+[text]Rasetsu's expression clouded over with sadness for a brief moment, but immediately changed into a malicious smile.[KeyWait]
 
 [Face storage="f_c911"]
 [Voice storage="c0329" buf=2]
-【羅刹童子】[CR]
-「[v]もたもたしてるから、こうして、わたしに結女の初めて、奪われちゃう♪　残念だったわね、遼。その身体じゃ、もう結女に挿入するのも無理だし、代わりにわたしがたっぷりと結女のこと可愛がってあげるわ～[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Because you dawlded for so long, I'm going to take Yume's first time. ♪ Too bad, Ryou. You can't stick it in her with that body anyway, so I'll treat her nice in your place.[/v]」[KeyWait]
 [FaceOff]
 
 ;ev801差分
 
-[text]そう告げると、羅刹童子は仰向けに寝る結女の女陰へと、勃起した男根を押し当てた。[KeyWait]
+[text]Rasetsu Douji pressed her erect cock against Yume's genitals as she lay face up on the bed.[KeyWait]
 
 [Sound storage="se160" buf=0]
 
@@ -384,129 +384,129 @@
 [CgSet storage="EV801d"]
 [UpDate]
 
-[text]ぬぶっ、ず……ぶっ、ずぶぶぶ……ッ！[KeyWait]
+[text]Squelch, squelch... Schlup![KeyWait]
 
 [ExVoice2 storage="bex22"]
 [Face storage="f_b052"]
 [Voice storage="b0372" buf=5]
-【結女】[CR]
-「[v]ふああっ！！　はうっ！　あ、はぁあああっ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Fwaah! Hauh! Ah, haaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]男の怒張みたいにグロテスクな節くれ立ちはないが、十分い太く長いペニスの、エラ肉が張り出た亀頭が、潤み綻んだ膣口に埋まり込んだ。[KeyWait]
+[text]Rasetsu's dick wasn't grotesque like a guy's, but it was still plenty thick and long. Her swollen cock head started buying itself inside Yume's loose, wet pussy.[KeyWait]
 
 [Face storage="f_c911"]
 [Voice storage="c0330" buf=2]
-【羅刹童子】[CR]
-「[v]ああ、結女のここ、じっくりとよりをかけてほぐしたから、すごくトロトロになってる。簡単に、おちんちん入っていっちゃう[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Aah, taking my time preparing you got you soaking wet down here, Yume. My dick's going in so easily![/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex24"]
 [Face storage="f_b052"]
 [Voice storage="b0373" buf=5]
-【結女】[CR]
-「[v]はぁあ、ああぁ……、や、やだ……あぁ……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Haah, aaah... N-No... Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]女陰の状況をボクに聞こえる音量で説明され、結女が恥じらいに打ち震える。[KeyWait]
+[text]Rasetsu described Yume's genitals at a volume I could hear, making her tremble with embarrassment.[KeyWait]
 
 [ExVoice2 storage="bex26"]
 [Face storage="f_b052"]
 [Voice storage="b0374" buf=5]
-【結女】[CR]
-「[v]んひうっ！　んぅうう、く……うううぅ……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Nhyuh! Nhuuuh, kuh...Uuuuuh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]その上擦る声が、途端に固く引きつった。[KeyWait]
+[text]Yume's shrill voice suddenly stiffened.[KeyWait]
 
 [Face storage="f_c910"]
 [Voice storage="c0331" buf=2]
-【羅刹童子】[CR]
-「[v]あは、処女膜、あった。本当に遼とは、エッチとかしなかったんだ。じゃあ、この初めて、わたしがいただい……ちゃうわねっ！！　ふぅンッ！[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Ahah, I found your hymen. You really haven't had sex with Ryou, then. In that case, I'll go ahead... and take your first time! Fuuhn![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se110" buf=1]
 
-[text]ぶちぃッ！[KeyWait]
+[text]Rip![KeyWait]
 
-[text]グイッと腰を突き出し、羅刹の怒張が薄膜を突き破る。[KeyWait]
+[text]Rasetsu thrust her hips forward, making her shaft tear through the thin membrane.[KeyWait]
 
 [ExVoice2 storage="bex23"]
 [Face storage="f_b052"]
 [Voice storage="b0375" buf=5]
-【結女】[CR]
-「[v]ひぅああぁッ！　い、痛ッッッはぁああぁッ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyaaah! O-Ow, haaaaahn![/v]」[KeyWait]
 [FaceOff]
 
-[text]破瓜の傷みに、悲痛な叫びを迸らせて、結女が打ち震えた。[KeyWait]
+[text]Yume shook as she screamed in pain and sorrow at being deflowered.[KeyWait]
 
 [Sound storage="se159" buf=0]
 
-[text]ずぶっ、ぬぶぬぶぬぶ、ずぶん、ずぶ、ズブン！[KeyWait]
+[text]Squelch, squelch squelch squelch, squelch, squelch, squelch![KeyWait]
 
-[text]そのまま膣の中へと反り返った勃起が埋まり行く。[KeyWait]
+[text]Rasetsu continued pushing her arched cock inside her pussy.[KeyWait]
 
 [ExVoice2 storage="bex23"]
 [Face storage="f_b052"]
 [Voice storage="b0376" buf=5]
-【結女】[CR]
-「[v]くぉ、あ、は、あああ、はぁああああ、うぅ、く……んはっ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Kwoh, ah, hah, aaah, haaaaaah, uuuh, kuh... Nhah![/v]」[KeyWait]
 [FaceOff]
 
-[text]根本まで収まった牡肉に子宮の奥を弾き上げられ、巨乳を弾ませ身を震わせる。[KeyWait]
+[text]Yume's breasts jiggled as her body shook from Rasetsu's cock hitting against her womb, now fully inside her.[KeyWait]
 
 [Face storage="f_c911"]
 [Voice storage="c0332" buf=2]
-【羅刹童子】[CR]
-「[v]あぁ……、結女の中に、わたしの……入ってる……。結女の初めて、わたしが奪っちゃったぁ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Aah... My dick's inside Yume... I've taken Yume's first time![/v]」[KeyWait]
 [FaceOff]
 
-[text]感極まったように溜め息混じりの言葉を呟くと、羅刹は処女消失のショックと痛みに呆然となる結女の腰を掴んで持ち上げると、挿入したまま、胡座の中に抱え込んだ。[KeyWait]
+[text]Rasetsu mumbled to herself as she sighed with pleasure, lifting up Yume, who was spacing out from the pain and shock of losing her virginity, and putting her on her cross-legged lap with her cock still inside her.[KeyWait]
 
 [ExVoice2 storage="bex28"]
 [Face storage="f_b052"]
 [Voice storage="b0377" buf=5]
-【結女】[CR]
-「[v]ひゃうっ！？　ふぇ、はぁあああぁ――――ッ！！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Hyauh!? Fweh, haaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]密着が強まり、挿入が深くなったペニスが子宮を押し上げる。[KeyWait]
-[text]否応無しに込み上げる息が詰まるような快感に、たまらず、自分を犯す相手へしがみついてしまう。[KeyWait]
+[text]Rasetsu's dick went deep now that they were closer, pushing up against Yume's womb.[KeyWait]
+[text]Yume clung to her rapist, unable to bear the breathtaking pleasure welling up inside her.[KeyWait]
 
 [Face storage="f_c910"]
 [Voice storage="c0333" buf=2]
-【羅刹童子】[CR]
-「[v]はぁ～、わたしのおちんちんで感じてくれてるのね、結女。こんなに、締め付けてきちゃって……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Haaah, so you're enjoying my dick, Yume. You're squeezing so hard...[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex23"]
 [Face storage="f_b047"]
 [Voice storage="b0378" buf=5]
-【結女】[CR]
-「[v]い……いや……ぁ……。私ぃ……、ち、違う……のに……。身体……勝手、に……[/v]」[KeyWait]
+【Yume】[CR]
+「[v]N-No... I... That's not it... My body's... just...[/v]」[KeyWait]
 [FaceOff]
 
-[text]生まれて初めて挿入された男根に、濡れた膣が意志とは関係なく反応を示す。[KeyWait]
-[text]湧き上がる快感を前にどうにもならない身体への戸惑いが、結女を動転させていた。[KeyWait]
+[text]Her wet pussy responded to the first dick put inside of it, regardless of her wishes.[KeyWait]
+[text]Yume was shaken, unsure of what to make of her body acting this way when faced with pleasure.[KeyWait]
 
 [Face storage="f_c911"]
 [Voice storage="c0334" buf=2]
-【羅刹童子】[CR]
-「[v]ああ……、他の人間どもの濁った錬気なんかと全然違う……、鬼慰姫の清純な錬気が、わたしに、流れ込んでくる……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Aah... The Oni-Pleasing Princess's pure Renki is flowing into me... It's nothing like the clouded Renki of other humans...[/v]」[KeyWait]
 [FaceOff]
 
-[text]もうすでに、結女がその身に宿す超常の力が、繋がり合った性器を通じて羅刹へと注ぎ込まれているらしい。[KeyWait]
-[text]歓喜に打ち震え、羅刹童子は昂り猛るストロークを繰り出してきた。[KeyWait]
+[text]Apparently, the supernatural power residing inside Yume had already begin transferring to Rasetsu through their connected genitals.[KeyWait]
+[text]Rasetsu Douji shook with bliss as she began thrusting furiously.[KeyWait]
 
 [Sound storage="se113" buf=7 loop=true]
 
-[text]ぬぶっ、ズブズブズブンッ！　じゅぶっ、ズプズプズプッ！！[KeyWait]
+[text]Schwap, thwap thwap thwap! Schwap, thwap thwap thwap![KeyWait]
 
 [ExVoice2 storage="bex32"]
 [Face storage="f_b052"]
 [Voice storage="b0379" buf=5]
-【結女】[CR]
-「[v]ふああっ、い、いやぁあっ！　だめっ、う、動い……ちゃッ！！　はぁっ、ああああっ！[/v]」[KeyWait]
+【Yume】[CR]
+「[v]Fwaah, n-nooo! Don't, don't m-move...! Haah, aaaah![/v]」[KeyWait]
 [FaceOff]
 
 [text]ただ挿入されただけで……、膣内に異物が収まっているというだけで、狂おしい感触に追い詰められている身体を、激しい刺激に襲われる。[KeyWait]
@@ -514,7 +514,7 @@
 [ExVoice2 storage="bex09"]
 [Face storage="f_b052"]
 [Voice storage="b0380" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]くぅううっ、あ、はぁあっ！　お股の、中ッ、あ、ああっ！！　こ、擦れ……ッ、んふぁああ、変に、なっちゃううっ！　私、変になっちゃううっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -523,7 +523,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a2074" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あ、あああぅ……、結……女……ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -533,14 +533,14 @@
 [ExVoice2 storage="bex32"]
 [Face storage="f_b047"]
 [Voice storage="b0381" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひうっ！！　あ、ああぁ……、遼ちゃんッ！　や、やああっ、み……見ないで！！　私……えっち、なのっ！　こんなこと、されてぇ……気持ち、よく……なっちゃって……はひゃ、はううぅん……[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex09"]
 [Face storage="f_b047"]
 [Voice storage="b0382" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]あ、ああぁ、きらわれちゃう……っ。こんな、エッチな、こ……遼ちゃんに……きらわれちゃうっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -562,20 +562,20 @@
 
 [Face storage="f_a060"]
 [Voice storage="a2075" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ち、違う……。それなら……ボク、だって……。鬼ちんぽ入れられて……子宮、突かれて、き……気持ち、よくなってる！[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2076" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]おんなの、身体……。嫌いなヤツにでも、ちんこ、入れられたら……感じるように、出来ちゃってる……からっ！！[/v]）[KeyWait]
 [FaceOff]
 
 [text]そう告げて慰めてやりたかった。けれども、[KeyWait]
 
 [Face storage="f_r001"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]おいおい、どこいくんだ、よっ！？[/i]」[KeyWait]
 [FaceOff]
 
@@ -587,7 +587,7 @@
 [ExVoice1 storage="aex68"]
 [Face storage="f_a018"]
 [Voice storage="a2077" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぐぁあっ！　くぁは……ああああぁ～～～～～[/v]」[KeyWait]
 [FaceOff]
 
@@ -597,7 +597,7 @@
 [ExVoice1 storage="aex85"]
 [Face storage="f_a017"]
 [Voice storage="a2078" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇは…………あぁ…………あう……[/v]」[KeyWait]
 [FaceOff]
 
@@ -609,7 +609,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2079" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あ、あぁ……結、女ぇ…………[/v]）[KeyWait]
 [FaceOff]
 
@@ -625,7 +625,7 @@
 [ExVoice2 storage="bex32"]
 [Face storage="f_b047"]
 [Voice storage="b0383" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]はぐぅうっ！　あぁああっ、はうっ……やっ、奥に、当たってッ……そんなっ、当たった……らあっ！！　だめっ、なっちゃうっ！　遼ちゃんに、呆れられちゃう……からぁあっ！！　やめ……て、ああっ！　ふぁ。ああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -633,7 +633,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0335" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ああ、結女……可哀想……。遼ったら……いつも女の子の気持ち、考えない無神経なヤツ、なんだから。でも、大丈夫。遼に嫌われても、あたしが結女を好きでいるから……[/v]」[KeyWait]
 [FaceOff]
 
@@ -644,7 +644,7 @@
 [ExVoice2 storage="bex26"]
 [Face storage="f_b047"]
 [Voice storage="b0384" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]あぅ……き、希美乃……ちゃん……。あ、あああああぁ……ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -652,7 +652,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2080" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ら、羅刹ぅ……ッ。ひぁっ、あふっ！　お、おぁ、あああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -663,14 +663,14 @@
 [ExVoice2 storage="bex32"]
 [Face storage="f_b047"]
 [Voice storage="b0385" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]希美乃、ちゃんっ！　あああ……だめ、なのぉ。そんな、いっぱい……する、からぁ。ふあ、ああ、あああぁ、奥……来ちゃう……。なに……か、溢れて……来ちゃうッ、私の、中ぁ……んくっ、はっ、はうぅん……っ[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex09"]
 [Face storage="f_b052"]
 [Voice storage="b0386" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひゃ、ひゃううんっ！　はひゃっ……と、止めてぇ、それ……、と、止め……あ、あぁ、あ、はぁああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -678,7 +678,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2081" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ああっ、結女……、愛液、たくさん出ちゃってる。擦れる音、すごい……[/v]）[KeyWait]
 [FaceOff]
 
@@ -686,7 +686,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0336" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あぁ……、いいのよ、結女。大事なところを男の子のおちんちんに満たされて、気持ち良すぎて大変になっちゃうのは、女の子には当然のことなんだから[/v]」[KeyWait]
 [FaceOff]
 
@@ -701,7 +701,7 @@
 [ExVoice2 storage="bex15"]
 [Face storage="f_b052"]
 [Voice storage="b0387" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひゃわっ！　あっ、ぁあああああああッ！！　やっ、だめっ、だめだめぇっ！　希美乃ッ、ちゃんっ！！　激しッ、ああっ、それっ、奥ぅ、当たりッすぎぃいいいっ！　くっはぁ～～～～～っ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -711,7 +711,7 @@
 [ExVoice2 storage="bex09"]
 [Face storage="f_b047"]
 [Voice storage="b0388" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひううっ！　そんな、強く……したらあっ！！　あふっ、おツユ、あふれちゃうっ、からっ！　ふああっ！！　だめ、なのっ、奥、当たり……過ぎるとぉおっ、エッチなおツユ、止まらないッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -720,7 +720,7 @@
 [ExVoice2 storage="bex32"]
 [Face storage="f_b052"]
 [Voice storage="b0389" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]あ、だめっ！　ん……うぅううっ！！　あぁッ、はぁあっ、ああああああああああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -731,7 +731,7 @@
 [ExVoice2 storage="bex15"]
 [Face storage="f_b052"]
 [Voice storage="b0390" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]くふうぅぅんっ、変な……音ぉ、してるうぅっ！　ふぁああっ、やだあっ、とめ、止めてッ、希美乃ちゃんっ！！　おちんちん止めてぇえっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -740,7 +740,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0337" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あ、あああっ、すごい……錬気ッ、いっぱい溢れてっ！　はぁ～～～～～ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -748,14 +748,14 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0338" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]聞かせてあげなさい、素敵な音ぉ。遼にもっ！　ああ、結女ッ、わたしのおちんちんでイクところを、大好きな遼に、たっぷりと見せてあげなさいなっ！！　んぁはぁあああああっ！[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex32"]
 [Face storage="f_b033"]
 [Voice storage="b0391" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひうっ！？　りょ、遼ちゃん……にっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -768,7 +768,7 @@
 [ExVoice2 storage="bex09"]
 [Face storage="f_b052"]
 [Voice storage="b0392" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひうっ、い、いや、あ、ああ、あぁああっ！　遼ちゃんっ、見てるッ！！　私の、えっちなの、遼ちゃん見てるぅうっ！　おっ、あっ、ああっ、はぁああぅっ！！　だ、だめぇえっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -779,7 +779,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a2082" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]結女ぇ……。あ、ふぁああ、あ、結女、イク……、イク……の？　あ、ああぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -789,7 +789,7 @@
 [ExVoice2 storage="bex10"]
 [Face storage="f_b047"]
 [Voice storage="b0393" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]遼……ちゃん、見、てる、のにぃいっ！！　くぅう、あ、あああっ、だめ来ちゃうッ。お股ぁ、奥ぅ、だめ……なって、あふ……れ……ちゃ……あ、あぁああっ。んはぁあああああぁ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -798,7 +798,7 @@
 
 [Face storage="f_b052"]
 [Voice storage="b0394" buf=5]
-【結女】[CR]
+【Yume】[CR]
 「[v]ひゃぐっ、ふっ、んふああああぁっ！　イクッ、イッ、イッちゃうっ、ふはぁあああああぁ――――――――――っ！！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -814,7 +814,7 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0339" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]おおおおおぉあああああああぁッ！　ち……から、がっ！！　わ、わたし、に、あああっ、結女……の！　鬼……慰……姫の、錬気がッ！！　んふうっ、ふぁあああああぁ――――――――ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -831,7 +831,7 @@
 
 [Face storage="f_b047"]
 [Voice storage="b0395" buf=2]
-【結女】[CR]
+【Yume】[CR]
 「[v]ふえっ！　あ、ああああ、熱い……の、あ、あああぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -850,7 +850,7 @@
 
 [Face storage="f_c913"]
 [Voice storage="c0340" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]く……お、おぉ、あ、そう……、わ、わたし……は、あ、あたし……は……[/v]」[KeyWait]
 [FaceOff]
 
@@ -858,7 +858,7 @@
 
 [Face storage="f_c913"]
 [Voice storage="c0341" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]一つ……に。完全な、鬼神に……、はぁあああああああぁっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -869,7 +869,7 @@
 
 [Face storage="f_c913"]
 [Voice storage="c0342" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ふぅ……あ、はあ……。ん、あは♪[/v]」[KeyWait]
 [FaceOff]
 
@@ -877,13 +877,13 @@
 
 [Face storage="f_c913"]
 [Voice storage="c0343" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]やっと……元に、戻れたぁ。結女の錬気のおかげで、一つに、戻れた♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a069"]
 [Voice storage="a2083" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]希……美乃……。い、いや……[/v]」[KeyWait]
 [FaceOff]
 
@@ -891,7 +891,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a2084" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]羅刹童子の意識……、希美乃の意識と、融合したんだ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -900,7 +900,7 @@
 
 [Face storage="f_a069"]
 [Voice storage="a2085" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]切り離された意識が一つに戻るって……、羅刹と希美乃の意識が、ただ混ざり合うってことじゃ……なかったんだ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -911,13 +911,13 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0344" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]遼……[Hearts][/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a2086" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――ッ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -927,49 +927,49 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0345" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]おまたせ、遼。本当は一条の鬼斬姫なんか、さっさと殺しておいた方がいいんだけれど、結女と約束しちゃったから、幼なじみの親友として生かしておいてあげる[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
 [Voice storage="c0346" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]それに……、あたしがこのおちんちんで、女の子の気持ち良さ、タップリと教え込んであげるわね[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2087" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！？　な、なにいって……。や、やめろ……ってば！　結女の錬気、喰らって、力を得たんだから、も、もう……これ以上―――[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
 [Voice storage="c0347" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]だーめ。結女にはこれからも、鬼慰姫としてあたしのために、錬気をたっぷりと生み出してもらうんだから、放してあげるわけにはいかない。それに、鬼斬姫の遼も、結女を取り返す力を身につけられたらいけないから……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
 [Voice storage="c0348" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]これからずっとあたしの恋人として、あたしの側で、可愛がり続けてあげるから[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2088" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]――！！　ふ、ふざけるな。そんな、こと……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c910"]
 [Voice storage="c0349" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あら、ふざけてなんかいないわよ。幸いあたしの身体は、男の子のも女の子のも付いてる身体。結女のことも、男の子に戻った遼も、女の子になったはるかも、みんな愛してあげられるわ[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2089" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁあっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -977,13 +977,13 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0350" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]それに、意識が融合する前のわたしのように、希美乃の記憶をもう一人の自分のものとして感じているんじゃなくて、いまはあたし自身があなたたちと過ごした日々のことを覚えている[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a069"]
 [Voice storage="a2090" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]は、放せ……。何する、つも……り……[/v]」[KeyWait]
 [FaceOff]
 
@@ -992,7 +992,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0351" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]だから、仲良くやりましょ[hearts][/v]」[KeyWait]
 [FaceOff]
 
@@ -1012,7 +1012,7 @@
 [ExVoice1 storage="aex77"]
 [Face storage="f_a018"]
 [Voice storage="a2091" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぁああああああああぅっ！　あ、あああぁっ、い、入れる……な、はぁああンンッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1022,20 +1022,20 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0352" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あはぁ、遼の膣内、とろっとろ～。あたしと結女のエッチ見て興奮しちゃった？[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex61"]
 [Face storage="f_a017"]
 [Voice storage="a2092" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ち、ちが……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2093" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]さっきのヤツに、犯られ……ちゃってた……から……[/v]）[KeyWait]
 [FaceOff]
 
@@ -1046,7 +1046,7 @@
 
 [Face storage="f_c910"]
 [Voice storage="c0353" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ねえ、結女の初めてあたしに奪われちゃってどんな気分？　悔しい？　悲しい？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1057,7 +1057,7 @@
 [ExVoice1 storage="aex58"]
 [Face storage="f_a069"]
 [Voice storage="a2094" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く…………ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1065,7 +1065,7 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0354" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あたしは痛快だったわ。だって、遼ったらいつも結女のことばっかり見てて、あたしのことなんか、がさつで意地悪な幼なじみとしか見てくれなかったんだもん[/v]」[KeyWait]
 [FaceOff]
 
@@ -1076,7 +1076,7 @@
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a2095" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぁうっ！　ひゃ、やめ……ッ、動く……な……っ。あ、ああぁ～～[/v]」[KeyWait]
 [FaceOff]
 
@@ -1084,7 +1084,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2096" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あふうっ！　中、擦れるっ！！　あ、あああぁ、ああっ、こ、これっ、ふぁあああっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1092,13 +1092,13 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0355" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]そりゃ、ちっちゃい頃から色々意地悪しちゃってたけど、あんなの愛情の裏返しなんだから、少しは気付きなさいってば。ほんと、昔から女心分からないのよね～、遼ってば[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c910"]
 [Voice storage="c0356" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]でも、ずっと結女一筋だったから、やっぱりあたしには勝ち目なかったかあ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1109,7 +1109,7 @@
 [ExVoice1 storage="aex59"]
 [Face storage="f_a017"]
 [Voice storage="a2097" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]へぇうううぅッ！　はっ、ああああっ、はふぇぇえええッ！！　お、ぉお奥ぅッ！　ふぁわあっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1117,14 +1117,14 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0357" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]なのに、遼ったら……いまあたしのおちんちん、膣内にいっぱいくわえ込んじゃってる！[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex33"]
 [Face storage="f_a017"]
 [Voice storage="a2098" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひううっ、だ、だ……って！　あ、はぁあああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1132,27 +1132,27 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0358" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あたしのこと、好きでも何でもなかったのに、女の身体になってあたしにおちんちん入れられると、そんな気持ち良さそうな顔するのね？[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
 [Face storage="f_a017"]
 [Voice storage="a2099" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ち、違……ッ、ああっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c906"]
 [Voice storage="c0359" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あはん、遼ってば意地悪いわれると感じちゃうのかな？　いま締め付け、キツくなったよ。キュンってあたしのおちんちんに絡みついてる。アン♪　ほら、また～[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex33"]
 [Face storage="f_a017"]
 [Voice storage="a2100" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……ふぅっ、だ、だって……。はうっ、動き、とめ……あ、あああ、奥、突くな……ってばっ！！　ぬ、抜い……て……、変……なる。膣……やめ……ふぉおっ、はぁっ、あああああぁ――――っ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1162,7 +1162,7 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0360" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]そんなこといって、穴から、おツユ、とろとろ溢れてるじゃない。気持ちいいなら、素直に楽しめばいいじゃないっ！　ほら、こうすると気持ちいいでしょ！！　奥を……こう、されると、たまらないでしょ！？[/v]」[KeyWait]
 [FaceOff]
 
@@ -1173,7 +1173,7 @@
 [ExVoice1 storage="aex77"]
 [Face storage="f_a018"]
 [Voice storage="a2101" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひううっ、ふぁああっ、あ、や、だ、ダメ……ッ！　あっ、ほおおっ、んくぁあああっ、あ、あ、あああぁッ、だ、め……ええっ！！　んひうっ！　くぅ～～～～～～ッッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1181,7 +1181,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2102" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こ……ぉれ……ぇ……ッ。変になるぅっ！　すごく……変にッ、なるぅうっ！！　あ、ああっ、希美乃……の、ちんちん……にぃ、変に……されるぅうっ！　あぁっ、お、あ、ああっ、ああぁ～～ッ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1190,34 +1190,34 @@
 [ExVoice1 storage="aex21"]
 [Face storage="f_a018"]
 [Voice storage="a2103" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]奥……すぎる……から……ぁ……ッ。ふぁわぁああっ！　あひっ、も、もおっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c911"]
 [Voice storage="c0361" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]まだ我慢しちゃうんだ。気持ちイイって認めて、楽しんでくれないんだ。結女だってもう、あたしのおちんちんで気持ち良くなっちゃってくれたのに。あたしとエッチするの、そんなにイヤなのっ！？[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex77"]
 [Face storage="f_a018"]
 [Voice storage="a2104" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くふぅ……ぅうううううぅ～～～ッ。あ、あぐぅ……ッ。んふっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex68"]
 [Face storage="f_a017"]
 [Voice storage="a2105" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]違……う……、結女が……好きで、希美乃の、気持ち……応えられない、けど……。希美乃……だったら……。んはああっ！[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex59"]
 [Face storage="f_a017"]
 [Voice storage="a2106" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]で、でも……、お前……、は、羅刹童子……。結女を、喰らう……鬼神ッ。そ、そんな……やつにぃ……。ふぁあああぁ――――――ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1231,20 +1231,20 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0362" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]だからぁ、希美乃と羅刹童子は全く同じなの。産まれてからいままで鬼の意識の方が目覚めてなかったし、遼に斬られたおかげで人格が二人に分かれちゃったりしてたんで勘違いするのはわかるけど[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c911"]
 [Voice storage="c0363" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]鬼と人間の二人がくっついたわけじゃなく、あたしは元々一人。いまのこの姿が、あたしなんだから……。受け入れなさい……遼ッ！[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex69"]
 [Face storage="f_a018"]
 [Voice storage="a2107" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]おぁああっ！　はぁあうううっ！！　んぬぁはあっ！　お、おおっ、あふっ、んぁああっ！！　くっ、あっ、だ……めぇ、だめっ！！　んはぁあああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1252,7 +1252,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2108" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]鬼、なんか……に、犯される、なんて。……あ、あああぁ……気持ち悪いィイイッ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1265,17 +1265,17 @@
 [ExVoice1 storage="aex69"]
 [Face storage="f_a018"]
 [Voice storage="a2109" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　んふぁっ、は……あああっ、お、おぉおおおおぉぉっ[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r002"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]うはぁ、またイッちまいそうだぜ、はるかちゃん。いや、遼って呼んだ方がいいのかなっ？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]男なのに女の身体で、幼なじみの女の子にちんぽ突っ込まれてヒイヒイいってるって、変態すぎるだろ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1284,7 +1284,7 @@
 [ExVoice1 storage="aex77"]
 [Face storage="f_a017"]
 [Voice storage="a2110" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁあっ、や……やめっ！　変な……の、向ける……なぁあっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1292,7 +1292,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2111" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あ、あんな位置で、射精……されたら、か、顔に、ぶっかかっちゃうよっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -1305,7 +1305,7 @@
 [ExVoice1 storage="aex77"]
 [Face storage="f_a018"]
 [Voice storage="a2112" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くふっ、う、あ、はぁあっ、んあああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1313,13 +1313,13 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0364" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]遼がどんなにあたしのこと嫌ったって、女の子になっちゃった部分は、あたしのおちんちん喜んでるんだから。気持ちがイイの我慢したって、奥の部分はもう嬉しがって、先っぽをキュンキュン食らいついてきてるから[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c906"]
 [Voice storage="c0365" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]―――だから、イッちゃいなさいっ！！　ふぁあああぁ～～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1330,7 +1330,7 @@
 [ExVoice1 storage="aex62"]
 [Face storage="f_a018"]
 [Voice storage="a2113" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぅあああっ、んふぁあっ！　あっ、へぁああっ！！　あうっ、だめっ、そんな……奥すぎッ、入れ……ぁああああッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1342,7 +1342,7 @@
 [ExVoice1 storage="aex45"]
 [Face storage="f_a018"]
 [Voice storage="a2114" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んはぁああぁ、ぎぃいいっ！　おううっ！！　んふぁああっ、ああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1366,7 +1366,7 @@
 [ExVoice1 storage="aex23"]
 [Face storage="f_a018"]
 [Voice storage="a2115" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぉぉおぐうっ！　えぐぅ、お、んぉあああぁはああああぁ――――――ッ　んあ、あふっ！！　ひぃ、い、いあ、だ……ああ、めっ、こ、これ……いひゅっ！　こんな……の、ふぁあああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1375,7 +1375,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2116" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はひゃあっ！　イ、イクゥッ！！　イクッ、イッちゃうっ！　いっ、い、いぃいいッ、イク～～～～～～～～～～～ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1387,12 +1387,12 @@
 [text]ただ膣内に射精されるのとは比べものにならないほど衝撃の強い中出しに、ボクの理性が木っ端微塵に消し飛ばされた。[KeyWait]
 
 [Face storage="f_r002"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]おおっ、イッてる、イッてるっ！　マン汁垂れ流して、痙攣しながらイッてる！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]男のくせに膣内射精されて、スケベなイキ顔晒してイキまくってやがる！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1402,7 +1402,7 @@
 [ExVoice1 storage="aex41"]
 [Face storage="f_a048"]
 [Voice storage="a2117" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]へあぁあぁ……、ふお……お、ほぁあああぁ……。んあっ、んはぁあっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1416,12 +1416,12 @@
 [text]その乱れっぷりを見ながら自慰に耽る牡鬼のペニスから、[KeyWait]
 
 [Face storage="f_r002"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]んぉおおっ！　で、出るッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]お、おれ、もっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1439,7 +1439,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2118" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふぁあっ！！　あ、ひぃ……。んくぅう、ふぁあっ！　ほぉ、お……うぅ……あ、あぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1447,7 +1447,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2119" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あふ……あ、あぁ……。ん……ふぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1459,7 +1459,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2120" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇええっ！　んふぁあああああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1481,7 +1481,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0366" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]どう、遼。あたしにいっぱい中出しされちゃって。気持ち良かった？　あたしのおちんちん、よかったって認めるなら、これからもたっぷりと可愛がってあげるけど[/v]」[KeyWait]
 [FaceOff]
 

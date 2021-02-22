@@ -125,7 +125,7 @@
 [Face storage="f_c903"]
 [Voice storage="c0294" buf=2]
 【Rasetsu Douji】[CR]
-「[v]Gyauuh! KWah, aaaaah![/v]」[KeyWait]
+「[v]Gyauuh! Kwah, aaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [text]But before she could even touch me, a whip-like jolt of Renki repelled her and sent her flipping backwards.[KeyWait]
