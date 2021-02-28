@@ -9,108 +9,108 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2146" buf=2]
-【はるか】[CR]
-「[v]こ……こんな、の……気持ち良く、なんか、ないっ！　んふぁあっ！！　あっ、くぁああっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]T-This doesn't feel good at all! Nfwaah! Ah, kwaaah![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se135" buf=0]
 
-[text]ぷじゅっ、ぶちゅちゅ、ぷっしゃ～～～～ッ！！[KeyWait]
+[text]Squirt, squirt, squiiiiirt![KeyWait]
 
-[text]意地を張りつつももう一度甘美の昂りが来て、絶頂の蜜飛沫を噴きこぼしてしまった。[KeyWait]
-[text]それでも必死に意識を保って、羅刹を睨み続ける。[KeyWait]
+[text]I remained stubborn, but the sweet pleasure inside me grew once again, and I squirted my orgasm honey everywhere.[KeyWait]
+[text]But despite that, I desperately kept hold of my mind and continued glaring at Rasetsu.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2147" buf=2]
-【はるか】[CR]
-（[v]ボクはどうなろうとも、結女だけは……必ず助け出す！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]No matter what happens to me... I'm going to save Yume![/v]）[KeyWait]
 [FaceOff]
 
-[text]錬気を喰われ、無事にとはいかなくなっちゃったけれど。[KeyWait]
+[text]Having had her Renki devoured, though, Yume wasn't exactly safe.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2148" buf=2]
-【はるか】[CR]
-（[v]まだ結女は生きている。これ以上鬼神の慰み者になんかさせない！！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Yume's still alive. I won't let Rasetsu play with her any further![/v]）[KeyWait]
 [FaceOff]
 
-[text]諦めなければ、必ずチャンスはあるはずだ。[KeyWait]
+[text]If I didn't give up, a chance would come for sure.[KeyWait]
 
 [Face storage="f_c911"]
 [Voice storage="c0370" buf=2]
-【羅刹童子】[CR]
-「[v]さすがは遼、人間の時のあたしが惚れただけあって、我慢強いのね。でも、そんなに意地を張られると、なんだかもっとイジメたくなっちゃう[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]You're still the same stubborn Ryou I fell for just like I knew you were. But being stubborn like that is just going to make me want to tease you more, you know?[/v]」[KeyWait]
 [FaceOff]
 
-[text]そんなボクを面白そうに眺めながら鬼神がいう。[KeyWait]
-[text]こいつを希美乃だと思うのはもうやめた。[KeyWait]
-[text]これは正真正銘、人のことなど虫けら程度にしか思っていない、人を喰らう悪鬼だ。[KeyWait]
+[text]The kijin looked at me with entertained eyes as she spoke.[KeyWait]
+[text]I stopped thinking of her Kimino.[KeyWait]
+[text]She was an evil, human-devouring oni that thought of people as no more than insects.[KeyWait]
 
 [Face storage="f_c908"]
 [Voice storage="c0371" buf=2]
-【羅刹童子】[CR]
-「[v]あたしとのエッチが気持ち良くないなんていわれたのも癪だしね。それに、その目……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]You telling me that having sex with me didn't feel good pissed me off anyway. Plus, those eyes...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a2149" buf=2]
-【はるか】[CR]
-「[v]………………………………[/v]」[KeyWait]
+【Haruka】[CR]
+「[v].........[/v]」[KeyWait]
 [FaceOff]
 
-[text]探るようにボクの目をジッと睨みつける。その眼差しに、ボクも口を噤んで睨み返す。[KeyWait]
+[text]Rasetsu stared into my eyes as if she was trying to figure something out. I kept my mouth shut and glared back.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0372" buf=2]
-【羅刹童子】[CR]
-「[v]いいわ……。とりあえず、結女との約束もあるし、今日はもうこれ以上何もしないでおいてあげる。けれど、明日からあたしのいうとおりに行動してもらうから……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Very well... I promised Yume and all, so I won't do anything more to you for today. But starting tomorrow, you'll be following my orders...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a066"]
 [Voice storage="a2150" buf=2]
-【はるか】[CR]
-「[v]だ、誰がお前になんか……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]W-Who the hell who follow your...[/v]」[KeyWait]
 [FaceOff]
 
-[text]いいかけるが―――、[KeyWait]
+[text]I began to retort, but...[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0373" buf=2]
-【羅刹童子】[CR]
-「[v]イヤとはいわせないわよ。結女を無事なままで返して欲しかったら、あたしに従いなさい♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]I won't let you say no. If you want me to return Yume safely, you'd better obey. ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]結女を人質にされて、言葉を遮られてしまった。[KeyWait]
+[text]Rasetsu brought up Yume as a hostage, cutting me off.[KeyWait]
 
 [ChrReset0]
 [UpDate]
 
-[text]過剰に錬気を放出させられてぐったりと身を預ける結女を抱きかかえたまま、羅刹童子はふわりと宙に浮かび上がった。そのまま校舎の方へ滑空してゆく。[KeyWait]
+[text]Rasetsu floated into the air, gliding toward the school with Yume in her arms, who had become exhausted and limp from releasing too much Renki.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a2151" buf=2]
-【はるか】[CR]
-「[v]ま、待てっ、結女を返せッ！　おいっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]W-Wait, give Yume back! Hey![/v]」[KeyWait]
 [FaceOff]
 
-[text]ふらつく脚でその後を追おうとする。だが――。[KeyWait]
+[text]I tried to shakily chase after her, but...[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a2152" buf=2]
-【はるか】[CR]
-「[v]くぁっ！　な、なんだ、お前たちッ！！　は、放せっ！　このぉ……ッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kwah! H-Hey, stop! L-Let me go, damnit...![/v]」[KeyWait]
 [FaceOff]
 
-[text]脇から両腕を鬼にガッチリと掴まれた。それを振り解く力すらもうない。[KeyWait]
+[text]Two oni grabbed my arms tight from next to me. I no longer had the strength left to fight them off.[KeyWait]
 
 [Face storage="f_a069"]
 [Voice storage="a2153" buf=2]
-【はるか】[CR]
-（[v]ボク……に、なにさせる、つもりだ……？　羅刹、童子めっ！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]That damn Rasetsu Douji...! What does she plan on doing with me?[/v]）[KeyWait]
 [FaceOff]
 
-[text]とにかく、ろくなことじゃないのだけは確かだ。[KeyWait]
-[text]それ以上抗うことも出来ず、ボクは鬼どもに、羅刹たちとは別の方へと連れていかれた。[KeyWait]
+[text]She definitely wasn't planning anything [ita]good[endita].[KeyWait]
+[text]Unable to resist any further, the oni took me away in a different direction from Rasetsu.[KeyWait]
 
 [BgmFadeOut time=2000]
 [SoundAllOut time=2000]
@@ -119,9 +119,9 @@
 [BgSet storage="_black"]
 [UpDate]
 
-[text]………………………………………………[KeyWait]
-[text]……………………[KeyWait]
-[text]………[KeyWait]
+[text].........[KeyWait]
+[text]......[KeyWait]
+[text]...[KeyWait]
 
 [WindowOff]
 
