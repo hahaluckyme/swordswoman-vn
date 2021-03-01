@@ -19,285 +19,285 @@
 
 [Face storage="f_a060"]
 [Voice storage="a2154" buf=2]
-【はるか】[CR]
-（[v]うう……、やっぱり変に……思われてる……。あ、当たり前だけど……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Ugh... They must think I'm weird. T-That's natural, though...[/v]）[KeyWait]
 [FaceOff]
 
-[text]久しぶりの男子クラス。元の席に座るボクに、教室中の視線が集中していた。[KeyWait]
-[text]もちろん、病欠していた級友の復学を祝う温かな視線ではない。[KeyWait]
-[text]邪な好奇心に満ちた、粘り着くような視線……。[KeyWait]
+[text]I was in the boys' class for the first time in forever. The guys' gazes were all focused on me as I sat in my old seat.[KeyWait]
+[text]Of course, they weren't looking at me kindly like you'd look at a classmate that came back from being sick.[KeyWait]
+[text]Their gazes were sticky and teeming with a wicked curiosity...[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]ねえねえ、はるかちゃん。なんでうちのクラスにいるの？　まさか教室間違えちゃった？[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Hey, hey, Haruka-chan, why are you in our class? Did you get the classrooms mixed up?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
-「[i]しかも男子の制服なんか着ちゃって[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]And you're waiting a guy's uniform, too.[/i]」[KeyWait]
 [FaceOff]
 
-[text]不思議がって聞いている様子じゃない。すべて事情が分かった上でわざとらしく尋ね、ボクが困る様を楽しんでいるのが見え見えな口調だ。[KeyWait]
+[text]They weren't asking because they didn't know. They understood the situation full well and were clearly enjoying seeing me troubled.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2155" buf=2]
-【はるか】[CR]
-（[v]あいつらも、昨日の放課後にいた連中だ……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]They're the same ones from yesterday...[/v]）[KeyWait]
 [FaceOff]
 
-[text]夕暮れの校庭で羅刹童子に惑わされてボクを犯し、ついには鬼に憑依されてしまった連中が、このクラスにもかなりいる。[KeyWait]
-[text]いまでは外見だけは人間に戻っているそいつらが、他の生徒たちに昨日のことを教えたらしく、教室の至る所から噂話がヒソヒソと聞こえてくる。[KeyWait]
+[text]Quite a few of the students-turned-oni that Rasetsu Douji had tricked into raping me were in this class.[KeyWait]
+[text]Their appearances - and [ita]only[endita] their appearances - had gone back to human. They'd apparently told the other students what happened last night, and the whole classroom was busy whispering gossip.[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
-「[i]すげえな、校庭のど真ん中で部活の生徒相手に大股開きで乱交かよ！　俺も何か部に入っとけばよかった！！[/i]」[KeyWait]
+【Male Student C】[CR]
+「[i]Wow, she really spread her legs and fucked the clubs in the middle of the schoolyard!? I should've joined a club, too![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
-「[i]しかもはるかちゃん、一条遼の双子の姉だなんていってたけど……。やっぱりわざわざ男子クラスに戻ってきたのって、教室でも乱交三昧するためにかな！？[/i]」[KeyWait]
+【Male Student D】[CR]
+「[i]Haruka-chan said she was Ichijou Ryou's twin sister or something... Is the reason she's come to this class to have sex with everyone!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]どいつもこいつも好き勝手なこといって、欲情した視線でボクを見詰めてくる。[KeyWait]
+[text]All of them ran their mouths as they stared at me with lust in their eyes.[KeyWait]
 
 [Face storage="f_a069"]
 [Voice storage="a2156" buf=2]
-【はるか】[CR]
-（[v]く、くそ……。見られてるだけなのに、すごく……変な、感じだ……ッ。そ、それに、この身体で男子の制服って、すごく……落ち着かないよ[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]D-Damnit... Just having them look at me feels really weird. Plus, I feel really uncomfortable in my old uniform in this body... [/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a069"]
 [Voice storage="a2157" buf=2]
-【はるか】[CR]
-（[v]胸、窮屈だし、ズボンもお尻がパツンパツンでいっぱいだし……。布地がピチピチに張り付いちゃってるから……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]This shirt's tight around my chest, and my butt's practically bursting out of my pants. Everything's sticking so close to me...[/v]）[KeyWait]
 [FaceOff]
 
-[text]腰が括れて出るところが悩ましく張り出した女そのものの体型が、強調されてしまう。[KeyWait]
+[text]My male uniform accented the girlish parts of my body, like my slender waist and big butt.[KeyWait]
 
 [Face storage="f_a069"]
 [Voice storage="a2158" buf=2]
-【はるか】[CR]
-（[v]ブラジャー、シャツにくっきり浮かび上がっちゃってるし……。で、でも、外すと揺れて邪魔だし、おっぱいそのものが……透けちゃうかも……だし……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]The outline of my bra is totally visible through my shirt... B-But my boobs would jiggle and get it in the way if I took it off, and then they'd see [ita]them[endita] through my shirt...[/v]）[KeyWait]
 [FaceOff]
 
-[text]女物ショーツの線も窮屈なズボンに浮き出ていた。こちらはせめてトランクスが無理だとしても、ボクサーショーツを穿くくらいしたかった。許してもらえなかったけれど……。[KeyWait]
+[text]My panty line was visible through my tight pants, too. Even if boxers weren't an option, I wish I could have at least worn boxer [ita]briefs[endita]. But, I wasn't allowed to...[KeyWait]
 
 [ChrReset0]
 [UpDate]
 
-[text]男装の女体が級友の劣情を刺激する最中、教壇に立つ教師の姿をうかがい見る。[KeyWait]
+[text]As I sat there, stirring up the lust of my classmates without even doing anything, I glanced up at my teacher as they stood before the class.[KeyWait]
 
 [ChrSet0 storage="b_c901"]
 [UpDate]
 
 [Face storage="f_c901"]
 [Voice storage="c0374" buf=2]
-【羅刹童子】[CR]
-「[v]あら、どうしたの？　一条遼くん[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Oh? What's the matter, Ichijou Ryou-kun?[/v]」[KeyWait]
 [FaceOff]
 
-[text]ボクの視線にすぐさま気がつき、クラスの担任を称する鬼神が、上機嫌に声を弾ませた。[KeyWait]
-[text]羅刹童子。[KeyWait]
+[text]The kijin in charge of the students here noticed my gaze right away and responded cheerfully.[KeyWait]
+[text]It was Rasetsu Douji.[KeyWait]
 
 [Face storage="f_a059"]
 [Voice storage="a2159" buf=2]
-【はるか】[CR]
-（[v]なんでみんな、こいつがホームルームやってることを不思議に思わないんだよ？　まさかもう、クラス全員、鬼に？　あ、暗示か何かの類だと、いいんだけど……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Why doesn't anyone think something's wrong with her teaching this class? Is [ita]everyone[endita] here been possessed by an oni? I-I hope she just hypnotized them or something instead...[/v]）[KeyWait]
 [FaceOff]
 
-[text]どちらにしろ、一条宗家が経営するこの学園が、すでに鬼神に占領されたいることは確かだった。[KeyWait]
+[text]Either way, it was a fact that this school, despite being managed by the Ichijou family, had been taken over by oni.[KeyWait]
 
 [Face storage="f_a059"]
 [Voice storage="a2160" buf=2]
-【はるか】[CR]
-（[v]そういえば、昨日だって校庭であんなことしちゃってるのに……、先生とか、誰も来なかったし……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Come to think of it, when all that happened last night... No teachers came or anything...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0375" buf=2]
-【羅刹童子】[CR]
-「[v]さてと、じゃあきちんと自分から説明してもらいましょうか？　どうして一条はるかちゃんが、男の子の格好をして男子クラスにいるのかってことをね♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]So, how about you explain it yourself, Ichijou Haruka-chan? Why you're in the boys' class and why you're in a male uniform, that is. ♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2161" buf=2]
-【はるか】[CR]
-（[v]な、なにいって……ッ。全部、自分が命令したくせにっ！！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]W-What...? But she's the one who ordered me to do all this![/v]）[KeyWait]
 [FaceOff]
 
-[text]いけしゃあしゃあという鬼神に腹が立った。口調がボクに無茶振りする時の希美乃と同じなのが、余計に苛つく。[KeyWait]
-[text]けれど、いうことをきかなければ、結女の身に危険が及ぶ。[KeyWait]
+[text]The kijin's shameless attitude pissed me off. The fact that she sounded just like Kimino when she pressured me into doing something I wanted irritated me even more.[KeyWait]
+[text]But if I didn't do as I was told, Yume would be in danger.[KeyWait]
 
 [ChrReset0]
 [UpDate]
 
 [Face storage="f_a059"]
 [Voice storage="a2162" buf=2]
-【はるか】[CR]
-（[v]結女……、今日は登校してきてなかった……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Yume... didn't come to school today...[/v]）[KeyWait]
 [FaceOff]
 
-[text]恐らく羅刹がどこかに軟禁しているのだろう。とにかく、いまは大人しく従って、逆転のチャンスを待つしかない。生徒たちの注視が集まる中、恥ずかしさに顔を赤く染めてボクは席を立った。[KeyWait]
+[text]Rasetsu was probably holding her somewhere. For the time being, I had no choice but to behave and wait for a chance. I blushed from the students' gazes as I stood up from my seat.[KeyWait]
 
 [ChrSet0 storage="b_a141"]
 [UpDate]
 
 [Face storage="f_a046"]
 [Voice storage="a2163" buf=2]
-【はるか】[CR]
-「[v]え……えと、ボク……、この前から身体が女の子に変わっちゃって……だ、だから、この身体で、男として通うの大変だから、はるかって……。その……本当はいもしない、双子の姉ってことにして……女子クラスに、通って……た……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]U-Um, I... I turned into a girl a while ago... I-It was hard going to school as a guy in this body, so I pretended I was Haruka, my older twin sister that doesn't really exist, and went to the girls' class...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a2164" buf=2]
-【はるか】[CR]
-「[v]でも……本当は、男なんだから、男子クラス……戻るように……学園に、いわれて……も、戻ってきた……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]But, since I'm actually a guy... I was told to go back to the guys' class, s-so here I am...[/v]」[KeyWait]
 [FaceOff]
 
-[text]実際にはもちろん羅刹童子からの命令だ。今頃ボクが実は男だったことは、女子クラスにも伝えられているはずなので、もう二度と向こうには行けない。[KeyWait]
+[text]That had been an order from Rasetsu Douji too, of course. The girls' class had been informed that I was actually a guy, so I wouldn't be able to go back there again.[KeyWait]
 
-[text]込み上げる恥ずかしさを堪えて説明し終わると、教室中から呆れたような溜め息が湧き上がる。[KeyWait]
+[text]I finished my explanation, enduring the shame welling up inside me. Surprised gasps erupted from all throughout the classroom[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]それじゃあお前、本当は男のくせに、体育の時とかも女の子と一緒に着替えてたのかよ！？　そういえば、トイレも女子便所使ってたよな！？[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]So you changed with the girls during gym even though you're a guy!? Hey, wait, didn't you use the girls' bathroom, too!?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2165" buf=2]
-【はるか】[CR]
-「[v]あ……う……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Ah... Uh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]そう、だけど……。思わず口籠もってしまう。[KeyWait]
+[text]He was right... but I stumbled on my words and couldn't respond.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0376" buf=2]
-【羅刹童子】[CR]
-「[v]質問には答えなさい、一条くん。本当は男なのにそれを隠して女の子のふりをして、どんな悪いことをしていたのか、包み隠さず全部みんなに白状しなさい[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Answer the question, Ichijou-kun. Come clean to everyone about the naughty things you did when you pretended to be a girl.[/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹が楽しそうに顔を笑みで緩めて命令してくる。[KeyWait]
+[text]Rasetsu gently ordered me, smiling like she was enjoying this.[KeyWait]
 
 [Face storage="f_a054"]
 [Voice storage="a2166" buf=2]
-【はるか】[CR]
-「[v]き、着替えました……、他の女子と……一緒に。みんな、ボクが男だって知らなかった、から……。ト、トイレも、この……身体……だと、男便所、大変なので、女子トイレ……で……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I-I changed together... with the other girls. They didn't know I was a guy. U-Using the guys' bathroom would have been tough in this body, too, so... I used the girls' bathroom instead...[/v]」[KeyWait]
 [FaceOff]
 
-[text]まさか男子と一緒に着替えるわけにいかないし、一人だけ他の更衣室を使うのも不自然なので、なるべき他の娘を見ないようにして、着替えていた。[KeyWait]
+[text]There was no way I could change together with the guys, and it would have looked weird to go find a room to change in alone, so I just changed with the other girls, trying as hard as I could to not look at them.[KeyWait]
 
 [Face storage="f_a054"]
 [Voice storage="a2167" buf=2]
-【はるか】[CR]
-（[v]むしろ、ボクの方が見られたり……、変なとこ……触られたりしちゃった、けど……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]If anything, they were the ones that looked at me... They touched me in weird places, too...[/v]）[KeyWait]
 [FaceOff]
 
-[text]エッチな目にあわされた困惑の感触を思い出して、ますます顔が上気する。[KeyWait]
-[text]その恥じらう様子に、級友たちは一段と調子づいた。[KeyWait]
+[text]My face became even more flushed as I remembered the dirty situation I'd gotten stuck in before.[KeyWait]
+[text]Seeing me embarrassed, my classmates' attitudes became even more brazen.[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]ねえねえ、その身体で男便所だと何が大変なの？[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Hey, hey, why is using the guys' bathroom tough in that body?[/i]」[KeyWait]
 [FaceOff]
 
-[text]わかりきったことだ。けれども答えないと、羅刹に怒られる。[KeyWait]
+[text]He already knew exactly why. But if I didn't answer, Rasetsu would get mad.[KeyWait]
 
 [Face storage="f_a059"]
 [Voice storage="a2168" buf=2]
-【はるか】[CR]
-「[v]お、おしっこ……立ったまま、出来ない……から。ちんこ……ないんで……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I-I can't pee while standing up... I don't have a dick...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
-「[i]じゃあ、女便所の個室で座ってしてるんだ。本当は男なのに[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]So even though you're a guy, y ou sat in a stall in the girls' room, then.[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
-「[i]女ってさ、何人かでつるんでトイレ行くけど、それだと一緒にいったヤツも隣で同時にしょんべんとかうんことかしてるわけだろ？　その音って聞こえちゃったりした？　結女ちゃんとか、坂谷がしてる音[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]Girls usually go to the bathroom in groups, so that means you piss and shit in stalls next to each other, right? Did you ever hear them go? Like, Yume-chan or Sakatani?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
 [Voice storage="a2169" buf=2]
-【はるか】[CR]
-「[v]お、音……は、水……流しながら、したり……してる……けど……。でも、少し……聞こえちゃう……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]N-Not really, because they flush before they go... B-But... just a little...[/v]」[KeyWait]
 [FaceOff]
 
-[text]嘘をいえばすべて見抜かれてしまいそうな気がして、正直に答えてしまう。[KeyWait]
-[text]女子トイレで薄い壁を隔てて幼なじみと最愛の従妹に挟まれながら用を足す、恥ずかしさと居心地の悪さを思い出して足が小刻みに震える。[KeyWait]
+[text]I felt that any lies I made would be seen through right away, so I answered truthfully.[KeyWait]
+[text]My legs shuddered a bit from shame and discomfort as I remembered being stuck between my childhood friend and my beloved cousin as we relieved ourselves with nothing more than thin walls between us.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2170" buf=2]
-【はるか】[CR]
-（[v]何か……お腹の奥……、ウズウズした感じ……。熱くなってる……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]T-The inside of my belly's throbbing... It's getting hot...[/v]）[KeyWait]
 [FaceOff]
 
-[text]ちょっとマズい予感がする。その最中――。[KeyWait]
+[text]I got a bad feeling. And then...[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0377" buf=2]
-【羅刹童子】[CR]
-「[v]へえ……、聞こえてたんだ……。遼のエッチ……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]I see, so you [ita]did[endita] hear us... You're a perv, Ryou...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a046"]
 [Voice storage="a2171" buf=2]
-【はるか】[CR]
-「[v]――――ッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]...![/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹童子が希美乃の声で、ぼそりと怒ったように呟くのでドキリとしてしまった。[KeyWait]
-[text]羞恥を煽る質問に汗だくとなった身体から、ますます汗が滲み出す。[KeyWait]
+[text]Rasetsu whispered in Kimino's voice, sounding mad. My heart skipped a bit.[KeyWait]
+[text]I'd gotten sweatier from all the questions, which had served to fuel my embarrassment.[KeyWait]
 
 [Face storage="f_a054"]
 [Voice storage="a2172" buf=2]
-【はるか】[CR]
-（[v]あ、あんまり、服に……染みると、下着、ますます透けちゃう……から……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]I-If my clothes get too sweaty, my underwear are gonna show through even more...[/v]）[KeyWait]
 [FaceOff]
 
-[text]男なら気にする機会もない、胸の一部だけを覆う下着。もうすでにシャツを通してうっすらと見えているブラジャーが、このままだとくっきり見えちゃう。どうにか冷静さを取り戻そうとするのだけれど、意地悪な質問はまだまだ続く。[KeyWait]
+[text]I'd never had to worry about a bra as a guy, but now, it had become faintly visible through my shirt, and it was only getting worse. I tried to regain my composure, but the mean-spirited questions just kept on coming.[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
-「[i]なあ、チンコがなくて立ち小便出来ないって……。身体、完全に女になっちゃってんのか？　おっぱいあるのは見て分かるけど、そのズボンの下、女と同じオマンコ付いちゃってるんだ？[/i]」[KeyWait]
+【Male Student C】[CR]
+「[i]Hey, so if you can't pee standing up because you don't have a dick... Doest that mean your whole body's turned into a girl's? I mean, I can see that you've got boobs, but do you have a pussy like other girls do too?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
-「[i]昨日の放課後に校庭で男とヤリまくってたって聞いたけど、そのオマンコ、本当にチンコ入っちゃうってこと？[/i]」[KeyWait]
+【Male Student C】[CR]
+「[i]I heard that you fucked like crazy in the schoolyard yesterday, does that mean that it actually works? Like, you can put a dick in it?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a054"]
 [Voice storage="a2173" buf=2]
-【はるか】[CR]
-「[v]ひ……うぅ、あ、あの……その、う……ん、っていうか、他の娘と、お、おんなじかは分からない、けど……。付いてる……お、おまんこ……。ちんこ……入る……あ、穴……開いて……る……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyi... Ugh, u-um, yeah... Well, I don't know if mine's the same as other girls have, but... I've got a pussy... A hole that dicks can go into...[/v]」[KeyWait]
 [FaceOff]
 
-[text]声が震える。上擦る。もっと簡潔に、余計なことはいわず答えることだって出来たのに。[KeyWait]
-[text]律儀に陰部の状態を教えてしまった。[KeyWait]
+[text]My voice was shrill and shuddering. I could have definitely answered that in less words.[KeyWait]
+[text]Yet, I'd been honest in describing my genitals.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2174" buf=2]
-【はるか】[CR]
-（[v]あ、ああぁ……どうし……よう……。変に、おまんこ、意識しちゃったから、いま、じゅんっ……て。愛液、染み出た感じ……。はう……。ぬ、濡れて……る……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]A-Aaah, what do I do... Thinking about my pussy made it get wet... I feel like something just seeped out...[/v]）[KeyWait]
 [FaceOff]
 
-[text]ヴァギナを意識すると、みんなに散々犯された感覚が膣穴に蘇り、ますます困ったことになる。[KeyWait]
+[text]Thinking about my pussy made me remember how it felt to have it get fucked so hard, troubling me even further.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2175" buf=2]
-【はるか】[CR]
-（[v]うう～、乳首も勃ってるよ……。やっぱり、ブラしてきて……よかったかも……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Ugh, my nipples are hard... I guess it's a good thing I wore a bra after all...[/v]）[KeyWait]
 [FaceOff]
 
-[text]でないと今頃シャツの表面に強張った乳首が浮き立つのを、みんなに見られてしまっていた。[KeyWait]
-[text]その胸へと―――、[KeyWait]
+[text]Otherwise, everyone would be able to see my nipples poking through my shirt.[KeyWait]
+[text]I stood there, relieved, but then...[KeyWait]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
-「[i]ふ～む、これは確かにたまらぬ手応え！　実に見事なおっぱいだな、一条ッ！！[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]Hmm, they certainly [ita]do[endita] feel nice! These are some splendid boobs, Ichijou![/i]」[KeyWait]
 [FaceOff]
 
 [QuakeScreen time=500 vmax=10 hmax=0]
@@ -307,180 +307,180 @@
 
 [Face storage="f_a045"]
 [Voice storage="a2176" buf=2]
-【はるか】[CR]
-「[v]ヒィッ！！　ふぁああっ！　う、浦辺ッ！！　は、放……せ、んぁああっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyi! Fwaaah! U-Urabe! L-Let go of me... Nhaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]背後から忍び寄ってきていた悪友に胸を鷲掴みにされてしまった。[KeyWait]
-[text]しかも、ヤツは器用にシャツのボタンをあっという間に外し、わきわきと細かく蠢かせた指先を、ブラの上から膨らみにめり込ませて揉んでくる。[KeyWait]
-[text]たまらず、ぺたんと腰が抜けたように椅子に座り込んでしまった。[KeyWait]
-[text]それでも浦辺の手は、しつこくボクの胸から離れない。[KeyWait]
+[text]My 'friend' had snuck up behind me and grabbed both of my boobs.[KeyWait]
+[text]Even worse, he skillfully unbuttoned my shirt in an instant and began running his wiggling fingers on my soft mounds over my bra.[KeyWait]
+[text]I lost the strength to stand and sat back down in my chair.[KeyWait]
+[text]However, Urabe's hands stubbornly followed me as I lowered myself.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a2177" buf=2]
-【はるか】[CR]
-（[v]く……ぅ、イヤラシイ、手つきで……ッ。気持ち、悪い……のに、変な気持ち、なっちゃうだろ！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Kuh... The way he's touching me feels so gross... but damnit, it's making me feel weird, too![/v]）[KeyWait]
 [FaceOff]
 
-[text]こんなのを快感だなんて認めたくない。けれども、浮き立つような感覚が膨らみから湧き上がって身体を熱くさせる。[KeyWait]
+[text]I absolutely didn't want to admit that it felt good. Yet, the striking sensation coming from my boobs was heating up my body.[KeyWait]
 
 [Face storage="f_i001"]
-【浦辺】[CR]
-「[i]ぬふふ～、しかし、はるか様が、女体化した遼だって知っていれば、最初からこうしておっぱい揉み放題だったのに。内緒にしているなんて、人が悪いでござるなあ～[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]Nufufu, I would have been able to rub your boobs to my heart's content if I'd just known that you were Ryou in a girl's body, Haruka-sama. How rude of you to keep it a secret...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2178" buf=2]
-【はるか】[CR]
-「[v]だ、誰が、そんなこと……させるかっ！　ボ、ボクは男……なんだから、そんなとこ、揉むなッ！！　は、放せ……ってばっ！　んぅ……、ふぁ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]W-Who the hell would let you do that!? I'm a guy, stop groping me there! L-Let me go, damnit! Nnh... Fwah...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2179" buf=2]
-【はるか】[CR]
-（[v]こ、このまま……じゃ、すぐに……、変な声、出ちゃうっ。揉む……の、やめさせ、ないと[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]I-If this keeps up... I'm gonna start moaning soon... I have to stop him![/v]）[KeyWait]
 [FaceOff]
 
-[text]ボクの本当の姿を思い出させれば、気色悪くてやめるかと思ったけれど―――、[KeyWait]
+[text]I'd hoped that he'd get grossed out and stop if he remembered how I looked as a guy, but...[KeyWait]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
-「[i]男だと！？　男なら、こんなものを着けているのはおかしいだろが～ッ！　脱げぇっ！！[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]A guy!? Isn't it strange for a [ita]guy[endita] to be wearing one of these!? Take it off![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2180" buf=2]
-【はるか】[CR]
-「[v]ひぇえっ！？　ふぁああっ！！　あっ、あぁあああああぁッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyeeh!? Fwaaah! A-Aaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]ブラを外されちゃった。[KeyWait]
-[text]後ろのホックをあっという間に外され、弾けるようにカップが落ちる。[KeyWait]
+[text]He took my bra off.[KeyWait]
+[text]It only took a moment for him to unhook i tfrom behind, causing my cups to immediately fall.[KeyWait]
 
 [Sound storage="se567" buf=0]
 [ChrSet0 storage="b_a103l"]
 [UpDate]
 
-[text]その途端、窮屈に押さえ付けられていた撓わな膨らみが、ぶるるんと揺れて露わにされた。[KeyWait]
+[text]Instantly, my supple mounds jiggled as they became freed from my tight bra and were revealed to the class.[KeyWait]
 
 [Sound storage="se739" buf=0]
 
-【生徒たち】[CR]
-「[i]うぉおおおおおおおおおおおぉ――――――ッ！！[/i]」[KeyWait]
+【Students】[CR]
+「[i]Uwoooooooooooooooooooh![/i]」[KeyWait]
 
-[text]途端に雄叫びが上がった。[KeyWait]
+[text]The class immediately roared.[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]すっげええ、生乳、でっけええっ！　こんな近くで、しかも生のおっぱいを見るなんて初めてだぜ[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Whoa, your bare boobs are huuuge! I've never seen boobs this close, much less uncovered ones![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
-「[i]おいおい、乳首もうあんなに勃ってるぞ！　揉まれて気持ち良くなっちゃったのかな？[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]Hey, look how hard your nipples are! Did getting groped feel good?[/i]」[KeyWait]
 [FaceOff]
 
-[text]口々にみんなが囃し立ててくる。[KeyWait]
+[text]Everyone began mocking me in turn.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2181" buf=2]
-【はるか】[CR]
-「[v]あ、あ、あぁ、あ……、あうぅううぅッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]A-A-Aah, ah... Auuuuuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]恥ずかしさに火照った顔をしかめて、急いで隠そうとする。[KeyWait]
-[text]けれどそれよりも速く、浦辺を始めとするおっぱい大好き男子たちの手に、ボクの膨らみは揉みくちゃにされた。[KeyWait]
+[text]Blushing, I scowled in embarrassment and quickly tried to cover myself up.[KeyWait]
+[text]But before I could, Urabe and the other boob-loving students started groping my me.[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]うおっ、温かいッ！　それにふっかふかに柔らかいぞ、一条の胸ぇ！[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Whoa, they're so warm! Your boobs are so soft and fluffy, Ichijou![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_i001"]
-【浦辺】[CR]
-「[i]やはり生だと、触り心地も格別ですなっ！　掌に、乳肌がしっとり粘り着いてくるッ！！[/i]」[KeyWait]
+【Urabe】[CR]
+「[i]They really do feel different bare! Your flesh is sticking right to my palms![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
-「[i]房、トロトロなのに、乳首コッチコチじゃん。男だったら、胸触られてこんなにならないよな[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]Your boobs are so soft and warm, but your nipples are so hard! They wouldn't be like this if you were a guy![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a039"]
 [Voice storage="a2182" buf=2]
-【はるか】[CR]
-「[v]くふぅううっ！　ううっ、あ、ああっ！！　さ、触る……な、ってばっ！　みんな……で、そ……そんな……、弄る……な、ふひゃんっ！！　おぉ、あ、ああぁ……。そん、な、揉んだ……ら、だめ……って、ばあっ！　あ、ああぁ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kufuuuuh! Uuuh, a-aah! S-Stop touching me already...! Sto playing with them, everyone... Fuhyahn! Ooh, a-aaah... I-I'm telling you, d-don't... A-Aaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]直に触られる感触はやはりブラジャー越しとは格段に違う。[KeyWait]
+[text]Being touched without my bra on really did feel totally different.[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
-「[i]おいおい、マジに感じてるぞ、一条のヤツ。本当に、身体……女なんだな……？[/i]」[KeyWait]
+【Male Student C】[CR]
+「[i]Hey, Ichijou's seriously feeling good from this! I guess that really is a girl's body, huh...?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
-「[i]もしかして、あそこも……もう、濡れてる……？[/i]」[KeyWait]
+【Male Student D】[CR]
+「[i]Is she maybe... wet down there, too...?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2183" buf=2]
-【はるか】[CR]
-「[v]ひうっ！？　か……感じて……ない、し……んくぅっ！　濡れ……て、ない……。ふぁ……あ、あぁ……ひゃうっ、んんんぅっ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyuh!? I-I'm not feeling good... at all... Nkuuh! I'm not wet, either... Fwah... A-Aah, hyauh, nnnnh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2184" buf=2]
-【はるか】[CR]
-「[v]からだ、ふぇ……あ、ン……、お、女……でも、こ、心……おとこ……だか……ら……。こ……こんな……の、はひっ！　～～～～～～ッ！！　感じて、な、い、からぁっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I-I've got a girl's body... but I've got a guy's heart... so this doesn't... Hahyi! This doesn't feel good![/v]」[KeyWait]
 [FaceOff]
 
-[text]喘ぎまくりで全然説得力がない。でも、認めちゃったらますます調子に乗られちゃう。ズボン脱がされて、おまんこ濡れてるかまで確かめられちゃう。[KeyWait]
+[text]My heavy breathing wasn't making me very convincing. But if I admitted it, they'd get even more carried away. They'd end up taking my pants off so they could check to see if my pussy was wet.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2185" buf=2]
-【はるか】[CR]
-（[v]ぬ、濡れてたら……中も……弄られちゃう、かも……。指、入れられて、膣の中……まさぐられて、イタズラ……されちゃう……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]I-If they find that I'm wet... they'll stick their fingers in my pussy and play with it...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a048"]
 [Voice storage="a2186" buf=2]
-【はるか】[CR]
-「[v]んふぁあああぁっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Nfwaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]想像したら、キュンって子宮が窄まって、思わず背筋を震わせてしまった。[KeyWait]
+[text]Imagining it made my womb contract, causing a chill to run up my back.[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]あれ？　いまビクンってなったけど、もしかしてイッちゃった？[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]Huh? You twitched just now, don't tell me you came?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a2187" buf=2]
-【はるか】[CR]
-「[v]ふぇ……？　ち、ちが……う、イッ……て……なん、か……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Huh...? N-No... O-Of course... not...[/v]」[KeyWait]
 [FaceOff]
 
-[text]受け答えの呂律が回らなくなってきている。[KeyWait]
-[text]いまのでまた蜜が、たっぷり漏れた感触があった。[KeyWait]
-[text]束の間の放心で呆けた顔を晒していると、[KeyWait]
+[text]It was getting harder to speak and respond to them.[KeyWait]
+[text]I felt even more honey leak out from my crotch.[KeyWait]
+[text]For just a moment, I relaxed and got a dirty look on my face, and then...[KeyWait]
 
 [Face storage="f_h003"]
-【薄井】[CR]
-「[i]な、なあ、一条。その口で……さ、俺のちんぽ、咥えてくれないか？　なんか、いまの表情見てたらムラムラしてきちゃった。はるかちゃんみたいなクール美人な顔にフェラされるの、お、俺の夢だったんだ。だ、だから……[/i]」[KeyWait]
+【Usui】[CR]
+「[i]H-Hey, Ichijou... Could you let me stick my dick in your mouth? I kinda got turned on from seeing your face just now. It's my dream to get a blowjob from cool beauty like you, Haruka-chan, s-so...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
 [Voice storage="a2188" buf=2]
-【はるか】[CR]
-「[v]ひうっ！　ば、ばか……ッ。そ……そんな、こと、絶対、イヤ……だからっ！！　な、なんで、ボクが……お、男の……ちんこなんかっ！？[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hyuh! Y-You dumbass... Absolutely not...! W-Why the hell would I suck a guy's dick!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]呆けた意識が一瞬で正気に返った。[KeyWait]
+[text]My relaxed mind immediately snapped back to reality.[KeyWait]
 
-[text]もうすでに薄井のペニスはズボンの中から引っ張り出され、ボクの目の前に突き出されていた。[KeyWait]
+[text]Usui had already taken his dick out of his pants and thrust it in front of my face.[KeyWait]
 
 [HSceneStart]
 
@@ -490,33 +490,33 @@
 
 [Face storage="f_a047"]
 [Voice storage="a2189" buf=2]
-【はるか】[CR]
-（[v]うぇえっ！　く、臭い……ッ[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Bleegh! I-It stinks...[/v]）[KeyWait]
 [FaceOff]
 
-[text]魚介臭い、独特の匂いが鼻を突く。吐き気を堪え顔を背けようとするが、[KeyWait]
+[text]A unique, fishy smell pierced my nostrils. I resisted the urge to vomit and tried to turn my head away, but...[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0378" buf=2]
-【羅刹童子】[CR]
-「[v]せっかくお友達がお願いしてるのに、冷たいわね～、遼ったら。何もセックス求められてるわけじゃないんだから、口でくらい、咥えてあげればいいじゃないの[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]That's pretty cold, turning down your friend like that... It's not like he's asking you to have sex, Ryou. You should at least suck him off.[/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹が無責任にフェラを勧めてきた。[KeyWait]
+[text]Rasetsu 'recommended' that I give him a blowjob.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0379" buf=2]
-【羅刹童子】[CR]
-「[v]男子クラスに戻ったっていうのに、相変わらず身体は女のままで、みんなをムラムラさせちゃってるんだから、その責任取らなくちゃイケないと思うな～[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]You've gotten everyone riled up by returning to the boys' class in your female body, so I think you should take responsibility...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2190" buf=2]
-【はるか】[CR]
-（[v]好きで……女になったわけじゃない、し……も、戻れるなら……男の姿に、戻りたいよ……。元の姿なら、絶対に……こんなこと、要求されないのにッ[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]It's not like I became a girl because I wanted to... I-I'd like to go back to being a guy if I could... Nobody would ever ask me for this if I were still a guy![/v]）[KeyWait]
 [FaceOff]
 
-[text]羅刹童子の目が、やれと命じていた。従わなければ……。[KeyWait]
+[text]Rasetsu Douji's eyes were ordering me to do it. If I didn't obey, then...[KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV809b"]
@@ -524,27 +524,27 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2191" buf=2]
-【はるか】[CR]
-「[v]で、出そうになったら、絶対にいえよ！　はむんっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Y-You'd better tell me when you're ready to cum! Hmfh![/v]」[KeyWait]
 [FaceOff]
 
-[text]口の中で射精されたらシャレにならない。その直前に吐き出すつもりで、ボクは一息に薄井のペニスを頬張った。[KeyWait]
+[text]It'd be really bad if he came in my mouth. I took his dick into my mouth and pushed it against my cheek, planning on forcing it out right before he came.[KeyWait]
 
 [Face storage="f_h003"]
-【薄井】[CR]
-「[i]おおっ！！　く、咥えてるッ！　はるかちゃんが、俺のちんぽっ！！[/i]」[KeyWait]
+【Usui】[CR]
+「[i]Ooh! Y-You put my dick in your mouth, Haruka-chan![/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex71"]
 [Face storage="f_a021"]
 [Voice storage="a2192" buf=2]
-【はるか】[CR]
-「[v]むぐっ！！　う、ぐぅううぅ……んむぅううっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Mgh! U-Uguuuuuh... Mmmmmmh![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a021"]
 [Voice storage="a2193" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]この……味ぃ……ッ。ああもうっ……ちんこくらい、き、綺麗に……洗っておけってばっ、薄井のヤツっ！　それに、結構、太い……し……。顎、疲れる……ぅっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -554,7 +554,7 @@
 [ExVoice1 storage="aex49"]
 [Face storage="f_a021"]
 [Voice storage="a2194" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んっ、んうっ、むふうっ、あむんっ、ちゅぱっ、ちゅるちゅる、れろ、じゅずず～～[/v]」[KeyWait]
 [FaceOff]
 
@@ -563,14 +563,14 @@
 [text]口を窄めて吸引しながら、亀頭の裏筋を重点的に舌で攻める。[KeyWait]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]ほぁ、あ、お、おぉおお、おうっ！　こ、これ……いいっ！！　い、一条、お前……、上手すぎ……だぞ……ッ！　んうっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex50"]
 [Face storage="f_a021"]
 [Voice storage="a2195" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くうっ！　う、うる……ひゃいっ！！　いいふぁら、さっさふぉ、らせぇッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -580,12 +580,12 @@
 [ExVoice1 storage="aex82"]
 [Face storage="f_a021"]
 [Voice storage="a2196" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んぐぅうっ、んむっ。ちゅばっ、ちゅばちゅば！　ねろぉ、ぺろぉ、ぺろろ、ずじゅじゅじゅじゅっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]ふぉおおっ！　おおっ、は、ああっ！！　んっ、ううううぅぅっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -593,7 +593,7 @@
 
 [Face storage="f_a020"]
 [Voice storage="a2197" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あはぁ、薄井のちんぽ、ビクビク跳ね始めた……もうちょっとで、射精、達するッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -601,7 +601,7 @@
 
 [Face storage="f_a021"]
 [Voice storage="a2198" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こんな時、生おっぱい弄られちゃったら、集中出来ないし……[/v]）[KeyWait]
 [FaceOff]
 
@@ -615,19 +615,19 @@
 
 [Face storage="f_a045"]
 [Voice storage="a2199" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]わ、渡辺っ！[/v]）[KeyWait]
 [FaceOff]
 
 [text]結女を人質に取られ為す術もなくなったボクの処女を、他のヤツらを押しのけて奪った友が、切羽詰まった様子でボクにペニスを突き付けてくる。それを切っ掛けに、[KeyWait]
 
 [Face storage="f_i001"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]せ、拙者のチンポも、て、手でいいから、扱いてくれっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]俺のもっ！　なんか、その舐めっぷり見てたら……、我慢出来なくなってきた！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -635,7 +635,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2200" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ああ、もうっ！　もう少しで、薄井、イカせられるのにっ！！　そんなの、相手にしてる場合じゃないってのにっ！[/v]）[KeyWait]
 [FaceOff]
 
@@ -649,7 +649,7 @@
 [ExVoice1 storage="aex49"]
 [Face storage="f_a021"]
 [Voice storage="a2201" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んぅうううっ！！　れろっ、ちゅぱっ、じゅるじゅる、にゅぱにゅぱにゅぱっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -665,7 +665,7 @@
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]おぁあっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -675,12 +675,12 @@
 [ExVoice1 storage="aex50"]
 [Face storage="f_a021"]
 [Voice storage="a2202" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ん、んむ……、あふ……、じゅぽ、ちゅぱちゅぱ、ちゅるるるるぅ。ずりゅりゅりゅっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]くふぉおっ！　ふぅ、あッ。んぉおおおおおっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -690,7 +690,7 @@
 [FaceOff]
 
 [Face storage="f_i001"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]お、おおぁあ！！　女の子の手にっ。拙者のちんぽ、扱かれてる！　一条の……だけど、女の手ぇっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -699,14 +699,14 @@
 
 [Face storage="f_a020"]
 [Voice storage="a2203" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こ、これで、もう少し、頑張れば……ッ[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex51"]
 [Face storage="f_a020"]
 [Voice storage="a2204" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]じゅるるっ、ずじゅるっ！　れろっ、ちろちろちろ、ちゅぱっ、ちゅるる、じゅるっ、じゅるるっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -715,14 +715,14 @@
 
 [Face storage="f_a020"]
 [Voice storage="a2205" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]舐めても舐めても恥垢臭いペニスと、鈴口から溢れっぱなしなカウパーのヌメヌメした舌触りだけで吐き気がしているのに……、これ以上変な汁で、口、汚されるなんて、絶対いやだから……[/v]）[KeyWait]
 [FaceOff]
 
 [text]なのに―――。[KeyWait]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]ふおおっ！　出るぅううッ！！　おあっ、ああああっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -735,13 +735,13 @@
 [ExVoice1 storage="aex71"]
 [Face storage="f_a021"]
 [Voice storage="a2206" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふぉおおおっ！？[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a021"]
 [Voice storage="a2207" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ば、ばかあっ！　出そうになったら、すぐ教えろって、いったのにっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -749,7 +749,7 @@
 [text]急いで極太を吐き出そうとする。だが、[KeyWait]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]ふんんっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -759,14 +759,14 @@
 
 [Face storage="f_a021"]
 [Voice storage="a2208" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぐううっ！！　うあっ！　あっがぁああぁっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]思い切り喉奥を圧迫されて、苦しさに呻いてしまう。そこに、[KeyWait]
 
 [Face storage="f_h003"]
-【薄井】[CR]
+【Usui】[CR]
 「[i]ふぉおおあぁああああああぁッ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -785,7 +785,7 @@
 
 [Face storage="f_a021"]
 [Voice storage="a2209" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]う、うぐぅうぶぅううっ！！　ぶぅばぁああああぁ～～～～～～～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -794,7 +794,7 @@
 
 [Face storage="f_a021"]
 [Voice storage="a2210" buf=3 fade=true]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あ、あああぁ……、口の中ぁ、出されちゃったぁ……。薄井の、汚い、精液ぃ……[/v]）[KeyWait]
 [FaceOff]
 
@@ -806,7 +806,7 @@
 [FaceOff]
 
 [Face storage="f_i002"]
-【浦辺】[CR]
+【Urabe】[CR]
 「[i]んむぅう、おわぁああっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -827,7 +827,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2211" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くふぇあ、あああぁ、ああ……っ。せーしぃ、たっぷりの、精子ぃいいっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -835,13 +835,13 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0380" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]遼ったら、自分は男だっていう割りに、そんなにしっかりとちんぽ握っちゃって。まるで淫乱な女の子そのものだわね♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2212" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひう……ち、違う……。ちが……[/v]」[KeyWait]
 [FaceOff]
 
