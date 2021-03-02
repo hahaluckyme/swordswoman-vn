@@ -19,51 +19,51 @@
 
 [Face storage="f_a059"]
 [Voice storage="a2213" buf=2]
-【はるか】[CR]
-「[v]え、ええと……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]U-Um...[/v]」[KeyWait]
 [FaceOff]
 
-[text]ホームルームでは、クラス中のやつらのペニスをしゃぶらされて、全身精液まみれにされてしまった。[KeyWait]
-[text]どろどろに汚れた男子用の制服から、女子の制服に着替え人心地ついた。[KeyWait]
+[text]My whole body had been covered in cum as a result of having to suck everyone's dicks during homeroom.[KeyWait]
+[text]I changed out of my soaking guy's uniform into my girl's uniform, finally feeling more comfortable. [KeyWait]
 
 [Face storage="f_a059"]
 [Voice storage="a2214" buf=2]
-【はるか】[CR]
-（[v]でも、なんだか、まだ髪の毛に染みこんだ精液が……栗の花臭い匂い、放っている気がして……落ち着かないんだよな……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]There's still cum in my hair, though... I think I smell chestnuts. It's kind of distracting...[/v]）[KeyWait]
 [FaceOff]
 
 [ChrReset0]
 [UpDate]
 
-[text]いや、そんなことより……。[KeyWait]
+[text]But, more importantly...[KeyWait]
 
 [ChrSet0 storage="b_c901"]
 [UpDate]
 
 [Face storage="f_c902"]
 [Voice storage="c0381" buf=2]
-【羅刹童子】[CR]
-「[v]さ～て、この時間は保健体育をやろうかしら～[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Now then, I think we'll do some phys ed.[/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se739" buf=0]
 
 [Face storage="f_o011"]
-【男子生徒たち】[CR]
-「[i]うお――――――っ！！[/i]」[KeyWait]
+【Male Students】[CR]
+「[i]Uwooooooh![/i]」[KeyWait]
 [FaceOff]
 
-[text]陽気に宣言する羅刹の言葉に、クラス中が沸き立った。[KeyWait]
+[text]The class erupted into shouts at Rasetsu's cheerful declaration. [KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0382" buf=2]
-【羅刹童子】[CR]
-「[v]せっかく一条遼くんが、性別が変わったままで戻ってきてくれたんだから、今日は女の子の身体の仕組みを、実物を見ながらじっくりと勉強しましょうね～♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Since Ichijou-kun has returned and is still a girl, let's have a close study of a real female body today. ♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒たち】[CR]
-「[i]おぉ――――――ッ！[/i]」[KeyWait]
+【Male Students】[CR]
+「[i]Ooooooooh![/i]」[KeyWait]
 [FaceOff]
 
 [ChrReset0]
@@ -74,127 +74,127 @@
 
 [Face storage="f_a045"]
 [Voice storage="a2215" buf=2]
-【はるか】[CR]
-「[v]なっ！？　なにをっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]What!? What are you doing!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]命じられてボクは教卓の上に昇らされていた。[KeyWait]
-[text]そういうことかと大慌てで飛び降りようとする。[KeyWait]
+[text]The boys sat me down upon Rasetsu's desk.[KeyWait]
+[text]I realized what was happening and quickly tried to get down.[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]い、一条の身体で、保健体育……っ！！[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]W-We're gonna study Ichijou's body...![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
-「[i]じ、実物っ！！　一条の、実物の女の身体っ！[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]A-A real girl! We get to study a real girl's body![/i]」[KeyWait]
 [FaceOff]
 
-[text]けれどもすでに、殺到する生徒たちに一分の隙間もなく取り囲まれて、無理に降りようとすれば彼らの中に飛び込むことになってしまう。[KeyWait]
+[text]But within seconds, the boys had all surrounded me, and getting off the desk would have been jumping down into them.[KeyWait]
 
 [ChrSet0 storage="b_a111"]
 [UpDate]
 
 [Face storage="f_a060"]
 [Voice storage="a2216" buf=2]
-【はるか】[CR]
-（[v]そ、そうなったら、揉みくちゃにされて……。どんなイタズラされちゃうか、わかったもんじゃない……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]I-If we do this, they're gonna grope me like crazy... I've got no way to know how just what they'll do to me...[/v]）[KeyWait]
 [FaceOff]
 
-[text]途方に暮れていると―――、[KeyWait]
+[text]I hesitated, unsure what to do, but then...[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0383" buf=2]
-【羅刹童子】[CR]
-「[v]それじゃ一条くん、パンツを脱いで大きく股を広げて、みんなに女の子のおまんこを見せてあげて♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Okay, Ichijou-kun. Take off your panties and spread your legs to show everyone what a girl's pussy looks like. ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹童子が楽しげな、しかし有無をいわさぬ圧力を有した口調で命じてきた。[KeyWait]
+[text]Rasetsu ordered in a tone that managed to both be cheerful and foreboding, ensuring I couldn't say no.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a2217" buf=2]
-【はるか】[CR]
-（[v]こんなに、みんな見てるの……に……、あそこ……見せるの……？[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]I have to show them... even though so many of them are looking so closely...?[/v]）[KeyWait]
 [FaceOff]
 
-[text]息がかかるほどの近くにクラスメイトたちの顔が迫っていた。[KeyWait]
-[text]戸惑っていると、羅刹童子が急かしてくる。[KeyWait]
+[text]My classmates' faces go so close I could feel their breath.[KeyWait]
+[text]I hesitated, resulting in Rasetsu Douji urging me on.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0384" buf=2]
-【羅刹童子】[CR]
-「[v]別に恥ずかしくなんかないわよね、心は男のままなんだから～[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]There's nothing to be embarrassed over, right? You still have a boy's heart, after all.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0385" buf=2]
-【羅刹童子】[CR]
-「[v]いまこのクラスに、おちんちんない身体してるの遼だけなんだから、みんなに見せて学ばせてくれなくちゃ[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]You're the only one in this class without a dick, so you've got to show them your body, Ryou.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2218" buf=2]
-【はるか】[CR]
-「[v]お、おちんちん……ない……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]W-Without... a dick...[/v]」[KeyWait]
 [FaceOff]
 
-[text]そういえば羅刹童子も、両性具有でペニスがある身体だ。[KeyWait]
-[text]男子生徒ばかり。みんながボクを犯せる男根を持っている。[KeyWait]
+[text]Though, come to think of it, Rasetsu Douji had both.[KeyWait]
+[text]This class was boys only. Everyone here had a phallus to fuck me with.[KeyWait]
 
 [Face storage="f_a071"]
 [Voice storage="a2219" buf=2]
-【はるか】[CR]
-「[v]あ、ああぁ…………[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]A-Aaah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]そう意識すると、もうどんなに抗っても無駄な気がしてきた。[KeyWait]
-[text]戦いに敗れ、男根に犯されまくれ屈服させられた身体が、ペニスの存在に気圧されて従ってしまう。[KeyWait]
+[text]Thinking about that made it feel like resisting any further would just be pointless.[KeyWait]
+[text]I'd lost my battles, resulting in my body getting fucked and dominated by countless dicks. That same body now gave in and obeyed at their presence.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a2220" buf=2]
-【はるか】[CR]
-「[v]くぅ……うぅ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kuuh... Ugh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]膝立ちにボクはスカートの中に手を潜り込ませると、ショーツを脱ぎ下ろした。[KeyWait]
+[text]Sitting on my knees, I put my hands under my skirt and started pulling down my panties.[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒】[CR]
-「[i]おぉおおおぉっ！[/i]」[KeyWait]
+【Male Students】[CR]
+「[i]Ooooooh![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2221" buf=2]
-【はるか】[CR]
-「[v]あぁ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]股間で蒸れて少し湿った小さな白布が太腿をずり下がり、足首までたどり着いて脱ぎ捨てられる様を、クラス全員の視線が追いかける。[KeyWait]
+[text]I slid the stuffy, slightly-damp fabric down my thighs all the way down to my ankles, then threw them away, causing everyone's gazes to follow them.[KeyWait]
 
 [Face storage="f_a054"]
 [Voice storage="a2222" buf=2]
-【はるか】[CR]
-（[v]ぬ、脱いじゃった……。みんなの前で、パンツ……。ああ、このスカートの下、ボク、何も穿いてない……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]I-I took my panties off in front of everyone... Aah, I'm not wearing anything under this skirt...[/v]）[KeyWait]
 [FaceOff]
 
-[text]空気が直接触れるスースーした心許なさと、丈の短い布一枚が恥ずかしい部分を大勢の視線から辛うじて遮っている感じが、むしろ素裸を晒すより危うい気分にさせる。[KeyWait]
+[text]The unease from feeling the air on my bare skin and the embarrassment of having my pussy blocked from view by a single piece of fabric made me feel like just being totally naked would be less scary.[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0386" buf=2]
-【羅刹童子】[CR]
-「[v]はい、じゃあ、スカート捲り上げて、みんなによく見えるように大きく股を広げてね[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Okay, now lift up your skirt and spread your legs wide so everyone can see.[/v]」[KeyWait]
 [FaceOff]
 
-[text]その最後の砦を、あっさりと開放するように命じられた。[KeyWait]
+[text]As one final blow, Rasetsu casually ordered me to spread my legs.[KeyWait]
 
 [Face storage="f_a031"]
 [Voice storage="a2223" buf=2]
-【はるか】[CR]
-「[v]くぅ……う、うぅ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kuuh... U-Ugh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]拒む選択肢は許されていない。ボクは教卓にお尻を乗せて座りながら、スカートをたくし上げると、みんなに向かって両脚を開帳させた。[KeyWait]
+[text]I didn't have the option of saying no here. Still sitting on the desk facing everyone, I lifted up my skirt and spread my legs.[KeyWait]
 
 [HSceneStart]
 
@@ -203,126 +203,126 @@
 [UpDate]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
-「[i]お、おおおっ！　これが……生マンコ……っ！！[/i]」[KeyWait]
+【Male Student A】[CR]
+「[i]O-Oooh! It's a real pussy...![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
-「[i]画像でしか見たことなかったけど……、実物、こんな、なんだ……。ずっと、綺麗かも……[/i]」[KeyWait]
+【Male Student B】[CR]
+「[i]I've only ever seen them in pictures. So this is how the real thing looks. It might be even prettier in person...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a031"]
 [Voice storage="a2224" buf=2]
-【はるか】[CR]
-（[v]うう、見られてる……。みんな、に……。ボクの、まんこ……[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]Ugh, they're looking... They're all looking at my pussy...[/v]）[KeyWait]
 [FaceOff]
 
-[text]感嘆の声で次々と感想が告げられる。距離が近いので興奮の熱い吐息が、鋭敏な部分に吹き掛かる。[KeyWait]
+[text]The boys commented on my pussy one after another, sounding amazed at what they were seeing. They were really close, so I could feel their hot, excited breath hit my sensitive region.[KeyWait]
 
 [Face storage="f_a048"]
 [Voice storage="a2225" buf=2]
-【はるか】[CR]
-「[v]ん……っ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Nnh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]恥ずかしさと妙な興奮に、つい括約筋がヒクンと窄まった。[KeyWait]
+[text]Finally, my sphincter twitched and tightened from my shame as well as the strange arousal I was feeling.[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
-「[i]うわっ、いま動いたッ！[/i]」[KeyWait]
+【Male Student C】[CR]
+「[i]Whoa, it just moved![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
-「[i]ぴくんっ、てなったっ！！[/i]」[KeyWait]
+【Male Student D】[CR]
+「[i]Yeah, it twitched![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2226" buf=2]
-【はるか】[CR]
-「[v]あううぅ……っ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Auuuh...[/v]」[KeyWait]
 [FaceOff]
 
-[text]仕方ない反応なんだけど、大袈裟に騒がれて頬が赤く染まる。[KeyWait]
+[text]I knew they were going to react, but I couldn't help but blush at the way they [ita]over[endita]reacted.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0387" buf=2]
-【羅刹童子】[CR]
-「[v]おまんこは男の子に見られると嬉しくて、ついはしゃいじゃうの。だから、もっとじっくりと見てあげてね[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Her pussy was just happy to be seen by you boys, so go on, look even closer.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【男子生徒たち】[CR]
-「[i]は～い、先生！[/i]」[KeyWait]
+【Male Students】[CR]
+「[i]Yes, ma'am![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2227" buf=2]
-【はるか】[CR]
-「[v]く……っ、ち、ちが……、あぁ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kuh... N-No, that's... Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]羅刹童子が間違った知識をみんなに植え付ける。[KeyWait]
-[text]素直に従う彼らの熱烈な眼差しが女陰に殺到し、ボクを悩ませた。[KeyWait]
+[text]Rasetsu Douji planted the wrong knowledge in everyone's heads.[KeyWait]
+[text]I felt their intense gazes rush my crotch as they obediently followed her instructions, troubling me even further.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0388" buf=2]
-【羅刹童子】[CR]
-「[v]それじゃ一条くんのおまんこも丸見えになったことだし、仕組みを説明しましょうか。まず、この一番おもての厚ぼったいところだけど……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Okay, now that you can all see Ichijou-kun's pussy, I'll explain its structure. So first, these thick parts out front... [/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a048"]
 [Voice storage="a2228" buf=2]
-【はるか】[CR]
-「[v]ふあっ！　あ、あぁ……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Fwah! A-Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]わざとボクの羞恥を煽るような言い方をしながら、羅刹が女陰に触れてくる。[KeyWait]
+[text]Rasetsu spoke in such a way as to purposefully flare up my shame as she started touching my genitals.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0389" buf=2]
-【羅刹童子】[CR]
-「[v]なんて名称か、みんなに教えてあげてくれるかしら、一条くん♪[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]Could you tell everyone what they're called, Ichijou-kun? ♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2229" buf=2]
-【はるか】[CR]
-「[v]あぁ……う……だ、大陰、唇……[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Aah... Ugh... The l-labia majora...[/v]」[KeyWait]
 [FaceOff]
 
-[text]ただボクを見世物にするだけじゃ飽き足らないらしい。恥ずかしい箇所の名称をみんなの前に口にさせられる。[KeyWait]
+[text]Just showing me off to everyone apparently wasn't enough for her, so she was going to make me name my embarrassing parts.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0390" buf=2]
-【羅刹童子】[CR]
-「[v]そう、このぽってりした肉厚の部分で女の子の大切な部分を守っているんだけど、こうして開いてみると……[/v]」[KeyWait]
+【Rasetsu Douji】[CR]
+「[v]That's right, this set of thick lips protects a girl's precious area, but if you open them up like this...[/v]」[KeyWait]
 [FaceOff]
 
-[text]くぱっ、ぬっちゃ～～～ッ。[KeyWait]
+[text]Spread, squelch...[KeyWait]
 
 [Face storage="f_a048"]
 [Voice storage="a2230" buf=2]
-【はるか】[CR]
-「[v]ふあっ！！　あうっ、あ、あああぁ…………[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Fwah! Auh, a-aaaah...[/v]」[KeyWait]
 [FaceOff]
 
 [text]指先で両側に大きく秘唇を開かれた。鋭敏な粘膜部に外気が触れる刺激に思わず息が弾む。[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]うわああぁ、すげえ、中が丸見えだ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]なんか、ぐちゃぐちゃしてるな、女の、ワレメの中って……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0391" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]それじゃ、一条くん、ここ自分で押さえておいてくれるかしら。みんなによく見えるように、大きく広げたままね[/v]」[KeyWait]
 [FaceOff]
 
@@ -332,7 +332,7 @@
 
 [Face storage="f_a060"]
 [Voice storage="a2231" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇっ！？　あ、あぅ……ぅ……、は、はい……[/v]」[KeyWait]
 [FaceOff]
 
@@ -340,13 +340,13 @@
 [text]ボクは、羅刹童子に代わって自分自身で女陰のワレメをくっぱりと開いたままにして、みんなにさらけ出した。[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]なんかすごく、湿ってないか？　まさか、もう濡れて……！？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a2232" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はわっ！　ふあっ、あ、ああああぁ……ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -356,7 +356,7 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0392" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]女の子はね、男の子に見られるとたちまちシたくなっちゃって、おまんこが濡れちゃう生き物なの。ほら、ここもヒクヒク震えちゃって……。はい、ここは何て名称かしら？　一条クン♪[/v]」[KeyWait]
 [FaceOff]
 
@@ -365,7 +365,7 @@
 [ExVoice1 storage="aex04"]
 [Face storage="f_a060"]
 [Voice storage="a2233" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうぅうっ！　あ、あ、あぁ、しょお、い、ん、し……ンンッ！！　あ、はぁああぁ……ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -373,12 +373,12 @@
 [text]膣口がふわっと緩み、すぐに窄まって、こぷこぷとさらに愛液を溢れさせる。[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]おおっ、ツユ、溢れ出てきたあ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]ぐにゃぐにゃした、下の方でいま穴が広がったけど……そ、そこが膣なの？[/i]」[KeyWait]
 [FaceOff]
 
@@ -388,31 +388,31 @@
 [ExVoice1 storage="aex02"]
 [Face storage="f_a060"]
 [Voice storage="a2234" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]そ、そう……、そこ……ッ、ん、はぁ……、ち……膣ぅ……。あぁ……[/v]」[KeyWait]
 [FaceOff]
 
 [text]危うく続けて、「おちんぽ入れる気持ちイイとこ」って口走りそうになった。[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]へえ、案外下の方にあるんだ。ケツの穴にかなり近いな……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]なんか、ひゅくひゅく動くのがだんだん激しくなってきてるけど[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2235" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]だ、だって……、そんなに、みんなで……見詰めるから……っ。ああ、ど、どうしよう……、奥の方……も、疼き、強く……なってきてるっ[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]
 [Voice storage="a2236" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こんな……時に、は、発情……激しくなったらっ、か……身体のエッチな反応、全部ッ、こいつらに、み、見られちゃう……ッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -421,7 +421,7 @@
 [ExVoice1 storage="aex03"]
 [Face storage="f_a031"]
 [Voice storage="a2237" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]う……くぅ……。見るな……ってばぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -429,7 +429,7 @@
 [text]滲み出た愛液が大陰唇を押し広げる指先にまでぬるぬる絡みついて来ていた。そこに、[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]そっちが膣だとすると、これってやっぱり、クリトリス？[/i]」[KeyWait]
 [FaceOff]
 
@@ -438,7 +438,7 @@
 [ExVoice1 storage="aex08"]
 [Face storage="f_a048"]
 [Voice storage="a2238" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぎぃいいっ！　ひぁああっ！！　だっめぇえええっ！　そこぉっ、クリトリッ、スぅうううぅッ！！　ダッ、ダ……メッ、んぁああああああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -451,14 +451,14 @@
 [text]意識がストロボのように瞬く衝撃に緊縮する膣から、水鉄砲のように官能汁が飛び散って、級友の顔にぶっかかった。[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]おわっ！！　これ……っ。まんこからエロい液、噴き出した！　い、一条……、気持ちいいのか？　ここ……[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex07"]
 [Face storage="f_a048"]
 [Voice storage="a2239" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぐぅ……ぅ、うぅ。くふぁ……あ、あああぁ……。ぁ……め……ぇ……。んぉ、ああああぁッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -466,7 +466,7 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0393" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]そうよ～、そこは、女の子の身体の中で、一番気持ちのイイところなんだから。だからそのまま離さないで、弄り続けてあげると、一条くんも喜ぶわよ～[/v]」[KeyWait]
 [FaceOff]
 
@@ -475,7 +475,7 @@
 [ExVoice1 storage="aex24"]
 [Face storage="f_a017"]
 [Voice storage="a2240" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひゃぶっ、ひゃ、ひゃめえっ！　おぉ、おかしく、おかしくなっひゃう、からぁ。ひうっ、はな……っ、離……せぇええ、お、おおぁ、んはぁあああああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -486,12 +486,12 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0394" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]さてとそれじゃ、今度は膣の中の説明に入ろうか。今度はさすがに覗いて見るだけじゃよく分からないから、代表者一人に体験してもらいましょ。それじゃ…………、はい、キミ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]お、俺……？[/i]」[KeyWait]
 [FaceOff]
 
@@ -499,24 +499,24 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0395" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]一条くんの膣を直に指で触ってどうなってるかを確かめてみて[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]ええっ！？　い、いいんですか？[/i]」[KeyWait]
 [FaceOff]
 
 [text]しかもとんでもないことを生徒に命じる。[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]おお～、いいなあ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]くそ～、俺と代われよ～[/i]」[KeyWait]
 [FaceOff]
 
@@ -524,28 +524,28 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0396" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]入れる指はどれでも好きなので構わないわよ。なんなら二本とか三本とか、好きなだけ入れちゃってもいいから♪[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex29"]
 [Face storage="f_a018"]
 [Voice storage="a2241" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]なっ！？　ひゃ、やめ……。あんっ！　ふぁ、あ、あああぁっ[/v]」[KeyWait]
 [FaceOff]
 
 [text]当然拒もうとしたけれど、クリトリスを刺激されるともうまともに喋ることも出来ないで、快感に振り回される。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]じゃ、じゃあ、入れるぜ、一条[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex33"]
 [Face storage="f_a017"]
 [Voice storage="a2242" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はぇっ！　だ、だめ……ッ、へぁあああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -559,7 +559,7 @@
 [ExVoice1 storage="aex21"]
 [Face storage="f_a018"]
 [Voice storage="a2243" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁ、あ、ああああぁっ、に、二……本……ン、だ、め、ひうっ、い、いっぱ……い[/v]」[KeyWait]
 [FaceOff]
 
@@ -567,7 +567,7 @@
 [text]陰核刺激で愛液が増してヌルヌルに弛んだ膣だけど、やっぱりいきなりはキツい。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]すげえ、どんどん入っていっちゃう。これなら三本いっぺんにでもよかったかも[/i]」[KeyWait]
 [FaceOff]
 
@@ -576,7 +576,7 @@
 [ExVoice1 storage="aex33"]
 [Face storage="f_a017"]
 [Voice storage="a2244" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぅうううぅ……ッ、ぬ、抜け……ってばぁ……。指、なん、か……ああ……ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -584,24 +584,24 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0397" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]どう？　膣内の感触は。みんなにも分かるように大きな声で教えてちょうだい[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]はい！　中はものすごくヌルヌルで、しかも俺が指入れたら、ますます奥から汁溢れてきてべちょべちょになっちゃいましたっ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]感触は、ブツブツに覆われたぐにゃぐにゃに柔らかい壁が絡みついてきてる感じだけど、時々、クリトリス強く弄られたタイミングでキュンって、硬く狭く窄まって俺の指、締め付けてくる！！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex52"]
 [Face storage="f_a018"]
 [Voice storage="a2245" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひぁあ、はうっ、あ、はああああぁっ、んあっ、んくぅうっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -610,14 +610,14 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0398" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]女の膣は何か入ってくると、すぐにちんぽだと思って大喜びする構造になっています。一条くんみたいにスケベな娘ほど、あっという間に濡れたり、強く締め付けてくるようなおまんこなので、遠慮せず好き勝手に弄ってあげてください[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex36"]
 [Face storage="f_a017"]
 [Voice storage="a2246" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]うく……うぅ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -625,12 +625,12 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0399" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]さてそれじゃ、指をもっと膣の奥の押し込んで探って見て[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]はい！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -641,21 +641,21 @@
 [ExVoice1 storage="aex53"]
 [Face storage="f_a048"]
 [Voice storage="a2247" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁはぅううっ！　おっ、おぁ……ああああぁ……ッ！！　あ、あぁ……、ひゃぅ……[/v]」[KeyWait]
 [FaceOff]
 
 [text]さらに奥を穿られて、息が詰まる。それも束の間、彼の指の先が蜜を垂れ流しで疼き脈打つ子宮の口に触れた。[KeyWait]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]ん……？　なにか、ある。何か、丸く盛り上がっているっていうか、ドーナツ型の……こ、これ……？[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex52"]
 [Face storage="f_a048"]
 [Voice storage="a2248" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んっ、うっ、ふぅううっ、ふぁあっ、ひゃ、だ、め……、さわ、触る……なッ。撫でる、なぁッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -663,13 +663,13 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0400" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]そこが、子宮の入り口、子宮口です。そのなかに、精液を注ぎ込まれると女の身体は子供を孕んでしまいます。これは、元々男の子だろうが完全に女性化しちゃった身体でも同じです！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a2249" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]――！！　こ、子供……！？　ボ、ボクが……？[/v]）[KeyWait]
 [FaceOff]
 
@@ -678,7 +678,7 @@
 
 [Face storage="f_a050"]
 [Voice storage="a2250" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]も、もし、そうなったら……、ボク、妊娠……して、お腹大きく、なって。赤ちゃん、産んじゃうの？　だ、誰かの、赤ちゃん……！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -699,18 +699,18 @@
 
 [Face storage="f_c902"]
 [Voice storage="c0401" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]それじゃあ、これから実習で～す。実際に一条遼くんの膣内におちんぽを挿入し、膣内射精して孕ませてみましょう～♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【男子生徒たち】[CR]
+【Male Students】[CR]
 「[i]は～～～～い！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a042"]
 [Voice storage="a2251" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はええっ！？　にゃ、にゃに、を……そ、そんな……そ、はぁあんっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -719,7 +719,7 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0402" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]じゃあ、まず最初はキミから挿入してみようか？　クリ弄られて二本指でほぐされて、濡れ濡れのユルユルな欲しがりまんこになっちゃってるんで、先っぽあてがうと勝手にくわえ込んでくれるから、緊張しなくても大丈夫よ[/v]」[KeyWait]
 [FaceOff]
 
@@ -727,7 +727,7 @@
 [UpDate]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]は、はいっ！　それじゃ一条、俺のチンポ、マンコに入れるからな[/i]」[KeyWait]
 [FaceOff]
 
@@ -735,18 +735,18 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2252" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふえっ！？　ま、待て、やめ……ろ。ボク、男……、ああ、そんなの、入れたら……だめ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]おお～、元からお前って華奢だけど、女になったらますます細いな。それに、すごい、軽い！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a018"]
 [Voice storage="a2253" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁあああああぁ～～～！[/v]」[KeyWait]
 [FaceOff]
 
@@ -755,7 +755,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2254" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はぅうう、だ、だめ、……てばあ、やめ……ろぉ、は、放せ……、くふぁあああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -771,7 +771,7 @@
 [ExVoice1 storage="aex21"]
 [Face storage="f_a018"]
 [Voice storage="a2255" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほぁああ、あう、んはぁあああっ！　くぅうっ、あはぁあああああああぁ――――ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -782,27 +782,27 @@
 ;【ＣＧ３６(ev810)】[CR]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]すげえ、本当に何もしてないのに、勝手にチンポ飲み込まれちゃった！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex57"]
 [Face storage="f_a017"]
 [Voice storage="a2256" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]う、うぅ……、だって……[/v]」[KeyWait]
 [FaceOff]
 
 [text]昨日までは処女だったのに。それ以前に本当は男なのに。股の緩い淫乱女さながらに、勃起した陰茎を迎え入れてしまった。[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]ああ、もう締め付けてきてるッ！　けれど、中ヌルヌルで、熱くて、こ、これ……たまんねえっ！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2257" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]はうぅ、また、おまんこキュンって、勝手に……ッ。なん、で、ちんこ、入ると……ダメ、なるの……！？[/v]）[KeyWait]
 [FaceOff]
 
@@ -810,17 +810,17 @@
 [text]膣を太いもので満たされると、もうどうしようもなくなる。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]うわ～、本当にマンコにチンポ入っちゃってる！　すっぽり、根本まで入るんだ！？[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]この前まで男だったのに、こんなスケベなまんこになっちゃって、男に入れられちゃってるなんて、す、すごいな、一条……！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]なあ、もうずっと女のままなんだろ？　だったらこれからは、そのマンコで俺たちの性欲処理してくれるよな？　元々男だったんだから、男の、女とヤリたい気持ちも分かるもんな！？[/i]」[KeyWait]
 [FaceOff]
 
@@ -831,7 +831,7 @@
 [ExVoice1 storage="aex37"]
 [Face storage="f_a017"]
 [Voice storage="a2258" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……うぅ……、そ、そん……なの……ぉ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -839,7 +839,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2259" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こんなことで褒められたって、嬉しくないし……。女の子とエッチしたい気持ちはよく分かるけど、ボクの身体で済ませようなんて……、冗談じゃないからっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -847,12 +847,12 @@
 
 [Face storage="f_c901"]
 [Voice storage="c0403" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]さあキミ、自分が気持ちいいように、おちんちん動かして、一条くんの子宮にたっぷり射精しちゃってあげなさい♪[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]ぬぉおおおっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -869,7 +869,7 @@
 [ExVoice1 storage="aex62"]
 [Face storage="f_a018"]
 [Voice storage="a2260" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇあああっ、はううっ！　おっ、あ、はぁあああっ！！　んあっ、ひゃっ、だめっ、あ、ふぁああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -877,7 +877,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2261" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]あひぃッ！　こ、こい……つ、少しは……て、手加減……しろ……おっ！！[/v]）[KeyWait]
 [FaceOff]
 
@@ -885,19 +885,19 @@
 [text]けれども、そんな犯されかたをしているのに、しっかりと快感が湧き上がってしまうボクのおまんこも、全くどうしようもない。[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]こ、こんな勢いで、チンポが出入りしてるのに、オマンコ、しっかりくわえ込んでるよ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]うわ……、愛液、泡立って……、ぼとぼと垂れ落ちちゃってるし……[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex63"]
 [Face storage="f_a018"]
 [Voice storage="a2262" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あひっ！　ふぁあっ、あっ、んくぁあああああっ！！　もっ、もおっ、お……ッ、あふうッッ！　んぅうううっ、はぁああっ、だ、だめ……ッ！！　くうっ、うぐっ、んくぅ～～～～ッ、はぁあああぁ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -905,7 +905,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2263" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ダメ……だ、こ……れ……。あたま……飛ぶ……ッ。こ、こんな……の、こん……な、ああぁッ[/v]）[KeyWait]
 [FaceOff]
 
@@ -913,13 +913,13 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2264" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]こん……な、子宮……無理矢理……され……て……ッ[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
 [Voice storage="c0404" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]そうそう、妊娠の確率ってね、こういう強姦っぽいセックスの方が高くなるのよ。生物の本能が子孫を残そうとするんだって♪[/v]」[KeyWait]
 [FaceOff]
 
@@ -928,14 +928,14 @@
 [ExVoice1 storage="aex60"]
 [Face storage="f_a017"]
 [Voice storage="a2265" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　妊……娠……ッ！？[/v]」[KeyWait]
 [FaceOff]
 
 [text]またしても不安が込み上げる。[KeyWait]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]お、俺が、孕ますっ！　い……一条をっ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -944,21 +944,21 @@
 [Sound storage="se115" buf=7 loop=true]
 
 [Face storage="f_o031"]
-【男子生徒Ｃ】[CR]
+【Male Student C】[CR]
 「[i]くぉおおおっ！　で、出るッ！！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex63"]
 [Face storage="f_a018"]
 [Voice storage="a2266" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇええっ、あああぁっ！！　ひゃめっ、ぬ、抜け……ふぁああああっ！[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex23"]
 [Face storage="f_a018"]
 [Voice storage="a2267" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]いひゃああぁっ、はぁあ、はあんっ！　ら、らめぇ……！　ひゃ、ひゃだああっ！　んあっ、んんっ、ふああっ！　ひあっ！　はひゃあっ！　ふっ、んっ、くぅんっ！　んはっ！　はあっ！　あああんっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -982,7 +982,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2268" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くふぁああああっ！　んはぁああっ！！　ひゃくふっ！　ふぉぉ、あはぁあ、い、いやぁあああああああぁッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -992,36 +992,36 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2269" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅ……あ、あぁ……、はぁああぁ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2270" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]出され……た……、また、中に、い、いっぱい、出され……ちゃったぁ……。受精、しちゃうかも……なのに……[/v]）[KeyWait]
 [FaceOff]
 
 [text]射精の直撃に子宮を打ちのめされた途端、一気に絶頂へ達してしまった。[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]うわ……、チンコと、マンコの隙間から、精液……溢れ出ちゃってるよ[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]一条の漏らした汁もすごいな……。これ、絶頂の潮ってやつだろ？　女って、気持ち良すぎると、こんなの噴くんだ……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]しかしこんなにイッパイ出されたら、妊娠確実だよな……。一条、孕むのかぁ。腹ボテ、楽しみだなあ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
 [Voice storage="a2271" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅ……うぅ……、お、まえら……。ボクは……そんな、の……[/v]」[KeyWait]
 [FaceOff]
 
@@ -1035,13 +1035,13 @@
 [UpDate]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]それじゃ、先生、次は俺の番ですね[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
 [Voice storage="c0405" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]うん♪　一条くんを、孕ませてあげてね～[/v]」[KeyWait]
 [FaceOff]
 
@@ -1060,7 +1060,7 @@
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
 [Voice storage="a2272" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひゃわぁあ、あ、あああぁあ、ぁ、あああぁ、ハァアアンッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1069,7 +1069,7 @@
 [ExVoice1 storage="aex61"]
 [Face storage="f_a017"]
 [Voice storage="a2273" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]なん……で、また……あふ……ぅ、ああああぁっ、入れる……んだ、よぉ、はっ、あふッ、おぁ……ッ、はぁ～～～～～～～～ン！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1080,48 +1080,48 @@
 [text]早速ストロークが始まった。しかも前のヤツのがむしゃらな突き込みじゃなくて、腰に捻りを加えて膣を十分に、掻き回すような甘美を引き出すストロークだ。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]あんな童貞野郎のバカみたいな突き込みじゃ、イッても全然気持ち良くならなかったでしょ？　俺、一応経験あるから、一条のこともっと気持ち良く出来るぜ[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex53"]
 [Face storage="f_a017"]
 [Voice storage="a2274" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]別にッ、ならなく……て、い、いいから……ッ。ふぁああっ！　き、気持ち良く……な、なん……か、あ、はぁあああぁッ、あひっ！！　ん、んぅうううううぅ…………ッ[/v]」[KeyWait]
 [FaceOff]
 
 [text]さすが豪語するだけのことはあって、絶妙の感じで襞壁をちんぽの幹に擦られ、子宮口をコンコンと小気味よくノックされる。途端に腰が溶け崩れるような甘美に見舞われ、危うい嬌声を張り上げてしまった。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]しかし本当に、身体女なんだな……。これなら元男だろうがなんだろうが、全然構わないレベルだぜ。しかも、生挿入中出ししていいなんて、夢みたいだぜ。たっぷり精液注ぎ込んでやるから、しっかり孕んでくれよな[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex52"]
 [Face storage="f_a017"]
 [Voice storage="a2275" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くぅ……ッ、う、うる……さい……。それよ、り……ちん、ぽ、中から、抜けぇ、ってばぁ[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2276" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]やばい……。このまま……だと、また、イくっ。イカされる……ッ[/v]）[KeyWait]
 [FaceOff]
 
 [text]さっきのが酷いだけになおさら、丁寧な一突き一突きに、子宮が喜んでしまっている。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]抜けって、一条の奥の方、こんなの俺のモノ、気に入ってくれてるのに？[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex54"]
 [Face storage="f_a018"]
 [Voice storage="a2277" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ、ああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1131,7 +1131,7 @@
 [ExVoice1 storage="aex53"]
 [Face storage="f_a018"]
 [Voice storage="a2278" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]く……うぅ……、お……あ、あぁ……、こ、これ……え、えぇ…………ッ[/v]」[KeyWait]
 [FaceOff]
 
@@ -1141,33 +1141,33 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a018"]
 [Voice storage="a2279" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふ……うぅ……お、ぉ、あ……あぁ……。ふぁ……あぁ……ん……んん、んはぁ、はあぅん……[/v]」[KeyWait]
 [FaceOff]
 
 [text]しかも腰に回した腕でギュッと抱き締めてくる感触が、ちょっと息苦しいような、頼りがいがあるようなたまらない強さで、思わず溜め息が漏れる。[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]なんか……こいつら……[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]妙に……エ、エロいな……[/i]」[KeyWait]
 [FaceOff]
 
 [text]周りの生徒たちも煽るよりも、声を潜めてじっくりと見入ってしまっていた。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]感じやすいんだな、一条。子宮、もう、あと少しでイッちゃいそうなんだろ？[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex55"]
 [Face storage="f_a017"]
 [Voice storage="a2280" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はひっ！？　んあ、あああぁ……。違……ッ、そんな、の、ボ、ボク……し、知らない……しっ！　んふぁああっ！！　はぁ、あああああぁっ[/v]」[KeyWait]
 [FaceOff]
 
@@ -1177,18 +1177,18 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a017"]
 [Voice storage="a2281" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はぅん……んく、ふっ、んあああ……はふっ、んっ、んんぅ……あ、ぉ、ぉほおおん……んお、ほ、ぉんんん……うぅ、んくっ……あ、ああ、んぉ、ぉおおん……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2282" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]イク……の、もう、ヤダ……。頭……飛び……すぎて……分からなく、なる……ッ！　ふあ、あ……ああぁ……[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]大丈夫、すぐにイカせないから。感じさせてはぐらかせて、とろっとろに乱れて高まってから、最高にぶっ飛んだ絶頂、させてやる。だから……[/i]」[KeyWait]
 [FaceOff]
 
@@ -1201,24 +1201,24 @@
 [ExVoice1 storage="aex78"]
 [Face storage="f_a018"]
 [Voice storage="a2283" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇえっ！　あはぁああぁッ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]くふぉおおっ！？　なん……だ、これ……ッ。し、締め……付けッ。激し……。いや、あ、あああっ、これ、絡んでッ！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]お、俺のちんぽ、に、一条の、絡みついて……ッ、膣っ、ふわぁああっ、これ、う、蠢くぅっ、やばいっ！　これ、やば……気持ち、いいっ！！　ふぁああ、うそっ！[/i]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex23"]
 [Face storage="f_a017"]
 [Voice storage="a2284" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はぅううっ、なんか、ヘンッ！　こ、これぇ、変ッ！！　あ、あひ、あふぁあ、ひう、ボクの膣ぅ、う、蠢いて……！？　ひゃわあああぁ、こ、これ、あ、はぁあああっ、あああぁふぅううううぅッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1229,7 +1229,7 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2285" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んひぃ、いいいっ、イ…………ッ、クぅううううううっ！！　ふぁああッ、はぁああああぁ――ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1241,7 +1241,7 @@
 [text]そして、級友の方も、[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]はわ……ああぁっ、ひうっ、で、出るッ、出ちまうっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1258,21 +1258,21 @@
 
 [Face storage="f_a018"]
 [Voice storage="a2286" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ん…………ぅくうっ、はあっ、ふぁ、あ、あふぅ～～～～～～～～～～～っ！！[/v]」[KeyWait]
 [FaceOff]
 
 [text]膣を満たし、子宮の内側も満たす精液の圧迫感に、もう一度昂って身を震わせた。[KeyWait]
 
 [Face storage="f_o013"]
-【男子生徒たち】[CR]
+【Male Students】[CR]
 「[i]はぁ～～～～～～～～～[/i]」[KeyWait]
 [FaceOff]
 
 [text]最初は甘々な膣堕としの抽送から、一転しての激しい射精絶頂劇に、みんなが思わず溜め息を漏らした。[KeyWait]
 
 [Face storage="f_o041"]
-【男子生徒Ｄ】[CR]
+【Male Student D】[CR]
 「[i]くぁ……はぁ、気持ち……よすぎる……だろ……[/i]」[KeyWait]
 [FaceOff]
 
@@ -1282,7 +1282,7 @@
 
 [Face storage="f_a044"]
 [Voice storage="a2287" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぁあああ、えへぁああああっ、んあっ、んぉあっ！　あふ……うぅッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1298,13 +1298,13 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0406" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]はあ……、あたしも、なんだか、催して……きちゃったッ！　りょ、遼！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a017"]
 [Voice storage="a2288" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇええっ！？　ああっ、ふぁあああっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1318,7 +1318,7 @@
 
 [Face storage="f_a017"]
 [Voice storage="a2289" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]なに……す……。くぁああっ！　や、やめろっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1328,7 +1328,7 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0407" buf=2]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]遼が……いけないんだからっ！　そ、そんな……エッチな顔して、悩ましく、イクから……。だから、あたしも、遼に、入れたくなっちゃった。遼の膣内に、あたしのお精子どぴゅどぴゅ出して、遼を孕ませたく、なっちゃったのぉッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1338,14 +1338,14 @@
 [ExVoice1 storage="aex58"]
 [Face storage="f_a017"]
 [Voice storage="a2290" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　だめっ！！　いぃ、いまっ、イッたばかり、だからっ！　なのにっ、そんなの、い、入れられたら……ッ、またイクッ、すぐイッちゃうっ！！　イクの、止まらなく……なっちゃうッ！[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex63"]
 [Face storage="f_a018"]
 [Voice storage="a2291" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]だからぁ、やめ……ふぉおおおおおぉああああぁッ、んはッ、あ、あああぁっ！！　やぁあああっ、は、入って、入ってきちゃ、ふぇえええええぁああああああッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1356,7 +1356,7 @@
 [ExVoice1 storage="aex33"]
 [Face storage="f_a018"]
 [Voice storage="a2292" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あふぅうっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1372,13 +1372,13 @@
 [ExVoice1 storage="aex20"]
 [Face storage="f_a017"]
 [Voice storage="a2293" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇええぇ……、あ、あぁ……イ、イッた……あぁ……。らめ……なの、にぃ……。おまんこ、もお……感じ、過ぎぃ……。イッパイ……なの……にぃ……。ふぁ、ああ、希美乃……入れる、からぁ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c911"]
 [Voice storage="c0408" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]うふ[Hearts]　でも、遼のおまんこ、すぐ入っちゃったわよ。あたしの、ちんぽ、ずぶずぶって、簡単に入って、締め付けてきたからぁ[/v]」[KeyWait]
 [FaceOff]
 
@@ -1391,7 +1391,7 @@
 [ExVoice1 storage="aex20"]
 [Face storage="f_a075"]
 [Voice storage="a2294" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]もぉおぉ、えっちぃ、いや……なのにぃ、希美乃……ボク、犯してるぅ……。おちんちん、なかぁ、入れてるぅっ！　変……なっちゃう、から……あふぅ、あ、はぁあ……ッ、んはぁあっ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1399,13 +1399,13 @@
 
 [Face storage="f_c911"]
 [Voice storage="c0409" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]あは～、やっぱり遼ってば、エッチだぁ。本当の女の子よりもエッチなおまんこ、してる……。あたしが、ずっと気持ちイイままに、してあげるから……あたしのおちんちんで、そのエッチおまんこ……[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c911"]
 [Voice storage="c0410" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]ああ、遼……好き……。大好きだから……。はぁああああぁ～～～～[/v]」[KeyWait]
 [FaceOff]
 
@@ -1416,7 +1416,7 @@
 [ExVoice1 storage="aex63"]
 [Face storage="f_a075"]
 [Voice storage="a2295" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふぇああああっ！　んぁああはあああっ！！　くふぁあああっ！　あひ、い、イクゥッ！！　お、おおおっ、ふおぁああっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1428,12 +1428,12 @@
 [text]その度に、ボクは絶頂の潮を失禁のように撒き散らして悶え狂った。[KeyWait]
 
 [Face storage="f_o011"]
-【男子生徒Ａ】[CR]
+【Male Student A】[CR]
 「[i]うはあ～、すげえ、羅刹童子先生、ふたなりチンポで一条イカせまくってる！！[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
-【男子生徒Ｂ】[CR]
+【Male Student B】[CR]
 「[i]本当は男の一条のオマンコを、女なのにチンポがある先生が犯しちゃってるって、エロすぎるだろ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -1442,7 +1442,7 @@
 [ExVoice1 storage="aex65"]
 [Face storage="f_a075"]
 [Voice storage="a2296" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んひゅうっ！　狂っちゃふっ！！　イキすぎて……ふぁあああっ、はひっ！　ボク、あたま、おかしく、なっちゃ……ふぇああああっ！！　んおっ、おほぉおおぉッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1450,7 +1450,7 @@
 
 [Face storage="f_c906"]
 [Voice storage="c0411" buf=5]
-【羅刹童子】[CR]
+【Rasetsu Douji】[CR]
 「[v]く、狂って……いいから！　もう全部、あたまイカレちゃって、いいからっ！！　そうすれば、遼、あたしのものに、なるからっ！　くふぅっ、ああっ、い、イクッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1472,7 +1472,7 @@
 
 [Face storage="f_a075"]
 [Voice storage="a2297" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くひぃいいっ！　はぁあああっ、ふぇええっ！！　ん、あ、あぁ、はぁ、で、出て……るぅッ！　希美乃の、熱い……の、いっぱい、ボクの……中ぁあっ、で、出て……、ふぉああああああぁ～～～～～～～ッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -1495,7 +1495,7 @@
 
 [Face storage="f_a075"]
 [Voice storage="a2298" buf=3]
-【はるか】[CR]
+【Haruka】[CR]
 （[v]ふあ……あぁ……、ボ、ボクは……[/v]）[KeyWait]
 [FaceOff]
 
