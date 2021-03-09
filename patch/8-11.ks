@@ -21,8 +21,8 @@
 
 [Face storage="f_a007"]
 [Voice storage="a2375" buf=2]
-【はるか】[CR]
-「[v]はぁああああっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Haaaaaah![/v]」[KeyWait]
 [FaceOff]
 
 [ChrReset0]
@@ -30,265 +30,265 @@
 
 [Sound storage="se247" buf=0]
 
-[text]ズシャアアァ――――ッ！[KeyWait]
+[text]Spraaaaay![KeyWait]
 
 [Face storage="f_r001"]
-【鬼Ａ】[CR]
-「[i]グァアアアアアアッ！！[/i]」[KeyWait]
+【Oni A】[CR]
+「[i]Gwaaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]深紅の刃が一閃すると、鬼の巨体が真っ二つに切り裂かれ、断末魔の悲鳴と共に塵となって霧散する。[KeyWait]
+[text]With a flash of my blood-red blade, the oni's large frame was cleaved clean in two, and scattered to dust as he screamed his last scream.[KeyWait]
 
 [Face storage="f_p022"]
-【鬼繰師Ａ】[CR]
-「[i]そ、そんなっ！[/i]」[KeyWait]
+【Oni Master A】[CR]
+「[i]T-This can't be happening![/i]」[KeyWait]
 [FaceOff]
 
-[text]返す刀の刃を峰にして、[KeyWait]
+[text]I turned my katana around as I pulled it back, then, using its blunt side...[KeyWait]
 
 [Face storage="f_a007"]
 [Voice storage="a2376" buf=2]
-【はるか】[CR]
-「[v]ふんっ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Hmph![/v]」[KeyWait]
 [FaceOff]
 
-[text]どずっ！[KeyWait]
+[text]Thud![KeyWait]
 
 [Face storage="f_p022"]
-【鬼繰師Ａ】[CR]
-「[i]ぐはっ！！[/i]」[KeyWait]
+【Oni Master A】[CR]
+「[i]Guhah![/i]」[KeyWait]
 [FaceOff]
 
-[text]相手の脇腹を殴打して昏倒させる。[KeyWait]
-[text]鬼は滅するけれど、それを使役する術者は殺さない。[KeyWait]
+[text]I delivered a blow to my opponent's side, knocking her out.[KeyWait]
+[text]Though I exterminated the oni, I didn't kill the ones manipulating them.[KeyWait]
 
 [Face storage="f_a077"]
 [Voice storage="a2377" buf=2]
-【はるか】[CR]
-「[v]なんたって、一条宗家の鬼繰師。生け捕りにして錬気を搾り取れば、結女の負担が軽くなるからね[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]They're nothing more than Oni Masters of the Ichijou family. If I capture them alive, we can suck out their Renki and lighten Yume's load.[/v]」[KeyWait]
 [FaceOff]
 
-[text]そう、ボクは希美乃に頼まれて、単身で一条宗家への襲撃を行っている最中だった。[KeyWait]
+[text]That's right - I was currently launching a surprise attack alone on the Ichijou main family after Kimino had asked me to.[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a2378" buf=2]
-【はるか】[CR]
-（[v]元はといえば、全部こいつらのせいなんだ。こいつらが、打ち倒した鬼を誓約で縛り、使役し続けたりしなければ、恨みを買うこともなかった。そうすれば、鬼慰姫なんて役割も出来なかったのに！[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]This is their fault anyway. If they hadn't bound the oni they defeated into contracts, they would have never formed a grudge against the Ichijou family, and there would have been no need for the Oni-Pleasing Princess to begin with![/v]）[KeyWait]
 [FaceOff]
 
-[text]それでも、いまだに鬼を使役し続けている宗家の者だけが、代償を支払っていればよかったのに、遥か昔から能力を捨て普通人としての暮らしをしているボクら分家筋に累が及んでしまった。[KeyWait]
+[text]Even if that weren't the case, because the ones in the main family who were still employing oni weren't paying the price for this, those in the branch family - who had long since thrown away their powers to live as normal humans - were suffering instead.[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a2379" buf=2]
-【はるか】[CR]
-「[v]こいつらさえいなければ、結女は鬼慰姫になんか、ならなかった！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]If it weren't for them, Yume would have never become the Oni-Pleasing Princess![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se208" buf=0]
 
-[text]ザシュッ！！[KeyWait]
+[text]Slash![KeyWait]
 
 [Face storage="f_r002"]
-【鬼Ｂ】[CR]
-「[i]ぎはぁああっ！[/i]」[KeyWait]
+【Oni B】[CR]
+「[i]Gyaaaah![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a2380" buf=2]
-【はるか】[CR]
-「[v]ボクだって、こんな女の身体になんかならないで済んだ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]I wouldn't have been stuck with this female body, either![/v]」[KeyWait]
 [FaceOff]
 
-[text]どごおっ！[KeyWait]
+[text]Thwud![KeyWait]
 
 [Face storage="f_p035"]
-【鬼繰師Ｂ】[CR]
-「[i]うぐぅっ！！[/i]」[KeyWait]
+【Oni Master B】[CR]
+「[i]Uguuh![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a029"]
 [Voice storage="a2381" buf=2]
-【はるか】[CR]
-「[v]希美乃だって、鬼神になんか覚醒しなかったのにっ！　だから、許さないッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kimino would have never awakened to being a kijin, either! That's why you're going to pay for this![/v]」[KeyWait]
 [FaceOff]
 
-[text]結女が希美乃に心を委ねてくれたおかげで、ボクの身体には鬼斬姫の力が甦った。[KeyWait]
-[text]鬼斬りの太刀、斬鐘。鬼慰姫を鬼族から護るために打たれたこの太刀は、鬼を使役する一条宗家に対して絶大な威力を発揮していた。[KeyWait]
+[text]Thanks to Yume giving her heart to Kimino, the power of the Oni-Cutting Princess had resurged in me.[KeyWait]
+[text]The Oni-Cutting Blade, Zanshou. It was initially forged to protect the Oni-Pleasing Princess from oni, but it also acted as a weapon of tremendous strength against the oni-enslaving Ichijou main family.[KeyWait]
 
 [Face storage="f_a077"]
 [Voice storage="a2382" buf=2]
-【はるか】[CR]
-「[v]さあ、後は何人いるのかな……？　一人残らず、叩きのめしてあげるよ[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Okay, how many more of you are there...? I'll beat down every last one of you![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p015"]
-【鬼繰師Ｃ】[CR]
-「[i]く、くそ……[/i]」[KeyWait]
+【Oni Master C】[CR]
+「[i]D-Damnit...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p052"]
-【鬼繰師Ｄ】[CR]
-「[i][eruby str="晶" text="あきら"]様と[eruby str="忍" text="しのぶ"]様が、不在の時を狙って……ッ！[/i]」[KeyWait]
+【Oni Master D】[CR]
+「[i]You aimed for a time where Akira-sama and Shinobu-sama weren't here...![/i]」[KeyWait]
 [FaceOff]
 
-[text]宗家の次期総領とその双子の兄。そしていまは世界漫遊中で所在が分からない総領本人だけが、要注意人物。[KeyWait]
-[text]けれどその他の鬼繰師はどれだけいてもボクの敵じゃない。[KeyWait]
-[text]だから、双子が欧州へと遠征したいまを狙って襲撃したのだ。[KeyWait]
+[text]Shinobu and Akira - the main family's next head and her older twin brother. With the family's current head being out on a pleasure trip around the world with their whereabouts unknown, they were essential figures.[KeyWait]
+[text]But outside of those three, the Oni Masters were no threats to me.[KeyWait]
+[text]That's why I timed my surprise attack during a time when the twins were away in Europe.[KeyWait]
 
 [Face storage="f_a077"]
 [Voice storage="a2383" buf=2]
-【はるか】[CR]
-（[v]孤立させてしまえば、その三人は希美乃が……完全なる鬼神、羅刹童子が倒してくれる[/v]）[KeyWait]
+【Haruka】[CR]
+（[v]If I leave those three alone, they'll defeat Kimino for me... They'll defeat Rasetsu Douji, the completed kijin...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a007"]
 [Voice storage="a2384" buf=2]
-【はるか】[CR]
-「[v]だから、ボクは、一条宗家を、滅ぼすッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]That's why I have to wipe out the Ichijou main family![/v]」[KeyWait]
 [FaceOff]
 
-[text]身構える鬼繰師と鬼たちに向かって、斬鐘を突き付け足を踏み出す。その刹那、[KeyWait]
+[text]I faced the Oni Masters and their oni, who were prepared for a fight, then thrust Zanshou ahead and stepped forward. But, right then...[KeyWait]
 
 [Face storage="f_s042"]
-【式術師たち】[CR]
-「[i]縛鎖結界――――ッ！　ハァアアッ！！[/i]」[KeyWait]
+【Ritualists】[CR]
+「[i]Binding Chain Barrier! Haaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]後ろから迫ってきていた宗家の男たちが、呪符を投げつけながら印を切る。[KeyWait]
-[text]途端に、符に記された文字が細い鎖となって這い出し、ボクの身体中に巻き付いて身動き出来なくした。[KeyWait]
+[text]Men from the main family had approached from behind and thrown curse talismans at me while making signs with their hands.[KeyWait]
+[text]The characters written on the talismans immediately became chains and wrapped around me, rendering me unable to move.[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a2385" buf=2]
-【はるか】[CR]
-「[v]くうっ！　し、しまったッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Kuuh! S-Shit![/v]」[KeyWait]
 [FaceOff]
 
-[text]一条宗家の男たちは鬼を使役する力を持たないが、結界や呪詛などの式術を駆使して鬼繰師をサポートしていた。[KeyWait]
-[text]鬼斬りの太刀を操るボクに、鬼で戦うのは不利と見て、術で身動きを封じてきた。[KeyWait]
+[text]The men from the Ichijou main family didn't have the power to command oni. Instead, they supported the Oni Masters with things like barriers and curses.[KeyWait]
+[text]Seeing that there wasn't much point sending oni at me when I wielded the Oni-Cutting Blade, they used seals to restrict my movement instead.[KeyWait]
 
 [Face storage="f_s042"]
-【式術師】[CR]
-「[i]い、いまですっ！！[/i]」[KeyWait]
+【Ritualist】[CR]
+「[i]N-Now![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p015"]
-【鬼繰師Ｃ】[CR]
-「[i]――！！　行けッ！[/i]」[KeyWait]
+【Oni Master C】[CR]
+「[i]G-Go!/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p052"]
-【鬼繰師Ｄ】[CR]
-「[i]あいつを叩きのめせッ！！[/i]」[KeyWait]
+【Oni Master D】[CR]
+「[i]Take her down![/i]」[KeyWait]
 [FaceOff]
 
 [ChrSet0 storage="b_r301"]
 [UpDate]
 
 [Face storage="f_r001"]
-【鬼Ｃ・Ｄ】[CR]
-「[i]ごぁあああっ！[/i]」[KeyWait]
+【Oni C & D】[CR]
+「[i]Gwaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]鬼繰師に命じられ、鬼が牙を剥いて、呪詛縛りにあったボクへと襲いかかる。[KeyWait]
+[text]Two oni bared their fangs when they were ordered and charged at me while I remained bound.[KeyWait]
 
 [Face storage="f_a078"]
 [Voice storage="a2386" buf=2]
-【はるか】[CR]
-「[v]な～んてね。――ハァアアッ！！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Juuust kidding. Haaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]勝利を確信した彼らを前に、ボクは錬気を一気に放出させた。[KeyWait]
-[text]一瞬にして、身体を縛る術の鎖が千切れ飛び、ボクに自由が戻った。[KeyWait]
+[text]I released a bunch of Renki at once as they stood there, confident in there victory.[KeyWait]
+[text]The chains binding my body instantly tore apart and I regained my freedom.[KeyWait]
 
 [Face storage="f_s043"]
-【式術師】[CR]
-「[i]なにっ！？　縛鎖結界を、錬気で力ずくにッ！！[/i]」[KeyWait]
+【Ritualist】[CR]
+「[i]What!? She forced the Binding Chain Barrier off!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]式術師たちが驚愕する中、[KeyWait]
+[text]The ritualists were in shock. I used the opportunity, and...[KeyWait]
 
 [Face storage="f_a078"]
 [Voice storage="a2387" buf=2]
-【はるか】[CR]
-「[v]うぉおおおっ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Uwooooh![/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se203" buf=0]
 [ChrReset0]
 [UpDate]
 
-[text]ドゴォオオオッ！！[KeyWait]
+[text]Craaaaash![KeyWait]
 
 [Face storage="f_r001"]
-【鬼たち】[CR]
-「[i]ガハァアアアアアッ！[/i]」[KeyWait]
+【Oni】[CR]
+「[i]Gahaaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p056"]
-【鬼繰師たち】[CR]
-「[i]キャアアアアッ！！[/i]」[KeyWait]
+【Oni Masters】[CR]
+「[i]Kyaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]鬼二匹を一撃で斬り倒し、その剣圧を叩き付けて鬼繰師の意識を奪った。[KeyWait]
-[text]踵を返し、[KeyWait]
+[text]I cut down both oni with one slash, the sheer air pressure of my swing also knocking the Oni Masters unconscious.[KeyWait]
+[text]Then, I turned around...踵を返し、[KeyWait]
 
 [Face storage="f_a078"]
 [Voice storage="a2388" buf=2]
-【はるか】[CR]
-「[v]はぁああああああああぁッ！[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Haaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]渾身の力で振るう刃に錬気を乗せて、慌てふためく男たちへ放った。[KeyWait]
+[text]I gathered my Renki into my blade then released it toward the panicking men.[KeyWait]
 
 [Sound storage="se203" buf=1]
 
-[text]ドゥウウウウウウウゥンンンンッ！！[KeyWait]
+[text]Craaaaaaaash![KeyWait]
 
 [Face storage="f_s043"]
-【式術師たち】[CR]
-「[i]おわぁあああああぁっ！[/i]」[KeyWait]
+【Ritualists】[CR]
+「[i]Owaaaaaaaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]壮絶な衝撃波に、男たちの身体が木の葉のように吹っ飛ぶ。[KeyWait]
-[text]手加減したつもりだけど、もしかしたら何人か逝っちゃったかもしれない。[KeyWait]
+[text]The tremendously powerful shockwave sent them flying back like leaves.[KeyWait]
+[text]I'd intended to hold back, but after that attack, it wouldn't be too surprising if a few of them had died.[KeyWait]
 
 [Face storage="f_s042"]
-【式術師】[CR]
-「[i]うぐ……うぅ……あぁ……[/i]」[KeyWait]
+【Ritualist】[CR]
+「[i]Uguh... Uuh... Aah...[/i]」[KeyWait]
 [FaceOff]
 
-[text]一人、呻きながら身を起こそうとしているヤツがいたので、そこまで行って、顔を覗き込む。[KeyWait]
+[text]One of them was on the floor, groaning and trying to get up. I went over to him and looked him in the eyes.[KeyWait]
 
 [Face storage="f_s043"]
-【式術師】[CR]
-「[i]うぅ……、な、なぜ、こんな……ことを……[/i]」[KeyWait]
+【Ritualist】[CR]
+「[i]Uuh... W-Why... are you doing this...[/i]」[KeyWait]
 [FaceOff]
 
-[text]理由は色々あるけれど、それをいちいちここでいうつもりはない。それよりも――。[KeyWait]
+[text]I had various reasons, but I had no intention of listing them all of to him. More importantly...[KeyWait]
 
 [Face storage="f_a029"]
 [Voice storage="a2389" buf=2]
-【はるか】[CR]
-「[v]まったくもう、余計なことしてくるから、結女に貰った錬気、無駄遣いしちゃったじゃないか[/v]」[KeyWait]
+【Haruka】[CR]
+「[v]Geez, you guys just had to resist and make me waste the Renki that Yume gave me...[/v]」[KeyWait]
 [FaceOff]
 
-[text]その男に、馬乗りになって文句をいう。[KeyWait]
+[text]I complained to the man as I climbed on top of him.[KeyWait]
 
 [Face storage="f_s043"]
-【式術師】[CR]
-「[i]な、何をする……つもりだ……[/i]」[KeyWait]
+【Ritualist】[CR]
+「[i]W-What... are you going to do to me...?[/i]」[KeyWait]
 [FaceOff]
 
 [text]顔を寄せると怯えた表情で声を上擦らせるから、ゾクゾクしちゃう。[KeyWait]
 
 [Face storage="f_a077"]
 [Voice storage="a2390" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]まあ宗家を完全に滅ぼすには残った錬気でも十分なんだけど、万が一ってことがあるからね。だから、責任取って、あんたの錬気で補充させてもらうから[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_s043"]
-【式術師】[CR]
+【Ritualist】[CR]
 「[i]ひううっ！　や、やめろっ！！　何をッ！？　うわあっ！[/i]」[KeyWait]
 [FaceOff]
 
@@ -296,14 +296,14 @@
 
 [Face storage="f_a079"]
 [Voice storage="a2391" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]そんな怖がるなよ。こんな可愛い鬼斬姫とエッチ出来るんだから、もっと喜べってばぁ[/v]」[KeyWait]
 [FaceOff]
 
 [text]勃起していないふにゃんとしてそれを、素手で握り締めて扱いてやる。[KeyWait]
 
 [Face storage="f_s043"]
-【式術師】[CR]
+【Ritualist】[CR]
 「[i]ふ、ふざける……なっ！　やめろ、そんな……ことをっ！！　ううっ[/i]」[KeyWait]
 [FaceOff]
 
@@ -311,7 +311,7 @@
 
 [Face storage="f_a079"]
 [Voice storage="a2392" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]へえ……、膨張率、高いんだ。こんな大きくなるなんて、思わなかった。あは、これ、ちょっと嬉しいかも……[/v]」[KeyWait]
 [FaceOff]
 
@@ -319,7 +319,7 @@
 
 [Face storage="f_a073"]
 [Voice storage="a2393" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はぁ………………[/v]」[KeyWait]
 [FaceOff]
 
@@ -327,7 +327,7 @@
 
 [Face storage="f_a073"]
 [Voice storage="a2394" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]それじゃ……、ん……[/v]」[KeyWait]
 [FaceOff]
 
@@ -342,7 +342,7 @@
 [text]スカートをたくし上げ、ショーツのずらして陰部をさらけ出すと、腰を沈める。[KeyWait]
 
 [Face storage="f_s043"]
-【式術師】[CR]
+【Ritualist】[CR]
 「[i]や、やめろっ！　うわっ[/i]」[KeyWait]
 [FaceOff]
 
@@ -359,7 +359,7 @@
 [ExVoice1 storage="aex02"]
 [Face storage="f_a022"]
 [Voice storage="a2395" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んぁああっ[/v]」[KeyWait]
 [FaceOff]
 
@@ -372,12 +372,12 @@
 [ExVoice1 storage="aex03"]
 [Face storage="f_a073"]
 [Voice storage="a2396" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]はぁ……あ、あぁあああぁ……、んはぁああっ！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_s043"]
-【式術師】[CR]
+【Ritualist】[CR]
 「[i]そんな……ことをっ！　やめろっ、お、お前なんかと、俺はッ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -390,7 +390,7 @@
 [ExVoice1 storage="aex04"]
 [Face storage="f_a073"]
 [Voice storage="a2397" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んっはぁ！　くふぅ～～～。あぁ、入っちゃったよ、全部……。奥までずっぽしと……。ん、んぅ……気持ち、いいかも……この、ちんぽ……はぁ～[/v]」[KeyWait]
 [FaceOff]
 
@@ -400,7 +400,7 @@
 [ExVoice1Stop]
 [Face storage="f_a080"]
 [Voice storage="a2398" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]でも、タップリと楽しんでる暇は、ないんだ。すぐに、射精して、ボクに錬気を与えてもらうからッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -411,7 +411,7 @@
 [text]グイッと腰をくねらせながら、ボクは男の首に両手で指を食い込ませた。[KeyWait]
 
 [Face storage="f_s043"]
-【式術師】[CR]
+【Ritualist】[CR]
 「[i]ぐぇえっ！　あぐっ、あがぁああぁッ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -420,7 +420,7 @@
 [ExVoice1 storage="aex67"]
 [Face storage="f_a022"]
 [Voice storage="a2399" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]あはっ！　すごいっ！！　ボクの中で、あんたのちんこ、一気に大きさ増した。ふあああっ、ビクビク脈打ってるしっ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -433,12 +433,12 @@
 [ExVoice1 storage="aex78"]
 [Face storage="f_a073"]
 [Voice storage="a2400" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]かふぅうっ、ふぁあああっ、ん……あぁ、ああんっ！！　だ、出しちゃえ、てば。早く……んふぅ……射精すれば、手……離すから……。早く、お前の錬気、ボクに……う、くぅ、ああ、よ、よこせぇっ！！[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_s043"]
-【式術師】[CR]
+【Ritualist】[CR]
 「[i]あ……がぁ……ぐ……う……[/i]」[KeyWait]
 [FaceOff]
 
@@ -450,7 +450,7 @@
 [ExVoice1 storage="aex73"]
 [Face storage="f_a073"]
 [Voice storage="a2401" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひううっ！　あふっ、は、あああぁッ！！　奥ぅ、コンコン当たってる……しぃ。ふぁああ……窒息ちんちん、どんどん硬くなって……。で、も、早く、出さないと……死ぬ、からあ……！[/v]」[KeyWait]
 [FaceOff]
 
@@ -458,7 +458,7 @@
 [text]首を絞める指を緩めた途端、[KeyWait]
 
 [Face storage="f_s043"]
-【式術師】[CR]
+【Ritualist】[CR]
 「[i]げふうっ！　がふっ、がはぁああぁッ！！[/i]」[KeyWait]
 [FaceOff]
 
@@ -467,7 +467,7 @@
 [ExVoice1 storage="aex78"]
 [Face storage="f_a073"]
 [Voice storage="a2402" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふわあっ、ああっ、はぁああああぁッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -480,7 +480,7 @@
 [ExVoice1 storage="aex54"]
 [Face storage="f_a081"]
 [Voice storage="a2403" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ひうっ！　ふぁああっ、あひぃいいっ、こ、これ、んくううっ、ああッッ！！[/v]」[KeyWait]
 [FaceOff]
 
@@ -489,7 +489,7 @@
 [ExVoice1 storage="aex26"]
 [Face storage="f_a081"]
 [Voice storage="a2404" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]おふぉあッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -511,7 +511,7 @@
 
 [Face storage="f_a076"]
 [Voice storage="a2405" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]くひぃいっ！　ほぉおっ、あぁはああぅううっ！！　かはぁああああぁ～～～～～～～～ッ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -521,7 +521,7 @@
 
 [Face storage="f_a076"]
 [Voice storage="a2406" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ほぉ、あああぁ、しゅご……んんぅ、しゅご……いぃ、お精子ぃ、どぴゅどぴゅッ。ふくぁあああっ、錬気ぃ、来る……ぅ、流れ込んで……ぇ……。ふぁあああぁ～～～～～～[/v]」[KeyWait]
 [FaceOff]
 
@@ -530,7 +530,7 @@
 
 [Face storage="f_a081"]
 [Voice storage="a2407" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]んふぅうっ、ふぁぁあ、あ、はぁあああ～～～～。あ、あぁ、イィ……。は……ふぁ……[/v]」[KeyWait]
 [FaceOff]
 
@@ -539,7 +539,7 @@
 
 [Face storage="f_a073"]
 [Voice storage="a2408" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]で……でも……。んふぅうう……っ！[/v]」[KeyWait]
 [FaceOff]
 
@@ -563,7 +563,7 @@
 
 [Face storage="f_a079"]
 [Voice storage="a2409" buf=2]
-【はるか】[CR]
+【Haruka】[CR]
 「[v]ふう……。錬気も十分に補充したし……。残りの鬼繰師をすべて叩きのめして、一条宗家を滅ぼしてやろっと♪[/v]」[KeyWait]
 [FaceOff]
 
@@ -585,9 +585,9 @@
 [BgSet storage="_black"]
 [UpDate]
 
-[text]………………………………………………[KeyWait]
-[text]……………………[KeyWait]
-[text]………[KeyWait]
+[text].........[KeyWait]
+[text]......[KeyWait]
+[text]...[KeyWait]
 
 [WindowOff]
 

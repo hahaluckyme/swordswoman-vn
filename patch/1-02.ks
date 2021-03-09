@@ -617,7 +617,7 @@
 [FaceOff]
 
 [text]I had no idea what had just occurred.[KeyWait]
-[text]I collapsed next to the unconscious Yume, feeling only relief at having made ti through the frightening situation I'd just been in.[KeyWait]
+[text]I collapsed next to the unconscious Yume, feeling only relief at having made it through the frightening situation I'd just been in.[KeyWait]
 
 [BgmFadeOut time=2000]
 [SoundAllOut time=2000]
