@@ -1,13 +1,10 @@
+;■
+;■　回想
+;■
 
-*scene8-12|
-[eval exp="f.chaptertitle='Sweet Taste of Corruption'"]
+[eval exp="f.chaptertitle='背徳の甘美'"]
 
-
-;場所：学園長室
-;時間：黄昏時
-;服装：全員裸
-
-;【ＣＧ４０(ev814)】[CR]
+;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
 [HSceneStart]
 
@@ -330,28 +327,24 @@
 [text]Even if that meant having all of humanity as our enemies...[KeyWait]
 [text]The Oni-Pleasing Princess and Oni-Cutting Princess leaned in close to the kijin Rasetsu Douji and continued indulging themselves in the sweet taste of corruption.[KeyWait]
 
+
+
+;回想終了　――――――――――――――――――――――――――――――――――――――――――――
+
+[BgmFadeOut time="2000"]
 [SoundAllOut time=2000]
-[BgmFadeOut time=2000]
-;黒画面
+
 [BgSet storage="_black"]
-[UpDate]
+[Update]
 
-;[text]………………………………………………[KeyWait]
-;[text]………………………………[KeyWait]
-;[text]………………[KeyWait]
-
-[wait time=1000]
-
-;バッドエンド
+[text].........[KeyWait]
+[text]......[KeyWait]
+[text]...[KeyWait]
 
 [scenarioend]
-;ＢＡＤＥＮＤ
-
 [cancelskip]
 
 [HSceneEnd]
-
-[eval exp="sf.kaisouOpenFlag['30']=1"]
 
 [WindowOff time=1000]
 
@@ -359,7 +352,6 @@
 [SoundAllStop]
 [eval exp="kag.skipMode=0"]
 
-[eval exp="sf.extraModeOpenFlag=1"]
-[jump storage="0-01.ks"]
 
+[return]
 

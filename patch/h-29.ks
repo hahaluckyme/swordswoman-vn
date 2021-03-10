@@ -1,13 +1,10 @@
+;■
+;■　回想
+;■
 
-*scene8-11|
-[eval exp="f.chaptertitle='Assaulting the Ichijou Main Family'"]
+[eval exp="f.chaptertitle='一条宗家襲撃'"]
 
-
-;場所：一条家
-;時間：夜
-;服装：女子制服
-
-;▲はるか視点
+;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
 ;ＢＧＭ：ピンチ
 [playbgm storage="bgm007"]
@@ -19,224 +16,14 @@
 
 [WindowOn]
 
-[Face storage="f_a007"]
-[Voice storage="a2375" buf=2]
-【Haruka】[CR]
-「[v]Haaaaaah![/v]」[KeyWait]
-[FaceOff]
-
-[ChrReset0]
-[UpDate]
-
-[Sound storage="se247" buf=0]
-
-[text]Spraaaaay![KeyWait]
-
-[Face storage="f_r001"]
-【Oni A】[CR]
-「[i]Gwaaaaaaah![/i]」[KeyWait]
-[FaceOff]
-
-[text]With a flash of my blood-red blade, the oni's large frame was cleaved clean in two, and scattered to dust as he screamed his last scream.[KeyWait]
-
-[Face storage="f_p022"]
-【Oni Master A】[CR]
-「[i]T-This can't be happening![/i]」[KeyWait]
-[FaceOff]
-
-[text]I turned my katana around as I pulled it back, then, using its blunt side...[KeyWait]
-
-[Face storage="f_a007"]
-[Voice storage="a2376" buf=2]
-【Haruka】[CR]
-「[v]Hmph![/v]」[KeyWait]
-[FaceOff]
-
-[text]Thud![KeyWait]
-
-[Face storage="f_p022"]
-【Oni Master A】[CR]
-「[i]Guhah![/i]」[KeyWait]
-[FaceOff]
-
-[text]I delivered a blow to my opponent's side, knocking her out.[KeyWait]
-[text]Though I exterminated the oni, I didn't kill the ones manipulating them.[KeyWait]
-
-[Face storage="f_a077"]
-[Voice storage="a2377" buf=2]
-【Haruka】[CR]
-「[v]They're nothing more than Oni Masters of the Ichijou family. If I capture them alive, we can suck out their Renki and lighten Yume's load.[/v]」[KeyWait]
-[FaceOff]
-
-[text]That's right - I was currently launching a surprise attack alone on the Ichijou main family after Kimino had asked me to.[KeyWait]
-
-[Face storage="f_a029"]
-[Voice storage="a2378" buf=2]
-【Haruka】[CR]
-（[v]This is their fault anyway. If they hadn't bound the oni they defeated into contracts, they would have never formed a grudge against the Ichijou family, and there would have been no need for the Oni-Pleasing Princess to begin with![/v]）[KeyWait]
-[FaceOff]
-
-[text]Even if that weren't the case, because the ones in the main family who were still employing oni weren't paying the price for this, those in the branch family - who had long since thrown away their powers to live as normal humans - were suffering instead.[KeyWait]
-
-[Face storage="f_a029"]
-[Voice storage="a2379" buf=2]
-【Haruka】[CR]
-「[v]If it weren't for them, Yume would have never become the Oni-Pleasing Princess![/v]」[KeyWait]
-[FaceOff]
-
-[Sound storage="se208" buf=0]
-
-[text]Slash![KeyWait]
-
-[Face storage="f_r002"]
-【Oni B】[CR]
-「[i]Gyaaaah![/i]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_a007"]
-[Voice storage="a2380" buf=2]
-【Haruka】[CR]
-「[v]I wouldn't have been stuck with this female body, either![/v]」[KeyWait]
-[FaceOff]
-
-[text]Thwud![KeyWait]
-
-[Face storage="f_p035"]
-【Oni Master B】[CR]
-「[i]Uguuh![/i]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_a029"]
-[Voice storage="a2381" buf=2]
-【Haruka】[CR]
-「[v]Kimino would have never awakened to being a kijin, either! That's why you're going to pay for this![/v]」[KeyWait]
-[FaceOff]
-
-[text]Thanks to Yume giving her heart to Kimino, the power of the Oni-Cutting Princess had resurged in me.[KeyWait]
-[text]The Oni-Cutting Blade, Zanshou. It was initially forged to protect the Oni-Pleasing Princess from oni, but it also acted as a weapon of tremendous strength against the oni-enslaving Ichijou main family.[KeyWait]
-
-[Face storage="f_a077"]
-[Voice storage="a2382" buf=2]
-【Haruka】[CR]
-「[v]Okay, how many more of you are there...? I'll beat down every last one of you![/v]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_p015"]
-【Oni Master C】[CR]
-「[i]D-Damnit...[/i]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_p052"]
-【Oni Master D】[CR]
-「[i]You aimed for a time where Akira-sama and Shinobu-sama weren't here...![/i]」[KeyWait]
-[FaceOff]
-
-[text]Shinobu and Akira - the main family's next head and her older twin brother. With the family's current head being out on a pleasure trip around the world with their whereabouts unknown, they were essential figures.[KeyWait]
-[text]But outside of those three, the Oni Masters were no threats to me.[KeyWait]
-[text]That's why I timed my surprise attack during a time when the twins were away in Europe.[KeyWait]
-
-[Face storage="f_a077"]
-[Voice storage="a2383" buf=2]
-【Haruka】[CR]
-（[v]If I leave those three alone, they'll defeat Kimino for me... They'll defeat Rasetsu Douji, the completed kijin...[/v]）[KeyWait]
-[FaceOff]
-
-[Face storage="f_a007"]
-[Voice storage="a2384" buf=2]
-【Haruka】[CR]
-「[v]That's why I have to wipe out the Ichijou main family![/v]」[KeyWait]
-[FaceOff]
-
-[text]I faced the Oni Masters and their oni, who were prepared for a fight, then thrust Zanshou ahead and stepped forward. But, right then...[KeyWait]
-
-[Face storage="f_s042"]
-【Ritualists】[CR]
-「[i]Binding Chain Barrier! Haaaah![/i]」[KeyWait]
-[FaceOff]
-
-[text]Men from the main family had approached from behind and thrown curse talismans at me while making signs with their hands.[KeyWait]
-[text]The characters written on the talismans immediately became chains and wrapped around me, rendering me unable to move.[KeyWait]
-
-[Face storage="f_a029"]
-[Voice storage="a2385" buf=2]
-【Haruka】[CR]
-「[v]Kuuh! S-Shit![/v]」[KeyWait]
-[FaceOff]
-
-[text]The men from the Ichijou main family didn't have the power to command oni. Instead, they supported the Oni Masters with things like barriers and curses.[KeyWait]
-[text]Seeing that there wasn't much point sending oni at me when I wielded the Oni-Cutting Blade, they used seals to restrict my movement instead.[KeyWait]
-
-[Face storage="f_s042"]
-【Ritualist】[CR]
-「[i]N-Now![/i]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_p015"]
-【Oni Master C】[CR]
-「[i]G-Go!/i]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_p052"]
-【Oni Master D】[CR]
-「[i]Take her down![/i]」[KeyWait]
-[FaceOff]
-
-[ChrSet0 storage="b_r301"]
-[UpDate]
-
-[Face storage="f_r001"]
-【Oni C & D】[CR]
-「[i]Gwaaaah![/i]」[KeyWait]
-[FaceOff]
-
-[text]Two oni bared their fangs when they were ordered and charged at me while I remained bound.[KeyWait]
-
-[Face storage="f_a078"]
-[Voice storage="a2386" buf=2]
-【Haruka】[CR]
-「[v]Juuust kidding. Haaaah![/v]」[KeyWait]
-[FaceOff]
-
-[text]I released a bunch of Renki at once as they stood there, confident in there victory.[KeyWait]
-[text]The chains binding my body instantly tore apart and I regained my freedom.[KeyWait]
-
-[Face storage="f_s043"]
-【Ritualist】[CR]
-「[i]What!? She forced the Binding Chain Barrier off!?[/i]」[KeyWait]
-[FaceOff]
-
-[text]The ritualists were in shock. I used the opportunity, and...[KeyWait]
-
-[Face storage="f_a078"]
-[Voice storage="a2387" buf=2]
-【Haruka】[CR]
-「[v]Uwooooh![/v]」[KeyWait]
-[FaceOff]
-
-[Sound storage="se203" buf=0]
-[ChrReset0]
-[UpDate]
-
-[text]Craaaaash![KeyWait]
-
-[Face storage="f_r001"]
-【Oni】[CR]
-「[i]Gahaaaaaaah![/i]」[KeyWait]
-[FaceOff]
-
-[Face storage="f_p056"]
-【Oni Masters】[CR]
-「[i]Kyaaaaah![/i]」[KeyWait]
-[FaceOff]
-
-[text]I cut down both oni with one slash, the sheer air pressure of my swing also knocking the Oni Masters unconscious.[KeyWait]
-[text]Then, I turned around...踵を返し、[KeyWait]
-
 [Face storage="f_a078"]
 [Voice storage="a2388" buf=2]
 【Haruka】[CR]
 「[v]Haaaaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
+
+[ChrReset0]
+[UpDate]
 
 [text]I gathered my Renki into my blade then released it toward the panicking men.[KeyWait]
 
@@ -574,25 +361,31 @@
 
 [text]I rested Zanshou on my shoulder as I headed that way with a spring in my step.[KeyWait]
 
-[eval exp="sf.kaisouOpenFlag['29']=1"]
 
-[HSceneEnd]
 
-[BgmFadeOut time=2000]
+;回想終了　――――――――――――――――――――――――――――――――――――――――――――
+
+[BgmFadeOut time="2000"]
 [SoundAllOut time=2000]
 
-;黒画面
 [BgSet storage="_black"]
-[UpDate]
+[Update]
 
 [text].........[KeyWait]
 [text]......[KeyWait]
 [text]...[KeyWait]
 
-[WindowOff]
+[scenarioend]
+[cancelskip]
 
-[wait time=500]
+[HSceneEnd]
 
-[jump storage="8-12.ks"]
+[WindowOff time=1000]
 
+[wait time=1000 cond="kag.skipMode!=4"]
+[SoundAllStop]
+[eval exp="kag.skipMode=0"]
+
+
+[return]
 

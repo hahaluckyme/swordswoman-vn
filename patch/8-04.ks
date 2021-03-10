@@ -1482,7 +1482,7 @@
 [Face storage="f_c911"]
 [Voice storage="c0366" buf=2]
 ÅyRasetsu DoujiÅz[CR]
-Åu[v]So, Ryou? Did me cumming buckets inside you feel good? If you admit that my deck felt good, I'll pamper you a whole lot more...[/v]Åv[KeyWait]
+Åu[v]So, Ryou? Did me cumming buckets inside you feel good? If you admit that my dick felt good, I'll pamper you a whole lot more...[/v]Åv[KeyWait]
 [FaceOff]
 
 [text]The cock standing between Rasetsu's legs still hadn't gone soft.[KeyWait]
