@@ -14,7 +14,7 @@
 // ◆ タイトル
 // ウィンドウのキャプション(タイトル)および
 // タスクバーに表示されるものです。
-;System.title = "When I Woke Up, I'd Become a Pretty Swordswoman That Protects my Cousin";
+;System.title = "When I Woke Up, I'd Become a Pretty Swordswoman Who Protects My Cousin";
 
 // ◆ シナリオ解析モード
 // シナリオファイル中の改行に従わせたい場合に false を設定します。
