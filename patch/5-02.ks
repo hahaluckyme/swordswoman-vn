@@ -181,8 +181,8 @@
 「[i]Hey, hey, where you think you're going? Don't ignore us! You a friend of theirs or somethin'? Hmm, not bad, you can come, too![/i]」[KeyWait]
 [FaceOff]
 
-[text]ボクの顔とか胸を舐め回すように見詰めてくる。[KeyWait]
-[text]この男からの視線は、何度味わっても慣れなくて鳥肌が立つような気色悪さを覚える。[KeyWait]
+[text]He stared at my face and chest as if his were licking them.[KeyWait]
+[text]His gaze gave me goosebumps. I felt like I'd never [ita]not[endita] be disgusted from being stared at like that.[KeyWait]
 
 [Face storage="f_q021"]
 【Delinquent B】[CR]

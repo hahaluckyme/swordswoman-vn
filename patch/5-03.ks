@@ -75,7 +75,7 @@
 
 [Sound storage="se206" buf=0]
 
-[text]ガツッ！！[KeyWait]
+[text]Thwack![KeyWait]
 
 [Face storage="f_c015"]
 [Voice storage="c0092" buf=2]
@@ -1148,7 +1148,7 @@
 「[v]Mmffh! Hyah! D-Don't, move... Abhhhhh![/v]」[KeyWait]
 [FaceOff]
 
-[text]ぬぶっ、ずぼっ、じゅぷじゅぷ、ぬぶぶっ、ずぷっ、ずぷっ、ずぶぶっ！！[KeyWait]
+[text]Squelch, schwap, schwap schwap, squelch, schwap, schwap, schwap![KeyWait]
 
 [text]The delinquents' leader began thrusting fast and hard, digging his shaft into my mouth.[KeyWait]
 [text]His rough movements pushed his swollen cockhead against my cheek, pushing it outward in his shape.[KeyWait]

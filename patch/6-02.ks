@@ -278,7 +278,7 @@
 [FaceOff]
 
 [text]His cock felt terribly out of place. It being in my rectum took over my mind, making it so I couldn't think of anything else.[KeyWait]
-[text]I tried to respond, my voice sounding flustere due to my erratic breath, but...[KeyWait]
+[text]I tried to respond, my voice sounding flustered due to my erratic breath, but...[KeyWait]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
@@ -297,7 +297,7 @@
 「[v]Uwoooohwaaaaauh![/v]」[KeyWait]
 [FaceOff]
 
-[text]勢いよく腸奥を弾き上げられてしまった。[KeyWait]
+[text]The oni thrust his cock into my rectum.[KeyWait]
 
 [ExVoice1 storage="aex58"]
 [Face storage="f_a018"]
@@ -405,7 +405,7 @@
 
 [text]Thwap, thwap! Schwap! Schwap! Thwap! Thwap, thwap, thwap![KeyWait]
 
-[text]不甲斐なさを嘲笑うかのように、鬼の抽送は容赦なく腸奥を突き上げて、ボクの身体を震わせた。[KeyWait]
+[text]I shuddered as the oni thrust mercilessly into my rectum as if laughing at my ineptitude.[KeyWait]
 
 ;a1489
 ;[ExVoice1 storage="aex63"]
@@ -705,9 +705,9 @@
 （[v]Aah, I had my my virginity taken... even though I'm a guy! I'm being raped... by an oni! Is this going to happen... to Yume, too...!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]股間を撃ち抜かれたような激しい痛みに襲われ、アナルを犯された時とは大違いな、狂おしい喪失感に苛まれた。[KeyWait]
-[text]連れ去られた結女も、羅刹童子の両性具有の陰茎にこんな目にあわされているのだろうかと、胸が引き裂かれるような思いに囚われる。[KeyWait]
-[text]しかし護りきれなかった自己嫌悪に陥る余裕も与えず、怒張が一気に膣の奥目掛けて突き進んできた。[KeyWait]
+[text]An intense pain came over me, like my crotch had been shot through. I felt tormented by a sense of loss - it was totally different than being fucked in the ass.[KeyWait]
+[text]A terrible thought prickled at my chest. What if Yume was going through this at the hands of the hermaphroditic kijin that stole her away?[KeyWait]
+[text]The oni's throbbing member shot through my pussy and slammed against my womb, not giving me time to wallow in the self-hatred I felt from not being able to protect her.[KeyWait]
 
 [Sound storage="se160" buf=1]
 

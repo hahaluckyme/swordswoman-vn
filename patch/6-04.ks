@@ -95,7 +95,7 @@
 「[v]Yume![/v]」[KeyWait]
 [FaceOff]
 
-[text]それだけで心が通じた。[KeyWait]
+[text]That glance was enough for our hearts to speak to one another.[KeyWait]
 
 [Face storage="f_a006"]
 [Voice storage="a1556" buf=2]
@@ -250,7 +250,7 @@
 [Face storage="f_a057"]
 [Voice storage="a1562" buf=2]
 【Haruka】[CR]
-（[v]Zanshou borrowed Yume's Renki and turned into changes, then went inside Kimino and sealed the sleeping Rasetsu Douji... She shouldn't be able to come out again...[/v]）[KeyWait]
+（[v]Zanshou borrowed Yume's Renki and turned into chains, then went inside Kimino and sealed the sleeping Rasetsu Douji... She shouldn't be able to come out again...[/v]）[KeyWait]
 [FaceOff]
 
 [ChrSet0 storage="b_a102"]

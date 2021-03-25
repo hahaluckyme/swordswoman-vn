@@ -102,7 +102,7 @@
 「[v]Who are you? Where's the real Kimino!? Don't tell me that you...![/v]」[KeyWait]
 [FaceOff]
 
-[text]一瞬最悪の事態が脳裏をよぎる。[KeyWait]
+[text]The worst possibility immediately flashed through my mind.[KeyWait]
 
 [ChrSet0 storage="b_c011"]
 [UpDate]
@@ -770,7 +770,7 @@
 [Face storage="f_a059"]
 [Voice storage="a1292" buf=2]
 【Haruka】[CR]
-（[v]...! T-That smile... It's just like Yume's...[/v]）[KeyWait]
+（[v]...! T-That smile... It's just like Kimino's...[/v]）[KeyWait]
 [FaceOff]
 
 [text]Not only that - it looked like just the smile she had when she was up to no good.[KeyWait]
@@ -1182,7 +1182,7 @@
 「[v]Nhoooh! Hyiiii! Kufuuuuuuuuh, aaahaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]自分の指で触る刺激など比べものにならない。[KeyWait]
+[text]Rubbing myself with my finger didn't even compare to this.[KeyWait]
 
 ;a1320
 ;[ExVoice1 storage="aex53"]
@@ -1825,7 +1825,7 @@
 ;[ExVoice1 storage="aex57"]
 ;「はあぁっ……んっ、くうんっ！　ふあぁああ……はっ、はあぁん……あはあっ、はんっ、くふうぅ……っ……ん、うぅん……はぁ……あっ、んひゃあ、んんぅ……はあぁ、はぁ、あああぁん……」
 
-[text]抑えきれず熱い吐息が漏れ、目は潤み、視線が泳ぐ。[KeyWait]
+[text]I was unable to stop myself from panting. My eyes teared up and started to dart around.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
@@ -2709,7 +2709,7 @@
 （[v]What...? No, a-aah! It's coming ! It's coming! H-Hyi, aaaaaah, noo, nooooo![/v]）[KeyWait]
 [FaceOff]
 
-[text]A tsunami of pleasure hit me, spreading throughout my whole body in an instant, stretching my brain's capacities to their limit.[KeyWait]
+[text]A tsunami of pleasure hit me, spreading throughout my whole body in an instant, stretching my brain's capacity to its limit.[KeyWait]
 
 [extasyF]
 
@@ -2858,7 +2858,7 @@
 
 [HSceneEnd]
 
-[eval exp="f.chaptertitle='Yume's Crisis'"]
+[eval exp="f.chaptertitle='Yume\'s Crisis'"]
 
 ;背景：コンビニ倉庫
 [BgSet storage="bg170"]
