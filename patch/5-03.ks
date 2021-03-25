@@ -188,7 +188,7 @@
 
 [Face storage="f_o031"]
 ÅyDelinquent EÅz[CR]
-Åu[i]There's lots of places for girls to hide stuff in their clothes, after all. We won't believe you unless you take'em all off.[/i]Åv[KeyWait]
+Åu[i]There's lots of places for girls to hide stuff in their clothes, after all. We won't believe you unless you take 'em all off.[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_q041"]
@@ -249,7 +249,7 @@
 [FaceOff]
 
 [text]The guys whistled and poked fun at Yume as their perverted stares dirtied her hot, white breasts.[KeyWait]
-[text]With a delinquent holding her tight from behind, she was unable to cver her chest, and could do nothing but sniffle and cry as she swung her chestnut-colored twintails around.[KeyWait]
+[text]With a delinquent holding her tight from behind, she was unable to cover her chest, and could do nothing but sniffle and cry as she swung her chestnut-colored twintails around.[KeyWait]
 
 [Face storage="f_c013"]
 [Voice storage="c0094" buf=2]
@@ -367,7 +367,7 @@
 
 [Face storage="f_o031"]
 ÅyDelinquent EÅz[CR]
-Åu[i]You skirt was so shirt. You wanted to show off from the very beginning, didn't you!?[/i]Åv[KeyWait]
+Åu[i]You skirt was so short. You wanted to show off from the very beginning, didn't you!?[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]
@@ -916,7 +916,7 @@
 Åi[v]I'm... a guy... I-I... absolutely do [ita]not[endita] want to put a dick in my mouth...! I can't do that! No... N-No way...[/v]Åj[KeyWait]
 [FaceOff]
 
-[text]Just seeing it up close and smelling his dick's odor of rotten fish  was enough to make me want to throw up.[KeyWait]
+[text]Just seeing it up close and smelling his dick's odor of rotten fish was enough to make me want to throw up.[KeyWait]
 
 [Face storage="f_q011"]
 ÅyDelinquent AÅz[CR]
@@ -1209,7 +1209,7 @@
 [Face storage="f_a020"]
 [Voice storage="a1193" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]I... have to hurry up and get th is over with... If this draws on too long... I'm gonna go crazy, too... I have to... hurry up and make him cum...[/v]Åj[KeyWait]
+Åi[v]I... have to hurry up and get this over with... If this draws on too long... I'm gonna go crazy, too... I have to... hurry up and make him cum...[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]Thanks to my experience with my old body, I knew that he'd become less excited right away if he came.[KeyWait]
@@ -1228,7 +1228,7 @@
 [Face storage="f_a021"]
 [Voice storage="a1195" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v] Mgh, hamfh... Mmh, suck... Slurp, suck, suck... Slurp, suck, suck... Mbh, suck, slurp... Mmh, suck, lick... Slurp, mmmmmmfh![/v]Åv[KeyWait]
+Åu[v]Mgh, hamfh... Mmh, suck... Slurp, suck, suck... Slurp, suck, suck... Mbh, suck, slurp... Mmh, suck, lick... Slurp, mmmmmmfh![/v]Åv[KeyWait]
 [FaceOff]
 
 [text]I began proactively sucking on him harder, running my tongue along his dick.[KeyWait]
@@ -1567,7 +1567,7 @@
 Åu[v]Hyeh! Fwaah! A-A-A-Aaaah! T-There's sho much cum... Cuuuum! Fwah, ah, haaaah! Mmh, aah, haaaaaaaaah![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]The dicks in my h ands, as well as the countless ones rubbing themselves on my skin, all shot out their semen at once, dying my entire nude form white.[KeyWait]
+[text]The dicks in my hands, as well as the countless ones rubbing themselves on my skin, all shot out their semen at once, dyeing my entire nude form white.[KeyWait]
 
 [Face storage="f_a020"]
 [Voice storage="a1223" buf=2]

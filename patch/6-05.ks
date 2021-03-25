@@ -1,6 +1,6 @@
 
 *scene6-05|
-[eval exp="f.chaptertitle='Oni's\ Banquet'"]
+[eval exp="f.chaptertitle='Oni\'s Banquet'"]
 
 ;場所：コンビニ倉庫
 ;時間：放課後
@@ -486,7 +486,7 @@
 
 [Face storage="f_r004"]
 【Oni D】[CR]
-「[i]In the first place, you're a guy, aren't you? But you've fallen in love with dick from bein' fucked so much? You're pathetic... We're leavin' you h ere since you're a girl, but... If you go back to bein' a guy, we're killin' you right away.[/i]」[KeyWait]
+「[i]In the first place, you're a guy, aren't you? But you've fallen in love with dick from bein' fucked so much? You're pathetic... We're leavin' you here since you're a girl, but... If you go back to bein' a guy, we're killin' you right away.[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a060"]

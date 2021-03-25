@@ -87,7 +87,7 @@
 [Face storage="f_c901"]
 [Voice storage="c0174" buf=2]
 ÅyRasetsu DoujiÅz[CR]
-Åu[v]You had a chance of winning of you'd summoned the Oni-Cutting Blade and cut them down one by one... But of course they'd absorb your burst of Renki. Your wavelengths are synced since they played with you so much.[/v]Åv[KeyWait]
+Åu[v]You had a chance of winning if you'd summoned the Oni-Cutting Blade and cut them down one by one... But of course they'd absorb your burst of Renki. Your wavelengths are synced since they played with you so much.[/v]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_c901"]
@@ -116,7 +116,7 @@
 [Face storage="f_c911"]
 [Voice storage="c0176" buf=2]
 ÅyRasetsu DoujiÅz[CR]
-Åu[v]Thanks to you, Yume's Renki has grown to an unbelievable size. Goodbye, Ryou. I had fun spending our days together as Kimino. ÅÙ/v]Åv[KeyWait]
+Åu[v]Thanks to you, Yume's Renki has grown to an unbelievable size. Goodbye, Ryou. I had fun spending our days together as Kimino. ÅÙ[/v]Åv[KeyWait]
 [FaceOff]
 
 [ChrSet1 storage="b_b122" pos=c]
@@ -143,7 +143,7 @@
 [ChrReset1]
 [UpDate]
 
-[text]Rasetsu Douji silently stabbed a hole in the top of  Yume's sphere of glowing Renki, which quickly began rising high into the air.[KeyWait]
+[text]Rasetsu Douji silently stabbed a hole in the top of Yume's sphere of glowing Renki, which quickly began rising high into the air.[KeyWait]
 
 [Face storage="f_a063"]
 [Voice storage="a1468" buf=2]
@@ -325,7 +325,7 @@
 [FaceOff]
 
 [text]My bowels were dominated by the sensation. I felt confused and dizzy.[KeyWait]
-[text]The feeling of urgency, as well as a masochistic excitement, were both welling inside me in response to the foreign object and the feeling of wanting to go it was giving mee.[KeyWait]
+[text]The feeling of urgency, as well as a masochistic excitement, were both welling inside me in response to the foreign object and the feeling of wanting to go it was giving me.[KeyWait]
 
 [ExVoice1 storage="aex59"]
 [Face storage="f_a018"]
@@ -361,7 +361,7 @@
 Åi[v]Fuuh... Uuuuuh, my body... is cumming on its own... This isn't... the time... I have to... get Yume back, or... Kimino... No, nnh, R-Rasetsu... will devour her...[/v]Åj[KeyWait]
 [FaceOff]
 
-[text]I had to protect Yume even if it cost my my life.[KeyWait]
+[text]I had to protect Yume even if it cost me my life.[KeyWait]
 [text]Yet...[KeyWait]
 
 [Face storage="f_r001"]
@@ -728,7 +728,7 @@
 
 [text]Squelch, squelch, squeeelch...[KeyWait]
 
-[text]Getting deflowered my have hurt, but my pussy had still welcomed a dick more easily than my ass had.[KeyWait]
+[text]Getting deflowered may have hurt, but my pussy had still welcomed a dick more easily than my ass had.[KeyWait]
 [text]I couldn't stop shaking from the sensation of the oni's hard cock stretching out and scraping against my walls as they squeezed in on it.[KeyWait]
 [text]The oni's dick reached the end of the road and its tip bumped against my womb, making it shudder with pleasure and spit out more of its hot juices.[KeyWait]
 
@@ -936,7 +936,7 @@
 
 [Face storage="f_r002"]
 ÅyOni BÅz[CR]
-Åu[i]You're rubbin' on me while you squeeze down... This is fukin' right![/i]Åv[KeyWait]
+Åu[i]You're rubbin' on me while you squeeze down... This is fuckin' right![/i]Åv[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex52"]
@@ -1019,8 +1019,8 @@
 
 [text]Squirt squirt squirt, squiiiiiiiiiiiiirt![KeyWait]
 
-[text]My intense orgasm made me shake and shudder asi sprayed out a torrent of hot liquid.[KeyWait]
-[text]Both of my holes' walls squeezed the oni's dicks as they undulated, jostling them around inside me.[KeyWait]
+[text]My intense orgasm made me shake and shudder as I sprayed out a torrent of hot liquid.[KeyWait]
+[text]Both of my holes' walls squeezed the onis' dicks as they undulated, jostling them around inside me.[KeyWait]
 
 [Face storage="f_r001"]
 ÅyOni AÅz[CR]
@@ -1084,7 +1084,7 @@
 [Face storage="f_a044"]
 [Voice storage="a1537" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]R-Right... This is... a girl's body... S-So this thick cum insid eme... is definitely gonna get me pregnant... Even if I'm a guy... my body is a girl's...[/v]Åj[KeyWait]
+Åi[v]R-Right... This is... a girl's body... S-So this thick cum inside me... is definitely gonna get me pregnant... Even if I'm a guy... my body is a girl's...[/v]Åj[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex08"]
@@ -1283,8 +1283,8 @@
 	[UpDate]
 [endif]
 
-[text]The masochistic stimulation ahd the guilt of not being able to protect my beloved cousin led me to another orgasm.[KeyWait]
-[text]After each of the oni had finished having their turns, surely the first ones to have fucked me would be hard again and would resume violating me.[KeyWait]
+[text]The masochistic stimulation and the guilt of not being able to protect my beloved cousin led me to another orgasm.[KeyWait]
+[text]After each of the oni had finished having their turns, the first ones to have fucked me would be hard again and would resume violating me.[KeyWait]
 [text]All I could do is keep cumming over and over again until I couldn't think about anything anymore, not even knowing when my rape would come to an end...[KeyWait]
 
 ;çïâÊñ 

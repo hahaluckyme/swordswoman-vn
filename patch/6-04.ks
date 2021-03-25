@@ -276,7 +276,7 @@
 [UpDate]
 
 [text]Thinking that I could just put my clothes back on as long as they were still clean, I turned around to grab them.[KeyWait]
-[text]But, I was something unexpected...[KeyWait]
+[text]But, I saw something unexpected...[KeyWait]
 
 ;ÇaÇfÇlÅFÉsÉìÉ`
 [playbgm storage="bgm007"]
@@ -427,7 +427,7 @@
 Åu[v]Don't do anything bad to Kimino-chan and Haruka... I mean, Ryou-chan! I don't care what happens to me, just spare them![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]Despite her legs also trembling with fear and being ready to pass out at any moment, Yume desperately tried to save Kimino and I.[KeyWait]
+[text]Despite her legs also trembling with fear and being ready to pass out at any moment, Yume desperately tried to save Kimino and me.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1571" buf=2]
@@ -453,7 +453,7 @@
 
 [Face storage="f_r001"]
 ÅyOni AÅz[CR]
-Åu[i]I guess we'll listen, then. We might just spare those two if do what we say![/i]Åv[KeyWait]
+Åu[i]I guess we'll listen, then. We might just spare those two if you do what we say![/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
@@ -495,7 +495,7 @@
 Åu[v]S-Stop... it! D-Don't show Yume that disgusting thiiing![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]My stomach still hurt really bad from where I was punched, but I mustered upa ll the strength I could and got to my feet and began stumbling over to the oni.[KeyWait]
+[text]My stomach still hurt really bad from where I was punched, but I mustered up all the strength I could and got to my feet and began stumbling over to the oni.[KeyWait]
 
 [Face storage="f_r002"]
 ÅyOni BÅz[CR]
@@ -541,7 +541,7 @@
 
 [Face storage="f_r001"]
 ÅyOni AÅz[CR]
-Åu[i]Oh, it's [ita]real[endita] simple. You just gotta put my big guy right between your tits and shake'em up and down to stroke it![/i]Åv[KeyWait]
+Åu[i]Oh, it's [ita]real[endita] simple. You just gotta put my big guy right between your tits and shake 'em up and down to stroke it![/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_b016"]
@@ -656,7 +656,7 @@
 
 [Face storage="f_r001"]
 ÅyOni AÅz[CR]
-Åu[i]Yeah, just like that. Grab your tits with your hands, stick my dick between'em, and stroke it![/i]Åv[KeyWait]
+Åu[i]Yeah, just like that. Grab your tits with your hands, stick my dick between 'em, and stroke it![/i]Åv[KeyWait]
 [FaceOff]
 
 [text]The oni led her to do what it wanted her to.[KeyWait]
@@ -947,7 +947,7 @@
 
 [Sound storage="se159" buf=1]
 
-[text]squelch!![KeyWait]
+[text]Squelch!![KeyWait]
 
 [Face storage="f_b041"]
 [Voice storage="b0166" buf=2]
@@ -1111,7 +1111,7 @@
 
 [Face storage="f_r002"]
 ÅyOni BÅz[CR]
-Åu[i]Dumbass, your empty husk of a body can't replace the Oni-Pleasin' Princess! You used up all your Renki sealin' Rasetsu, but she's drippin' with it!O[/i]Åv[KeyWait]
+Åu[i]Dumbass, your empty husk of a body can't replace the Oni-Pleasin' Princess! You used up all your Renki sealin' Rasetsu, but she's drippin' with it![/i]Åv[KeyWait]
 [FaceOff]
 
 [text]But the oni refused my proposal and I received another kick to the head.[KeyWait]
@@ -1129,7 +1129,7 @@
 
 [Face storage="f_r001"]
 ÅyOni AÅz[CR]
-Åu[i]Girls' bodies don't care whose dick it is, they'll always feel good and get wet if you stick one in'em. Listen, you're startin' to sound like a bitch in heat![/i]Åv[KeyWait]
+Åu[i]Girls' bodies don't care whose dick it is, they'll always feel good and get wet if you stick one in 'em. Listen, you're startin' to sound like a bitch in heat![/i]Åv[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex08"]
@@ -1348,14 +1348,14 @@
 
 [Face storage="f_r002"]
 ÅyOni BÅz[CR]
-Åu[i]Put my dick in your mouth and make it feel good by lickin' it! If you don't, I'll kick her face into it's swollen then stick it into into her mouth instead![/i]Åv[KeyWait]
+Åu[i]Put my dick in your mouth and make it feel good by lickin' it! If you don't, I'll kick her face until it's swollen then stick it into her mouth instead![/i]Åv[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="bex08"]
 [Face storage="f_b033"]
 [Voice storage="b0192" buf=2]
 ÅyYumeÅz[CR]
-Åu[v]Put it in my mouth... and lick it... A-Aaah, I-i'll do it. I'll do it, s-so don't do anything mean to Ryou-chan, please...[/v]Åv[KeyWait]
+Åu[v]Put it in my mouth... and lick it... A-Aaah, I-I'll do it. I'll do it, s-so don't do anything mean to Ryou-chan, please...[/v]Åv[KeyWait]
 [FaceOff]
 
 [text]Though shocked by the disgusting act, Yume agreed to do it in order to protect me.[KeyWait]
@@ -1406,7 +1406,7 @@
 Åu[v]Hyuh! Y-Yesh, of courshe! Mmh, mmmh, uuuh, lick, lick lick lick, suck, suck, sluuuurp, sluuuuuuurp, hamh mmh! Fwah, afuh, mmmmmmmh![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I could hear the lewd sounds of her tongue pleasing his phallus through her her swollen cheeks.[KeyWait]
+[text]I could hear the lewd sounds of her tongue pleasing his phallus through her swollen cheeks.[KeyWait]
 [text]The sound of the other oni's manhood thrusting in and out of her increasingly-wet pussy also echoed throughout the room as Yume's body convulsed.[KeyWait]
 
 ;b0196
@@ -1568,7 +1568,7 @@
 [FaceOff]
 
 [text]I wanted to tell her it was okay. I wanted to assure her that this wasn't her fault.[KeyWait]
-[text]But the pain from being kicked so hard made it hard to breathe and I could only grown.[KeyWait]
+[text]But the pain from being kicked so hard made it hard to breathe and I could only groan.[KeyWait]
 
 [Face storage="f_r003"]
 ÅyOni CÅz[CR]
@@ -1889,7 +1889,7 @@
 [FaceOff]
 
 [text]Yume looked like she was totally driven up against the wall from the overwhelming amount of cum in not just her womb, but her rectum, too.[KeyWait]
-[text]As if to finish her off, the dick monopolozing her mouth erupted with thick cum, making Yume's cherubic face go mad as it got drowned in the white liquid.[KeyWait]
+[text]As if to finish her off, the dick monopolizing her mouth erupted with thick cum, making Yume's cherubic face go mad as it got drowned in the white liquid.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1590" buf=2]
