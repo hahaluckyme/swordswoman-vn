@@ -230,7 +230,7 @@
 [FaceOff]
 
 [text]I cut down both oni with one slash, the sheer air pressure of my swing also knocking the Oni Masters unconscious.[KeyWait]
-[text]Then, I turned around...ζω‚π•Τ‚µA[KeyWait]
+[text]Then, I turned around...[KeyWait]
 
 [Face storage="f_a078"]
 [Voice storage="a2388" buf=2]

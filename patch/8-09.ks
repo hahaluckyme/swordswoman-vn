@@ -169,7 +169,7 @@
 
 [text]Rasetsu... Rather, Kimino, had asked me to gather Renki from the townsfolk this morning.[KeyWait]
 [text]Normally, she devoured Yume's Renki, but she said that if I took Renki from other people and gave it to her, I could lighten the burden placed on Yume.[KeyWait]
-[text]So decided to go somewhere with a lot of people, but Kimino said it'd be boring and inefficient if I just invited them to have sex, so she suggested I do this instead.[KeyWait]
+[text]So I decided to go somewhere with a lot of people, but Kimino said it'd be boring and inefficient if I just invited them to have sex, so she suggested I do this instead.[KeyWait]
 
 [ExVoice1 storage="aex04"]
 [Face storage="f_a050"]
@@ -345,7 +345,7 @@
 [FaceOff]
 
 [text]My heart nearly stopped as he suddenly embraced me.[KeyWait]
-[text]I could only hear his voice, so excited he sounded angry, so I didn't know what he was going to do to me.[KeyWait]
+[text]I could only hear his voice, which was so excited he sounded angry. I didn't know what he was going to do to me.[KeyWait]
 [text]I felt helplessly afraid.[KeyWait]
 [text]Yet, despite refusing him with my words, I spread my legs wider, presenting my constantly overflowing pussy.[KeyWait]
 [text]He immediately started burying his rock-hard dick inside my open lips.[KeyWait]
@@ -1063,7 +1063,7 @@
 「[i]Fwooh! Her pussy's squeezing me to sight, owaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]いままでは見えないことでの妄想を悩ましく膨らませていたのに、今度は見えることでの生々しさに興奮を昂らせている。[KeyWait]
+[text]My mind was already swirling with perverted delusions from not being able to see, but the raw sensation  of being able to see what I was doing made me get even more excited.[KeyWait]
 
 [ExtasyF]
 

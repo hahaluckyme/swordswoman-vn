@@ -562,7 +562,7 @@
 （[v]P-Perfect, now if they just leave...[/v]）[KeyWait]
 [FaceOff]
 
-[text]余計な犠牲者を出さなくて済む。しかし―――、[KeyWait]
+[text]I'd be able to get through this without any unnecessary victims. However...[KeyWait]
 
 [Face storage="f_c911"]
 [Voice storage="c0231" buf=2]
@@ -570,7 +570,7 @@
 「[v]If you don't hurry up and change I'll kill them all. I won't let a single one escape. ♪[/v]」[KeyWait]
 [FaceOff]
 
-[text]It wasn't just an empty threat - I could feel the same murderous intent rising off her body. Rasetsu held Yume in one arm and pointed lengthened her claws, pointing them at the students and preparing to pounce at any moment.[KeyWait]
+[text]It wasn't just an empty threat - I could feel the same murderous intent rising off her body. Rasetsu held Yume in one arm and extended the pointed claws of her other, aiming them at the students and preparing to pounce.[KeyWait]
 
 [Face storage="f_a045"]
 [Voice storage="a1664" buf=2]

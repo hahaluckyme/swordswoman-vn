@@ -33,8 +33,8 @@
 「[v]A-And, um... I was embarrassed to have you find out... So I've been lying this whole time... I'm sorry...[/v]」[KeyWait]
 [FaceOff]
 
-[text]じっと見詰められるといまも恥ずかしくてたまらない。[KeyWait]
-[text]胸の膨らみとか、ブルマ穿いた股間とか、腕で隠すようにしながら話す。[KeyWait]
+[text]I couldn't take how embarrassing it was to have her staring at me.[KeyWait]
+[text]I covered my chest and bloomers with my arms as I spoke.[KeyWait]
 
 [Face storage="f_b004"]
 [Voice storage="b0358" buf=2]
@@ -546,7 +546,7 @@
 
 [text]Just calling out to Yume had made even more uneasy.[KeyWait]
 [text]Me watching her was as she squirmed from the pleasure pressured her further.[KeyWait]
-[text]Yet, I couldn't tear my eyes away.なのに目が離せない。[KeyWait]
+[text]Yet, I couldn't tear my eyes away.[KeyWait]
 
 [ExVoice2Stop time=1000]
 [SoundOut buf=7 time=1000]

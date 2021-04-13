@@ -403,7 +403,7 @@
 「[v]Hold on for just a little longer. I'll contact the main family and ask if they can do anything about this![/v]」[KeyWait]
 [FaceOff]
 
-[text]ベッドに結女を寝かせ保健室を出ようとする。[KeyWait]
+[text]I put Yume into a bed and went to leave the room.[KeyWait]
 
 [Face storage="f_b016"]
 [Voice storage="b0296" buf=2]
