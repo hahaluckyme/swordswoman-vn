@@ -2549,7 +2549,7 @@
 [Face storage="f_a058"]
 [Voice storage="a1790" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v]Y-You dumbass! I... I'm Ryou! Ichijou Ryou! I've got a girl's body, but I"m actually a guy, so s-stop... S-Stop it...![/v]Åv[KeyWait]
+Åu[v]Y-You dumbass! I... I'm Ryou! Ichijou Ryou! I've got a girl's body, but I'm actually a guy, so s-stop... S-Stop it...![/v]Åv[KeyWait]
 [FaceOff]
 
 [text]This wasn't the time to keep hiding it.[KeyWait]
@@ -2579,7 +2579,7 @@
 
 [Face storage="f_g003"]
 ÅyWatanabeÅz[CR]
-Åu[i]You don't need to pretend to be your twin brother just because you're embarassed! Now, then... I'm putting it in, Haruka-san![/i]Åv[KeyWait]
+Åu[i]You don't need to pretend to be your twin brother just because you're embarrassed! Now, then... I'm putting it in, Haruka-san![/i]Åv[KeyWait]
 [FaceOff]
 
 [text]Watanabe didn't stop. He pulled my slender waist toward his crotch.[KeyWait]
@@ -3397,7 +3397,7 @@
 [Face storage="f_a018"]
 [Voice storage="a1853" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]W-What do I do...? H-He came i nto my womb... so directly... I might... get pregnant, right...? Am I gonna? Am I gonna have Watanabe's baby!? Even though we're both guys!?[/v]Åj[KeyWait]
+Åi[v]W-What do I do...? H-He came in my womb... I might... get pregnant, right...? Am I gonna? Am I gonna have Watanabe's baby!? Even though we're both guys!?[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]The direct assault of cum into my womb made my mind go hazy with pleasure, but then a disgusting possibility crossed my mind.[KeyWait]
