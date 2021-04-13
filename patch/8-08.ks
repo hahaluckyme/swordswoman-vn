@@ -99,7 +99,7 @@
 [Face storage="f_a060"]
 [Voice storage="a2216" buf=2]
 ÅyHarukaÅz[CR]
-Åi[v]I-If we do this, they're gonna grope me like crazy... I've got no way to know how just what they'll do to me...[/v]Åj[KeyWait]
+Åi[v]I-If we do this, they're gonna grope me like crazy... I've got no way to know just what they'll do to me...[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]I hesitated, unsure what to do, but then...[KeyWait]
@@ -118,7 +118,7 @@
 Åi[v]I have to show them... even though so many of them are looking so closely...?[/v]Åj[KeyWait]
 [FaceOff]
 
-[text]My classmates' faces go so close I could feel their breath.[KeyWait]
+[text]My classmates' faces got so close I could feel their breath.[KeyWait]
 [text]I hesitated, resulting in Rasetsu Douji urging me on.[KeyWait]
 
 [Face storage="f_c901"]
@@ -793,7 +793,7 @@
 Åu[v]U-Uuh... That's because...[/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I'd been a virgin up until yesterday. Before that, I'd still been a guy. Yet now, I was a loose, slutty girl whose body was welcoming an erect dick into her p ussy.[KeyWait]
+[text]I'd been a virgin up until yesterday. Before that, I'd still been a guy. Yet now, I was a loose, slutty girl whose body was welcoming an erect dick into her pussy.[KeyWait]
 
 [Face storage="f_o031"]
 ÅyMale Student CÅz[CR]
@@ -1149,7 +1149,7 @@
 
 [Face storage="f_o011"]
 ÅyMale Student AÅz[CR]
-Åu[i]Those two... It's kinda like they're.../i]Åv[KeyWait]
+Åu[i]Those two... It's kinda like they're...[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]

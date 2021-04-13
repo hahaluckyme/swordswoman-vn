@@ -37,7 +37,7 @@
 
 [Face storage="f_l001"]
 【Mom】[CR]
-「[i]Have a good day. Take good care of my good-for-nothing sun, Yume-chan.[/i]」[KeyWait]
+「[i]Have a good day. Take good care of my good-for-nothing son, Yume-chan.[/i]」[KeyWait]
 [FaceOff]
 
 [text]My mom said goodbye to us as she did the dishes in the kitchen. As we stepped outside, we were greeted by blinding sunlight and a cool breeze.[KeyWait]
@@ -172,7 +172,7 @@
 「[v]Geez, that hurts, you're always so violent...[/v]」[KeyWait]
 [FaceOff]
 
-[text]Rasetsu Douji's personality had been sealed by Zanshou and Yume's Renki, and had all butt disappeared. It wouldn't be surfacing again.[KeyWait]
+[text]Rasetsu Douji's personality had been sealed by Zanshou and Yume's Renki, and had all but disappeared. It wouldn't be surfacing again.[KeyWait]
 [text]That's what the main family had said after examining Kimino.[KeyWait]
 [text]Kimino had forgotten everything she'd done as a kijin and had gone back to being my energetic and playful childhood friend.[KeyWait]
 
@@ -220,7 +220,7 @@
 「[v]I... I'm fine! It's, uh... just kind of hot today...[/v]」[KeyWait]
 [FaceOff]
 
-[text]I'd tried to act natural, but I couldn't help but think abou tit, causing me to blush.[KeyWait]
+[text]I'd tried to act natural, but I couldn't help but think about it, causing me to blush.[KeyWait]
 
 [ChrSet1 storage="b_c011"]
 [UpDate]
@@ -369,7 +369,7 @@
 [Face storage="f_a914"]
 [Voice storage="a2444" buf=2]
 【Ryou】[CR]
-「[v]Sorry, I forgot something! I'm gonna go get it, so you two go a h ead without me![/v]」[KeyWait]
+「[v]Sorry, I forgot something! I'm gonna go get it, so you two go ahead without me![/v]」[KeyWait]
 [FaceOff]
 
 [text]I let the surprised pair know I'd be going home to grab something and then sped up into a sprint.[KeyWait]

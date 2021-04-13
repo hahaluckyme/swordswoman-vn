@@ -86,7 +86,7 @@
 
 [Sound storage="se135" buf=0]
 
-[text]Squirt, squirt, squirt!ぴ[KeyWait]
+[text]Squirt, squirt, squirt![KeyWait]
 
 [fadese buf=7 time=500 volume=100]
 
@@ -604,7 +604,7 @@
 [FaceOff]
 
 [text]As I took his stinky dick into my mouth without hesitation, I felt his smegma melt from my saliva, its rotten taste spreading around and seeping into my taste buds.[KeyWait]
-[text]As I swallowed the murky mixture and fervently sucked his cock, the man fell into a trance and began breathing h heavily before thrusting himself into my throat.[KeyWait]
+[text]As I swallowed the murky mixture and fervently sucked his cock, the man fell into a trance and began breathing heavily before thrusting himself into my throat.[KeyWait]
 
 [ExVoice1 storage="aex50"]
 [Face storage="f_a021"]
@@ -1060,7 +1060,7 @@
 
 [Face storage="f_s041"]
 【Man D】[CR]
-「[i]Fwooh! Her pussy's squeezing me to sight, owaah![/i]」[KeyWait]
+「[i]Fwooh! Her pussy's squeezing me so tight, owaah![/i]」[KeyWait]
 [FaceOff]
 
 [text]My mind was already swirling with perverted delusions from not being able to see, but the raw sensation  of being able to see what I was doing made me get even more excited.[KeyWait]
@@ -1128,7 +1128,7 @@
 「[i]She squirted so much it looked like she was pissing, and now that she's [ita]actually[endita] pissing it's like a flood! Just how much liquid does this girl have in her!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]The men's shafts reached their limits as they mocked me incontinence.[KeyWait]
+[text]The men's shafts reached their limits as they mocked my incontinence.[KeyWait]
 
 [SoundStop buf=7]
 [Sound storage="se118" buf=0 wait=true]
@@ -1160,7 +1160,7 @@
 （[v]Ahaah... Yume... I got... more Renki... Aah... Ah...[/v]）[KeyWait]
 [FaceOff]
 
-[text]I sensed multiple presences climbing over the exhausted, collapsed men, racing against each other in order ot be the next one to stick their dick into me.[KeyWait]
+[text]I sensed multiple presences climbing over the exhausted, collapsed men, racing against each other in order to be the next one to stick their dick into me.[KeyWait]
 
 [Face storage="f_a076"]
 [Voice storage="a2374" buf=2]

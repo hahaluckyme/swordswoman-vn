@@ -211,7 +211,7 @@
 
 [Face storage="f_o021"]
 ÅyMale Student BÅz[CR]
-Åu[i]So even though you're a guy, y ou sat in a stall in the girls' room, then.[/i]Åv[KeyWait]
+Åu[i]So even though you're a guy, you sat in a stall in the girls' room, then.[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]
@@ -355,7 +355,7 @@
 [FaceOff]
 
 [text]He took my bra off.[KeyWait]
-[text]It only took a moment for him to unhook i tfrom behind, causing my cups to immediately fall.[KeyWait]
+[text]It only took a moment for him to unhook it from behind, causing my cups to immediately fall.[KeyWait]
 
 [Sound storage="se567" buf=0]
 [ChrSet0 storage="b_a103l"]
@@ -389,7 +389,7 @@
 [FaceOff]
 
 [text]Blushing, I scowled in embarrassment and quickly tried to cover myself up.[KeyWait]
-[text]But before I could, Urabe and the other boob-loving students started groping my me.[KeyWait]
+[text]But before I could, Urabe and the other boob-loving students started groping me.[KeyWait]
 
 [Face storage="f_o011"]
 ÅyMale Student AÅz[CR]
@@ -409,7 +409,7 @@
 [Face storage="f_a039"]
 [Voice storage="a2182" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v]Kufuuuuh! Uuuh, a-aah! S-Stop touching me already...! Sto playing with them, everyone... Fuhyahn! Ooh, a-aaah... I-I'm telling you, d-don't... A-Aaah...[/v]Åv[KeyWait]
+Åu[v]Kufuuuuh! Uuuh, a-aah! S-Stop touching me already...! Stop playing with them, everyone... Fuhyahn! Ooh, a-aaah... I-I'm telling you, d-don't... A-Aaah...[/v]Åv[KeyWait]
 [FaceOff]
 
 [text]Being touched without my bra on really did feel totally different.[KeyWait]

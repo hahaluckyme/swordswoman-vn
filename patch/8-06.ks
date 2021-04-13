@@ -43,7 +43,7 @@
 [FaceOff]
 
 [text]The kijin looked at me with entertained eyes as she spoke.[KeyWait]
-[text]I stopped thinking of her Kimino.[KeyWait]
+[text]I stopped thinking of her as Kimino.[KeyWait]
 [text]She was an evil, human-devouring oni that thought of people as no more than insects.[KeyWait]
 
 [Face storage="f_c908"]
@@ -69,7 +69,7 @@
 [Face storage="f_a066"]
 [Voice storage="a2150" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v]W-Who the hell who follow your...[/v]Åv[KeyWait]
+Åu[v]W-Who the hell would follow your...[/v]Åv[KeyWait]
 [FaceOff]
 
 [text]I began to retort, but...[KeyWait]

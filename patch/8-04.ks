@@ -1,6 +1,6 @@
 
 *scene8-04|
-[eval exp="f.chaptertitle='True Rasetsu's Advent'"]
+[eval exp="f.chaptertitle='True Rasetsu\'s Advent'"]
 
 
 ;場所：校庭～保健室
@@ -220,7 +220,7 @@
 「[v]Hyaguuuh! Fwaah, haaahn, l-let... me go! Fwah, aah, hyuh, stop... A-Aaaah, haaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]Just a few thrusts were enough to make sweet pleasure arise from my pussy, wh ich had been raped thoroughly up until this point.[KeyWait]
+[text]Just a few thrusts were enough to make sweet pleasure arise from my pussy, which had been raped thoroughly up until this point.[KeyWait]
 
 [HSceneEnd]
 [ExVoice1Stop time=2000]
@@ -258,7 +258,7 @@
 [Face storage="f_c902"]
 [Voice storage="c0324" buf=2]
 【Rasetsu Douji】[CR]
-「[v]If you'll have sex with me and give me all of y our Renki, then I won't kill you or Ryou. I'll let you two live with me and give you a good time after I've finished devouring your Renki. We can remain friends, just like before...[/v]」[KeyWait]
+「[v]If you'll have sex with me and give me all of your Renki, then I won't kill you or Ryou. I'll let you two live with me and give you a good time after I've finished devouring your Renki. We can remain friends, just like before...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
@@ -273,7 +273,7 @@
 「[v]N-No... Kuhyiii, Yume... Don't give her... Haaaah... Your Renki, fwaaauuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]Moans disrupted my words. The thick, rough dick rubbing against my inner walls and smacking against my womb made my mind soar throughout the again and again.[KeyWait]
+[text]Moans disrupted my words. The thick, rough dick rubbing against my inner walls and smacking against my womb made my mind soar again and again.[KeyWait]
 
 [Face storage="f_b012"]
 [Voice storage="b0367" buf=2]
@@ -756,7 +756,7 @@
 [Face storage="f_b033"]
 [Voice storage="b0391" buf=5]
 【Yume】[CR]
-「[v]Hyuh!? Show... R-Ryouchan...!?[/v]」[KeyWait]
+「[v]Hyuh!? Show... R-Ryou-chan...!?[/v]」[KeyWait]
 [FaceOff]
 
 [text]As Rasetsu stirred up Yume's embarrassment, which had already reached its peak, her own body began to quiver with excited joy as she thrust into her, entranced.[KeyWait]
@@ -923,18 +923,18 @@
 
 [text]Rather... She [ita]had[endita] stood before me.[KeyWait]
 [text]Up until just a moment ago, she'd said my name from a short distance in front of me, but now the kijin was standing directly behind me.[KeyWait]
-[text]Plus, the student-turned-oni who hd been fucking me had collapsed and was in critical condition, as if he'd taken dozens of powerful blows at once.[KeyWait]
+[text]Plus, the student-turned-oni who had been fucking me had collapsed and was in critical condition, as if he'd taken dozens of powerful blows at once.[KeyWait]
 
 [Face storage="f_c902"]
 [Voice storage="c0345" buf=2]
 【Rasetsu Douji】[CR]
-「[v]Sorry for the wait, Ryou. In reality, it's better if I just kill you right away since you[re the Ichijou Oni-Cutting Princess, but I promised Yume, so as my childhood friend, I'll let you live.[/v]」[KeyWait]
+「[v]Sorry for the wait, Ryou. In reality, it's better if I just kill you right away since you're the Ichijou Oni-Cutting Princess, but I promised Yume, so as my childhood friend, I'll let you live.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
 [Voice storage="c0346" buf=2]
 【Rasetsu Douji】[CR]
-「[v]And... I'm going to give you a full lesson on the pleasures of beijg a girl with my dick.[/v]」[KeyWait]
+「[v]And... I'm going to give you a full lesson on the pleasures of being a girl with my dick.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
@@ -1197,7 +1197,7 @@
 [Face storage="f_c911"]
 [Voice storage="c0361" buf=5]
 【Rasetsu Douji】[CR]
-「[v]You're [ita]still[endita] holding it in. You won't accept that it feels good and just enjoy it. Even Yume felt good from my dick! Do you really hate having sex with me that much!?It do[/v]」[KeyWait]
+「[v]You're [ita]still[endita] holding it in. You won't accept that it feels good and just enjoy it. Even Yume felt good from my dick! Do you really hate having sex with me that much!?[/v]」[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex77"]
@@ -1334,7 +1334,7 @@
 「[v]Hyaaah, nfwaah! Ah, hyeaaah! Auh, don't... That's too deep... Aaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]Rasetsu's cock pried pen my womb and buried itself right inside it.[KeyWait]
+[text]Rasetsu's cock pried open my womb and buried itself right inside it.[KeyWait]
 [text]My mind flickered as I got dizzy and had trouble breathing.[KeyWait]
 [text]Her member grew in size even further inside my womb, pressing out on it and making me feel like I was going to go totally insane.[KeyWait]
 [text]And not only that, but Rasetsu stuck her hand in my crotch as well, pinching and squeezing my swollen and aching clitoris.[KeyWait]
@@ -1388,7 +1388,7 @@
 
 [Face storage="f_r002"]
 【Male Student B】[CR]
-「[i]Ooh, she's cummin', she's cummin;! She's leakin; pussy juices and shakin' as she cums![/i]」[KeyWait]
+「[i]Ooh, she's cummin', she's cummin'! She's leakin' pussy juices and shakin' as she cums![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r003"]

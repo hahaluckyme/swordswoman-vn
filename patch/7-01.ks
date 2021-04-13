@@ -109,7 +109,7 @@
 （[v]Everyone... knows me!?[/v]）[KeyWait]
 [FaceOff]
 
-[text]My classmates aside, I don't think many people know about me back when I was Ichijou Ryou.[KeyWait]
+[text]My classmates aside, I don't think many people knew about me back when I was Ichijou Ryou.[KeyWait]
 [text]At most, I think I was just known as the kind of unpopular guy who hung out with Ichijou Yume and Sakatani Kimino.[KeyWait]
 
 [Face storage="f_a046"]
@@ -729,7 +729,7 @@
 
 [Face storage="f_o011"]
 【Male Student E】[CR]
-「[i]Uhah, I didn't know bare boobs bounced like that! Makes me wanna support'em with my hands![/i]」[KeyWait]
+「[i]Uhah, I didn't know bare boobs bounced like that! Makes me wanna support 'em with my hands![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_p041"]
@@ -1000,7 +1000,7 @@
 （[v]Ugh... This... really doesn't feel good...[/v]）[KeyWait]
 [FaceOff]
 
-[text]I felt uncomfortable as the guys' gazes instantly focued on my butt.[KeyWait]
+[text]I felt uncomfortable as the guys' gazes instantly focused on my butt.[KeyWait]
 
 [Face storage="f_a069"]
 [Voice storage="a1694" buf=2]
@@ -1560,7 +1560,7 @@
 [Face storage="f_a039"]
 [Voice storage="a1728" buf=3]
 【Haruka】[CR]
-（[v]My body's more frail... than it was when I was a guy, so... other guys just look bigger now... My skin's smoother now, so... guys from sports clubs and stuff... just look m ore buff...[/v]）[KeyWait]
+（[v]My body's more frail... than it was when I was a guy, so... other guys just look bigger now... My skin's smoother now, so... guys from sports clubs and stuff... just look more buff...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a048"]
@@ -1834,7 +1834,7 @@
 ;e0022
 ;「ぢゅぼっ、ぢゅぱっ、んぢゅるうんっ！　んぼっ！　ぶちゅる、ちゅぶっ、んぢゅうっ！　ぢゅぱ、ぶちゅる、ちゅぱ、んぶはぁっ！　ぶちゅる、ちゅば、ちゅぶ、ぶちゅるんっ！　んぼっ！　れるれろ、んっ、ぢゅぱ！　んぶううんっ！」
 
-[text]The girls showered Rasetsu wit praise as they enthusiastically serviced her cock.[KeyWait]
+[text]The girls showered Rasetsu with praise as they enthusiastically serviced her cock.[KeyWait]
 
 [ExVoice1Stop time=4000]
 [ExVoice2Stop time=4000]
@@ -1853,7 +1853,7 @@
 「[v]Fweeeeh... S-Something's... hitting... against me... A-Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]She sat Yume down on her lap in such a way that her cock stuck up betwen her thighs.[KeyWait]
+[text]She sat Yume down on her lap in such a way that her cock stuck up between her thighs.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a1743" buf=2]
@@ -2287,7 +2287,7 @@
 ;b0252
 ;「はぁぅうん……んっ、ふああ……んくっ、ふぅん、ぅううん……んぁ……はっ、んはぁ、はぁぅ……あはぁ……はっ、んん……はぅ……んっ、くぅん……ん、はぁ、ぁああん……あはああぁ、あふ、ううん……」
 
-[text]Every time Yume squirmed, the cock sticking up between h er thighs would shake around, seducing the girls swarming her and Rasetsu.[KeyWait]
+[text]Every time Yume squirmed, the cock sticking up between her thighs would shake around, seducing the girls swarming her and Rasetsu.[KeyWait]
 
 [text]Suck, suck, slurp... Lick, suck suck...[KeyWait]
 
@@ -2457,7 +2457,7 @@
 
 [Face storage="f_g008"]
 【Watanabe】[CR]
-「[i]What do you think you're doing to my future wife!? Move over and let [ita]me[endita] gonna put it in![/i]」[KeyWait]
+「[i]What do you think you're doing to my future wife!? Move over and let [ita]me[endita] put it in![/i]」[KeyWait]
 [FaceOff]
 
 [text]The other guys backed away, scared by Watanabe's threatening cries. The shock quickly left his face and he regained his composure before he pulled both his pants and boxers down.[KeyWait]
@@ -2622,7 +2622,7 @@
 [Face storage="f_a050"]
 [Voice storage="a1796" buf=3]
 【Haruka】[CR]
-（[v]Are guys... supposed to be... this thick...? Aah, his dick... it's pushing against my walls... and stretching me ouuu! Nfuuhaah![/v]）[KeyWait]
+（[v]Are guys... supposed to be... this thick...? Aah, his dick... it's pushing against my walls... and stretching me ouuut! Nfuuhaah![/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
@@ -3646,7 +3646,7 @@
 [Face storage="f_c906"]
 [Voice storage="c0254" buf=2]
 【Rasetsu Douji】[CR]
-「[v]Haaaaah... Kufufu, how pitiful, Ryou - rather, the Ichijou Oni-Cutting Princess. Go on, drown in pleasure and become nothing more than s slutty female.[/v]」[KeyWait]
+「[v]Haaaaah... Kufufu, how pitiful, Ryou - rather, the Ichijou Oni-Cutting Princess. Go on, drown in pleasure and become nothing more than a slutty female.[/v]」[KeyWait]
 [FaceOff]
 
 [text]Realizing that the time where she'd be able to fully utilize her true nature as a kijin, Rasetsu Douji smiled happily at my pathetic state as I writhed with pleasure.[KeyWait]
