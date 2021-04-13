@@ -548,7 +548,7 @@
 [Face storage="f_c022"]
 [Voice storage="c0088" buf=2]
 ÅyKiminoÅz[CR]
-Åu[v]S-sorry... I didn't know you were that strong, haruka... But, we couldn't just leave you behind with them all alone...[/v]Åv[KeyWait]
+Åu[v]S-sorry... I didn't know you were that strong, Haruka... But, we couldn't just leave you behind with them all alone...[/v]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_a051"]

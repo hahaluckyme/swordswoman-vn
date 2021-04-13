@@ -362,7 +362,7 @@
 [Face storage="f_a072"]
 [Voice storage="a1270" buf=2]
 【Haruka】[CR]
-「[v]Reincarnation...? Kimino... A kijin... I-I... made you awakene...!?[/v]」[KeyWait]
+「[v]Reincarnation...? Kimino... A kijin... I-I... made you awaken...!?[/v]」[KeyWait]
 [FaceOff]
 
 [text]I finally understood, but I couldn't believe it. I couldn't believe that the childhood friend I'd been with for so long had really been the reincarnation of an oni.[KeyWait]
@@ -575,7 +575,7 @@
 「[v]Huh? Mmh! Hauh...!?[/v]」[KeyWait]
 [FaceOff]
 
-[text]Rasetsu mutered something so quiet I could hear it before kissing me passionately out of nowhere.[KeyWait]
+[text]Rasetsu muttered something so quiet I could hear it before kissing me passionately out of nowhere.[KeyWait]
 
 [Face storage="f_a039"]
 [Voice storage="a1283" buf=2]
@@ -608,7 +608,7 @@
 [text]Drip...[KeyWait]
 
 [text]Saliva trickled from my lips as Rasetsu parted ways with them.[KeyWait]
-[text]She licked it up with her red tongue before she started speaking with an ecstatic expression on  her face.[KeyWait]
+[text]She licked it up with her red tongue before she started speaking with an ecstatic expression on her face.[KeyWait]
 
 [Face storage="f_c901"]
 [Voice storage="c0128" buf=2]
@@ -628,7 +628,7 @@
 [Face storage="f_c901"]
 [Voice storage="c0130" buf=2]
 【Rasetsu Douji】[CR]
-「[v]And when the Oni-Cutting Princess herself was in danger of being raped, the Oni-Pleasing Princess would exude Renki from her body so we'd let our guards down. The Oni-Pleasing Princess's Renki is like a  the ultimate nectar for us oni.[/v]」[KeyWait]
+「[v]And when the Oni-Cutting Princess herself was in danger of being raped, the Oni-Pleasing Princess would exude Renki from her body so we'd let our guards down. The Oni-Pleasing Princess's Renki is like the ultimate nectar for us oni.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a062"]
@@ -642,7 +642,7 @@
 [Face storage="f_c901"]
 [Voice storage="c0131" buf=2]
 【Rasetsu Douji】[CR]
-「[v]When I used  that water oni to mess with you in the pool, Haruka, Yume's Renki swelled up. That's what made me realize you two were just the same as them. But... Thanks to that, it became a little hard to stop my body from throbbing. ♪[/v]」[KeyWait]
+「[v]When I used that water oni to mess with you in the pool, Haruka, Yume's Renki swelled up. That's what made me realize you two were just the same as them. But... Thanks to that, it became a little hard to stop my body from throbbing. ♪[/v]」[KeyWait]
 [FaceOff]
 
 [text]Rasetsu began grinding her crotch on my lower body.[KeyWait]
@@ -716,7 +716,7 @@
 
 [text]The oni surrounding Yume that Rasetsu referred to as 'gaki' were practically going mad with excitement.[KeyWait]
 [text]They clearly wanted to rape and devour the Oni-Pleasing Princess right away, but the kijin calling herself Rasetsu Douji was apparently quite the powerful leader.[KeyWait]
-[text]Precum continuusly dripped out of their swollen cocks like water guns as they frustratingly groped Yume's bare breasts and butt.[KeyWait]
+[text]Precum continuously dripped out of their swollen cocks like water guns as they frustratingly groped Yume's bare breasts and butt.[KeyWait]
 
 [Face storage="f_a058"]
 [Voice storage="a1291" buf=2]
@@ -976,7 +976,7 @@
 「[v]Now, Oni-Cutting Princess. Use your body to urge the Oni-Pleasing Princess to create the best Renki possible.[/v]」[KeyWait]
 [FaceOff]
 
-[text]Rasetsu  flashed a challenging gaze at me as she nuzzled Yume's cheeks. She looked afraid despite her eyes still being closed. Rasetsu then began licking her, sharp fangs peeking out of her lips as she did.[KeyWait]
+[text]Rasetsu flashed a challenging gaze at me as she nuzzled Yume's cheeks. She looked afraid despite her eyes still being closed. Rasetsu then began licking her, sharp fangs peeking out of her lips as she did.[KeyWait]
 
 [Face storage="f_a030"]
 [Voice storage="a1304" buf=2]
@@ -1322,7 +1322,7 @@
 （[v]Aah, no, this is...[/v]）[KeyWait]
 [FaceOff]
 
-[text]I wrapped my legs around the oni's neck as it ran its tongue along my groin, lifting my h ips up as if to beg for more.[KeyWait]
+[text]I wrapped my legs around the oni's neck as it ran its tongue along my groin, lifting my hips up as if to beg for more.[KeyWait]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
@@ -1331,7 +1331,7 @@
 
 [Sound storage="se141" buf=1]
 
-[text]Suck, slurp, sluuuuuuurp, squeeeeelch!ち[KeyWait]
+[text]Suck, slurp, sluuuuuuurp, squeeeeelch![KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV601b"]
@@ -1380,7 +1380,7 @@
 
 [Face storage="f_r004"]
 【Oni D】[CR]
-「[i]You want us to grope'em so badly you're cryin'?[/i]」[KeyWait]
+「[i]You want us to grope 'em so badly you're cryin'?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
@@ -1462,7 +1462,7 @@
 [Face storage="f_a050"]
 [Voice storage="a1341" buf=3]
 【Haruka】[CR]
-（[v]Fweeaah... Their fingers... are digging into, my boobs... Kufwah! It's like, my body's cells, are scatteriiing... I-I can't... take t his, hwaah, haaaaaaaaahn![/v]）[KeyWait]
+（[v]Fweeaah... Their fingers... are digging into, my boobs... Kufwah! It's like, my body's cells, are scatteriiing... I-I can't... take this, hwaah, haaaaaaaaahn![/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
@@ -2069,7 +2069,7 @@
 [text]Schwap, schwap, schwap![KeyWait]
 
 [text]My anus's folds were doing their best to shut as always, but the mixture of my rectum's moisture along with the wetness from my pussy both made the foreign object's intrusion a smooth one.[KeyWait]
-[text]The oni's thick finger further into me, passing its first joint, second join, and then finally all the way to its base.[KeyWait]
+[text]The oni's thick finger further into me, passing its first joint, second joint, and then finally all the way to its base.[KeyWait]
 
 [Sound storage="se157" buf=1]
 

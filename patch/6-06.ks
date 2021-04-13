@@ -199,7 +199,7 @@
 [Face storage="f_c910"]
 [Voice storage="c0207" buf=2]
 【Rasetsu Douji】[CR]
-「[v]So, with that settled... I'm sorry, Yume. Kimino rreally loved you.[/v]」[KeyWait]
+「[v]So, with that settled... I'm sorry, Yume. Kimino really loved you.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a035"]
@@ -213,7 +213,7 @@
 [Face storage="f_c908"]
 [Voice storage="c0208" buf=2]
 【Rasetsu Douji】[CR]
-「[v]But it made it really annoyed that you always monopolized Ryou's heart, yet never realized his feelings.[/v]」[KeyWait]
+「[v]But it made it really annoying that you always monopolized Ryou's heart, yet never realized his feelings.[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a035"]
@@ -264,7 +264,7 @@
 「[v]I didn't think you'd throw away the Oni-Cutting Blade [ita]that[endita] easily. Geez, you really do love Yume, huh, Ryou? I'm gonna get jealous, and that's not even Kimino talking...[/v]」[KeyWait]
 [FaceOff]
 
-[text]She licked up the tiny bit of blood on Yume's neck then readjusted her into a princess carry and dmiled.[KeyWait]
+[text]She licked up the tiny bit of blood on Yume's neck then readjusted her into a princess carry and smiled.[KeyWait]
 
 [Face storage="f_a011"]
 [Voice storage="a1618" buf=2]
@@ -281,7 +281,7 @@
 [Face storage="f_c902"]
 [Voice storage="c0212" buf=2]
 【Rasetsu Douji】[CR]
-「[v]Ahaha. But if you'd been stubborn, I would have had to go a little further, so it's good that you surrendered quickly. I don't want to hurt my childhood friend reason for no reason, you know.[/v]」[KeyWait]
+「[v]Ahaha. But if you'd been stubborn, I would have had to go a little further, so it's good that you surrendered quickly. I don't want to hurt my childhood friend for no reason, you know.[/v]」[KeyWait]
 [FaceOff]
 
 [text]She sure seemed rather casual about hurting Yume despite her claims.[KeyWait]
