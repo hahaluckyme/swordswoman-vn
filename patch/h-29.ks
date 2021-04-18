@@ -202,7 +202,7 @@
 Åu[i]Gweeh! Aguh, agaaaaah![/i]Åv[KeyWait]
 [FaceOff]
 
-[text]AsI put pressure on his windpipe, making sure not to kill him, his face gradually grew redder as he struggled more and more to breathe.[KeyWait]
+[text]As I put pressure on his windpipe, making sure not to kill him, his face gradually grew redder as he struggled more and more to breathe.[KeyWait]
 
 [ExVoice1 storage="aex67"]
 [Face storage="f_a022"]
