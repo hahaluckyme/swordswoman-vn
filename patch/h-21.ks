@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='羅刹に犯される結女'"]
+[eval exp="f.chaptertitle='Yume Raped by Rasetsu'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -42,7 +42,7 @@
 [Face storage="f_c902"]
 [Voice storage="c0324" buf=2]
 【Rasetsu Douji】[CR]
-「[v]If you'll have sex with me and give me all of y our Renki, then I won't kill you or Ryou. I'll let you two live with me and give you a good time after I've finished devouring your Renki. We can remain friends, just like before...[/v]」[KeyWait]
+「[v]If you'll have sex with me and give me all of your Renki, then I won't kill you or Ryou. I'll let you two live with me and give you a good time after I've finished devouring your Renki. We can remain friends, just like before...[/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_c902"]
@@ -57,7 +57,7 @@
 「[v]N-No... Kuhyiii, Yume... Don't give her... Haaaah... Your Renki, fwaaauuh![/v]」[KeyWait]
 [FaceOff]
 
-[text]Moans disrupted my words. The thick, rough dick rubbing against my inner walls and smacking against my womb made my mind soar throughout the again and again.[KeyWait]
+[text]Moans disrupted my words. The thick, rough dick rubbing against my inner walls and smacking against my womb made my mind soar again and again.[KeyWait]
 
 [Face storage="f_b012"]
 [Voice storage="b0367" buf=2]
@@ -330,7 +330,7 @@
 
 [text]Just calling out to Yume had made even more uneasy.[KeyWait]
 [text]Me watching her was as she squirmed from the pleasure pressured her further.[KeyWait]
-[text]Yet, I couldn't tear my eyes away.なのに目が離せない。[KeyWait]
+[text]Yet, I couldn't tear my eyes away.[KeyWait]
 
 [ExVoice2Stop time=1000]
 [SoundOut buf=7 time=1000]
@@ -540,7 +540,7 @@
 [Face storage="f_b033"]
 [Voice storage="b0391" buf=5]
 【Yume】[CR]
-「[v]Hyuh!? Show... R-Ryouchan...!?[/v]」[KeyWait]
+「[v]Hyuh!? Show... R-Ryou-chan...!?[/v]」[KeyWait]
 [FaceOff]
 
 [text]As Rasetsu stirred up Yume's embarrassment, which had already reached its peak, her own body began to quiver with excited joy as she thrust into her, entranced.[KeyWait]

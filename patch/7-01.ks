@@ -3397,7 +3397,7 @@
 [Face storage="f_a018"]
 [Voice storage="a1853" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]W-What do I do...? H-He came in my womb... I might... get pregnant, right...? Am I gonna? Am I gonna have Watanabe's baby!? Even though we're both guys!?[/v]Åj[KeyWait]
+Åi[v]W-What do I do...? H-He came into my womb... directly... I might... get pregnant, right...? Am I gonna? Am I gonna have Watanabe's baby!? Even though we're both guys!?[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]The direct assault of cum into my womb made my mind go hazy with pleasure, but then a disgusting possibility crossed my mind.[KeyWait]

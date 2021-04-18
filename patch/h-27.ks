@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='駅前エロ水着放置'"]
+[eval exp="f.chaptertitle='Sexy Swimsuit Abandonment Play at the Station'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -83,7 +83,7 @@
 
 [Sound storage="se135" buf=0]
 
-[text]Squirt, squirt, squirt!ぴ[KeyWait]
+[text]Squirt, squirt, squirt![KeyWait]
 
 [fadese buf=7 time=500 volume=100]
 
@@ -166,7 +166,7 @@
 
 [text]Rasetsu... Rather, Kimino, had asked me to gather Renki from the townsfolk this morning.[KeyWait]
 [text]Normally, she devoured Yume's Renki, but she said that if I took Renki from other people and gave it to her, I could lighten the burden placed on Yume.[KeyWait]
-[text]So decided to go somewhere with a lot of people, but Kimino said it'd be boring and inefficient if I just invited them to have sex, so she suggested I do this instead.[KeyWait]
+[text]So I decided to go somewhere with a lot of people, but Kimino said it'd be boring and inefficient if I just invited them to have sex, so she suggested I do this instead.[KeyWait]
 
 [ExVoice1 storage="aex04"]
 [Face storage="f_a050"]
@@ -342,7 +342,7 @@
 [FaceOff]
 
 [text]My heart nearly stopped as he suddenly embraced me.[KeyWait]
-[text]I could only hear his voice, so excited he sounded angry, so I didn't know what he was going to do to me.[KeyWait]
+[text]I could only hear his voice, which was so excited he sounded angry. I didn't know what he was going to do to me.[KeyWait]
 [text]I felt helplessly afraid.[KeyWait]
 [text]Yet, despite refusing him with my words, I spread my legs wider, presenting my constantly overflowing pussy.[KeyWait]
 [text]He immediately started burying his rock-hard dick inside my open lips.[KeyWait]
@@ -601,7 +601,7 @@
 [FaceOff]
 
 [text]As I took his stinky dick into my mouth without hesitation, I felt his smegma melt from my saliva, its rotten taste spreading around and seeping into my taste buds.[KeyWait]
-[text]As I swallowed the murky mixture and fervently sucked his cock, the man fell into a trance and began breathing h heavily before thrusting himself into my throat.[KeyWait]
+[text]As I swallowed the murky mixture and fervently sucked his cock, the man fell into a trance and began breathing heavily before thrusting himself into my throat.[KeyWait]
 
 [ExVoice1 storage="aex50"]
 [Face storage="f_a021"]
@@ -1057,10 +1057,10 @@
 
 [Face storage="f_s041"]
 【Man D】[CR]
-「[i]Fwooh! Her pussy's squeezing me to sight, owaah![/i]」[KeyWait]
+「[i]Fwooh! Her pussy's squeezing me so tight, owaah![/i]」[KeyWait]
 [FaceOff]
 
-[text]いままでは見えないことでの妄想を悩ましく膨らませていたのに、今度は見えることでの生々しさに興奮を昂らせている。[KeyWait]
+[text]My mind was already swirling with perverted delusions from not being able to see, but the raw sensation  of being able to see what I was doing made me get even more excited.[KeyWait]
 
 [ExtasyF]
 
@@ -1125,7 +1125,7 @@
 「[i]She squirted so much it looked like she was pissing, and now that she's [ita]actually[endita] pissing it's like a flood! Just how much liquid does this girl have in her!?[/i]」[KeyWait]
 [FaceOff]
 
-[text]The men's shafts reached their limits as they mocked me incontinence.[KeyWait]
+[text]The men's shafts reached their limits as they mocked my incontinence.[KeyWait]
 
 [SoundStop buf=7]
 [Sound storage="se118" buf=0 wait=true]
@@ -1157,7 +1157,7 @@
 （[v]Ahaah... Yume... I got... more Renki... Aah... Ah...[/v]）[KeyWait]
 [FaceOff]
 
-[text]I sensed multiple presences climbing over the exhausted, collapsed men, racing against each other in order ot be the next one to stick their dick into me.[KeyWait]
+[text]I sensed multiple presences climbing over the exhausted, collapsed men, racing against each other in order to be the next one to stick their dick into me.[KeyWait]
 
 [Face storage="f_a076"]
 [Voice storage="a2374" buf=2]

@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='鬼族専用風俗店'"]
+[eval exp="f.chaptertitle='Oni Brothel'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 

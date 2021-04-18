@@ -296,7 +296,7 @@
 [Face storage="f_a017"]
 [Voice storage="a0493" buf=3]
 ÅyRyouÅz[CR]
-Åi[v]A-Aah, I can feel the vibrations... in my pussy... KUfuh, ukuuuh, fuuh, nnh, nnnh, nnnnnnnh![/v]Åj[KeyWait]
+Åi[v]A-Aah, I can feel the vibrations... in my pussy... Kufuh, ukuuuh, fuuh, nnh, nnnh, nnnnnnnh![/v]Åj[KeyWait]
 [FaceOff]
 
 [text]The two thick shafts packed tight inside my holes pressed against each other through the thin wall keeping them apart, multiplying my pleasure even further.[KeyWait]

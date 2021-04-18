@@ -297,7 +297,7 @@
 Åu[v]M-More dick, pleeeashe![/v]Åv[KeyWait]
 [FaceOff]
 
-[text]I kicked away the girls crawling at me feet that were trying to suck on my penis.[KeyWait]
+[text]I kicked away the girls crawling at my feet that were trying to suck on my penis.[KeyWait]
 
 [Face storage="f_c908"]
 [Voice storage="c0259" buf=2]

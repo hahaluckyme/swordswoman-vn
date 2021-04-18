@@ -217,7 +217,7 @@
 [Face storage="f_a039"]
 [Voice storage="a1728" buf=3]
 【Haruka】[CR]
-（[v]My body's more frail... than it was when I was a guy, so... other guys just look bigger now... My skin's smoother now, so... guys from sports clubs and stuff... just look m ore buff...[/v]）[KeyWait]
+（[v]My body's more frail... than it was when I was a guy, so... other guys just look bigger now... My skin's smoother now, so... guys from sports clubs and stuff... just look more buff...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a048"]
@@ -491,7 +491,7 @@
 ;e0022
 ;「ぢゅぼっ、ぢゅぱっ、んぢゅるうんっ！　んぼっ！　ぶちゅる、ちゅぶっ、んぢゅうっ！　ぢゅぱ、ぶちゅる、ちゅぱ、んぶはぁっ！　ぶちゅる、ちゅば、ちゅぶ、ぶちゅるんっ！　んぼっ！　れるれろ、んっ、ぢゅぱ！　んぶううんっ！」
 
-[text]The girls showered Rasetsu wit praise as they enthusiastically serviced her cock.[KeyWait]
+[text]The girls showered Rasetsu with praise as they enthusiastically serviced her cock.[KeyWait]
 
 [ExVoice1Stop time=4000]
 [ExVoice2Stop time=4000]
@@ -510,7 +510,7 @@
 「[v]Fweeeeh... S-Something's... hitting... against me... A-Aah...[/v]」[KeyWait]
 [FaceOff]
 
-[text]She sat Yume down on her lap in such a way that her cock stuck up betwen her thighs.[KeyWait]
+[text]She sat Yume down on her lap in such a way that her cock stuck up between her thighs.[KeyWait]
 
 [Face storage="f_a046"]
 [Voice storage="a1743" buf=2]
@@ -944,7 +944,7 @@
 ;b0252
 ;「はぁぅうん……んっ、ふああ……んくっ、ふぅん、ぅううん……んぁ……はっ、んはぁ、はぁぅ……あはぁ……はっ、んん……はぅ……んっ、くぅん……ん、はぁ、ぁああん……あはああぁ、あふ、ううん……」
 
-[text]Every time Yume squirmed, the cock sticking up between h er thighs would shake around, seducing the girls swarming her and Rasetsu.[KeyWait]
+[text]Every time Yume squirmed, the cock sticking up between her thighs would shake around, seducing the girls swarming her and Rasetsu.[KeyWait]
 
 [text]Suck, suck, slurp... Lick, suck suck...[KeyWait]
 

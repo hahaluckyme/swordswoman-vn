@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='囚われの結女'"]
+[eval exp="f.chaptertitle='Imprisoned Yume'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 

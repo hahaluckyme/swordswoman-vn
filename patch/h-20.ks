@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='結女とエッチ'"]
+[eval exp="f.chaptertitle='Sex with Yume'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -75,7 +75,7 @@
 「[v]Mmh![/v]」[KeyWait]
 [FaceOff]
 
-[text]My heart throbbed as he looked at me as if to ask why I'd done that.[KeyWait]
+[text]My heart throbbed as she looked at me as if to ask why I'd done that.[KeyWait]
 
 [Face storage="f_a906"]
 [Voice storage="a1983" buf=2]
@@ -266,7 +266,7 @@
 「[v]Hold on for just a little longer. I'll contact the main family and ask if they can do anything about this![/v]」[KeyWait]
 [FaceOff]
 
-[text]ベッドに結女を寝かせ保健室を出ようとする。[KeyWait]
+[text]I put Yume into a bed and went to leave the room.[KeyWait]
 
 [Face storage="f_b016"]
 [Voice storage="b0296" buf=2]
@@ -277,7 +277,7 @@
 [Face storage="f_a910"]
 [Voice storage="a1996" buf=2]
 【Ryou】[CR]
-「[v]Owah!/ Y-Yume!?[/v]」[KeyWait]
+「[v]Owah! Y-Yume!?[/v]」[KeyWait]
 [FaceOff]
 
 [Sound storage="se567" buf=0]
@@ -401,7 +401,7 @@
 [Face storage="f_b035"]
 [Voice storage="b0301" buf=5]
 【Yume】[CR]
-「[v]Mmmh! Kiss, kiss, mfh! Mhah... Kiss, slurp... Kiss... SLurp, mfh, slurp... Kiss, mmh... Kiss... Smack, kiss, slurp...![/v]」[KeyWait]
+「[v]Mmmh! Kiss, kiss, mfh! Mhah... Kiss, slurp... Kiss... Slurp, mfh, slurp... Kiss, mmh... Kiss... Smack, kiss, slurp...![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a910"]
@@ -553,7 +553,7 @@
 [Face storage="f_b046"]
 [Voice storage="b0309" buf=2]
 【Yume】[CR]
-「[v]You... always protected me, Ryou-chan... E-Even though it meant you had to go through such terrible things... You saved me over and over again... I... was so cared I couldn't take it, Ryou-chan... But you saved me![/v]」[KeyWait]
+「[v]You... always protected me, Ryou-chan... E-Even though it meant you had to go through such terrible things... You saved me over and over again... I... was so scared I couldn't take it, Ryou-chan... But you saved me![/v]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a910"]
@@ -662,7 +662,7 @@
 「[v]Fweeh!? Hauuuh! Fuuh, ah, haaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]I became entrance and indulged myself in Yume's large breasts, which were pretty much spilling out of her open blouse.[KeyWait]
+[text]I became entranced and indulged myself in Yume's large breasts, which were pretty much spilling out of her open blouse.[KeyWait]
 
 [Face storage="f_a909"]
 [Voice storage="a2023" buf=2]
@@ -688,7 +688,7 @@
 [Face storage="f_a928"]
 [Voice storage="a2025" buf=2]
 【Ryou】[CR]
-（[v]So this... is what Yume tasts like... Aah...[/v]）[KeyWait]
+（[v]So this... is what Yume tastes like... Aah...[/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice2 storage="bex26"]
@@ -1073,7 +1073,7 @@
 [Face storage="f_a910"]
 [Voice storage="a2046" buf=2]
 【Ryou】[CR]
-（[v]Haaaah! W-Wow...! So this is how it feels to be inside ap ussy![/v]）[KeyWait]
+（[v]Haaaah! W-Wow...! So this is how it feels to be inside a pussy![/v]）[KeyWait]
 [FaceOff]
 
 [text]Thanks to turning into the Oni-Cutting Princess, despite being a guy, I'd learned how it felt to be on the receiving end first.[KeyWait]

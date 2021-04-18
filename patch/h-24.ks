@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='教室でクラスメイトにフェラさせられる'"]
+[eval exp="f.chaptertitle='Forced Blowjob in the Classroom'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -71,7 +71,7 @@
 [FaceOff]
 
 [text]He took my bra off.[KeyWait]
-[text]It only took a moment for him to unhook i tfrom behind, causing my cups to immediately fall.[KeyWait]
+[text]It only took a moment for him to unhook it from behind, causing my cups to immediately fall.[KeyWait]
 
 [Sound storage="se567" buf=0]
 [ChrSet0 storage="b_a103l"]
@@ -105,7 +105,7 @@
 [FaceOff]
 
 [text]Blushing, I scowled in embarrassment and quickly tried to cover myself up.[KeyWait]
-[text]But before I could, Urabe and the other boob-loving students started groping my me.[KeyWait]
+[text]But before I could, Urabe and the other boob-loving students started groping me.[KeyWait]
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
@@ -125,7 +125,7 @@
 [Face storage="f_a039"]
 [Voice storage="a2182" buf=2]
 【Haruka】[CR]
-「[v]Kufuuuuh! Uuuh, a-aah! S-Stop touching me already...! Sto playing with them, everyone... Fuhyahn! Ooh, a-aaah... I-I'm telling you, d-don't... A-Aaah...[/v]」[KeyWait]
+「[v]Kufuuuuh! Uuuh, a-aah! S-Stop touching me already...! Stop playing with them, everyone... Fuhyahn! Ooh, a-aaah... I-I'm telling you, d-don't... A-Aaah...[/v]」[KeyWait]
 [FaceOff]
 
 [text]Being touched without my bra on really did feel totally different.[KeyWait]

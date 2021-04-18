@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='一条宗家襲撃'"]
+[eval exp="f.chaptertitle='Assaulting the Ichijou Main Family'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 

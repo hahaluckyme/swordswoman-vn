@@ -1,6 +1,6 @@
 
 *scene6-05|
-[eval exp="f.chaptertitle='Oni\'s Banquet'"]
+[eval exp="f.chaptertitle='Onis\' Banquet'"]
 
 ;場所：コンビニ倉庫
 ;時間：放課後

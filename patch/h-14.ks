@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='Yume's Forced Titjob'"]
+[eval exp="f.chaptertitle='Yume\'s Forced Titjob'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -22,7 +22,7 @@
 「[v]Don't do anything bad to Kimino-chan and Haruka... I mean, Ryou-chan! I don't care what happens to me, just spare them![/v]」[KeyWait]
 [FaceOff]
 
-[text]Despite her legs also trembling with fear and being ready to pass out at any moment, Yume desperately tried to save Kimino and I.[KeyWait]
+[text]Despite her legs also trembling with fear and being ready to pass out at any moment, Yume desperately tried to save Kimino and me.[KeyWait]
 
 [Face storage="f_a060"]
 [Voice storage="a1571" buf=2]
@@ -48,7 +48,7 @@
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]I guess we'll listen, then. We might just spare those two if do what we say![/i]」[KeyWait]
+「[i]I guess we'll listen, then. We might just spare those two if you do what we say![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
@@ -90,7 +90,7 @@
 「[v]S-Stop... it! D-Don't show Yume that disgusting thiiing![/v]」[KeyWait]
 [FaceOff]
 
-[text]My stomach still hurt really bad from where I was punched, but I mustered upa ll the strength I could and got to my feet and began stumbling over to the oni.[KeyWait]
+[text]My stomach still hurt really bad from where I was punched, but I mustered up all the strength I could and got to my feet and began stumbling over to the oni.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
@@ -136,7 +136,7 @@
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]Oh, it's [ita]real[endita] simple. You just gotta put my big guy right between your tits and shake'em up and down to stroke it![/i]」[KeyWait]
+「[i]Oh, it's [ita]real[endita] simple. You just gotta put my big guy right between your tits and shake 'em up and down to stroke it![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_b016"]
@@ -250,7 +250,7 @@
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]Yeah, just like that. Grab your tits with your hands, stick my dick between'em, and stroke it![/i]」[KeyWait]
+「[i]Yeah, just like that. Grab your tits with your hands, stick my dick between 'em, and stroke it![/i]」[KeyWait]
 [FaceOff]
 
 [text]The oni led her to do what it wanted her to.[KeyWait]

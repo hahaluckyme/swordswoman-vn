@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='セックス実習'"]
+[eval exp="f.chaptertitle='Sex Practice'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -121,7 +121,7 @@
 「[v]U-Uuh... That's because...[/v]」[KeyWait]
 [FaceOff]
 
-[text]I'd been a virgin up until yesterday. Before that, I'd still been a guy. Yet now, I was a loose, slutty girl whose body was welcoming an erect dick into her p ussy.[KeyWait]
+[text]I'd been a virgin up until yesterday. Before that, I'd still been a guy. Yet now, I was a loose, slutty girl whose body was welcoming an erect dick into her pussy.[KeyWait]
 
 [Face storage="f_o031"]
 【Male Student C】[CR]
@@ -477,7 +477,7 @@
 
 [Face storage="f_o011"]
 【Male Student A】[CR]
-「[i]Those two... It's kinda like they're.../i]」[KeyWait]
+「[i]Those two... It's kinda like they're...[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_o021"]

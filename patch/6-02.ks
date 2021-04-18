@@ -702,7 +702,7 @@
 [Face storage="f_a018"]
 [Voice storage="a1513" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]Aah, I had my my virginity taken... even though I'm a guy! I'm being raped... by an oni! Is this going to happen... to Yume, too...!?[/v]Åj[KeyWait]
+Åi[v]Aah, I had my virginity taken... even though I'm a guy! I'm being raped... by an oni! Is this going to happen... to Yume, too...!?[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]An intense pain came over me, like my crotch had been shot through. I felt tormented by a sense of loss - it was totally different than being fucked in the ass.[KeyWait]

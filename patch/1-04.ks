@@ -503,7 +503,7 @@
 [text]Splaaaaaaaash! Squirt, squirt, squuuuuuuirt![KeyWait]
 
 
-[text]My entire body shookÅ@and convulsed as I thrust my hips forward, and I sprayed a torrent of my burning-hot pussy juices everywhere as I climaxed.[KeyWait]
+[text]My entire body shook and convulsed as I thrust my hips forward, and I sprayed a torrent of my burning-hot pussy juices everywhere as I climaxed.[KeyWait]
 
 [ExVoice1 storage="aex12"]
 [Face storage="f_a018"]

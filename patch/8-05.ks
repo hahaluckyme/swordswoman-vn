@@ -19,7 +19,7 @@
 [text]I got excited by my own words, remembering how it felt when I came, causing me to climax again.[KeyWait]
 [text]Cum flowed out of my convulsing pussy lips as I squirted my pee-like juices everywhere again.[KeyWait]
 [text]I couldn't fight it any longer.[KeyWait]
-[text]Rasetsu's cock had done a great job of teaching me how to fell good as a girl. I couldn't resist the pleasure I felt when it filled up my pussy.[KeyWait]
+[text]Rasetsu's cock had done a great job of teaching me how to feel good as a girl. I couldn't resist the pleasure I felt when it filled up my pussy.[KeyWait]
 [text]I'd been waiting for a chance, even a small one, so I might be able to strike back.[KeyWait]
 [text]But I was out of Renki, leaving me unable to use my powers as the Oni-Cutting Princess, and couldn't return to my male body either. I was helpless.[KeyWait]
 [text]The kijin's power had grown from devouring Yume's Renki, making her into a being I had no hope of struggling against.[KeyWait]

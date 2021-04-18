@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='実践・保健体育'"]
+[eval exp="f.chaptertitle='Practice / Gym Class'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 
@@ -75,7 +75,7 @@
 [Face storage="f_a060"]
 [Voice storage="a2216" buf=2]
 【Haruka】[CR]
-（[v]I-If we do this, they're gonna grope me like crazy... I've got no way to know how just what they'll do to me...[/v]）[KeyWait]
+（[v]I-If we do this, they're gonna grope me like crazy... I've got no way to know just what they'll do to me...[/v]）[KeyWait]
 [FaceOff]
 
 [text]I hesitated, unsure what to do, but then...[KeyWait]
@@ -94,7 +94,7 @@
 （[v]I have to show them... even though so many of them are looking so closely...?[/v]）[KeyWait]
 [FaceOff]
 
-[text]My classmates' faces go so close I could feel their breath.[KeyWait]
+[text]My classmates' faces got so close I could feel their breath.[KeyWait]
 [text]I hesitated, resulting in Rasetsu Douji urging me on.[KeyWait]
 
 [Face storage="f_c901"]

@@ -80,7 +80,7 @@
 （[v]I'm... a guy... I-I... absolutely do [ita]not[endita] want to put a dick in my mouth...! I can't do that! No... N-No way...[/v]）[KeyWait]
 [FaceOff]
 
-[text]Just seeing it up close and smelling his dick's odor of rotten fish  was enough to make me want to throw up.[KeyWait]
+[text]Just seeing it up close and smelling his dick's odor of rotten fish was enough to make me want to throw up.[KeyWait]
 
 [Face storage="f_q011"]
 【Delinquent A】[CR]
@@ -310,7 +310,7 @@
 「[v]Mmffh! Hyah! D-Don't, move... Abhhhhh![/v]」[KeyWait]
 [FaceOff]
 
-[text]ぬぶっ、ずぼっ、じゅぷじゅぷ、ぬぶぶっ、ずぷっ、ずぷっ、ずぶぶっ！！[KeyWait]
+[text]Squelch, schwap, schwap schwap, squelch, schwap, schwap, schwap![KeyWait]
 
 [text]The delinquents' leader began thrusting fast and hard, digging his shaft into my mouth.[KeyWait]
 [text]His rough movements pushed his swollen cockhead against my cheek, pushing it outward in his shape.[KeyWait]
@@ -371,7 +371,7 @@
 [Face storage="f_a020"]
 [Voice storage="a1193" buf=3]
 【Haruka】[CR]
-（[v]I... have to hurry up and get th is over with... If this draws on too long... I'm gonna go crazy, too... I have to... hurry up and make him cum...[/v]）[KeyWait]
+（[v]I... have to hurry up and get this over with... If this draws on too long... I'm gonna go crazy, too... I have to... hurry up and make him cum...[/v]）[KeyWait]
 [FaceOff]
 
 [text]Thanks to my experience with my old body, I knew that he'd become less excited right away if he came.[KeyWait]
@@ -390,7 +390,7 @@
 [Face storage="f_a021"]
 [Voice storage="a1195" buf=2]
 【Haruka】[CR]
-「[v] Mgh, hamfh... Mmh, suck... Slurp, suck, suck... Slurp, suck, suck... Mbh, suck, slurp... Mmh, suck, lick... Slurp, mmmmmmfh![/v]」[KeyWait]
+「[v]Mgh, hamfh... Mmh, suck... Slurp, suck, suck... Slurp, suck, suck... Mbh, suck, slurp... Mmh, suck, lick... Slurp, mmmmmmfh![/v]」[KeyWait]
 [FaceOff]
 
 [text]I began proactively sucking on him harder, running my tongue along his dick.[KeyWait]
@@ -729,7 +729,7 @@
 「[v]Hyeh! Fwaah! A-A-A-Aaaah! T-There's sho much cum... Cuuuum! Fwah, ah, haaaah! Mmh, aah, haaaaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]The dicks in my h ands, as well as the countless ones rubbing themselves on my skin, all shot out their semen at once, dying my entire nude form white.[KeyWait]
+[text]The dicks in my hands, as well as the countless ones rubbing themselves on my skin, all shot out their semen at once, dying my entire nude form white.[KeyWait]
 
 [Face storage="f_a020"]
 [Voice storage="a1223" buf=2]

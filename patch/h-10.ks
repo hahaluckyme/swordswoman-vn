@@ -97,7 +97,7 @@
 
 [Face storage="f_o031"]
 ÅyDelinquent EÅz[CR]
-Åu[i]You skirt was so shirt. You wanted to show off from the very beginning, didn't you!?[/i]Åv[KeyWait]
+Åu[i]You skirt was so short. You wanted to show off from the very beginning, didn't you!?[/i]Åv[KeyWait]
 [FaceOff]
 
 [Face storage="f_a059"]

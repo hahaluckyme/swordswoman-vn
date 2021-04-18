@@ -85,7 +85,7 @@
 
 [Face storage="f_g008"]
 ÅyWatanabeÅz[CR]
-Åu[i]What do you think you're doing to my future wife!? Move over and let [ita]me[endita] gonna put it in![/i]Åv[KeyWait]
+Åu[i]What do you think you're doing to my future wife!? Move over and let [ita]me[endita] put it in![/i]Åv[KeyWait]
 [FaceOff]
 
 [text]The other guys backed away, scared by Watanabe's threatening cries. The shock quickly left his face and he regained his composure before he pulled both his pants and boxers down.[KeyWait]
@@ -177,7 +177,7 @@
 [Face storage="f_a058"]
 [Voice storage="a1790" buf=2]
 ÅyHarukaÅz[CR]
-Åu[v]Y-You dumbass! I... I'm Ryou! Ichijou Ryou! I've got a girl's body, but I"m actually a guy, so s-stop... S-Stop it...![/v]Åv[KeyWait]
+Åu[v]Y-You dumbass! I... I'm Ryou! Ichijou Ryou! I've got a girl's body, but I'm actually a guy, so s-stop... S-Stop it...![/v]Åv[KeyWait]
 [FaceOff]
 
 [text]This wasn't the time to keep hiding it.[KeyWait]
@@ -207,7 +207,7 @@
 
 [Face storage="f_g003"]
 ÅyWatanabeÅz[CR]
-Åu[i]You don't need to pretend to be your twin brother just because you're embarassed! Now, then... I'm putting it in, Haruka-san![/i]Åv[KeyWait]
+Åu[i]You don't need to pretend to be your twin brother just because you're embarrassed! Now, then... I'm putting it in, Haruka-san![/i]Åv[KeyWait]
 [FaceOff]
 
 [text]Watanabe didn't stop. He pulled my slender waist toward his crotch.[KeyWait]
@@ -250,7 +250,7 @@
 [Face storage="f_a050"]
 [Voice storage="a1796" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]Are guys... supposed to be... this thick...? Aah, his dick... it's pushing against my walls... and stretching me ouuu! Nfuuhaah![/v]Åj[KeyWait]
+Åi[v]Are guys... supposed to be... this thick...? Aah, his dick... it's pushing against my walls... and stretching me ouuut! Nfuuhaah![/v]Åj[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
@@ -1025,7 +1025,7 @@
 [Face storage="f_a018"]
 [Voice storage="a1853" buf=3]
 ÅyHarukaÅz[CR]
-Åi[v]W-What do I do...? H-He came i nto my womb... so directly... I might... get pregnant, right...? Am I gonna? Am I gonna have Watanabe's baby!? Even though we're both guys!?[/v]Åj[KeyWait]
+Åi[v]W-What do I do...? H-He came into my womb... directly... I might... get pregnant, right...? Am I gonna? Am I gonna have Watanabe's baby!? Even though we're both guys!?[/v]Åj[KeyWait]
 [FaceOff]
 
 [text]The direct assault of cum into my womb made my mind go hazy with pleasure, but then a disgusting possibility crossed my mind.[KeyWait]
@@ -1274,7 +1274,7 @@
 [Face storage="f_c906"]
 [Voice storage="c0254" buf=2]
 ÅyRasetsu DoujiÅz[CR]
-Åu[v]Haaaaah... Kufufu, how pitiful, Ryou - rather, the Ichijou Oni-Cutting Princess. Go on, drown in pleasure and become nothing more than s slutty female.[/v]Åv[KeyWait]
+Åu[v]Haaaaah... Kufufu, how pitiful, Ryou - rather, the Ichijou Oni-Cutting Princess. Go on, drown in pleasure and become nothing more than a slutty female.[/v]Åv[KeyWait]
 [FaceOff]
 
 [text]Realizing that the time where she'd be able to fully utilize her true nature as a kijin, Rasetsu Douji smiled happily at my pathetic state as I writhed with pleasure.[KeyWait]

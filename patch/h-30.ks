@@ -2,7 +2,7 @@
 ;■　回想
 ;■
 
-[eval exp="f.chaptertitle='背徳の甘美'"]
+[eval exp="f.chaptertitle='Sweet Taste of Corruption'"]
 
 ;回想開始　――――――――――――――――――――――――――――――――――――――――――――
 

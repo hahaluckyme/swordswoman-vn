@@ -66,7 +66,7 @@
 「[v]Now, Oni-Cutting Princess. Use your body to urge the Oni-Pleasing Princess to create the best Renki possible.[/v]」[KeyWait]
 [FaceOff]
 
-[text]Rasetsu  flashed a challenging gaze at me as she nuzzled Yume's cheeks. She looked afraid despite her eyes still being closed. Rasetsu then began licking her, sharp fangs peeking out of her lips as she did.[KeyWait]
+[text]Rasetsu flashed a challenging gaze at me as she nuzzled Yume's cheeks. She looked afraid despite her eyes still being closed. Rasetsu then began licking her, sharp fangs peeking out of her lips as she did.[KeyWait]
 
 [Face storage="f_a030"]
 [Voice storage="a1304" buf=2]
@@ -86,7 +86,7 @@
 
 [Face storage="f_r003"]
 【Oni C】[CR]
-「[i]さっきはずいぶんと手荒な真似してくれたじゃねえか。たっぷりと礼させてもらうぜ[/i]」[KeyWait]
+「[i]You were pretty rough with us earlier, huh? We're gonna repay you for that![/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_a045"]
@@ -272,7 +272,7 @@
 「[v]Nhoooh! Hyiiii! Kufuuuuuuuuh, aaahaaaaaah![/v]」[KeyWait]
 [FaceOff]
 
-[text]自分の指で触る刺激など比べものにならない。[KeyWait]
+[text]Rubbing myself with my finger didn't even compare to this.[KeyWait]
 
 ;a1320
 ;[ExVoice1 storage="aex53"]
@@ -412,7 +412,7 @@
 （[v]Aah, no, this is...[/v]）[KeyWait]
 [FaceOff]
 
-[text]I wrapped my legs around the oni's neck as it ran its tongue along my groin, lifting my h ips up as if to beg for more.[KeyWait]
+[text]I wrapped my legs around the oni's neck as it ran its tongue along my groin, lifting my hips up as if to beg for more.[KeyWait]
 
 [Face storage="f_r001"]
 【Oni A】[CR]
@@ -421,7 +421,7 @@
 
 [Sound storage="se141" buf=1]
 
-[text]Suck, slurp, sluuuuuuurp, squeeeeelch!ち[KeyWait]
+[text]Suck, slurp, sluuuuuuurp, squeeeeelch![KeyWait]
 
 ;イベント絵表示
 [CgSet storage="EV601b"]
@@ -470,7 +470,7 @@
 
 [Face storage="f_r004"]
 【Oni D】[CR]
-「[i]You want us to grope'em so badly you're cryin'?[/i]」[KeyWait]
+「[i]You want us to grope 'em so badly you're cryin'?[/i]」[KeyWait]
 [FaceOff]
 
 [Face storage="f_r001"]
@@ -552,7 +552,7 @@
 [Face storage="f_a050"]
 [Voice storage="a1341" buf=3]
 【Haruka】[CR]
-（[v]Fweeaah... Their fingers... are digging into, my boobs... Kufwah! It's like, my body's cells, are scatteriiing... I-I can't... take t his, hwaah, haaaaaaaaahn![/v]）[KeyWait]
+（[v]Fweeaah... Their fingers... are digging into, my boobs... Kufwah! It's like, my body's cells, are scatteriiing... I-I can't... take this, hwaah, haaaaaaaaahn![/v]）[KeyWait]
 [FaceOff]
 
 [ExVoice1 storage="aex41"]
@@ -821,7 +821,7 @@
 [Face storage="f_a050"]
 [Voice storage="a1362" buf=3]
 【Haruka】[CR]
-（[v]Huh...? But their dicks tasted... so weird... They made me suck them... I hated it... but... They're so big and hard...[/v]）[KeyWait]
+（[v]Huh...? But their dicks tasted... so weird... They made me suck on one earlier... I hated it... but... They're so big and hard...[/v]）[KeyWait]
 [FaceOff]
 
 [Face storage="f_a050"]
@@ -915,7 +915,7 @@
 ;[ExVoice1 storage="aex57"]
 ;「はあぁっ……んっ、くうんっ！　ふあぁああ……はっ、はあぁん……あはあっ、はんっ、くふうぅ……っ……ん、うぅん……はぁ……あっ、んひゃあ、んんぅ……はあぁ、はぁ、あああぁん……」
 
-[text]抑えきれず熱い吐息が漏れ、目は潤み、視線が泳ぐ。[KeyWait]
+[text]I was unable to stop myself from panting. My eyes teared up and started to dart around.[KeyWait]
 
 [Face storage="f_r002"]
 【Oni B】[CR]
@@ -1159,7 +1159,7 @@
 [text]Schwap, schwap, schwap![KeyWait]
 
 [text]My anus's folds were doing their best to shut as always, but the mixture of my rectum's moisture along with the wetness from my pussy both made the foreign object's intrusion a smooth one.[KeyWait]
-[text]The oni's thick finger further into me, passing its first joint, second join, and then finally all the way to its base.[KeyWait]
+[text]The oni's thick finger further into me, passing its first joint, second joint, and then finally all the way to its base.[KeyWait]
 
 [Sound storage="se157" buf=1]
 
@@ -1701,7 +1701,7 @@
 
 [Face storage="f_r001"]
 【Oni A】[CR]
-「[i]when you suck her juices up, she gets tighter over here![/i]」[KeyWait]
+「[i]When you suck her juices up, she gets tighter over here![/i]」[KeyWait]
 [FaceOff]
 
 [text]The gaki's tongues licked my pussy, waging war over who got to lap up my juices, and the two fingers continued roughly stirring up my wriggling rectum.[KeyWait]
@@ -1799,7 +1799,7 @@
 （[v]What...? No, a-aah! It's coming ! It's coming! H-Hyi, aaaaaah, noo, nooooo![/v]）[KeyWait]
 [FaceOff]
 
-[text]A tsunami of pleasure hit me, spreading throughout my whole body in an instant, stretching my brain's capacities to their limit.[KeyWait]
+[text]A tsunami of pleasure hit me, spreading throughout my whole body in an instant, stretching my brain's capacity to its limit.[KeyWait]
 
 [extasyF]
 
