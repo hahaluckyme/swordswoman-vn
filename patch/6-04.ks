@@ -977,7 +977,7 @@
 u[i]So I'm gonna take the place of your dickless Ryou-chan and satisfy you instead![/i]v[KeyWait]
 [FaceOff]
 
-[text]Šì‰x‚Ìº‚ğk‚í‚¹‚ÄA‹S‚ªŒ‹—‚ğˆø‚«Šñ‚¹‚È‚ª‚çŒÒŠÔ‚ğ“Ë‚«ã‚°‚éB[KeyWait]
+[text]Yume's voice quivered as the oni pulled her toward him and began thrusting into her.[KeyWait]
 
 [Sound storage="se158" buf=1]
 
